@@ -506,7 +506,7 @@
     "logo_ext": "https://crests.football-data.org/104.png",
     "lambda_dom": 1.78,
     "lambda_ext": 0.71,
-    "p1": 0.635,
+    "p1": 0.634,
     "pN": 0.217,
     "p2": 0.148,
     "score_probable": "1-0"
@@ -1530,7 +1530,7 @@
     "logo_ext": "https://crests.football-data.org/454.png",
     "lambda_dom": 1.67,
     "lambda_ext": 0.94,
-    "p1": 0.549,
+    "p1": 0.548,
     "pN": 0.234,
     "p2": 0.217,
     "score_probable": "1-0"
@@ -1930,7 +1930,7 @@
     "logo_ext": "https://crests.football-data.org/103.png",
     "lambda_dom": 1.24,
     "lambda_ext": 1.18,
-    "p1": 0.384,
+    "p1": 0.383,
     "pN": 0.265,
     "p2": 0.352,
     "score_probable": "1-1"
@@ -2139,7 +2139,7 @@
     "lambda_dom": 1.28,
     "lambda_ext": 1.58,
     "p1": 0.316,
-    "pN": 0.237,
+    "pN": 0.238,
     "p2": 0.447,
     "score_probable": "1-1"
   },
@@ -2378,9 +2378,9 @@
     "logo_ext": "https://crests.football-data.org/470.png",
     "lambda_dom": 1.11,
     "lambda_ext": 1.71,
-    "p1": 0.25,
+    "p1": 0.251,
     "pN": 0.23,
-    "p2": 0.52,
+    "p2": 0.519,
     "score_probable": "1-1"
   },
   {
@@ -2457,7 +2457,7 @@
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "lambda_dom": 1.29,
-    "lambda_ext": 1.43,
+    "lambda_ext": 1.42,
     "p1": 0.347,
     "pN": 0.247,
     "p2": 0.407,
@@ -2696,9 +2696,9 @@
     "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/454.png",
-    "lambda_dom": 1.8,
+    "lambda_dom": 1.79,
     "lambda_ext": 0.8,
-    "p1": 0.614,
+    "p1": 0.613,
     "pN": 0.219,
     "p2": 0.168,
     "score_probable": "1-0"
@@ -2762,7 +2762,7 @@
     "logo_ext": "https://crests.football-data.org/5911.png",
     "lambda_dom": 2.42,
     "lambda_ext": 0.81,
-    "p1": 0.732,
+    "p1": 0.731,
     "pN": 0.159,
     "p2": 0.11,
     "score_probable": "2-0"
@@ -2796,7 +2796,7 @@
     "lambda_ext": 1.48,
     "p1": 0.31,
     "pN": 0.247,
-    "p2": 0.443,
+    "p2": 0.442,
     "score_probable": "1-1"
   },
   {
@@ -3372,7 +3372,7 @@
     "lambda_ext": 2.43,
     "p1": 0.174,
     "pN": 0.175,
-    "p2": 0.651,
+    "p2": 0.65,
     "score_probable": "1-2"
   },
   {
@@ -3480,7 +3480,7 @@
     "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/454.png",
-    "lambda_dom": 1.73,
+    "lambda_dom": 1.72,
     "lambda_ext": 1.1,
     "p1": 0.524,
     "pN": 0.229,
@@ -3532,7 +3532,7 @@
     "lambda_ext": 1.39,
     "p1": 0.275,
     "pN": 0.261,
-    "p2": 0.464,
+    "p2": 0.463,
     "score_probable": "0-1"
   },
   {
@@ -3787,7 +3787,7 @@
     "lambda_dom": 1.2,
     "lambda_ext": 1.54,
     "p1": 0.303,
-    "pN": 0.242,
+    "pN": 0.243,
     "p2": 0.454,
     "score_probable": "1-1"
   },
@@ -4732,7 +4732,7 @@
     "lambda_ext": 2.39,
     "p1": 0.104,
     "pN": 0.158,
-    "p2": 0.738,
+    "p2": 0.737,
     "score_probable": "0-2"
   },
   {

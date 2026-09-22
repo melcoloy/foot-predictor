@@ -219,7 +219,7 @@
     "lambda_dom": 1.31,
     "lambda_ext": 2.0,
     "p1": 0.246,
-    "pN": 0.225,
+    "pN": 0.224,
     "p2": 0.529,
     "score_probable": "1-1"
   },
@@ -298,7 +298,7 @@
     "logo_ext": "https://crests.football-data.org/559.png",
     "lambda_dom": 2.55,
     "lambda_ext": 0.78,
-    "p1": 0.752,
+    "p1": 0.753,
     "pN": 0.158,
     "p2": 0.09,
     "score_probable": "2-0"
@@ -336,23 +336,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
-    "journee": 10,
-    "dom": "Rayo Vallecano de Madrid",
-    "ext": "Elche CF",
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Elche",
-    "logo_dom": "https://crests.football-data.org/87.png",
-    "logo_ext": "https://crests.football-data.org/285.png",
-    "lambda_dom": 1.7,
-    "lambda_ext": 1.12,
-    "p1": 0.506,
-    "pN": 0.249,
-    "p2": 0.245,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-23T19:00:00Z",
     "journee": 10,
     "dom": "Deportivo Alavés",
     "ext": "Málaga CF",
@@ -368,39 +352,39 @@
     "score_probable": "1-0"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-24T12:00:00Z",
     "journee": 10,
-    "dom": "Athletic Club",
-    "ext": "Getafe CF",
-    "court_dom": "Athletic",
-    "court_ext": "Getafe",
-    "logo_dom": "https://crests.football-data.org/77.png",
-    "logo_ext": "https://crests.football-data.org/82.png",
-    "lambda_dom": 1.01,
-    "lambda_ext": 0.69,
-    "p1": 0.416,
-    "pN": 0.346,
-    "p2": 0.238,
-    "score_probable": "0-0"
-  },
-  {
-    "date": "2026-10-25T00:00:00Z",
-    "journee": 10,
-    "dom": "Sevilla FC",
-    "ext": "CA Osasuna",
-    "court_dom": "Sevilla FC",
-    "court_ext": "Osasuna",
-    "logo_dom": "https://crests.football-data.org/559.png",
-    "logo_ext": "https://crests.football-data.org/79.png",
-    "lambda_dom": 1.56,
-    "lambda_ext": 1.01,
-    "p1": 0.496,
-    "pN": 0.264,
-    "p2": 0.24,
+    "dom": "Rayo Vallecano de Madrid",
+    "ext": "Elche CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Elche",
+    "logo_dom": "https://crests.football-data.org/87.png",
+    "logo_ext": "https://crests.football-data.org/285.png",
+    "lambda_dom": 1.7,
+    "lambda_ext": 1.12,
+    "p1": 0.506,
+    "pN": 0.249,
+    "p2": 0.245,
     "score_probable": "1-1"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-24T14:15:00Z",
+    "journee": 10,
+    "dom": "Real Racing Club de Santander",
+    "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Santander",
+    "court_ext": "Espanyol",
+    "logo_dom": "https://crests.football-data.org/5335.png",
+    "logo_ext": "https://crests.football-data.org/80.png",
+    "lambda_dom": 1.56,
+    "lambda_ext": 1.48,
+    "p1": 0.393,
+    "pN": 0.25,
+    "p2": 0.357,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-10-24T16:30:00Z",
     "journee": 10,
     "dom": "Valencia CF",
     "ext": "Villarreal CF",
@@ -416,23 +400,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
-    "journee": 10,
-    "dom": "FC Barcelona",
-    "ext": "Real Madrid CF",
-    "court_dom": "Barça",
-    "court_ext": "Real Madrid",
-    "logo_dom": "https://crests.football-data.org/81.png",
-    "logo_ext": "https://crests.football-data.org/86.png",
-    "lambda_dom": 2.36,
-    "lambda_ext": 1.29,
-    "p1": 0.609,
-    "pN": 0.196,
-    "p2": 0.195,
-    "score_probable": "2-1"
-  },
-  {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-24T19:00:00Z",
     "journee": 10,
     "dom": "Club Atlético de Madrid",
     "ext": "RC Deportivo La Coruña",
@@ -448,7 +416,23 @@
     "score_probable": "2-0"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-25T13:00:00Z",
+    "journee": 10,
+    "dom": "Athletic Club",
+    "ext": "Getafe CF",
+    "court_dom": "Athletic",
+    "court_ext": "Getafe",
+    "logo_dom": "https://crests.football-data.org/77.png",
+    "logo_ext": "https://crests.football-data.org/82.png",
+    "lambda_dom": 1.01,
+    "lambda_ext": 0.69,
+    "p1": 0.416,
+    "pN": 0.346,
+    "p2": 0.238,
+    "score_probable": "0-0"
+  },
+  {
+    "date": "2026-10-25T15:15:00Z",
     "journee": 10,
     "dom": "RC Celta de Vigo",
     "ext": "Real Betis Balompié",
@@ -464,7 +448,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "journee": 10,
     "dom": "Real Sociedad de Fútbol",
     "ext": "Levante UD",
@@ -480,19 +464,35 @@
     "score_probable": "2-1"
   },
   {
-    "date": "2026-10-25T00:00:00Z",
+    "date": "2026-10-25T20:00:00Z",
     "journee": 10,
-    "dom": "Real Racing Club de Santander",
-    "ext": "RCD Espanyol de Barcelona",
-    "court_dom": "Santander",
-    "court_ext": "Espanyol",
-    "logo_dom": "https://crests.football-data.org/5335.png",
-    "logo_ext": "https://crests.football-data.org/80.png",
+    "dom": "FC Barcelona",
+    "ext": "Real Madrid CF",
+    "court_dom": "Barça",
+    "court_ext": "Real Madrid",
+    "logo_dom": "https://crests.football-data.org/81.png",
+    "logo_ext": "https://crests.football-data.org/86.png",
+    "lambda_dom": 2.36,
+    "lambda_ext": 1.29,
+    "p1": 0.609,
+    "pN": 0.196,
+    "p2": 0.195,
+    "score_probable": "2-1"
+  },
+  {
+    "date": "2026-10-26T20:00:00Z",
+    "journee": 10,
+    "dom": "Sevilla FC",
+    "ext": "CA Osasuna",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Osasuna",
+    "logo_dom": "https://crests.football-data.org/559.png",
+    "logo_ext": "https://crests.football-data.org/79.png",
     "lambda_dom": 1.56,
-    "lambda_ext": 1.48,
-    "p1": 0.393,
-    "pN": 0.25,
-    "p2": 0.357,
+    "lambda_ext": 1.01,
+    "p1": 0.496,
+    "pN": 0.264,
+    "p2": 0.24,
     "score_probable": "1-1"
   },
   {
@@ -619,7 +619,7 @@
     "lambda_dom": 1.0,
     "lambda_ext": 0.77,
     "p1": 0.394,
-    "pN": 0.34,
+    "pN": 0.339,
     "p2": 0.266,
     "score_probable": "0-0"
   },
@@ -1081,7 +1081,7 @@
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "lambda_dom": 1.92,
-    "lambda_ext": 1.24,
+    "lambda_ext": 1.25,
     "p1": 0.526,
     "pN": 0.231,
     "p2": 0.243,
@@ -1338,7 +1338,7 @@
     "logo_ext": "https://crests.football-data.org/79.png",
     "lambda_dom": 2.56,
     "lambda_ext": 0.71,
-    "p1": 0.77,
+    "p1": 0.771,
     "pN": 0.151,
     "p2": 0.078,
     "score_probable": "2-0"
@@ -1532,7 +1532,7 @@
     "lambda_ext": 1.64,
     "p1": 0.303,
     "pN": 0.251,
-    "p2": 0.445,
+    "p2": 0.446,
     "score_probable": "1-1"
   },
   {
@@ -1916,7 +1916,7 @@
     "lambda_ext": 1.31,
     "p1": 0.339,
     "pN": 0.279,
-    "p2": 0.382,
+    "p2": 0.383,
     "score_probable": "1-1"
   },
   {
@@ -1964,7 +1964,7 @@
     "lambda_ext": 0.87,
     "p1": 0.877,
     "pN": 0.081,
-    "p2": 0.042,
+    "p2": 0.043,
     "score_probable": "3-0"
   },
   {
@@ -2043,7 +2043,7 @@
     "lambda_dom": 0.96,
     "lambda_ext": 0.72,
     "p1": 0.39,
-    "pN": 0.351,
+    "pN": 0.35,
     "p2": 0.259,
     "score_probable": "0-0"
   },
@@ -2140,7 +2140,7 @@
     "lambda_ext": 1.12,
     "p1": 0.43,
     "pN": 0.276,
-    "p2": 0.294,
+    "p2": 0.295,
     "score_probable": "1-1"
   },
   {
@@ -2488,7 +2488,7 @@
     "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/87.png",
-    "lambda_dom": 1.34,
+    "lambda_dom": 1.35,
     "lambda_ext": 1.07,
     "p1": 0.425,
     "pN": 0.283,
@@ -2604,7 +2604,7 @@
     "lambda_ext": 1.53,
     "p1": 0.278,
     "pN": 0.264,
-    "p2": 0.458,
+    "p2": 0.459,
     "score_probable": "1-1"
   },
   {
@@ -3115,7 +3115,7 @@
     "lambda_dom": 1.52,
     "lambda_ext": 0.93,
     "p1": 0.508,
-    "pN": 0.269,
+    "pN": 0.268,
     "p2": 0.224,
     "score_probable": "1-1"
   },
@@ -3163,7 +3163,7 @@
     "lambda_dom": 1.59,
     "lambda_ext": 1.7,
     "p1": 0.357,
-    "pN": 0.239,
+    "pN": 0.238,
     "p2": 0.405,
     "score_probable": "1-1"
   },
@@ -3196,7 +3196,7 @@
     "lambda_ext": 0.74,
     "p1": 0.409,
     "pN": 0.338,
-    "p2": 0.252,
+    "p2": 0.253,
     "score_probable": "0-0"
   },
   {
@@ -3401,7 +3401,7 @@
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "lambda_dom": 1.75,
-    "lambda_ext": 1.22,
+    "lambda_ext": 1.23,
     "p1": 0.491,
     "pN": 0.245,
     "p2": 0.264,
@@ -3545,7 +3545,7 @@
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "lambda_dom": 1.49,
-    "lambda_ext": 1.18,
+    "lambda_ext": 1.19,
     "p1": 0.437,
     "pN": 0.266,
     "p2": 0.297,
@@ -3737,7 +3737,7 @@
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "lambda_dom": 2.16,
-    "lambda_ext": 0.97,
+    "lambda_ext": 0.98,
     "p1": 0.641,
     "pN": 0.204,
     "p2": 0.156,
@@ -3756,7 +3756,7 @@
     "lambda_ext": 1.27,
     "p1": 0.371,
     "pN": 0.276,
-    "p2": 0.352,
+    "p2": 0.353,
     "score_probable": "1-1"
   },
   {
@@ -4090,7 +4090,7 @@
     "logo_ext": "https://crests.football-data.org/285.png",
     "lambda_dom": 2.86,
     "lambda_ext": 0.86,
-    "p1": 0.781,
+    "p1": 0.782,
     "pN": 0.137,
     "p2": 0.081,
     "score_probable": "2-0"
@@ -4172,7 +4172,7 @@
     "lambda_ext": 1.35,
     "p1": 0.44,
     "pN": 0.25,
-    "p2": 0.31,
+    "p2": 0.311,
     "score_probable": "1-1"
   },
   {
@@ -4713,7 +4713,7 @@
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "lambda_dom": 2.28,
-    "lambda_ext": 0.94,
+    "lambda_ext": 0.95,
     "p1": 0.671,
     "pN": 0.191,
     "p2": 0.138,
@@ -4939,7 +4939,7 @@
     "lambda_dom": 1.4,
     "lambda_ext": 1.11,
     "p1": 0.429,
-    "pN": 0.277,
+    "pN": 0.276,
     "p2": 0.294,
     "score_probable": "1-1"
   },

@@ -106,7 +106,7 @@
     "logo_ext": "https://crests.football-data.org/62.png",
     "lambda_dom": 1.11,
     "lambda_ext": 1.08,
-    "p1": 0.345,
+    "p1": 0.344,
     "pN": 0.33,
     "p2": 0.326,
     "score_probable": "1-1"
@@ -556,7 +556,7 @@
     "lambda_ext": 1.04,
     "p1": 0.476,
     "pN": 0.287,
-    "p2": 0.236,
+    "p2": 0.237,
     "score_probable": "1-1"
   },
   {
@@ -640,6 +640,38 @@
     "score_probable": "1-1"
   },
   {
+    "date": "2026-11-06T20:00:00Z",
+    "journee": 10,
+    "dom": "Everton FC",
+    "ext": "Coventry City FC",
+    "court_dom": "Everton",
+    "court_ext": "Coventry City",
+    "logo_dom": "https://crests.football-data.org/62.png",
+    "logo_ext": "https://crests.football-data.org/1076.png",
+    "lambda_dom": 1.56,
+    "lambda_ext": 0.78,
+    "p1": 0.542,
+    "pN": 0.288,
+    "p2": 0.17,
+    "score_probable": "1-0"
+  },
+  {
+    "date": "2026-11-07T12:30:00Z",
+    "journee": 10,
+    "dom": "Leeds United FC",
+    "ext": "Tottenham Hotspur FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Tottenham",
+    "logo_dom": "https://crests.football-data.org/341.png",
+    "logo_ext": "https://crests.football-data.org/73.png",
+    "lambda_dom": 1.59,
+    "lambda_ext": 0.95,
+    "p1": 0.508,
+    "pN": 0.284,
+    "p2": 0.208,
+    "score_probable": "1-1"
+  },
+  {
     "date": "2026-11-07T15:00:00Z",
     "journee": 10,
     "dom": "Arsenal FC",
@@ -658,38 +690,6 @@
   {
     "date": "2026-11-07T15:00:00Z",
     "journee": 10,
-    "dom": "Nottingham Forest FC",
-    "ext": "Manchester City FC",
-    "court_dom": "Nottingham",
-    "court_ext": "Man City",
-    "logo_dom": "https://crests.football-data.org/351.png",
-    "logo_ext": "https://crests.football-data.org/65.png",
-    "lambda_dom": 0.96,
-    "lambda_ext": 1.68,
-    "p1": 0.199,
-    "pN": 0.275,
-    "p2": 0.526,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-07T15:00:00Z",
-    "journee": 10,
-    "dom": "Leeds United FC",
-    "ext": "Tottenham Hotspur FC",
-    "court_dom": "Leeds United",
-    "court_ext": "Tottenham",
-    "logo_dom": "https://crests.football-data.org/341.png",
-    "logo_ext": "https://crests.football-data.org/73.png",
-    "lambda_dom": 1.59,
-    "lambda_ext": 0.95,
-    "p1": 0.508,
-    "pN": 0.284,
-    "p2": 0.208,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-07T15:00:00Z",
-    "journee": 10,
     "dom": "Fulham FC",
     "ext": "Newcastle United FC",
     "court_dom": "Fulham",
@@ -704,23 +704,23 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-07T15:00:00Z",
+    "date": "2026-11-07T17:30:00Z",
     "journee": 10,
-    "dom": "Everton FC",
-    "ext": "Coventry City FC",
-    "court_dom": "Everton",
-    "court_ext": "Coventry City",
-    "logo_dom": "https://crests.football-data.org/62.png",
-    "logo_ext": "https://crests.football-data.org/1076.png",
-    "lambda_dom": 1.56,
-    "lambda_ext": 0.78,
-    "p1": 0.542,
-    "pN": 0.288,
-    "p2": 0.17,
-    "score_probable": "1-0"
+    "dom": "Nottingham Forest FC",
+    "ext": "Manchester City FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Man City",
+    "logo_dom": "https://crests.football-data.org/351.png",
+    "logo_ext": "https://crests.football-data.org/65.png",
+    "lambda_dom": 0.96,
+    "lambda_ext": 1.68,
+    "p1": 0.199,
+    "pN": 0.275,
+    "p2": 0.526,
+    "score_probable": "1-1"
   },
   {
-    "date": "2026-11-07T15:00:00Z",
+    "date": "2026-11-08T14:00:00Z",
     "journee": 10,
     "dom": "Crystal Palace FC",
     "ext": "Liverpool FC",
@@ -736,7 +736,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-07T15:00:00Z",
+    "date": "2026-11-08T14:00:00Z",
     "journee": 10,
     "dom": "Sunderland AFC",
     "ext": "Chelsea FC",
@@ -752,7 +752,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-07T15:00:00Z",
+    "date": "2026-11-08T14:00:00Z",
     "journee": 10,
     "dom": "Ipswich Town FC",
     "ext": "AFC Bournemouth",
@@ -768,7 +768,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-07T15:00:00Z",
+    "date": "2026-11-08T14:00:00Z",
     "journee": 10,
     "dom": "Brighton & Hove Albion FC",
     "ext": "Brentford FC",
@@ -784,7 +784,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-07T15:00:00Z",
+    "date": "2026-11-08T16:30:00Z",
     "journee": 10,
     "dom": "Manchester United FC",
     "ext": "Aston Villa FC",
@@ -798,6 +798,22 @@
     "pN": 0.246,
     "p2": 0.224,
     "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-21T12:30:00Z",
+    "journee": 11,
+    "dom": "Manchester City FC",
+    "ext": "Fulham FC",
+    "court_dom": "Man City",
+    "court_ext": "Fulham",
+    "logo_dom": "https://crests.football-data.org/65.png",
+    "logo_ext": "https://crests.football-data.org/63.png",
+    "lambda_dom": 2.15,
+    "lambda_ext": 0.76,
+    "p1": 0.681,
+    "pN": 0.212,
+    "p2": 0.107,
+    "score_probable": "2-0"
   },
   {
     "date": "2026-11-21T15:00:00Z",
@@ -818,22 +834,6 @@
   {
     "date": "2026-11-21T15:00:00Z",
     "journee": 11,
-    "dom": "Manchester City FC",
-    "ext": "Fulham FC",
-    "court_dom": "Man City",
-    "court_ext": "Fulham",
-    "logo_dom": "https://crests.football-data.org/65.png",
-    "logo_ext": "https://crests.football-data.org/63.png",
-    "lambda_dom": 2.15,
-    "lambda_ext": 0.76,
-    "p1": 0.681,
-    "pN": 0.212,
-    "p2": 0.107,
-    "score_probable": "2-0"
-  },
-  {
-    "date": "2026-11-21T15:00:00Z",
-    "journee": 11,
     "dom": "Aston Villa FC",
     "ext": "Sunderland AFC",
     "court_dom": "Aston Villa",
@@ -845,38 +845,6 @@
     "p1": 0.461,
     "pN": 0.289,
     "p2": 0.25,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-21T15:00:00Z",
-    "journee": 11,
-    "dom": "Liverpool FC",
-    "ext": "Manchester United FC",
-    "court_dom": "Liverpool",
-    "court_ext": "Man United",
-    "logo_dom": "https://crests.football-data.org/64.png",
-    "logo_ext": "https://crests.football-data.org/66.png",
-    "lambda_dom": 1.7,
-    "lambda_ext": 1.5,
-    "p1": 0.412,
-    "pN": 0.262,
-    "p2": 0.326,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-21T15:00:00Z",
-    "journee": 11,
-    "dom": "Hull City AFC",
-    "ext": "Brighton & Hove Albion FC",
-    "court_dom": "Hull City",
-    "court_ext": "Brighton Hove",
-    "logo_dom": "https://crests.football-data.org/322.png",
-    "logo_ext": "https://crests.football-data.org/397.png",
-    "lambda_dom": 1.08,
-    "lambda_ext": 1.43,
-    "p1": 0.268,
-    "pN": 0.3,
-    "p2": 0.432,
     "score_probable": "1-1"
   },
   {
@@ -914,22 +882,6 @@
   {
     "date": "2026-11-21T15:00:00Z",
     "journee": 11,
-    "dom": "Brentford FC",
-    "ext": "Everton FC",
-    "court_dom": "Brentford",
-    "court_ext": "Everton",
-    "logo_dom": "https://crests.football-data.org/402.png",
-    "logo_ext": "https://crests.football-data.org/62.png",
-    "lambda_dom": 1.48,
-    "lambda_ext": 1.03,
-    "p1": 0.458,
-    "pN": 0.296,
-    "p2": 0.247,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-21T15:00:00Z",
-    "journee": 11,
     "dom": "Coventry City FC",
     "ext": "Crystal Palace FC",
     "court_dom": "Coventry City",
@@ -944,7 +896,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-21T15:00:00Z",
+    "date": "2026-11-21T17:30:00Z",
     "journee": 11,
     "dom": "Newcastle United FC",
     "ext": "Arsenal FC",
@@ -957,6 +909,70 @@
     "p1": 0.186,
     "pN": 0.268,
     "p2": 0.546,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-22T14:00:00Z",
+    "journee": 11,
+    "dom": "Hull City AFC",
+    "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Hull City",
+    "court_ext": "Brighton Hove",
+    "logo_dom": "https://crests.football-data.org/322.png",
+    "logo_ext": "https://crests.football-data.org/397.png",
+    "lambda_dom": 1.08,
+    "lambda_ext": 1.43,
+    "p1": 0.268,
+    "pN": 0.3,
+    "p2": 0.432,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-22T16:30:00Z",
+    "journee": 11,
+    "dom": "Liverpool FC",
+    "ext": "Manchester United FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Man United",
+    "logo_dom": "https://crests.football-data.org/64.png",
+    "logo_ext": "https://crests.football-data.org/66.png",
+    "lambda_dom": 1.7,
+    "lambda_ext": 1.5,
+    "p1": 0.412,
+    "pN": 0.262,
+    "p2": 0.326,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-23T20:00:00Z",
+    "journee": 11,
+    "dom": "Brentford FC",
+    "ext": "Everton FC",
+    "court_dom": "Brentford",
+    "court_ext": "Everton",
+    "logo_dom": "https://crests.football-data.org/402.png",
+    "logo_ext": "https://crests.football-data.org/62.png",
+    "lambda_dom": 1.48,
+    "lambda_ext": 1.03,
+    "p1": 0.458,
+    "pN": 0.296,
+    "p2": 0.247,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-27T20:00:00Z",
+    "journee": 12,
+    "dom": "Nottingham Forest FC",
+    "ext": "Chelsea FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Chelsea",
+    "logo_dom": "https://crests.football-data.org/351.png",
+    "logo_ext": "https://crests.football-data.org/61.png",
+    "lambda_dom": 1.51,
+    "lambda_ext": 1.32,
+    "p1": 0.401,
+    "pN": 0.283,
+    "p2": 0.316,
     "score_probable": "1-1"
   },
   {
@@ -978,38 +994,6 @@
   {
     "date": "2026-11-28T15:00:00Z",
     "journee": 12,
-    "dom": "Ipswich Town FC",
-    "ext": "Aston Villa FC",
-    "court_dom": "Ipswich Town",
-    "court_ext": "Aston Villa",
-    "logo_dom": "https://crests.football-data.org/349.png",
-    "logo_ext": "https://crests.football-data.org/58.png",
-    "lambda_dom": 1.33,
-    "lambda_ext": 1.59,
-    "p1": 0.304,
-    "pN": 0.277,
-    "p2": 0.419,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-28T15:00:00Z",
-    "journee": 12,
-    "dom": "Arsenal FC",
-    "ext": "Manchester City FC",
-    "court_dom": "Arsenal",
-    "court_ext": "Man City",
-    "logo_dom": "https://crests.football-data.org/57.png",
-    "logo_ext": "https://crests.football-data.org/65.png",
-    "lambda_dom": 1.36,
-    "lambda_ext": 1.05,
-    "p1": 0.422,
-    "pN": 0.308,
-    "p2": 0.27,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-28T15:00:00Z",
-    "journee": 12,
     "dom": "Manchester United FC",
     "ext": "Brentford FC",
     "court_dom": "Man United",
@@ -1024,7 +1008,23 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-28T15:00:00Z",
+    "date": "2026-11-28T17:30:00Z",
+    "journee": 12,
+    "dom": "Ipswich Town FC",
+    "ext": "Aston Villa FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Aston Villa",
+    "logo_dom": "https://crests.football-data.org/349.png",
+    "logo_ext": "https://crests.football-data.org/58.png",
+    "lambda_dom": 1.33,
+    "lambda_ext": 1.59,
+    "p1": 0.304,
+    "pN": 0.277,
+    "p2": 0.419,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-29T12:00:00Z",
     "journee": 12,
     "dom": "Everton FC",
     "ext": "Liverpool FC",
@@ -1040,7 +1040,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-28T15:00:00Z",
+    "date": "2026-11-29T14:05:00Z",
     "journee": 12,
     "dom": "Fulham FC",
     "ext": "AFC Bournemouth",
@@ -1056,23 +1056,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-28T15:00:00Z",
-    "journee": 12,
-    "dom": "Nottingham Forest FC",
-    "ext": "Chelsea FC",
-    "court_dom": "Nottingham",
-    "court_ext": "Chelsea",
-    "logo_dom": "https://crests.football-data.org/351.png",
-    "logo_ext": "https://crests.football-data.org/61.png",
-    "lambda_dom": 1.51,
-    "lambda_ext": 1.32,
-    "p1": 0.401,
-    "pN": 0.283,
-    "p2": 0.316,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-28T15:00:00Z",
+    "date": "2026-11-29T14:05:00Z",
     "journee": 12,
     "dom": "Brighton & Hove Albion FC",
     "ext": "Newcastle United FC",
@@ -1088,7 +1072,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-28T15:00:00Z",
+    "date": "2026-11-29T14:05:00Z",
     "journee": 12,
     "dom": "Sunderland AFC",
     "ext": "Tottenham Hotspur FC",
@@ -1104,7 +1088,7 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-11-28T15:00:00Z",
+    "date": "2026-11-29T14:05:00Z",
     "journee": 12,
     "dom": "Crystal Palace FC",
     "ext": "Hull City AFC",
@@ -1117,6 +1101,22 @@
     "p1": 0.369,
     "pN": 0.316,
     "p2": 0.315,
+    "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-29T16:30:00Z",
+    "journee": 12,
+    "dom": "Arsenal FC",
+    "ext": "Manchester City FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Man City",
+    "logo_dom": "https://crests.football-data.org/57.png",
+    "logo_ext": "https://crests.football-data.org/65.png",
+    "lambda_dom": 1.36,
+    "lambda_ext": 1.05,
+    "p1": 0.422,
+    "pN": 0.308,
+    "p2": 0.27,
     "score_probable": "1-1"
   },
   {
@@ -1642,7 +1642,7 @@
     "logo_ext": "https://crests.football-data.org/62.png",
     "lambda_dom": 1.19,
     "lambda_ext": 1.02,
-    "p1": 0.379,
+    "p1": 0.38,
     "pN": 0.326,
     "p2": 0.295,
     "score_probable": "1-1"
@@ -1884,7 +1884,7 @@
     "lambda_ext": 1.65,
     "p1": 0.262,
     "pN": 0.275,
-    "p2": 0.463,
+    "p2": 0.462,
     "score_probable": "1-1"
   },
   {
@@ -1931,7 +1931,7 @@
     "lambda_dom": 1.17,
     "lambda_ext": 1.16,
     "p1": 0.344,
-    "pN": 0.319,
+    "pN": 0.318,
     "p2": 0.338,
     "score_probable": "1-1"
   },
@@ -2362,7 +2362,7 @@
     "logo_ext": "https://crests.football-data.org/1076.png",
     "lambda_dom": 1.51,
     "lambda_ext": 1.09,
-    "p1": 0.452,
+    "p1": 0.451,
     "pN": 0.292,
     "p2": 0.257,
     "score_probable": "1-1"
@@ -2604,7 +2604,7 @@
     "lambda_ext": 0.87,
     "p1": 0.503,
     "pN": 0.296,
-    "p2": 0.2,
+    "p2": 0.201,
     "score_probable": "1-1"
   },
   {
@@ -3196,7 +3196,7 @@
     "lambda_ext": 1.95,
     "p1": 0.123,
     "pN": 0.236,
-    "p2": 0.642,
+    "p2": 0.641,
     "score_probable": "0-2"
   },
   {
@@ -3576,7 +3576,7 @@
     "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/354.png",
-    "lambda_dom": 2.09,
+    "lambda_dom": 2.08,
     "lambda_ext": 0.6,
     "p1": 0.708,
     "pN": 0.208,
@@ -3868,7 +3868,7 @@
     "lambda_ext": 0.75,
     "p1": 0.666,
     "pN": 0.222,
-    "p2": 0.112,
+    "p2": 0.113,
     "score_probable": "2-0"
   },
   {
@@ -4938,7 +4938,7 @@
     "logo_ext": "https://crests.football-data.org/65.png",
     "lambda_dom": 0.94,
     "lambda_ext": 2.26,
-    "p1": 0.129,
+    "p1": 0.13,
     "pN": 0.21,
     "p2": 0.661,
     "score_probable": "0-2"
@@ -4954,7 +4954,7 @@
     "logo_ext": "https://crests.football-data.org/351.png",
     "lambda_dom": 1.76,
     "lambda_ext": 0.64,
-    "p1": 0.632,
+    "p1": 0.631,
     "pN": 0.254,
     "p2": 0.115,
     "score_probable": "1-0"
@@ -4970,7 +4970,7 @@
     "logo_ext": "https://crests.football-data.org/322.png",
     "lambda_dom": 1.62,
     "lambda_ext": 0.96,
-    "p1": 0.511,
+    "p1": 0.512,
     "pN": 0.282,
     "p2": 0.207,
     "score_probable": "1-1"
@@ -5176,7 +5176,7 @@
     "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/351.png",
-    "lambda_dom": 0.98,
+    "lambda_dom": 0.99,
     "lambda_ext": 1.27,
     "p1": 0.269,
     "pN": 0.32,
@@ -5210,7 +5210,7 @@
     "logo_ext": "https://crests.football-data.org/67.png",
     "lambda_dom": 1.39,
     "lambda_ext": 1.29,
-    "p1": 0.376,
+    "p1": 0.375,
     "pN": 0.294,
     "p2": 0.331,
     "score_probable": "1-1"
