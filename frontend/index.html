@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Foot Predictor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1 class="titre">Foot Predictor</h1>
+      <p class="sous-titre">Les chances de victoire, de nul et de défaite pour chaque match, calculées à partir des résultats des deux dernières saisons.</p>
+      <nav class="vues" aria-label="Section">
+        <button data-vue="pronostics" aria-pressed="true">Pronostics</button>
+        <button data-vue="simulation" aria-pressed="false">Simulation</button>
+        <button data-vue="saison" aria-pressed="false">Ta saison</button>
+      </nav>
+      <nav class="ligues" role="tablist" aria-label="Championnat"></nav>
+    </header>
+
+    <main>
+      <section id="vue-pronostics">
+        <div class="journee">
+          <button class="nav-journee" id="prec" aria-label="Journée précédente">‹</button>
+          <h2 id="titre-journee">Chargement…</h2>
+          <button class="nav-journee" id="suiv" aria-label="Journée suivante">›</button>
+        </div>
+        <p class="legende">
+          <span style="--c: var(--dom)">Victoire domicile</span>
+          <span style="--c: var(--nul)">Nul</span>
+          <span style="--c: var(--ext)">Victoire extérieur</span>
+        </p>
+        <div id="matchs" aria-live="polite"></div>
+      </section>
+
+      <section id="vue-simulation" hidden>
+        <div class="sim-entete">
+          <div>
+            <h2>Fin de saison</h2>
+            <p class="sim-texte">Chaque match restant est joué 10 000 fois à partir des buts attendus du modèle. Le tableau donne les chances de chaque équipe de finir championne, dans les places de Ligue des champions ou reléguée.</p>
+          </div>
+          <button id="lancer" class="bouton">Relancer les simulations</button>
+        </div>
+        <p id="sim-info"></p>
+        <div id="sim-resultats" aria-live="polite"></div>
+      </section>
+
+      <section id="vue-saison" hidden>
+        <div class="sim-entete">
+          <div>
+            <h2>Ta saison</h2>
+            <p class="sim-texte">Chaque match restant est joué une seule fois, avec les buts attendus du modèle. Chaque saison est différente : rejoue autant de fois que tu veux.</p>
+          </div>
+          <button id="jouer" class="bouton">Jouer la fin de saison</button>
+        </div>
+        <div class="lecteur" id="lecteur" hidden>
+          <button class="nav-journee" id="s-prec" aria-label="Journée précédente">‹</button>
+          <button class="bouton-sec" id="s-lecture">Pause</button>
+          <button class="nav-journee" id="s-suiv" aria-label="Journée suivante">›</button>
+          <button class="bouton-sec" id="s-fin">Aller à la fin</button>
+        </div>
+        <p id="s-progression"></p>
+        <div id="s-banniere" aria-live="polite"></div>
+        <div id="s-resultats"></div>
+        <div id="s-tableau"></div>
+        <p class="legende">
+          <span style="--c: var(--dom)">Champion</span>
+          <span style="--c: var(--ext)">Ligue des champions</span>
+          <span style="--c: var(--rel)">Relégation</span>
+        </p>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

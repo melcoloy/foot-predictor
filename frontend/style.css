@@ -1,0 +1,221 @@
+:root {
+  --pelouse: #0E2A1D;
+  --pelouse-bande: #11301F;
+  --ligne: #2A5540;
+  --craie: #EEF3EC;
+  --craie-douce: #A9BDB0;
+  --dom: #F0B429;
+  --nul: #8FA89A;
+  --ext: #4FB3E8;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--craie);
+  font-family: "Barlow", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background: repeating-linear-gradient(90deg, var(--pelouse) 0 96px, var(--pelouse-bande) 96px 192px);
+}
+
+.page { max-width: 860px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+
+.titre {
+  margin: 0;
+  font: 800 clamp(2.75rem, 7vw, 4.5rem)/0.95 "Barlow Condensed", sans-serif;
+  letter-spacing: -0.01em;
+}
+.sous-titre { margin: 0.6rem 0 2rem; max-width: 60ch; color: var(--craie-douce); }
+
+/* Onglets des championnats : soulignés comme une ligne de craie */
+.ligues {
+  display: flex; gap: 0.25rem;
+  overflow-x: auto; overflow-y: hidden;
+  box-shadow: inset 0 -2px 0 var(--ligne);   /* la ligne de fond, sans bordure qui déborde */
+}
+.ligues button {
+  padding: 0.6rem 0.9rem;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  background: none;
+  color: var(--craie-douce);
+  font: 600 1.1rem "Barlow Condensed", sans-serif;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.ligues button:hover { color: var(--craie); }
+.ligues button[aria-selected="true"] { color: var(--craie); border-bottom-color: var(--craie); }
+
+button:focus-visible { outline: 2px solid var(--dom); outline-offset: 2px; }
+
+/* Navigation entre journées */
+.journee { display: flex; align-items: center; justify-content: space-between; margin: 2rem 0 0.5rem; }
+.journee h2 { margin: 0; font: 700 1.9rem "Barlow Condensed", sans-serif; }
+.nav-journee {
+  width: 2.5rem; height: 2.5rem;
+  border: 2px solid var(--ligne); border-radius: 50%;
+  background: transparent; color: var(--craie);
+  font-size: 1.4rem; line-height: 1; cursor: pointer;
+}
+.nav-journee:hover:not(:disabled) { border-color: var(--craie); }
+.nav-journee:disabled { opacity: 0.3; cursor: default; }
+
+.legende { display: flex; flex-wrap: wrap; gap: 1.25rem; margin: 0 0 0.5rem; font-size: 0.875rem; color: var(--craie-douce); }
+.legende span::before {
+  content: ""; display: inline-block;
+  width: 0.75rem; height: 0.75rem; margin-right: 0.4rem; vertical-align: -1px;
+  border-radius: 2px; background: var(--c);
+}
+
+/* Matchs */
+.jour {
+  margin: 1.75rem 0 0; padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--ligne);
+  font: 600 1rem "Barlow", sans-serif; color: var(--craie-douce);
+}
+.jour::first-letter { text-transform: uppercase; }
+
+.match {
+  display: grid;
+  grid-template-columns: 1fr minmax(220px, 1.3fr) 1fr;
+  grid-template-areas: "dom centre ext";
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--ligne);
+}
+.equipe { display: flex; align-items: center; gap: 0.6rem; min-width: 0; font: 700 1.2rem/1.15 "Barlow Condensed", sans-serif; }
+.equipe.dom { grid-area: dom; justify-content: flex-end; text-align: right; }
+.equipe.ext { grid-area: ext; }
+.equipe img, .logo-vide { width: 32px; height: 32px; object-fit: contain; flex-shrink: 0; }
+
+.centre { grid-area: centre; text-align: center; }
+.centre time { font: 600 0.95rem "Barlow Condensed", sans-serif; color: var(--craie-douce); }
+
+.barre { display: flex; height: 1.9rem; margin: 0.3rem 0; border-radius: 4px; overflow: hidden; background: var(--ligne); }
+.seg {
+  display: flex; align-items: center; justify-content: center; min-width: 0;
+  color: var(--pelouse); font: 600 0.9rem "Barlow Condensed", sans-serif;
+}
+.s1 { background: var(--dom); }
+.sN { background: var(--nul); }
+.s2 { background: var(--ext); }
+.seg.fort { font-weight: 800; font-size: 1.05rem; }
+
+.details { margin: 0; font-size: 0.8rem; color: var(--craie-douce); }
+.details .sep { display: inline-block; width: 1rem; }
+
+.vide, .erreur { margin: 2rem 0; color: var(--craie-douce); }
+.erreur code { color: var(--craie); }
+
+@media (max-width: 600px) {
+  .match { grid-template-columns: 1fr 1fr; grid-template-areas: "dom ext" "centre centre"; row-gap: 0.6rem; }
+  .equipe.dom { justify-content: flex-end; flex-direction: row-reverse; text-align: left; }
+  .equipe.ext { justify-content: flex-start; flex-direction: row-reverse; text-align: right; }
+}
+
+/* ---------- Sélecteur Pronostics / Simulation ---------- */
+:root { --rel: #E5534B; }
+
+.vues { display: inline-flex; gap: 2px; padding: 3px; margin-bottom: 1.25rem; border: 2px solid var(--ligne); border-radius: 999px; }
+.vues button {
+  padding: 0.35rem 1rem; border: 0; border-radius: 999px;
+  background: none; color: var(--craie-douce);
+  font: 600 1rem "Barlow Condensed", sans-serif; cursor: pointer;
+}
+.vues button[aria-pressed="true"] { background: var(--craie); color: var(--pelouse); }
+
+/* ---------- Simulation ---------- */
+.sim-entete { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 1rem; margin: 2rem 0 1rem; }
+.sim-entete h2 { margin: 0; font: 700 1.9rem "Barlow Condensed", sans-serif; }
+.sim-texte { margin: 0.3rem 0 0; max-width: 55ch; font-size: 0.9rem; color: var(--craie-douce); }
+
+.bouton {
+  padding: 0.6rem 1.1rem; border: 0; border-radius: 4px;
+  background: var(--dom); color: var(--pelouse);
+  font: 700 1rem "Barlow Condensed", sans-serif; cursor: pointer;
+}
+.bouton:disabled { opacity: 0.5; cursor: progress; }
+#sim-info { margin: 0 0 0.75rem; font-size: 0.85rem; color: var(--craie-douce); }
+
+.tableau-scroll { overflow-x: auto; }
+.sim { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.sim th {
+  padding: 0.5rem; border-bottom: 2px solid var(--ligne);
+  font: 600 0.85rem "Barlow", sans-serif; color: var(--craie-douce);
+  text-align: center; white-space: nowrap;
+}
+.sim th:nth-child(2) { text-align: left; }
+.sim td { padding: 0.35rem 0.5rem; border-bottom: 1px solid var(--ligne); text-align: center; }
+.sim td.pos { width: 2rem; color: var(--craie-douce); }
+.sim .eq { display: flex; align-items: center; gap: 0.5rem; font: 700 1.05rem "Barlow Condensed", sans-serif; white-space: nowrap; }
+.sim .eq img, .sim .eq .logo-vide { width: 24px; height: 24px; }
+.sim td.num { font: 600 1rem "Barlow Condensed", sans-serif; }
+.sim td.num.fort { font-weight: 800; }
+
+/* Probabilités : la couleur s'intensifie avec la probabilité */
+.sim td.proba {
+  min-width: 4.5rem;
+  font: 600 0.95rem "Barlow Condensed", sans-serif;
+  background: color-mix(in srgb, var(--c) var(--a), transparent);
+}
+.sim td.proba.fonce { color: var(--pelouse); }
+
+/* Histogramme des positions finales */
+.sim td.histo-cell { min-width: 150px; }
+.histo { display: flex; align-items: flex-end; gap: 1px; height: 28px; }
+.histo span { flex: 1; min-height: 1px; border-radius: 1px 1px 0 0; background: var(--nul); }
+.histo .z-titre { background: var(--dom); }
+.histo .z-ldc { background: var(--ext); }
+.histo .z-rel { background: var(--rel); }
+
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- Ta saison ---------- */
+.bouton-sec {
+  padding: 0.45rem 0.9rem; border: 2px solid var(--ligne); border-radius: 4px;
+  background: transparent; color: var(--craie);
+  font: 600 0.95rem "Barlow Condensed", sans-serif; cursor: pointer;
+}
+.bouton-sec:hover:not(:disabled) { border-color: var(--craie); }
+.bouton-sec:disabled { opacity: 0.3; cursor: default; }
+
+.lecteur { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem; }
+#s-progression { margin: 0 0 1rem; font: 700 1.5rem "Barlow Condensed", sans-serif; }
+#s-progression small { margin-left: 0.5rem; font: 400 0.85rem "Barlow", sans-serif; color: var(--craie-douce); }
+
+.banniere {
+  margin: 0 0 1.25rem; padding: 0.8rem 1rem;
+  border-left: 4px solid var(--dom);
+  background: color-mix(in srgb, var(--dom) 12%, transparent);
+}
+.banniere strong { font: 800 1.35rem "Barlow Condensed", sans-serif; }
+
+/* Résultats de la journée */
+.resultats {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); column-gap: 1.5rem;
+  margin: 0 0 1.5rem; padding: 0; list-style: none;
+}
+.res {
+  display: grid; grid-template-columns: 1fr 20px 2.8rem 20px 1fr; align-items: center; gap: 0.4rem;
+  padding: 0.35rem 0; border-bottom: 1px solid var(--ligne);
+  font: 600 1rem "Barlow Condensed", sans-serif; color: var(--craie-douce);
+}
+.res span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.res .r-dom { text-align: right; }
+.res img, .res .logo-vide { display: inline-block; width: 20px; height: 20px; object-fit: contain; }
+.res .score { text-align: center; font-weight: 800; color: var(--craie); font-variant-numeric: tabular-nums; }
+.res.v-dom .r-dom, .res.v-ext .r-ext { font-weight: 800; color: var(--craie); }
+.res.nul .r-dom, .res.nul .r-ext { color: var(--craie); }
+
+/* Classement : zone indiquée par un liseré à gauche, mouvements en couleur */
+.sim td.mouv { width: 2.4rem; font: 700 0.8rem "Barlow Condensed", sans-serif; }
+.monte { color: #6FD08C; }
+.descend { color: var(--rel); }
+.sim tr.z-titre td.pos { box-shadow: inset 3px 0 0 var(--dom); }
+.sim tr.z-ldc td.pos { box-shadow: inset 3px 0 0 var(--ext); }
+.sim tr.z-rel td.pos { box-shadow: inset 3px 0 0 var(--rel); }
+#s-tableau + .legende { margin-top: 0.75rem; }
