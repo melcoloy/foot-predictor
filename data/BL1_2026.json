@@ -7,12 +7,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "VfB Stuttgart",
+    "court_dom": "Bayern",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": 5,
-    "buts_ext": 1,
-    "court_dom": "Bayern",
-    "court_ext": "Stuttgart"
+    "buts_ext": 1
   },
   {
     "id": 565777,
@@ -22,12 +22,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "RB Leipzig",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "RB Leipzig",
-    "court_ext": "M'gladbach"
+    "buts_ext": 0
   },
   {
     "id": 565778,
@@ -37,12 +37,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "SC Paderborn 07",
+    "court_dom": "Mainz",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Mainz",
-    "court_ext": "SC Paderborn"
+    "buts_ext": 0
   },
   {
     "id": 565779,
@@ -52,12 +52,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Union Berlin",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": 3,
-    "buts_ext": 3,
-    "court_dom": "Union Berlin",
-    "court_ext": "Frankfurt"
+    "buts_ext": 3
   },
   {
     "id": 565780,
@@ -67,12 +67,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Elversberg",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Elversberg",
-    "court_ext": "Leverkusen"
+    "buts_ext": 2
   },
   {
     "id": 565783,
@@ -82,12 +82,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Hoffenheim"
+    "buts_ext": 2
   },
   {
     "id": 565781,
@@ -97,12 +97,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "Hamburger SV",
+    "court_dom": "Dortmund",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Dortmund",
-    "court_ext": "HSV"
+    "buts_ext": 0
   },
   {
     "id": 565784,
@@ -112,12 +112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "SV Werder Bremen",
+    "court_dom": "Freiburg",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Freiburg",
-    "court_ext": "Bremen"
+    "buts_ext": 1
   },
   {
     "id": 565782,
@@ -127,12 +127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "FC Schalke 04",
+    "court_dom": "Augsburg",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Augsburg",
-    "court_ext": "Schalke"
+    "buts_ext": 0
   },
   {
     "id": 565791,
@@ -142,12 +142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "1. FC Köln",
+    "court_dom": "Stuttgart",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Stuttgart",
-    "court_ext": "1. FC Köln"
+    "buts_ext": 1
   },
   {
     "id": 565785,
@@ -157,12 +157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "RB Leipzig",
+    "court_dom": "Bremen",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "Bremen",
-    "court_ext": "RB Leipzig"
+    "buts_ext": 1
   },
   {
     "id": 565787,
@@ -172,12 +172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "Borussia Dortmund",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Dortmund"
+    "buts_ext": 3
   },
   {
     "id": 565790,
@@ -187,12 +187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Leverkusen",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Leverkusen",
-    "court_ext": "Union Berlin"
+    "buts_ext": 0
   },
   {
     "id": 565792,
@@ -202,12 +202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "SV 07 Elversberg",
+    "court_dom": "M'gladbach",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": 3,
-    "buts_ext": 4,
-    "court_dom": "M'gladbach",
-    "court_ext": "Elversberg"
+    "buts_ext": 4
   },
   {
     "id": 565793,
@@ -217,12 +217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "SC Freiburg",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Freiburg"
+    "buts_ext": 1
   },
   {
     "id": 565789,
@@ -232,12 +232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "FC Bayern München",
+    "court_dom": "Schalke",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Schalke",
-    "court_ext": "Bayern"
+    "buts_ext": 0
   },
   {
     "id": 565788,
@@ -247,12 +247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "HSV",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": 0,
-    "buts_ext": 5,
-    "court_dom": "HSV",
-    "court_ext": "Mainz"
+    "buts_ext": 5
   },
   {
     "id": 565786,
@@ -262,12 +262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "FC Augsburg",
+    "court_dom": "Frankfurt",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": 1,
-    "buts_ext": 4,
-    "court_dom": "Frankfurt",
-    "court_ext": "Augsburg"
+    "buts_ext": 4
   },
   {
     "id": 565797,
@@ -277,12 +277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "FC Schalke 04",
+    "court_dom": "Union Berlin",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Union Berlin",
-    "court_ext": "Schalke"
+    "buts_ext": 3
   },
   {
     "id": 565794,
@@ -292,12 +292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "VfB Stuttgart",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Stuttgart"
+    "buts_ext": 1
   },
   {
     "id": 565795,
@@ -307,12 +307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "SC Paderborn 07",
+    "court_dom": "Dortmund",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Dortmund",
-    "court_ext": "SC Paderborn"
+    "buts_ext": 0
   },
   {
     "id": 565796,
@@ -322,12 +322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Augsburg",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Augsburg",
-    "court_ext": "Leverkusen"
+    "buts_ext": 2
   },
   {
     "id": 565801,
@@ -337,12 +337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Mainz",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Mainz",
-    "court_ext": "Frankfurt"
+    "buts_ext": 3
   },
   {
     "id": 565802,
@@ -352,12 +352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Freiburg",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": 5,
-    "buts_ext": 0,
-    "court_dom": "Freiburg",
-    "court_ext": "M'gladbach"
+    "buts_ext": 0
   },
   {
     "id": 565798,
@@ -367,12 +367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "SV Werder Bremen",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Bremen"
+    "buts_ext": 1
   },
   {
     "id": 565799,
@@ -382,12 +382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "Hamburger SV",
+    "court_dom": "RB Leipzig",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": 5,
-    "buts_ext": 0,
-    "court_dom": "RB Leipzig",
-    "court_ext": "HSV"
+    "buts_ext": 0
   },
   {
     "id": 565800,
@@ -397,12 +397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "FC Bayern München",
+    "court_dom": "Elversberg",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Elversberg",
-    "court_ext": "Bayern"
+    "buts_ext": 2
   },
   {
     "id": 565804,
@@ -412,12 +412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Bayern",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": 7,
-    "buts_ext": 0,
-    "court_dom": "Bayern",
-    "court_ext": "Union Berlin"
+    "buts_ext": 0
   },
   {
     "id": 565808,
@@ -427,12 +427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "1. FC Köln",
+    "court_dom": "HSV",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "HSV",
-    "court_ext": "1. FC Köln"
+    "buts_ext": 1
   },
   {
     "id": 565809,
@@ -442,12 +442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "M'gladbach",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": 3,
-    "buts_ext": 4,
-    "court_dom": "M'gladbach",
-    "court_ext": "Mainz"
+    "buts_ext": 4
   },
   {
     "id": 565810,
@@ -457,12 +457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "FC Augsburg",
+    "court_dom": "Bremen",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Bremen",
-    "court_ext": "Augsburg"
+    "buts_ext": 2
   },
   {
     "id": 565811,
@@ -472,12 +472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "SC Freiburg",
+    "court_dom": "Frankfurt",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Frankfurt",
-    "court_ext": "Freiburg"
+    "buts_ext": 2
   },
   {
     "id": 565806,
@@ -487,12 +487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "Borussia Dortmund",
+    "court_dom": "Stuttgart",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Stuttgart",
-    "court_ext": "Dortmund"
+    "buts_ext": 1
   },
   {
     "id": 565807,
@@ -502,12 +502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "RB Leipzig",
+    "court_dom": "Leverkusen",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Leverkusen",
-    "court_ext": "RB Leipzig"
+    "buts_ext": 0
   },
   {
     "id": 565805,
@@ -517,12 +517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Schalke",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Schalke",
-    "court_ext": "Elversberg"
+    "buts_ext": 0
   },
   {
     "id": 565803,
@@ -532,12 +532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Hoffenheim"
+    "buts_ext": 1
   },
   {
     "id": 565820,
@@ -547,12 +547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "SV Werder Bremen",
+    "court_dom": "Dortmund",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565812,
@@ -562,12 +562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Mainz",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565813,
@@ -577,12 +577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "VfB Stuttgart",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565817,
@@ -592,12 +592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Union Berlin",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565818,
@@ -607,12 +607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "Hamburger SV",
+    "court_dom": "Hoffenheim",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565819,
@@ -622,12 +622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "FC Bayern München",
+    "court_dom": "Augsburg",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565815,
@@ -637,12 +637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565814,
@@ -652,12 +652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "1. FC Köln",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565816,
@@ -667,12 +667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "FC Schalke 04",
+    "court_dom": "Freiburg",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565828,
@@ -682,12 +682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "1. FC Köln",
+    "court_dom": "Frankfurt",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565821,
@@ -697,12 +697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "Borussia Dortmund",
+    "court_dom": "Union Berlin",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565822,
@@ -712,12 +712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "VfB Stuttgart",
+    "court_dom": "HSV",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565823,
@@ -727,12 +727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "SC Paderborn 07",
+    "court_dom": "Bremen",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565824,
@@ -742,12 +742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "FC Augsburg",
+    "court_dom": "Elversberg",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565829,
@@ -757,12 +757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Schalke",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565825,
@@ -772,12 +772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "RB Leipzig",
+    "court_dom": "Bayern",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565827,
@@ -787,12 +787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "SC Freiburg",
+    "court_dom": "Leverkusen",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565826,
@@ -802,12 +802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "M'gladbach",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565833,
@@ -817,12 +817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Stuttgart",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565830,
@@ -832,12 +832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "SV Werder Bremen",
+    "court_dom": "Mainz",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565831,
@@ -847,12 +847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "FC Schalke 04",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565832,
@@ -862,12 +862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "SV 07 Elversberg",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565834,
@@ -877,12 +877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "Hamburger SV",
+    "court_dom": "SC Paderborn",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565838,
@@ -892,12 +892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Augsburg",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565837,
@@ -907,12 +907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Dortmund",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565835,
@@ -922,12 +922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565836,
@@ -937,12 +937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "FC Bayern München",
+    "court_dom": "Freiburg",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565846,
@@ -952,12 +952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Elversberg",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565839,
@@ -967,12 +967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "SC Paderborn 07",
+    "court_dom": "M'gladbach",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565840,
@@ -982,12 +982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "RB Leipzig",
+    "court_dom": "Schalke",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565842,
@@ -997,12 +997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "SC Freiburg",
+    "court_dom": "Augsburg",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565843,
@@ -1012,12 +1012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Bremen",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565847,
@@ -1027,12 +1027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "VfB Stuttgart",
+    "court_dom": "Leverkusen",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565845,
@@ -1042,12 +1042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "Borussia Dortmund",
+    "court_dom": "Bayern",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565841,
@@ -1057,12 +1057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "1. FC Köln",
+    "court_dom": "Union Berlin",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565844,
@@ -1072,12 +1072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "Hamburger SV",
+    "court_dom": "Frankfurt",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565852,
@@ -1087,12 +1087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "HSV",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565848,
@@ -1102,12 +1102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "FC Augsburg",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565850,
@@ -1117,12 +1117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Dortmund",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565851,
@@ -1132,12 +1132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "FC Bayern München",
+    "court_dom": "Mainz",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565853,
@@ -1147,12 +1147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565849,
@@ -1162,12 +1162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "SV Werder Bremen",
+    "court_dom": "Stuttgart",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565855,
@@ -1177,12 +1177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565854,
@@ -1192,12 +1192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Freiburg",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565856,
@@ -1207,12 +1207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "FC Schalke 04",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565859,
@@ -1222,12 +1222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "1. FC Köln",
+    "court_dom": "Bayern",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565857,
@@ -1237,12 +1237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "SC Paderborn 07",
+    "court_dom": "Leverkusen",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565858,
@@ -1252,12 +1252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "RB Leipzig",
+    "court_dom": "Union Berlin",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565860,
@@ -1267,12 +1267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "SC Freiburg",
+    "court_dom": "Elversberg",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565862,
@@ -1282,12 +1282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "Borussia Dortmund",
+    "court_dom": "M'gladbach",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565865,
@@ -1297,12 +1297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Frankfurt",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565861,
@@ -1312,12 +1312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "VfB Stuttgart",
+    "court_dom": "Schalke",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565864,
@@ -1327,12 +1327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Augsburg",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565863,
@@ -1342,12 +1342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "Hamburger SV",
+    "court_dom": "Bremen",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565869,
@@ -1357,12 +1357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Bremen",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565866,
@@ -1372,12 +1372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "SV 07 Elversberg",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565867,
@@ -1387,12 +1387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Mainz",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565868,
@@ -1402,12 +1402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "FC Schalke 04",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565874,
@@ -1417,12 +1417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "FC Bayern München",
+    "court_dom": "HSV",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565870,
@@ -1432,12 +1432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Stuttgart",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565873,
@@ -1447,12 +1447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "RB Leipzig",
+    "court_dom": "Freiburg",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565871,
@@ -1462,12 +1462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "FC Augsburg",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565872,
@@ -1477,12 +1477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Dortmund",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565875,
@@ -1492,12 +1492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "Hamburger SV",
+    "court_dom": "Union Berlin",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565876,
@@ -1507,12 +1507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "Borussia Dortmund",
+    "court_dom": "Schalke",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565877,
@@ -1522,12 +1522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Leverkusen",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565878,
@@ -1537,12 +1537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "SV Werder Bremen",
+    "court_dom": "Frankfurt",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565879,
@@ -1552,12 +1552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565880,
@@ -1567,12 +1567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "VfB Stuttgart",
+    "court_dom": "Elversberg",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565881,
@@ -1582,12 +1582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Freiburg",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565882,
@@ -1597,12 +1597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "SC Paderborn 07",
+    "court_dom": "Bayern",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565883,
@@ -1612,12 +1612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "1. FC Köln",
+    "court_dom": "Augsburg",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565884,
@@ -1627,12 +1627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "SV 07 Elversberg",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565885,
@@ -1642,12 +1642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Bremen",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565886,
@@ -1657,12 +1657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Stuttgart",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565887,
@@ -1672,12 +1672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "FC Augsburg",
+    "court_dom": "Dortmund",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565888,
@@ -1687,12 +1687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "FC Schalke 04",
+    "court_dom": "HSV",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565889,
@@ -1702,12 +1702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "SC Freiburg",
+    "court_dom": "Mainz",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565890,
@@ -1717,12 +1717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "RB Leipzig",
+    "court_dom": "1. FC Köln",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565891,
@@ -1732,12 +1732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "FC Bayern München",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565892,
@@ -1747,12 +1747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "M'gladbach",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565893,
@@ -1762,12 +1762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Schalke",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565894,
@@ -1777,12 +1777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "SV Werder Bremen",
+    "court_dom": "Bayern",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565895,
@@ -1792,12 +1792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "Hamburger SV",
+    "court_dom": "Elversberg",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565896,
@@ -1807,12 +1807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Leverkusen",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565897,
@@ -1822,12 +1822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "VfB Stuttgart",
+    "court_dom": "Freiburg",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565898,
@@ -1837,12 +1837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "Borussia Dortmund",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565899,
@@ -1852,12 +1852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "1. FC Köln",
+    "court_dom": "Mainz",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565900,
@@ -1867,12 +1867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Union Berlin",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565901,
@@ -1882,12 +1882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "SC Paderborn 07",
+    "court_dom": "Augsburg",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565902,
@@ -1897,12 +1897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "FC Augsburg",
+    "court_dom": "Stuttgart",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565903,
@@ -1912,12 +1912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "HSV",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565904,
@@ -1927,12 +1927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "SC Freiburg",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565905,
@@ -1942,12 +1942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "FC Schalke 04",
+    "court_dom": "Frankfurt",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565906,
@@ -1957,12 +1957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565907,
@@ -1972,12 +1972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "FC Bayern München",
+    "court_dom": "M'gladbach",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565908,
@@ -1987,12 +1987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Dortmund",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565909,
@@ -2002,12 +2002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Bremen",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565910,
@@ -2017,12 +2017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "RB Leipzig",
+    "court_dom": "SC Paderborn",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565911,
@@ -2032,12 +2032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Mainz",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565912,
@@ -2047,12 +2047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "Hamburger SV",
+    "court_dom": "Freiburg",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565913,
@@ -2062,12 +2062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "SV Werder Bremen",
+    "court_dom": "Schalke",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565914,
@@ -2077,12 +2077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "VfB Stuttgart",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565915,
@@ -2092,12 +2092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "SC Paderborn 07",
+    "court_dom": "Union Berlin",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565916,
@@ -2107,12 +2107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Bayern",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565917,
@@ -2122,12 +2122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Augsburg",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565918,
@@ -2137,12 +2137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Elversberg",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565919,
@@ -2152,12 +2152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "Borussia Dortmund",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565920,
@@ -2167,12 +2167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Bremen",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565921,
@@ -2182,12 +2182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "FC Bayern München",
+    "court_dom": "Frankfurt",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565922,
@@ -2197,12 +2197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "1. FC Köln",
+    "court_dom": "SC Paderborn",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565923,
@@ -2212,12 +2212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "RB Leipzig",
+    "court_dom": "Hoffenheim",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565924,
@@ -2227,12 +2227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "FC Schalke 04",
+    "court_dom": "Leverkusen",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565925,
@@ -2242,12 +2242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Stuttgart",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565926,
@@ -2257,12 +2257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "FC Augsburg",
+    "court_dom": "HSV",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565927,
@@ -2272,12 +2272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "1. FC Union Berlin",
+    "court_dom": "M'gladbach",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565928,
@@ -2287,12 +2287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "SC Freiburg",
+    "court_dom": "Dortmund",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565929,
@@ -2302,12 +2302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "SC Freiburg",
+    "court_dom": "Bremen",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565930,
@@ -2317,12 +2317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "Borussia Dortmund",
+    "court_dom": "HSV",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565931,
@@ -2332,12 +2332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565932,
@@ -2347,12 +2347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "FC Augsburg",
+    "court_dom": "Schalke",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565933,
@@ -2362,12 +2362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "1. FC Köln",
+    "court_dom": "Hoffenheim",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565934,
@@ -2377,12 +2377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "FC Bayern München",
+    "court_dom": "Stuttgart",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565935,
@@ -2392,12 +2392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "RB Leipzig",
+    "court_dom": "M'gladbach",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565936,
@@ -2407,12 +2407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Frankfurt",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565937,
@@ -2422,12 +2422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Leverkusen",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565938,
@@ -2437,12 +2437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Elversberg",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565939,
@@ -2452,12 +2452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Augsburg",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565940,
@@ -2467,12 +2467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "Hamburger SV",
+    "court_dom": "Mainz",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565941,
@@ -2482,12 +2482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "SV Werder Bremen",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565942,
@@ -2497,12 +2497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "VfB Stuttgart",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565943,
@@ -2512,12 +2512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Union Berlin",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565944,
@@ -2527,12 +2527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "SC Paderborn 07",
+    "court_dom": "Freiburg",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565945,
@@ -2542,12 +2542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Dortmund",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565946,
@@ -2557,12 +2557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "FC Schalke 04",
+    "court_dom": "Bayern",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565947,
@@ -2572,12 +2572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Frankfurt",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565948,
@@ -2587,12 +2587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "SC Freiburg",
+    "court_dom": "M'gladbach",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565949,
@@ -2602,12 +2602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Schalke",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565950,
@@ -2617,12 +2617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "RB Leipzig",
+    "court_dom": "HSV",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565951,
@@ -2632,12 +2632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "FC Augsburg",
+    "court_dom": "Leverkusen",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565952,
@@ -2647,12 +2647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "1. FC Köln",
+    "court_dom": "Bremen",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565953,
@@ -2662,12 +2662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Stuttgart",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565954,
@@ -2677,12 +2677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Bayern",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565955,
@@ -2692,12 +2692,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "Borussia Dortmund",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565956,
@@ -2707,12 +2707,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "Hamburger SV",
+    "court_dom": "1. FC Köln",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565957,
@@ -2722,12 +2722,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Mainz",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565958,
@@ -2737,12 +2737,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "FC Bayern München",
+    "court_dom": "Union Berlin",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565959,
@@ -2752,12 +2752,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "FC Schalke 04",
+    "court_dom": "Elversberg",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565960,
@@ -2767,12 +2767,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "VfB Stuttgart",
+    "court_dom": "Dortmund",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565961,
@@ -2782,12 +2782,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "SC Paderborn 07",
+    "court_dom": "Hoffenheim",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565962,
@@ -2797,12 +2797,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Freiburg",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565963,
@@ -2812,12 +2812,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "SV Werder Bremen",
+    "court_dom": "Augsburg",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565964,
@@ -2827,12 +2827,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565965,
@@ -2842,12 +2842,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "SC Freiburg",
+    "court_dom": "Schalke",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565966,
@@ -2857,12 +2857,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "SC Paderborn 07",
+    "court_dom": "Stuttgart",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565967,
@@ -2872,12 +2872,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "1. FC Köln",
+    "court_dom": "M'gladbach",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565968,
@@ -2887,12 +2887,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "Borussia Dortmund",
+    "court_dom": "Bremen",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565969,
@@ -2902,12 +2902,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "HSV",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565970,
@@ -2917,12 +2917,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Leverkusen",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565971,
@@ -2932,12 +2932,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "RB Leipzig",
+    "court_dom": "Frankfurt",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565972,
@@ -2947,12 +2947,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "FC Augsburg",
+    "court_dom": "Bayern",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565973,
@@ -2962,12 +2962,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Elversberg",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565974,
@@ -2977,12 +2977,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "Hamburger SV",
+    "court_dom": "Stuttgart",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 565975,
@@ -2992,12 +2992,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565976,
@@ -3007,12 +3007,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Freiburg",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565977,
@@ -3022,12 +3022,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Augsburg",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565978,
@@ -3037,12 +3037,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "FC Schalke 04",
+    "court_dom": "Mainz",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565979,
@@ -3052,12 +3052,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Hoffenheim",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565980,
@@ -3067,12 +3067,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "SV Werder Bremen",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 565981,
@@ -3082,12 +3082,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "FC Bayern München",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565982,
@@ -3097,12 +3097,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Dortmund",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 565983,
@@ -3112,12 +3112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "Borussia Dortmund",
+    "court_dom": "Frankfurt",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 565984,
@@ -3127,12 +3127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "1. FC Köln",
+    "court_dom": "Schalke",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 565985,
@@ -3142,12 +3142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Leverkusen",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 565986,
@@ -3157,12 +3157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "SC Freiburg",
+    "court_dom": "Bayern",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 565987,
@@ -3172,12 +3172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Bremen",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 565988,
@@ -3187,12 +3187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "FC Augsburg",
+    "court_dom": "Union Berlin",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565989,
@@ -3202,12 +3202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "RB Leipzig",
+    "court_dom": "Elversberg",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 565990,
@@ -3217,12 +3217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "VfB Stuttgart",
+    "court_dom": "M'gladbach",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 565991,
@@ -3232,12 +3232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "SC Paderborn 07",
+    "court_dom": "HSV",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 565992,
@@ -3247,12 +3247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "FC Bayern München",
+    "court_dom": "Dortmund",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 565993,
@@ -3262,12 +3262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "FC Augsburg",
+    "court_dom": "Freiburg",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 565994,
@@ -3277,12 +3277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Mainz",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 565995,
@@ -3292,12 +3292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "HSV",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 565996,
@@ -3307,12 +3307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Stuttgart",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 565997,
@@ -3322,12 +3322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "FC Schalke 04",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 565998,
@@ -3337,12 +3337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "SC Paderborn",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 565999,
@@ -3352,12 +3352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "1. FC Union Berlin",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 566000,
@@ -3367,12 +3367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "SV Werder Bremen",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 566001,
@@ -3382,12 +3382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "SC Freiburg",
+    "court_dom": "Union Berlin",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 566002,
@@ -3397,12 +3397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "Borussia Dortmund",
+    "court_dom": "Elversberg",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 566003,
@@ -3412,12 +3412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "SC Paderborn 07",
+    "court_dom": "Frankfurt",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 566004,
@@ -3427,12 +3427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "RB Leipzig",
+    "court_dom": "Augsburg",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 566005,
@@ -3442,12 +3442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "Hamburger SV",
+    "court_dom": "M'gladbach",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 566006,
@@ -3457,12 +3457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "VfB Stuttgart",
+    "court_dom": "Bremen",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 566007,
@@ -3472,12 +3472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Schalke",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 566008,
@@ -3487,12 +3487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Bayern",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 566009,
@@ -3502,12 +3502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "1. FC Köln",
+    "court_dom": "Leverkusen",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 566016,
@@ -3517,12 +3517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "FC Bayern München",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 566017,
@@ -3532,12 +3532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 566018,
@@ -3547,12 +3547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Dortmund",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 566010,
@@ -3562,12 +3562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "FC Augsburg",
+    "court_dom": "Mainz",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 566011,
@@ -3577,12 +3577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "FC Schalke 04",
+    "court_dom": "Stuttgart",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 566012,
@@ -3592,12 +3592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "1. FC Union Berlin",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 566013,
@@ -3607,12 +3607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Freiburg",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 566014,
@@ -3622,12 +3622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "SV Werder Bremen",
+    "court_dom": "HSV",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 566015,
@@ -3637,12 +3637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 566019,
@@ -3652,12 +3652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "SC Freiburg",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 566020,
@@ -3667,12 +3667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "1. FC Köln",
+    "court_dom": "Elversberg",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 566021,
@@ -3682,12 +3682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "Hamburger SV",
+    "court_dom": "Bayern",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 566022,
@@ -3697,12 +3697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Augsburg",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 566023,
@@ -3712,12 +3712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "SV Werder Bremen",
+    "court_dom": "M'gladbach",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 566024,
@@ -3727,12 +3727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "VfB Stuttgart",
+    "court_dom": "Frankfurt",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 566025,
@@ -3742,12 +3742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Union Berlin",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 566026,
@@ -3757,12 +3757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "Borussia Dortmund",
+    "court_dom": "Leverkusen",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 566027,
@@ -3772,12 +3772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "SC Paderborn 07",
+    "court_dom": "Schalke",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 566028,
@@ -3787,12 +3787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Stuttgart",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 566029,
@@ -3802,12 +3802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "FC Bayern München",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 566030,
@@ -3817,12 +3817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "SC Freiburg",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 566031,
@@ -3832,12 +3832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "RB Leipzig",
+    "court_dom": "Mainz",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 566032,
@@ -3847,12 +3847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Bremen",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 566033,
@@ -3862,12 +3862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "FC Schalke 04",
+    "court_dom": "Dortmund",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 566034,
@@ -3877,12 +3877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "1. FC Union Berlin",
+    "court_dom": "HSV",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 566035,
@@ -3892,12 +3892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "M'gladbach",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 566036,
@@ -3907,12 +3907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "FC Augsburg",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 566037,
@@ -3922,12 +3922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "SV Werder Bremen",
+    "court_dom": "Leverkusen",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 566038,
@@ -3937,12 +3937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Frankfurt",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 566039,
@@ -3952,12 +3952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "VfB Stuttgart",
+    "court_dom": "Union Berlin",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 566040,
@@ -3967,12 +3967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Bayern",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 566041,
@@ -3982,12 +3982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "Hamburger SV",
+    "court_dom": "Schalke",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 566042,
@@ -3997,12 +3997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "SC Paderborn 07",
+    "court_dom": "Elversberg",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 566043,
@@ -4012,12 +4012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "Borussia Dortmund",
+    "court_dom": "Augsburg",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 566044,
@@ -4027,12 +4027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Freiburg",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 566045,
@@ -4042,12 +4042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "1. FC Köln",
+    "court_dom": "RB Leipzig",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 566046,
@@ -4057,12 +4057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "FC Bayern München",
+    "court_dom": "Bremen",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 566047,
@@ -4072,12 +4072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "1. FC Köln",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 566048,
@@ -4087,12 +4087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "SV 07 Elversberg",
+    "court_dom": "HSV",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 566049,
@@ -4102,12 +4102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "RB Leipzig",
+    "court_dom": "Dortmund",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 566050,
@@ -4117,12 +4117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "1. FC Union Berlin",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 566051,
@@ -4132,12 +4132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "FC Augsburg",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 566052,
@@ -4147,12 +4147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "SC Freiburg",
+    "court_dom": "Stuttgart",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 566053,
@@ -4162,12 +4162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "FC Schalke 04",
+    "court_dom": "M'gladbach",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 566054,
@@ -4177,12 +4177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Frankfurt",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 566055,
@@ -4192,12 +4192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Schalke",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 566056,
@@ -4207,12 +4207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "SC Paderborn 07",
+    "court_dom": "RB Leipzig",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   },
   {
     "id": 566057,
@@ -4222,12 +4222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "1. FC Köln",
+    "court_dom": "Freiburg",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 566058,
@@ -4237,12 +4237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "Borussia Dortmund",
+    "court_dom": "Mainz",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 566059,
@@ -4252,12 +4252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "VfB Stuttgart",
+    "court_dom": "Augsburg",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 566060,
@@ -4267,12 +4267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "SV Werder Bremen",
+    "court_dom": "Union Berlin",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 566061,
@@ -4282,12 +4282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "Elversberg",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 566062,
@@ -4297,12 +4297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "Hamburger SV",
+    "court_dom": "Leverkusen",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 566063,
@@ -4312,12 +4312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Bayern",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 566064,
@@ -4327,12 +4327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Eintracht Frankfurt",
     "ext": "SV 07 Elversberg",
+    "court_dom": "Frankfurt",
+    "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frankfurt",
-    "court_ext": "Elversberg"
+    "buts_ext": null
   },
   {
     "id": 566065,
@@ -4342,12 +4342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
     "ext": "1. FC Union Berlin",
+    "court_dom": "SC Paderborn",
+    "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "SC Paderborn",
-    "court_ext": "Union Berlin"
+    "buts_ext": null
   },
   {
     "id": 566066,
@@ -4357,12 +4357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "VfB Stuttgart",
     "ext": "RB Leipzig",
+    "court_dom": "Stuttgart",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 566067,
@@ -4372,12 +4372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
     "ext": "1. FC Köln",
+    "court_dom": "Dortmund",
+    "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/1.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "1. FC Köln"
+    "buts_ext": null
   },
   {
     "id": 566068,
@@ -4387,12 +4387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
     "ext": "SC Freiburg",
+    "court_dom": "HSV",
+    "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "HSV",
-    "court_ext": "Freiburg"
+    "buts_ext": null
   },
   {
     "id": 566069,
@@ -4402,12 +4402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
     "ext": "FC Bayern München",
+    "court_dom": "Leverkusen",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leverkusen",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 566070,
@@ -4417,12 +4417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
     "ext": "FC Schalke 04",
+    "court_dom": "Bremen",
+    "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bremen",
-    "court_ext": "Schalke"
+    "buts_ext": null
   },
   {
     "id": 566071,
@@ -4432,12 +4432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
     "ext": "FC Augsburg",
+    "court_dom": "M'gladbach",
+    "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "M'gladbach",
-    "court_ext": "Augsburg"
+    "buts_ext": null
   },
   {
     "id": 566072,
@@ -4447,12 +4447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
     "ext": "1. FSV Mainz 05",
+    "court_dom": "Hoffenheim",
+    "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hoffenheim",
-    "court_ext": "Mainz"
+    "buts_ext": null
   },
   {
     "id": 566073,
@@ -4462,12 +4462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
     "ext": "TSG 1899 Hoffenheim",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Hoffenheim"
+    "buts_ext": null
   },
   {
     "id": 566074,
@@ -4477,12 +4477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
     "ext": "Borussia Mönchengladbach",
+    "court_dom": "Union Berlin",
+    "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/18.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Union Berlin",
-    "court_ext": "M'gladbach"
+    "buts_ext": null
   },
   {
     "id": 566075,
@@ -4492,12 +4492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
     "ext": "VfB Stuttgart",
+    "court_dom": "Mainz",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Mainz",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 566076,
@@ -4507,12 +4507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Schalke 04",
     "ext": "Bayer 04 Leverkusen",
+    "court_dom": "Schalke",
+    "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Schalke",
-    "court_ext": "Leverkusen"
+    "buts_ext": null
   },
   {
     "id": 566077,
@@ -4522,12 +4522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
     "ext": "SV Werder Bremen",
+    "court_dom": "Elversberg",
+    "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elversberg",
-    "court_ext": "Bremen"
+    "buts_ext": null
   },
   {
     "id": 566078,
@@ -4537,12 +4537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
     "ext": "Eintracht Frankfurt",
+    "court_dom": "Bayern",
+    "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Frankfurt"
+    "buts_ext": null
   },
   {
     "id": 566079,
@@ -4552,12 +4552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
     "ext": "Hamburger SV",
+    "court_dom": "Augsburg",
+    "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/7.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Augsburg",
-    "court_ext": "HSV"
+    "buts_ext": null
   },
   {
     "id": 566080,
@@ -4567,12 +4567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
     "ext": "Borussia Dortmund",
+    "court_dom": "Freiburg",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Freiburg",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 566081,
@@ -4582,11 +4582,11 @@
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
     "ext": "SC Paderborn 07",
+    "court_dom": "1. FC Köln",
+    "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "1. FC Köln",
-    "court_ext": "SC Paderborn"
+    "buts_ext": null
   }
 ]

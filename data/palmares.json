@@ -1,0 +1,10 @@
+{
+  "Arsenal FC": [
+    { "titre": "Championnat d'Angleterre", "n": 13, "dernier": 2004 },
+    { "titre": "Coupe d'Angleterre", "n": 14, "dernier": 2020 }
+  ],
+  "Real Madrid CF": [
+    { "titre": "Ligue des champions", "n": 15, "dernier": 2024 },
+    { "titre": "Championnat d'Espagne", "n": 36, "dernier": 2024 }
+  ]
+}

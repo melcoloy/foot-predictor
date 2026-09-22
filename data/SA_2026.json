@@ -7,12 +7,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Como 1907",
+    "court_dom": "Udinese",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Udinese",
-    "court_ext": "Como 1907"
+    "buts_ext": 1
   },
   {
     "id": 558632,
@@ -22,12 +22,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "AC Monza",
+    "court_dom": "Inter",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Inter",
-    "court_ext": "Monza"
+    "buts_ext": 1
   },
   {
     "id": 558631,
@@ -37,12 +37,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "SSC Napoli",
+    "court_dom": "Genoa",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Genoa",
-    "court_ext": "Napoli"
+    "buts_ext": 2
   },
   {
     "id": 558636,
@@ -52,12 +52,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Cagliari Calcio",
+    "court_dom": "Parma",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Parma",
-    "court_ext": "Cagliari"
+    "buts_ext": 1
   },
   {
     "id": 558635,
@@ -67,12 +67,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Juventus FC",
+    "court_dom": "Frosinone",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Frosinone",
-    "court_ext": "Juventus"
+    "buts_ext": 1
   },
   {
     "id": 558637,
@@ -82,12 +82,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "US Lecce",
+    "court_dom": "Venezia FC",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Venezia FC",
-    "court_ext": "Lecce"
+    "buts_ext": 2
   },
   {
     "id": 558633,
@@ -97,12 +97,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Atalanta",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Atalanta",
-    "court_ext": "Sassuolo"
+    "buts_ext": 1
   },
   {
     "id": 558634,
@@ -112,12 +112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "AC Milan",
+    "court_dom": "Torino",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Torino",
-    "court_ext": "Milan"
+    "buts_ext": 2
   },
   {
     "id": 558630,
@@ -127,12 +127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "SS Lazio",
+    "court_dom": "Bologna",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Bologna",
-    "court_ext": "Lazio"
+    "buts_ext": 1
   },
   {
     "id": 558638,
@@ -142,12 +142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "ACF Fiorentina",
+    "court_dom": "Roma",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Roma",
-    "court_ext": "Fiorentina"
+    "buts_ext": 0
   },
   {
     "id": 558625,
@@ -157,12 +157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Venezia FC",
+    "court_dom": "Milan",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Milan",
-    "court_ext": "Venezia FC"
+    "buts_ext": 0
   },
   {
     "id": 558620,
@@ -172,12 +172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Torino FC",
+    "court_dom": "Sassuolo",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Sassuolo",
-    "court_ext": "Torino"
+    "buts_ext": 1
   },
   {
     "id": 558624,
@@ -187,12 +187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Udinese Calcio",
+    "court_dom": "Monza",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Monza",
-    "court_ext": "Udinese"
+    "buts_ext": 3
   },
   {
     "id": 558627,
@@ -202,12 +202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Frosinone Calcio",
+    "court_dom": "Fiorentina",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": 0,
-    "buts_ext": 3,
-    "court_dom": "Fiorentina",
-    "court_ext": "Frosinone"
+    "buts_ext": 3
   },
   {
     "id": 558619,
@@ -217,12 +217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Juventus",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Juventus",
-    "court_ext": "Parma"
+    "buts_ext": 0
   },
   {
     "id": 558626,
@@ -232,12 +232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Como 1907",
+    "court_dom": "Napoli",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Napoli",
-    "court_ext": "Como 1907"
+    "buts_ext": 2
   },
   {
     "id": 558622,
@@ -247,12 +247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Genoa CFC",
+    "court_dom": "Lazio",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Lazio",
-    "court_ext": "Genoa"
+    "buts_ext": 0
   },
   {
     "id": 558623,
@@ -262,12 +262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Cagliari",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Cagliari",
-    "court_ext": "Inter"
+    "buts_ext": 1
   },
   {
     "id": 558621,
@@ -277,12 +277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "AS Roma",
+    "court_dom": "Lecce",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": 0,
-    "buts_ext": 4,
-    "court_dom": "Lecce",
-    "court_ext": "Roma"
+    "buts_ext": 4
   },
   {
     "id": 558628,
@@ -292,12 +292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Bologna FC 1909",
+    "court_dom": "Atalanta",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Atalanta",
-    "court_ext": "Bologna"
+    "buts_ext": 0
   },
   {
     "id": 558609,
@@ -307,12 +307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Como 1907",
+    "court_dom": "Genoa",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": 1,
-    "buts_ext": 4,
-    "court_dom": "Genoa",
-    "court_ext": "Como 1907"
+    "buts_ext": 4
   },
   {
     "id": 558616,
@@ -322,12 +322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Torino FC",
+    "court_dom": "Fiorentina",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Fiorentina",
-    "court_ext": "Torino"
+    "buts_ext": 2
   },
   {
     "id": 558614,
@@ -337,12 +337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "SSC Napoli",
+    "court_dom": "Inter",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Inter",
-    "court_ext": "Napoli"
+    "buts_ext": 2
   },
   {
     "id": 558611,
@@ -352,12 +352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Atalanta BC",
+    "court_dom": "Roma",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Roma",
-    "court_ext": "Atalanta"
+    "buts_ext": 1
   },
   {
     "id": 558612,
@@ -367,12 +367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "AC Monza",
+    "court_dom": "Parma",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Parma",
-    "court_ext": "Monza"
+    "buts_ext": 1
   },
   {
     "id": 558615,
@@ -382,12 +382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Venezia FC",
+    "court_dom": "Frosinone",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Frosinone",
-    "court_ext": "Venezia FC"
+    "buts_ext": 2
   },
   {
     "id": 558613,
@@ -397,12 +397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Bologna",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Bologna",
-    "court_ext": "Sassuolo"
+    "buts_ext": 2
   },
   {
     "id": 558618,
@@ -412,12 +412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "AC Milan",
+    "court_dom": "Juventus",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Juventus",
-    "court_ext": "Milan"
+    "buts_ext": 1
   },
   {
     "id": 558610,
@@ -427,12 +427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "US Lecce",
+    "court_dom": "Cagliari",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Cagliari",
-    "court_ext": "Lecce"
+    "buts_ext": 0
   },
   {
     "id": 558617,
@@ -442,12 +442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "SS Lazio",
+    "court_dom": "Udinese",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Udinese",
-    "court_ext": "Lazio"
+    "buts_ext": 2
   },
   {
     "id": 558606,
@@ -457,12 +457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "ACF Fiorentina",
+    "court_dom": "Venezia FC",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": 2,
-    "buts_ext": 4,
-    "court_dom": "Venezia FC",
-    "court_ext": "Fiorentina"
+    "buts_ext": 4
   },
   {
     "id": 558604,
@@ -472,12 +472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Frosinone Calcio",
+    "court_dom": "Genoa",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Genoa",
-    "court_ext": "Frosinone"
+    "buts_ext": 1
   },
   {
     "id": 558600,
@@ -487,12 +487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "AC Milan",
+    "court_dom": "Lazio",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Lazio",
-    "court_ext": "Milan"
+    "buts_ext": 2
   },
   {
     "id": 558607,
@@ -502,12 +502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Cagliari Calcio",
+    "court_dom": "Atalanta",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Atalanta",
-    "court_ext": "Cagliari"
+    "buts_ext": 2
   },
   {
     "id": 558605,
@@ -517,12 +517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "AC Monza",
+    "court_dom": "Lecce",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Lecce",
-    "court_ext": "Monza"
+    "buts_ext": 2
   },
   {
     "id": 558599,
@@ -532,12 +532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Bologna FC 1909",
+    "court_dom": "Napoli",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Napoli",
-    "court_ext": "Bologna"
+    "buts_ext": 0
   },
   {
     "id": 558608,
@@ -547,12 +547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Juventus FC",
+    "court_dom": "Sassuolo",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Sassuolo",
-    "court_ext": "Juventus"
+    "buts_ext": 2
   },
   {
     "id": 558602,
@@ -562,12 +562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Como 1907",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Como 1907",
-    "court_ext": "Parma"
+    "buts_ext": 1
   },
   {
     "id": 558603,
@@ -577,12 +577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "AS Roma",
+    "court_dom": "Torino",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Torino",
-    "court_ext": "Roma"
+    "buts_ext": 2
   },
   {
     "id": 558601,
@@ -592,12 +592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Udinese Calcio",
+    "court_dom": "Inter",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": 5,
-    "buts_ext": 3,
-    "court_dom": "Inter",
-    "court_ext": "Udinese"
+    "buts_ext": 3
   },
   {
     "id": 558596,
@@ -607,12 +607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Monza",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Monza",
-    "court_ext": "Sassuolo"
+    "buts_ext": 1
   },
   {
     "id": 558598,
@@ -622,12 +622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Torino FC",
+    "court_dom": "Bologna",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Bologna",
-    "court_ext": "Torino"
+    "buts_ext": 1
   },
   {
     "id": 558589,
@@ -637,12 +637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Cagliari Calcio",
+    "court_dom": "Udinese",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Udinese",
-    "court_ext": "Cagliari"
+    "buts_ext": 1
   },
   {
     "id": 558593,
@@ -652,12 +652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Roma",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Roma",
-    "court_ext": "Inter"
+    "buts_ext": 2
   },
   {
     "id": 558594,
@@ -667,12 +667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "SS Lazio",
+    "court_dom": "Venezia FC",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Venezia FC",
-    "court_ext": "Lazio"
+    "buts_ext": 2
   },
   {
     "id": 558591,
@@ -682,12 +682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "SSC Napoli",
+    "court_dom": "Fiorentina",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Fiorentina",
-    "court_ext": "Napoli"
+    "buts_ext": 1
   },
   {
     "id": 558592,
@@ -697,12 +697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Como 1907",
+    "court_dom": "Frosinone",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Frosinone",
-    "court_ext": "Como 1907"
+    "buts_ext": 0
   },
   {
     "id": 558590,
@@ -712,12 +712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Genoa CFC",
+    "court_dom": "Parma",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Parma",
-    "court_ext": "Genoa"
+    "buts_ext": 1
   },
   {
     "id": 558595,
@@ -727,12 +727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Atalanta BC",
+    "court_dom": "Juventus",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Juventus",
-    "court_ext": "Atalanta"
+    "buts_ext": 0
   },
   {
     "id": 558597,
@@ -742,12 +742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "US Lecce",
+    "court_dom": "Milan",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Milan",
-    "court_ext": "Lecce"
+    "buts_ext": 0
   },
   {
     "id": 558588,
@@ -757,12 +757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "ACF Fiorentina",
+    "court_dom": "Genoa",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558582,
@@ -772,12 +772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Inter",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558586,
@@ -787,12 +787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Frosinone Calcio",
+    "court_dom": "Napoli",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558585,
@@ -802,12 +802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "AS Roma",
+    "court_dom": "Como 1907",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558581,
@@ -817,12 +817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Bologna FC 1909",
+    "court_dom": "Lecce",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558583,
@@ -832,12 +832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "AC Monza",
+    "court_dom": "Lazio",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558580,
@@ -847,12 +847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "AC Milan",
+    "court_dom": "Sassuolo",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558584,
@@ -862,12 +862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Juventus FC",
+    "court_dom": "Cagliari",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558579,
@@ -877,12 +877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Venezia FC",
+    "court_dom": "Atalanta",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558587,
@@ -892,12 +892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Udinese Calcio",
+    "court_dom": "Torino",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558573,
@@ -907,12 +907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Frosinone",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558575,
@@ -922,12 +922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "SSC Napoli",
+    "court_dom": "Venezia FC",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558571,
@@ -937,12 +937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Bologna",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558572,
@@ -952,12 +952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Genoa CFC",
+    "court_dom": "Roma",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558574,
@@ -967,12 +967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "US Lecce",
+    "court_dom": "Udinese",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558577,
@@ -982,12 +982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Como 1907",
+    "court_dom": "Fiorentina",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558569,
@@ -997,12 +997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Atalanta BC",
+    "court_dom": "Milan",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558570,
@@ -1012,12 +1012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "SS Lazio",
+    "court_dom": "Juventus",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558576,
@@ -1027,12 +1027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Cagliari Calcio",
+    "court_dom": "Monza",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558578,
@@ -1042,12 +1042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Torino FC",
+    "court_dom": "Parma",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558567,
@@ -1057,12 +1057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "AC Monza",
+    "court_dom": "Torino",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558560,
@@ -1072,12 +1072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Bologna FC 1909",
+    "court_dom": "Cagliari",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558561,
@@ -1087,12 +1087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Como 1907",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558564,
@@ -1102,12 +1102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "AS Roma",
+    "court_dom": "Napoli",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558565,
@@ -1117,12 +1117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Lazio",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558563,
@@ -1132,12 +1132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "ACF Fiorentina",
+    "court_dom": "Inter",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558562,
@@ -1147,12 +1147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Frosinone Calcio",
+    "court_dom": "Atalanta",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558568,
@@ -1162,12 +1162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Venezia FC",
+    "court_dom": "Genoa",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558566,
@@ -1177,12 +1177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Juventus FC",
+    "court_dom": "Lecce",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558559,
@@ -1192,12 +1192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "AC Milan",
+    "court_dom": "Udinese",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558556,
@@ -1207,12 +1207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "SS Lazio",
+    "court_dom": "Sassuolo",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558555,
@@ -1222,12 +1222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Cagliari Calcio",
+    "court_dom": "Roma",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558557,
@@ -1237,12 +1237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Como 1907",
+    "court_dom": "Torino",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558549,
@@ -1252,12 +1252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Bologna FC 1909",
+    "court_dom": "Milan",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558550,
@@ -1267,12 +1267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Venezia FC",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558553,
@@ -1282,12 +1282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Udinese Calcio",
+    "court_dom": "Parma",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558552,
@@ -1297,12 +1297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Juventus FC",
+    "court_dom": "Genoa",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558554,
@@ -1312,12 +1312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "SSC Napoli",
+    "court_dom": "Monza",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558558,
@@ -1327,12 +1327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "US Lecce",
+    "court_dom": "Frosinone",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558551,
@@ -1342,12 +1342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Atalanta BC",
+    "court_dom": "Fiorentina",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558539,
@@ -1357,12 +1357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "AC Monza",
+    "court_dom": "Bologna",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558542,
@@ -1372,12 +1372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "AS Roma",
+    "court_dom": "Udinese",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558548,
@@ -1387,12 +1387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Milan",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558543,
@@ -1402,12 +1402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Venezia FC",
+    "court_dom": "Como 1907",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558544,
@@ -1417,12 +1417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Torino FC",
+    "court_dom": "Frosinone",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558546,
@@ -1432,12 +1432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Cagliari Calcio",
+    "court_dom": "Lazio",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558540,
@@ -1447,12 +1447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Genoa CFC",
+    "court_dom": "Lecce",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558547,
@@ -1462,12 +1462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "SSC Napoli",
+    "court_dom": "Juventus",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558541,
@@ -1477,12 +1477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "ACF Fiorentina",
+    "court_dom": "Sassuolo",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558545,
@@ -1492,12 +1492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Atalanta",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558537,
@@ -1507,12 +1507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Udinese Calcio",
+    "court_dom": "Venezia FC",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558532,
@@ -1522,12 +1522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "US Lecce",
+    "court_dom": "Torino",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558534,
@@ -1537,12 +1537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Frosinone Calcio",
+    "court_dom": "Cagliari",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558535,
@@ -1552,12 +1552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Bologna FC 1909",
+    "court_dom": "Parma",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558531,
@@ -1567,12 +1567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Roma",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558533,
@@ -1582,12 +1582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "SS Lazio",
+    "court_dom": "Napoli",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558536,
@@ -1597,12 +1597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "AC Milan",
+    "court_dom": "Genoa",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558538,
@@ -1612,12 +1612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Atalanta BC",
+    "court_dom": "Monza",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558530,
@@ -1627,12 +1627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Como 1907",
+    "court_dom": "Inter",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558529,
@@ -1642,12 +1642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Juventus FC",
+    "court_dom": "Fiorentina",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558525,
@@ -1657,12 +1657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Cagliari Calcio",
+    "court_dom": "Como 1907",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558528,
@@ -1672,12 +1672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "US Lecce",
+    "court_dom": "Lazio",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558526,
@@ -1687,12 +1687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "AS Roma",
+    "court_dom": "Parma",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558527,
@@ -1702,12 +1702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Torino FC",
+    "court_dom": "Napoli",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558524,
@@ -1717,12 +1717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Genoa CFC",
+    "court_dom": "Sassuolo",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558523,
@@ -1732,12 +1732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Frosinone Calcio",
+    "court_dom": "Milan",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558522,
@@ -1747,12 +1747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Udinese Calcio",
+    "court_dom": "Bologna",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558520,
@@ -1762,12 +1762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Atalanta",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558519,
@@ -1777,12 +1777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "ACF Fiorentina",
+    "court_dom": "Monza",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558521,
@@ -1792,12 +1792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Venezia FC",
+    "court_dom": "Juventus",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558509,
@@ -1807,12 +1807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "SSC Napoli",
+    "court_dom": "Sassuolo",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558510,
@@ -1822,12 +1822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "AC Milan",
+    "court_dom": "Cagliari",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558511,
@@ -1837,12 +1837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Juventus FC",
+    "court_dom": "Como 1907",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558512,
@@ -1852,12 +1852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "AC Monza",
+    "court_dom": "Roma",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558513,
@@ -1867,12 +1867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Frosinone",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558514,
@@ -1882,12 +1882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "SS Lazio",
+    "court_dom": "Torino",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558515,
@@ -1897,12 +1897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Bologna FC 1909",
+    "court_dom": "Venezia FC",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558516,
@@ -1912,12 +1912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Atalanta BC",
+    "court_dom": "Lecce",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558517,
@@ -1927,12 +1927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "ACF Fiorentina",
+    "court_dom": "Udinese",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558518,
@@ -1942,12 +1942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Genoa CFC",
+    "court_dom": "Inter",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558499,
@@ -1957,12 +1957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Torino FC",
+    "court_dom": "Genoa",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558500,
@@ -1972,12 +1972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Udinese Calcio",
+    "court_dom": "Juventus",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558501,
@@ -1987,12 +1987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Frosinone",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558502,
@@ -2002,12 +2002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "AS Roma",
+    "court_dom": "Bologna",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558503,
@@ -2017,12 +2017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Cagliari Calcio",
+    "court_dom": "Fiorentina",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558504,
@@ -2032,12 +2032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Atalanta BC",
+    "court_dom": "Lazio",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558505,
@@ -2047,12 +2047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Milan",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558506,
@@ -2062,12 +2062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Venezia FC",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558507,
@@ -2077,12 +2077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Como 1907",
+    "court_dom": "Monza",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558508,
@@ -2092,12 +2092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "US Lecce",
+    "court_dom": "Napoli",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558489,
@@ -2107,12 +2107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "AC Milan",
+    "court_dom": "Napoli",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558490,
@@ -2122,12 +2122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Bologna FC 1909",
+    "court_dom": "Como 1907",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558491,
@@ -2137,12 +2137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Frosinone Calcio",
+    "court_dom": "Udinese",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558492,
@@ -2152,12 +2152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Lecce",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558493,
@@ -2167,12 +2167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "ACF Fiorentina",
+    "court_dom": "Parma",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558494,
@@ -2182,12 +2182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Venezia FC",
+    "court_dom": "Cagliari",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558495,
@@ -2197,12 +2197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Torino FC",
+    "court_dom": "Inter",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558496,
@@ -2212,12 +2212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "AC Monza",
+    "court_dom": "Juventus",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558497,
@@ -2227,12 +2227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Genoa CFC",
+    "court_dom": "Atalanta",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558498,
@@ -2242,12 +2242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "AS Roma",
+    "court_dom": "Lazio",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558479,
@@ -2257,12 +2257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Como 1907",
+    "court_dom": "Milan",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558480,
@@ -2272,12 +2272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Sassuolo",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558481,
@@ -2287,12 +2287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Juventus FC",
+    "court_dom": "Roma",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558482,
@@ -2302,12 +2302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "SS Lazio",
+    "court_dom": "Frosinone",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558483,
@@ -2317,12 +2317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "SSC Napoli",
+    "court_dom": "Atalanta",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558484,
@@ -2332,12 +2332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Bologna FC 1909",
+    "court_dom": "Fiorentina",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558485,
@@ -2347,12 +2347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Udinese Calcio",
+    "court_dom": "Genoa",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558486,
@@ -2362,12 +2362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Lecce",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558487,
@@ -2377,12 +2377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Cagliari Calcio",
+    "court_dom": "Torino",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558488,
@@ -2392,12 +2392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "AC Monza",
+    "court_dom": "Venezia FC",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558469,
@@ -2407,12 +2407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Atalanta BC",
+    "court_dom": "Udinese",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558470,
@@ -2422,12 +2422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "US Lecce",
+    "court_dom": "Como 1907",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558471,
@@ -2437,12 +2437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Frosinone Calcio",
+    "court_dom": "Roma",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558472,
@@ -2452,12 +2452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "SSC Napoli",
+    "court_dom": "Parma",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558473,
@@ -2467,12 +2467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Genoa CFC",
+    "court_dom": "Cagliari",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558474,
@@ -2482,12 +2482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Venezia FC",
+    "court_dom": "Torino",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558475,
@@ -2497,12 +2497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "AC Milan",
+    "court_dom": "Monza",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558476,
@@ -2512,12 +2512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Inter",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558477,
@@ -2527,12 +2527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Juventus FC",
+    "court_dom": "Bologna",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558478,
@@ -2542,12 +2542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "SS Lazio",
+    "court_dom": "Fiorentina",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558459,
@@ -2557,12 +2557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Bologna FC 1909",
+    "court_dom": "Frosinone",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558460,
@@ -2572,12 +2572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Udinese Calcio",
+    "court_dom": "Sassuolo",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558461,
@@ -2587,12 +2587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "AC Monza",
+    "court_dom": "Genoa",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558462,
@@ -2602,12 +2602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "AS Roma",
+    "court_dom": "Venezia FC",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558463,
@@ -2617,12 +2617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Cagliari Calcio",
+    "court_dom": "Napoli",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558464,
@@ -2632,12 +2632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "ACF Fiorentina",
+    "court_dom": "Milan",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558465,
@@ -2647,12 +2647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Torino FC",
+    "court_dom": "Juventus",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558466,
@@ -2662,12 +2662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Como 1907",
+    "court_dom": "Atalanta",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558467,
@@ -2677,12 +2677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Lazio",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558468,
@@ -2692,12 +2692,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Lecce",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558449,
@@ -2707,12 +2707,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "US Lecce",
+    "court_dom": "Fiorentina",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558450,
@@ -2722,12 +2722,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "SSC Napoli",
+    "court_dom": "Udinese",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558451,
@@ -2737,12 +2737,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Atalanta BC",
+    "court_dom": "Torino",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558452,
@@ -2752,12 +2752,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Frosinone Calcio",
+    "court_dom": "Monza",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558453,
@@ -2767,12 +2767,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Juventus FC",
+    "court_dom": "Inter",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558454,
@@ -2782,12 +2782,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Venezia FC",
+    "court_dom": "Parma",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558455,
@@ -2797,12 +2797,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Genoa CFC",
+    "court_dom": "Bologna",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558456,
@@ -2812,12 +2812,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Cagliari",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558457,
@@ -2827,12 +2827,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "SS Lazio",
+    "court_dom": "Como 1907",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558458,
@@ -2842,12 +2842,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "AC Milan",
+    "court_dom": "Roma",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558439,
@@ -2857,12 +2857,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Torino FC",
+    "court_dom": "Milan",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558440,
@@ -2872,12 +2872,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Parma",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558441,
@@ -2887,12 +2887,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Genoa CFC",
+    "court_dom": "Juventus",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558442,
@@ -2902,12 +2902,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Udinese Calcio",
+    "court_dom": "Lecce",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558443,
@@ -2917,12 +2917,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Como 1907",
+    "court_dom": "Cagliari",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558444,
@@ -2932,12 +2932,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "AC Monza",
+    "court_dom": "Sassuolo",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558445,
@@ -2947,12 +2947,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "ACF Fiorentina",
+    "court_dom": "Napoli",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558446,
@@ -2962,12 +2962,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Bologna FC 1909",
+    "court_dom": "Lazio",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558447,
@@ -2977,12 +2977,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Frosinone Calcio",
+    "court_dom": "Venezia FC",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558448,
@@ -2992,12 +2992,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "AS Roma",
+    "court_dom": "Atalanta",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558429,
@@ -3007,12 +3007,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Torino FC",
+    "court_dom": "Lecce",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558430,
@@ -3022,12 +3022,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Cagliari Calcio",
+    "court_dom": "Juventus",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558431,
@@ -3037,12 +3037,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Venezia FC",
+    "court_dom": "Inter",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558432,
@@ -3052,12 +3052,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Fiorentina",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558433,
@@ -3067,12 +3067,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "AC Milan",
+    "court_dom": "Frosinone",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558434,
@@ -3082,12 +3082,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Udinese Calcio",
+    "court_dom": "Roma",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558435,
@@ -3097,12 +3097,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Atalanta BC",
+    "court_dom": "Bologna",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558436,
@@ -3112,12 +3112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Genoa",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558437,
@@ -3127,12 +3127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "SSC Napoli",
+    "court_dom": "Como 1907",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558438,
@@ -3142,12 +3142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "SS Lazio",
+    "court_dom": "Monza",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558419,
@@ -3157,12 +3157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Juventus FC",
+    "court_dom": "Milan",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558420,
@@ -3172,12 +3172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "AS Roma",
+    "court_dom": "Monza",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558421,
@@ -3187,12 +3187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Frosinone Calcio",
+    "court_dom": "Torino",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558422,
@@ -3202,12 +3202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Bologna FC 1909",
+    "court_dom": "Udinese",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558423,
@@ -3217,12 +3217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Como 1907",
+    "court_dom": "Sassuolo",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558424,
@@ -3232,12 +3232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "US Lecce",
+    "court_dom": "Genoa",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558425,
@@ -3247,12 +3247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Cagliari",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558426,
@@ -3262,12 +3262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "ACF Fiorentina",
+    "court_dom": "Atalanta",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558427,
@@ -3277,12 +3277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Venezia FC",
+    "court_dom": "Lazio",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558428,
@@ -3292,12 +3292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Napoli",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558409,
@@ -3307,12 +3307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Juventus",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558410,
@@ -3322,12 +3322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Cagliari Calcio",
+    "court_dom": "Inter",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558411,
@@ -3337,12 +3337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "AC Monza",
+    "court_dom": "Como 1907",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558412,
@@ -3352,12 +3352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "SSC Napoli",
+    "court_dom": "Lecce",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558413,
@@ -3367,12 +3367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Genoa CFC",
+    "court_dom": "Venezia FC",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558414,
@@ -3382,12 +3382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Torino FC",
+    "court_dom": "Roma",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558415,
@@ -3397,12 +3397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "SS Lazio",
+    "court_dom": "Atalanta",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558416,
@@ -3412,12 +3412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Frosinone Calcio",
+    "court_dom": "Parma",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558417,
@@ -3427,12 +3427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "AC Milan",
+    "court_dom": "Bologna",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558418,
@@ -3442,12 +3442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Udinese Calcio",
+    "court_dom": "Fiorentina",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558399,
@@ -3457,12 +3457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Juventus FC",
+    "court_dom": "Napoli",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558400,
@@ -3472,12 +3472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "US Lecce",
+    "court_dom": "Monza",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558401,
@@ -3487,12 +3487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Torino",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558402,
@@ -3502,12 +3502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "ACF Fiorentina",
+    "court_dom": "Frosinone",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558403,
@@ -3517,12 +3517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Como 1907",
+    "court_dom": "Bologna",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558404,
@@ -3532,12 +3532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Roma",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558405,
@@ -3547,12 +3547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Venezia FC",
+    "court_dom": "Udinese",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558406,
@@ -3562,12 +3562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Atalanta BC",
+    "court_dom": "Genoa",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558407,
@@ -3577,12 +3577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "SS Lazio",
+    "court_dom": "Cagliari",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558408,
@@ -3592,12 +3592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "AC Milan",
+    "court_dom": "Inter",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558389,
@@ -3607,12 +3607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Torino FC",
+    "court_dom": "Como 1907",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558390,
@@ -3622,12 +3622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "AC Monza",
+    "court_dom": "Atalanta",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558391,
@@ -3637,12 +3637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Udinese",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558392,
@@ -3652,12 +3652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Bologna FC 1909",
+    "court_dom": "Juventus",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558393,
@@ -3667,12 +3667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Fiorentina",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558394,
@@ -3682,12 +3682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "AS Roma",
+    "court_dom": "Sassuolo",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558395,
@@ -3697,12 +3697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Genoa CFC",
+    "court_dom": "Milan",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558396,
@@ -3712,12 +3712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Cagliari Calcio",
+    "court_dom": "Venezia FC",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558397,
@@ -3727,12 +3727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Frosinone Calcio",
+    "court_dom": "Lecce",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558398,
@@ -3742,12 +3742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "SSC Napoli",
+    "court_dom": "Lazio",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558379,
@@ -3757,12 +3757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Atalanta BC",
+    "court_dom": "Inter",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558380,
@@ -3772,12 +3772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Udinese Calcio",
+    "court_dom": "Cagliari",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558381,
@@ -3787,12 +3787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Parma",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558382,
@@ -3802,12 +3802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "SS Lazio",
+    "court_dom": "Genoa",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558383,
@@ -3817,12 +3817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Venezia FC",
+    "court_dom": "Roma",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558384,
@@ -3832,12 +3832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "AC Milan",
+    "court_dom": "Como 1907",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558385,
@@ -3847,12 +3847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "ACF Fiorentina",
+    "court_dom": "Torino",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558386,
@@ -3862,12 +3862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "US Lecce",
+    "court_dom": "Bologna",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558387,
@@ -3877,12 +3877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Juventus FC",
+    "court_dom": "Monza",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558388,
@@ -3892,12 +3892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "SSC Napoli",
+    "court_dom": "Frosinone",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558369,
@@ -3907,12 +3907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Udinese",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558370,
@@ -3922,12 +3922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Torino FC",
+    "court_dom": "Atalanta",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558371,
@@ -3937,12 +3937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Napoli",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558372,
@@ -3952,12 +3952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Como 1907",
+    "court_dom": "Lecce",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558373,
@@ -3967,12 +3967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Frosinone Calcio",
+    "court_dom": "Lazio",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558374,
@@ -3982,12 +3982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Bologna FC 1909",
+    "court_dom": "Sassuolo",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558375,
@@ -3997,12 +3997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Genoa CFC",
+    "court_dom": "Monza",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558376,
@@ -4012,12 +4012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Venezia FC",
+    "court_dom": "Fiorentina",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558377,
@@ -4027,12 +4027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Cagliari Calcio",
+    "court_dom": "Milan",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558378,
@@ -4042,12 +4042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "AS Roma",
+    "court_dom": "Juventus",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558359,
@@ -4057,12 +4057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "SSC Napoli",
+    "court_dom": "Bologna",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558360,
@@ -4072,12 +4072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "ACF Fiorentina",
+    "court_dom": "Cagliari",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558361,
@@ -4087,12 +4087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Milan",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558362,
@@ -4102,12 +4102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "AS Roma",
+    "court_dom": "Genoa",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558363,
@@ -4117,12 +4117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "US Lecce",
+    "court_dom": "Parma",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558364,
@@ -4132,12 +4132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Torino",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558365,
@@ -4147,12 +4147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "AC Monza",
+    "court_dom": "Frosinone",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558366,
@@ -4162,12 +4162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Udinese Calcio",
+    "court_dom": "Como 1907",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558367,
@@ -4177,12 +4177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Juventus FC",
+    "court_dom": "Lazio",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558368,
@@ -4192,12 +4192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Atalanta BC",
+    "court_dom": "Venezia FC",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558349,
@@ -4207,12 +4207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Venezia FC",
+    "court_dom": "Napoli",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558350,
@@ -4222,12 +4222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Torino FC",
+    "court_dom": "Udinese",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558351,
@@ -4237,12 +4237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Como 1907",
+    "court_dom": "Juventus",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558352,
@@ -4252,12 +4252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Genoa CFC",
+    "court_dom": "Fiorentina",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558353,
@@ -4267,12 +4267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "SS Lazio",
+    "court_dom": "Parma",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558354,
@@ -4282,12 +4282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Cagliari Calcio",
+    "court_dom": "Sassuolo",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558355,
@@ -4297,12 +4297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Bologna FC 1909",
+    "court_dom": "Monza",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558356,
@@ -4312,12 +4312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Frosinone Calcio",
+    "court_dom": "Inter",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558357,
@@ -4327,12 +4327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "US Lecce",
+    "court_dom": "Roma",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558358,
@@ -4342,12 +4342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "AC Milan",
+    "court_dom": "Atalanta",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558339,
@@ -4357,12 +4357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "SS Lazio",
+    "court_dom": "Lecce",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558340,
@@ -4372,12 +4372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "SSC Napoli",
+    "court_dom": "Cagliari",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558341,
@@ -4387,12 +4387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "ACF Fiorentina",
+    "court_dom": "Como 1907",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558342,
@@ -4402,12 +4402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Atalanta BC",
+    "court_dom": "Sassuolo",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558343,
@@ -4417,12 +4417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Bologna FC 1909",
+    "court_dom": "Roma",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558344,
@@ -4432,12 +4432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "AC Monza",
+    "court_dom": "Milan",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558345,
@@ -4447,12 +4447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Genoa",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558346,
@@ -4462,12 +4462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Juventus FC",
+    "court_dom": "Torino",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558347,
@@ -4477,12 +4477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Venezia FC",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558348,
@@ -4492,12 +4492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Udinese Calcio",
+    "court_dom": "Frosinone",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558336,
@@ -4507,12 +4507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "US Lecce",
+    "court_dom": "Juventus",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558337,
@@ -4522,12 +4522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Napoli",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558338,
@@ -4537,12 +4537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "AC Milan",
+    "court_dom": "Fiorentina",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558329,
@@ -4552,12 +4552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Torino FC",
+    "court_dom": "Lazio",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558330,
@@ -4567,12 +4567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Atalanta BC",
+    "court_dom": "Cagliari",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558331,
@@ -4582,12 +4582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Como 1907",
+    "court_dom": "Parma",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558332,
@@ -4597,12 +4597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Venezia FC",
+    "court_dom": "Bologna",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558333,
@@ -4612,12 +4612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Genoa CFC",
+    "court_dom": "Frosinone",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558334,
@@ -4627,12 +4627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "AS Roma",
+    "court_dom": "Inter",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558335,
@@ -4642,12 +4642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "AC Monza",
+    "court_dom": "Udinese",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558319,
@@ -4657,12 +4657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Monza",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558320,
@@ -4672,12 +4672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Fiorentina",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558321,
@@ -4687,12 +4687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "SS Lazio",
+    "court_dom": "Roma",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558322,
@@ -4702,12 +4702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Frosinone Calcio",
+    "court_dom": "Como 1907",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558323,
@@ -4717,12 +4717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "US Lecce",
+    "court_dom": "Sassuolo",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558324,
@@ -4732,12 +4732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Cagliari Calcio",
+    "court_dom": "Bologna",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558325,
@@ -4747,12 +4747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Udinese Calcio",
+    "court_dom": "Atalanta",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558326,
@@ -4762,12 +4762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Juventus FC",
+    "court_dom": "Venezia FC",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558327,
@@ -4777,12 +4777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "SSC Napoli",
+    "court_dom": "Milan",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558328,
@@ -4792,12 +4792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Genoa CFC",
+    "court_dom": "Torino",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558309,
@@ -4807,12 +4807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "AS Roma",
+    "court_dom": "Frosinone",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558310,
@@ -4822,12 +4822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "AC Monza",
+    "court_dom": "Cagliari",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558311,
@@ -4837,12 +4837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Udinese Calcio",
+    "court_dom": "Napoli",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558312,
@@ -4852,12 +4852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Atalanta BC",
+    "court_dom": "Parma",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558313,
@@ -4867,12 +4867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Como 1907",
+    "court_dom": "Lazio",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558314,
@@ -4882,12 +4882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "ACF Fiorentina",
+    "court_dom": "Juventus",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558315,
@@ -4897,12 +4897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Genoa",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558316,
@@ -4912,12 +4912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "AC Milan",
+    "court_dom": "Lecce",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558317,
@@ -4927,12 +4927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Torino FC",
+    "court_dom": "Venezia FC",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558318,
@@ -4942,12 +4942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "Bologna FC 1909",
+    "court_dom": "Inter",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558299,
@@ -4957,12 +4957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "Juventus FC",
+    "court_dom": "Atalanta",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558300,
@@ -4972,12 +4972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Torino",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558301,
@@ -4987,12 +4987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "SS Lazio",
+    "court_dom": "Milan",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558302,
@@ -5002,12 +5002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Genoa CFC",
+    "court_dom": "Udinese",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558303,
@@ -5017,12 +5017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Frosinone Calcio",
+    "court_dom": "Sassuolo",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558304,
@@ -5032,12 +5032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "ACF Fiorentina",
+    "court_dom": "Bologna",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558305,
@@ -5047,12 +5047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Como 1907",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558306,
@@ -5062,12 +5062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Venezia FC",
+    "court_dom": "Monza",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558307,
@@ -5077,12 +5077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Cagliari Calcio",
+    "court_dom": "Lecce",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558308,
@@ -5092,12 +5092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "SSC Napoli",
+    "court_dom": "Roma",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558289,
@@ -5107,12 +5107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "AC Milan",
+    "court_dom": "Parma",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558290,
@@ -5122,12 +5122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Cagliari Calcio",
+    "court_dom": "Genoa",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558291,
@@ -5137,12 +5137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Lazio",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558292,
@@ -5152,12 +5152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "AC Monza",
+    "court_dom": "Napoli",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558293,
@@ -5167,12 +5167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "US Lecce",
+    "court_dom": "Inter",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558294,
@@ -5182,12 +5182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "Como 1907",
+    "court_dom": "Venezia FC",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558295,
@@ -5197,12 +5197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "Juventus FC",
+    "court_dom": "Udinese",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558296,
@@ -5212,12 +5212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "Bologna FC 1909",
+    "court_dom": "Torino",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558297,
@@ -5227,12 +5227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Atalanta BC",
+    "court_dom": "Frosinone",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558298,
@@ -5242,12 +5242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "AS Roma",
+    "court_dom": "Fiorentina",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558279,
@@ -5257,12 +5257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Genoa CFC",
+    "court_dom": "Napoli",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558280,
@@ -5272,12 +5272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "ACF Fiorentina",
+    "court_dom": "Lecce",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558281,
@@ -5287,12 +5287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "Udinese Calcio",
+    "court_dom": "Lazio",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558282,
@@ -5302,12 +5302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Frosinone Calcio",
+    "court_dom": "Bologna",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558283,
@@ -5317,12 +5317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Atalanta BC",
+    "court_dom": "Como 1907",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558284,
@@ -5332,12 +5332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Juventus",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558285,
@@ -5347,12 +5347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "Venezia FC",
+    "court_dom": "Sassuolo",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558286,
@@ -5362,12 +5362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Monza",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Parma"
+    "buts_ext": null
   },
   {
     "id": 558287,
@@ -5377,12 +5377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "AS Roma",
+    "court_dom": "Milan",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558288,
@@ -5392,12 +5392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "Torino FC",
+    "court_dom": "Cagliari",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558269,
@@ -5407,12 +5407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
     "ext": "Como 1907",
+    "court_dom": "Roma",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 558270,
@@ -5422,12 +5422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
     "ext": "Juventus FC",
+    "court_dom": "Parma",
+    "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/109.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Parma",
-    "court_ext": "Juventus"
+    "buts_ext": null
   },
   {
     "id": 558271,
@@ -5437,12 +5437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
     "ext": "SSC Napoli",
+    "court_dom": "Torino",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Torino",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 558272,
@@ -5452,12 +5452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
     "ext": "US Lecce",
+    "court_dom": "Atalanta",
+    "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atalanta",
-    "court_ext": "Lecce"
+    "buts_ext": null
   },
   {
     "id": 558273,
@@ -5467,12 +5467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
     "ext": "SS Lazio",
+    "court_dom": "Inter",
+    "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/110.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Lazio"
+    "buts_ext": null
   },
   {
     "id": 558274,
@@ -5482,12 +5482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
     "ext": "US Sassuolo Calcio",
+    "court_dom": "Udinese",
+    "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/471.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Udinese",
-    "court_ext": "Sassuolo"
+    "buts_ext": null
   },
   {
     "id": 558275,
@@ -5497,12 +5497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
     "ext": "Cagliari Calcio",
+    "court_dom": "Frosinone",
+    "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/104.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Frosinone",
-    "court_ext": "Cagliari"
+    "buts_ext": null
   },
   {
     "id": 558276,
@@ -5512,12 +5512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
     "ext": "AC Monza",
+    "court_dom": "Fiorentina",
+    "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fiorentina",
-    "court_ext": "Monza"
+    "buts_ext": null
   },
   {
     "id": 558277,
@@ -5527,12 +5527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
     "ext": "AC Milan",
+    "court_dom": "Venezia FC",
+    "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/98.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Venezia FC",
-    "court_ext": "Milan"
+    "buts_ext": null
   },
   {
     "id": 558278,
@@ -5542,12 +5542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
     "ext": "Bologna FC 1909",
+    "court_dom": "Genoa",
+    "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/103.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Genoa",
-    "court_ext": "Bologna"
+    "buts_ext": null
   },
   {
     "id": 558259,
@@ -5557,12 +5557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
     "ext": "Udinese Calcio",
+    "court_dom": "Milan",
+    "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/115.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Milan",
-    "court_ext": "Udinese"
+    "buts_ext": null
   },
   {
     "id": 558260,
@@ -5572,12 +5572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
     "ext": "Frosinone Calcio",
+    "court_dom": "Juventus",
+    "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/470.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Juventus",
-    "court_ext": "Frosinone"
+    "buts_ext": null
   },
   {
     "id": 558261,
@@ -5587,12 +5587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
     "ext": "Torino FC",
+    "court_dom": "Monza",
+    "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/586.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monza",
-    "court_ext": "Torino"
+    "buts_ext": null
   },
   {
     "id": 558262,
@@ -5602,12 +5602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Sassuolo",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sassuolo",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 558263,
@@ -5617,12 +5617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
     "ext": "AS Roma",
+    "court_dom": "Cagliari",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Cagliari",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 558264,
@@ -5632,12 +5632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
     "ext": "ACF Fiorentina",
+    "court_dom": "Lazio",
+    "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/99.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lazio",
-    "court_ext": "Fiorentina"
+    "buts_ext": null
   },
   {
     "id": 558265,
@@ -5647,12 +5647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
     "ext": "Genoa CFC",
+    "court_dom": "Como 1907",
+    "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Genoa"
+    "buts_ext": null
   },
   {
     "id": 558266,
@@ -5662,12 +5662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
     "ext": "Atalanta BC",
+    "court_dom": "Napoli",
+    "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/102.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Atalanta"
+    "buts_ext": null
   },
   {
     "id": 558267,
@@ -5677,12 +5677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
     "ext": "Venezia FC",
+    "court_dom": "Lecce",
+    "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/454.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lecce",
-    "court_ext": "Venezia FC"
+    "buts_ext": null
   },
   {
     "id": 558268,
@@ -5692,11 +5692,11 @@
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
     "ext": "Parma Calcio 1913",
+    "court_dom": "Bologna",
+    "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/112.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bologna",
-    "court_ext": "Parma"
+    "buts_ext": null
   }
 ]

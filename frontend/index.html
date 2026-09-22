@@ -18,6 +18,7 @@
         <button data-vue="pronostics" aria-pressed="true">Pronostics</button>
         <button data-vue="simulation" aria-pressed="false">Simulation</button>
         <button data-vue="saison" aria-pressed="false">Ta saison</button>
+        <button data-vue="equipes" aria-pressed="false">Équipes</button>
       </nav>
       <nav class="ligues" role="tablist" aria-label="Championnat"></nav>
     </header>
@@ -72,6 +73,10 @@
           <span style="--c: var(--ext)">Ligue des champions</span>
           <span style="--c: var(--rel)">Relégation</span>
         </p>
+      </section>
+
+      <section id="vue-equipes" hidden>
+        <div id="eq-contenu"></div>
       </section>
     </main>
   </div>

@@ -1,0 +1,3888 @@
+[
+  {
+    "nom": "Athletic Club",
+    "court": "Athletic",
+    "tla": "ATH",
+    "logo": "https://crests.football-data.org/77.png",
+    "fonde": 1898,
+    "stade": "San Mamés",
+    "couleurs": "Red / White / Black",
+    "site": "http://www.athletic-club.eus",
+    "entraineur": "Edin Terzić",
+    "effectif": [
+      {
+        "nom": "Roberto Navarro",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-04-12",
+        "buts": 2
+      },
+      {
+        "nom": "Aitor Paredes Casamichana",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-04-29",
+        "buts": 1
+      },
+      {
+        "nom": "Oihan Sancet",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2000-04-25",
+        "buts": 1
+      },
+      {
+        "nom": "Álex Berenguer",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1995-07-04",
+        "buts": 1
+      },
+      {
+        "nom": "Iñaki Williams",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "1994-06-15",
+        "buts": 1
+      },
+      {
+        "nom": "Nico Williams",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-07-12",
+        "buts": 1
+      },
+      {
+        "nom": "Unai Simón",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1997-06-11",
+        "buts": 0
+      },
+      {
+        "nom": "Álex Padilla",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2003-09-01",
+        "buts": 0
+      },
+      {
+        "nom": "Aymeric Laporte",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1994-05-27",
+        "buts": 0
+      },
+      {
+        "nom": "Yuri Berchiche",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1990-02-10",
+        "buts": 0
+      },
+      {
+        "nom": "Yeray Álvarez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Vivian",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-07-05",
+        "buts": 0
+      },
+      {
+        "nom": "Jesús Areso",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-07-02",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Rincón",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-01-27",
+        "buts": 0
+      },
+      {
+        "nom": "Unai Egiluz",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Ruiz de Galarreta",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1993-08-06",
+        "buts": 0
+      },
+      {
+        "nom": "Benat Prados",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Mikel Jauregizar",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-11-13",
+        "buts": 0
+      },
+      {
+        "nom": "Peio Canales",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2005-01-17",
+        "buts": 0
+      },
+      {
+        "nom": "Alejandro Rego",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-06-11",
+        "buts": 0
+      },
+      {
+        "nom": "Beñat Gerenabarrena",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-03-29",
+        "buts": 0
+      },
+      {
+        "nom": "Gorka Guruzeta",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1996-09-12",
+        "buts": 0
+      },
+      {
+        "nom": "Nico Serrano",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Álvaro Djaló",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-08-16",
+        "buts": 0
+      },
+      {
+        "nom": "Sannadi",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-02-01",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Club Atlético de Madrid",
+    "court": "Atleti",
+    "tla": "ATL",
+    "logo": "https://crests.football-data.org/78.png",
+    "fonde": 1903,
+    "stade": "Estadio Wanda Metropolitano",
+    "couleurs": "Red / White / Blue",
+    "site": "http://www.clubatleticodemadrid.com",
+    "entraineur": "Diego Simeone",
+    "effectif": [
+      {
+        "nom": "Jonathan David",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "2000-01-14",
+        "buts": 3
+      },
+      {
+        "nom": "Alejandro Grimaldo",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-09-20",
+        "buts": 2
+      },
+      {
+        "nom": "Kang-in Lee",
+        "poste": "Midfield",
+        "nationalite": "South Korea",
+        "naissance": "2001-02-19",
+        "buts": 2
+      },
+      {
+        "nom": "Giuliano Simeone",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2002-12-18",
+        "buts": 2
+      },
+      {
+        "nom": "Robin Le Normand",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1996-11-11",
+        "buts": 1
+      },
+      {
+        "nom": "Marc Pubill",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-06-20",
+        "buts": 1
+      },
+      {
+        "nom": "Ademola Lookman",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-10-20",
+        "buts": 1
+      },
+      {
+        "nom": "Jan Oblak",
+        "poste": "Goalkeeper",
+        "nationalite": "Slovenia",
+        "naissance": "1993-01-07",
+        "buts": 0
+      },
+      {
+        "nom": "Juan Musso",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "1994-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Salvi Esquivel",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2005-09-30",
+        "buts": 0
+      },
+      {
+        "nom": "Marcos Llorente",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Dávid Hancko",
+        "poste": "Defence",
+        "nationalite": "Slovakia",
+        "naissance": "1997-12-13",
+        "buts": 0
+      },
+      {
+        "nom": "Christian Romero",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1998-04-27",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Martínez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2004-05-05",
+        "buts": 0
+      },
+      {
+        "nom": "Jorge Domínguez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2009-12-21",
+        "buts": 0
+      },
+      {
+        "nom": "Koke",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1992-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Morten Hjulmand",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "1999-06-25",
+        "buts": 0
+      },
+      {
+        "nom": "Johnny",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2001-09-20",
+        "buts": 0
+      },
+      {
+        "nom": "Obed Vargas",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2005-08-05",
+        "buts": 0
+      },
+      {
+        "nom": "Rodrigo Mendoza",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2005-03-15",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Barrios",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2025-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Alexander Sørloth",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "1995-12-05",
+        "buts": 0
+      },
+      {
+        "nom": "Julián Álvarez",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2000-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Alejandro Baena",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-07-20",
+        "buts": 0
+      },
+      {
+        "nom": "Arnau Ortiz",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-10-29",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Martin",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-04-22",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "CA Osasuna",
+    "court": "Osasuna",
+    "tla": "OSA",
+    "logo": "https://crests.football-data.org/79.png",
+    "fonde": 1920,
+    "stade": "Estadio El Sadar",
+    "couleurs": "Red / Navy Blue",
+    "site": "http://www.osasuna.es",
+    "entraineur": "Luis Ramis",
+    "effectif": [
+      {
+        "nom": "Ante Budimir",
+        "poste": "Offence",
+        "nationalite": "Croatia",
+        "naissance": "1991-07-22",
+        "buts": 5
+      },
+      {
+        "nom": "Kike Barja",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-04-04",
+        "buts": 1
+      },
+      {
+        "nom": "Sergio Herrera",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1993-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Aitor Fernández",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1991-05-03",
+        "buts": 0
+      },
+      {
+        "nom": "Diego Rico",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1993-02-23",
+        "buts": 0
+      },
+      {
+        "nom": "Valentin Rosier",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1996-08-19",
+        "buts": 0
+      },
+      {
+        "nom": "Catena",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1994-10-28",
+        "buts": 0
+      },
+      {
+        "nom": "Flavien Boyomo",
+        "poste": "Defence",
+        "nationalite": "Cameroon",
+        "naissance": "2001-10-07",
+        "buts": 0
+      },
+      {
+        "nom": "Jorge Herrando",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-02-28",
+        "buts": 0
+      },
+      {
+        "nom": "Abel Bretones",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "Rockson Yeboah",
+        "poste": "Defence",
+        "nationalite": "Ghana",
+        "naissance": "2004-08-02",
+        "buts": 0
+      },
+      {
+        "nom": "Iñigo Arguibide",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Torró",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1994-07-19",
+        "buts": 0
+      },
+      {
+        "nom": "Moi Gómez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1994-06-23",
+        "buts": 0
+      },
+      {
+        "nom": "Jon Moncayola",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-05-13",
+        "buts": 0
+      },
+      {
+        "nom": "Aimar Oroz",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-11-27",
+        "buts": 0
+      },
+      {
+        "nom": "Iker Munoz",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-11-05",
+        "buts": 0
+      },
+      {
+        "nom": "Asier Osambela",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Romain Del Castillo",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1996-03-29",
+        "buts": 0
+      },
+      {
+        "nom": "Rubén García",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1993-07-14",
+        "buts": 0
+      },
+      {
+        "nom": "Raúl",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-11-03",
+        "buts": 0
+      },
+      {
+        "nom": "Raúl Moro",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-12-05",
+        "buts": 0
+      },
+      {
+        "nom": "Jonathan Dubasin",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-02-02",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "RCD Espanyol de Barcelona",
+    "court": "Espanyol",
+    "tla": "ESP",
+    "logo": "https://crests.football-data.org/80.png",
+    "fonde": 1900,
+    "stade": "RCDE Stadium",
+    "couleurs": "Blue / White",
+    "site": "http://www.rcdespanyol.com",
+    "entraineur": "Manolo González",
+    "effectif": [
+      {
+        "nom": "Roberto Fernández",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-07-03",
+        "buts": 6
+      },
+      {
+        "nom": "Álex Calatrava",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2000-06-22",
+        "buts": 1
+      },
+      {
+        "nom": "Tyrhys Dolan",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-12-28",
+        "buts": 1
+      },
+      {
+        "nom": "Marcos Fernández",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-05-17",
+        "buts": 1
+      },
+      {
+        "nom": "Marko Dmitrović",
+        "poste": "Goalkeeper",
+        "nationalite": "Serbia",
+        "naissance": "1992-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Ángel Fortuño Viñas",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2001-10-05",
+        "buts": 0
+      },
+      {
+        "nom": "Leandro Cabrera",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "1991-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Unai Núñez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Andoni Gorosabel",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1996-08-04",
+        "buts": 0
+      },
+      {
+        "nom": "Vanja Drkušič",
+        "poste": "Defence",
+        "nationalite": "Slovenia",
+        "naissance": "1999-10-30",
+        "buts": 0
+      },
+      {
+        "nom": "Clemens Riedel",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-07-19",
+        "buts": 0
+      },
+      {
+        "nom": "Quilindschy Hartman",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-11-14",
+        "buts": 0
+      },
+      {
+        "nom": "Omar El Hilali",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "2025-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Roger Hinojo",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-02-21",
+        "buts": 0
+      },
+      {
+        "nom": "Edu Expósito",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-08-01",
+        "buts": 0
+      },
+      {
+        "nom": "Pol Lozano",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1999-10-06",
+        "buts": 0
+      },
+      {
+        "nom": "Urko González",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-03-20",
+        "buts": 0
+      },
+      {
+        "nom": "Moscardo",
+        "poste": "Midfield",
+        "nationalite": "Brazil",
+        "naissance": "2005-09-28",
+        "buts": 0
+      },
+      {
+        "nom": "Javier Hernández",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Rafel Bauzà",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2005-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Pere Milla",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1992-09-23",
+        "buts": 0
+      },
+      {
+        "nom": "Kike García",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1989-11-25",
+        "buts": 0
+      },
+      {
+        "nom": "Javi Puado",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1998-05-25",
+        "buts": 0
+      },
+      {
+        "nom": "Jofre Carreras Pagès",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Bryan Zaragoza",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-09-09",
+        "buts": 0
+      },
+      {
+        "nom": "Víctor Mullerat",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2007-10-29",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "FC Barcelona",
+    "court": "Barça",
+    "tla": "FCB",
+    "logo": "https://crests.football-data.org/81.png",
+    "fonde": 1899,
+    "stade": "Camp Nou",
+    "couleurs": "Red / Navy Blue / Orange",
+    "site": "http://www.fcbarcelona.com",
+    "entraineur": "Hansi Flick",
+    "effectif": [
+      {
+        "nom": "Raphinha",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1996-12-14",
+        "buts": 12
+      },
+      {
+        "nom": "Lamine Yamal",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2007-07-13",
+        "buts": 7
+      },
+      {
+        "nom": "Fermín López",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-05-11",
+        "buts": 4
+      },
+      {
+        "nom": "Karim Adeyemi",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-01-18",
+        "buts": 2
+      },
+      {
+        "nom": "João Cancelo",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1994-05-27",
+        "buts": 1
+      },
+      {
+        "nom": "Xavi Espart",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2007-05-21",
+        "buts": 1
+      },
+      {
+        "nom": "Pedri",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-11-25",
+        "buts": 1
+      },
+      {
+        "nom": "Gabriel Jesus",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1997-04-03",
+        "buts": 1
+      },
+      {
+        "nom": "Wojciech Szczęsny",
+        "poste": "Goalkeeper",
+        "nationalite": "Poland",
+        "naissance": "1990-04-18",
+        "buts": 0
+      },
+      {
+        "nom": "Dominik Livaković",
+        "poste": "Goalkeeper",
+        "nationalite": "Croatia",
+        "naissance": "1995-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Joan García",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2001-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Andreas Christensen",
+        "poste": "Defence",
+        "nationalite": "Denmark",
+        "naissance": "1996-04-10",
+        "buts": 0
+      },
+      {
+        "nom": "Jules Koundé",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1998-11-12",
+        "buts": 0
+      },
+      {
+        "nom": "Eric García",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Álex Balde",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-10-18",
+        "buts": 0
+      },
+      {
+        "nom": "Pau Cubarsí",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2007-01-22",
+        "buts": 0
+      },
+      {
+        "nom": "Gerard Martín",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Rodri",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-06-22",
+        "buts": 0
+      },
+      {
+        "nom": "Frenkie de Jong",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1997-05-12",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Olmo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-05-07",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Gavira",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-08-05",
+        "buts": 0
+      },
+      {
+        "nom": "Marc Bernal",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2007-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Brian Fariñas",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2006-02-09",
+        "buts": 0
+      },
+      {
+        "nom": "Anthony Gordon",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-02-24",
+        "buts": 0
+      },
+      {
+        "nom": "Roony Bardghji",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2005-11-15",
+        "buts": 0
+      },
+      {
+        "nom": "Hamza Abdelkarim",
+        "poste": "Offence",
+        "nationalite": "Egypt",
+        "naissance": "2008-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Jesse Bisiwu",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2008-01-22",
+        "buts": 0
+      },
+      {
+        "nom": "Iker Rodríguez",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2008-02-22",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Getafe CF",
+    "court": "Getafe",
+    "tla": "GET",
+    "logo": "https://crests.football-data.org/82.png",
+    "fonde": 1946,
+    "stade": "Coliseum Alfonso Pérez",
+    "couleurs": "Blue / White",
+    "site": "http://www.getafecf.com",
+    "entraineur": "Pepe Bordalás",
+    "effectif": [
+      {
+        "nom": "RamónTerrats Espacio",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2000-10-18",
+        "buts": 1
+      },
+      {
+        "nom": "Enes Ünal",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "1997-05-10",
+        "buts": 1
+      },
+      {
+        "nom": "Martin Satriano",
+        "poste": "Offence",
+        "nationalite": "Uruguay",
+        "naissance": "2001-02-20",
+        "buts": 1
+      },
+      {
+        "nom": "David Soria",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1993-04-04",
+        "buts": 0
+      },
+      {
+        "nom": "Jiří Letáček",
+        "poste": "Goalkeeper",
+        "nationalite": "Czech Republic",
+        "naissance": "1999-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Dakonam Djené",
+        "poste": "Defence",
+        "nationalite": "Togo",
+        "naissance": "1991-12-31",
+        "buts": 0
+      },
+      {
+        "nom": "Johan Mojica",
+        "poste": "Defence",
+        "nationalite": "Colombia",
+        "naissance": "1992-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "Femenía Far",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1991-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Abdelkabir Abqar",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "1999-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "Saba Sazonov",
+        "poste": "Defence",
+        "nationalite": "Georgia",
+        "naissance": "2002-02-01",
+        "buts": 0
+      },
+      {
+        "nom": "Zaid Romero",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1999-12-15",
+        "buts": 0
+      },
+      {
+        "nom": "Andrés Garcia",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Sebastián Boselli",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "2003-12-04",
+        "buts": 0
+      },
+      {
+        "nom": "Davinchi",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": null,
+        "buts": 0
+      },
+      {
+        "nom": "Valou",
+        "poste": "Defence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2005-12-22",
+        "buts": 0
+      },
+      {
+        "nom": "Orel Mangala",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "1998-03-18",
+        "buts": 0
+      },
+      {
+        "nom": "Nemanja Gudelj",
+        "poste": "Midfield",
+        "nationalite": "Serbia",
+        "naissance": "1991-11-16",
+        "buts": 0
+      },
+      {
+        "nom": "Yvan Neyou",
+        "poste": "Midfield",
+        "nationalite": "Cameroon",
+        "naissance": "1997-01-03",
+        "buts": 0
+      },
+      {
+        "nom": "Francho Serrano",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-10-17",
+        "buts": 0
+      },
+      {
+        "nom": "Mario Martin",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Juanmi",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1993-05-20",
+        "buts": 0
+      },
+      {
+        "nom": "Borja Mayoral",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-04-05",
+        "buts": 0
+      },
+      {
+        "nom": "Ivan Azón",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-12-24",
+        "buts": 0
+      },
+      {
+        "nom": "Chrisantus",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2003-05-19",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Málaga CF",
+    "court": "Málaga",
+    "tla": "MAL",
+    "logo": "https://crests.football-data.org/84.png",
+    "fonde": 1933,
+    "stade": "Estadio La Rosaleda",
+    "couleurs": "Blue / White",
+    "site": "http://www.malagacf.es",
+    "entraineur": "Juan Funes",
+    "effectif": [
+      {
+        "nom": "Carlos Dotor",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-03-15",
+        "buts": 1
+      },
+      {
+        "nom": "Chupete",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2004-08-24",
+        "buts": 1
+      },
+      {
+        "nom": "Alfonso Herrero",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1994-04-21",
+        "buts": 0
+      },
+      {
+        "nom": "Lopez Nogueras",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2004-11-13",
+        "buts": 0
+      },
+      {
+        "nom": "Fernando Calero",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-09-14",
+        "buts": 0
+      },
+      {
+        "nom": "Juan Berrocal",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-02-05",
+        "buts": 0
+      },
+      {
+        "nom": "Alex Pastor Carayol",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-10-01",
+        "buts": 0
+      },
+      {
+        "nom": "José Salinas",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-09-30",
+        "buts": 0
+      },
+      {
+        "nom": "Angel Recio",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": null,
+        "buts": 0
+      },
+      {
+        "nom": "Diego Murillo",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-03-14",
+        "buts": 0
+      },
+      {
+        "nom": "Einar Galilea",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1994-05-22",
+        "buts": 0
+      },
+      {
+        "nom": "Rafa Garrido",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2004-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Adam Aznou",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "2006-06-02",
+        "buts": 0
+      },
+      {
+        "nom": "Puga",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-11-26",
+        "buts": 0
+      },
+      {
+        "nom": "Jens Cajuste",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "1999-08-10",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Martínez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-02-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ramón Enríquez Rodríguez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Lorenzo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-04-05",
+        "buts": 0
+      },
+      {
+        "nom": "Rafa Rodriguez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-07-10",
+        "buts": 0
+      },
+      {
+        "nom": "Izan Merino",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2006-04-15",
+        "buts": 0
+      },
+      {
+        "nom": "Aarón Ochoa",
+        "poste": "Midfield",
+        "nationalite": "Ireland",
+        "naissance": "2007-04-18",
+        "buts": 0
+      },
+      {
+        "nom": "Eneko Jauregi Escobar",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1996-07-13",
+        "buts": 0
+      },
+      {
+        "nom": "Juan Cruz",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Joaquín Muñoz",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "Julen Lobete",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-09-18",
+        "buts": 0
+      },
+      {
+        "nom": "David Larrubia",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-04-20",
+        "buts": 0
+      },
+      {
+        "nom": "Haitam Abaida",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2002-06-01",
+        "buts": 0
+      },
+      {
+        "nom": "Adrián Niño",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2004-06-19",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Real Madrid CF",
+    "court": "Real Madrid",
+    "tla": "RMA",
+    "logo": "https://crests.football-data.org/86.png",
+    "fonde": 1902,
+    "stade": "Estadio Santiago Bernabéu",
+    "couleurs": "White / Purple",
+    "site": "http://www.realmadrid.com",
+    "entraineur": "José Mourinho",
+    "effectif": [
+      {
+        "nom": "Kylian Mbappé",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1998-12-20",
+        "buts": 7
+      },
+      {
+        "nom": "Jude Bellingham",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2003-06-29",
+        "buts": 3
+      },
+      {
+        "nom": "Carlos Espí",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-07-24",
+        "buts": 2
+      },
+      {
+        "nom": "Álvaro Carreras",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-03-23",
+        "buts": 1
+      },
+      {
+        "nom": "Arda Guler",
+        "poste": "Midfield",
+        "nationalite": "Turkey",
+        "naissance": "2005-02-25",
+        "buts": 1
+      },
+      {
+        "nom": "Vinicius Junior",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2000-07-12",
+        "buts": 1
+      },
+      {
+        "nom": "Thibaut Courtois",
+        "poste": "Goalkeeper",
+        "nationalite": "Belgium",
+        "naissance": "1992-05-11",
+        "buts": 0
+      },
+      {
+        "nom": "Andriy Lunin",
+        "poste": "Goalkeeper",
+        "nationalite": "Ukraine",
+        "naissance": "1999-02-11",
+        "buts": 0
+      },
+      {
+        "nom": "Éder Militão",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "1998-01-18",
+        "buts": 0
+      },
+      {
+        "nom": "Antonio Rüdiger",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1993-03-03",
+        "buts": 0
+      },
+      {
+        "nom": "Denzel Dumfries",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1996-04-18",
+        "buts": 0
+      },
+      {
+        "nom": "Trent Alexander-Arnold",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1998-10-07",
+        "buts": 0
+      },
+      {
+        "nom": "Ferland Mendy",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1995-06-08",
+        "buts": 0
+      },
+      {
+        "nom": "Ibrahima Konaté",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1999-05-25",
+        "buts": 0
+      },
+      {
+        "nom": "Cucurella",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1998-07-22",
+        "buts": 0
+      },
+      {
+        "nom": "Dean Huijsen",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-04-14",
+        "buts": 0
+      },
+      {
+        "nom": "Raúl",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-02-13",
+        "buts": 0
+      },
+      {
+        "nom": "Federico Valverde",
+        "poste": "Midfield",
+        "nationalite": "Uruguay",
+        "naissance": "1998-07-22",
+        "buts": 0
+      },
+      {
+        "nom": "Bernardo Silva",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "1994-08-10",
+        "buts": 0
+      },
+      {
+        "nom": "Aurélien Tchouameni",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2000-01-27",
+        "buts": 0
+      },
+      {
+        "nom": "Eduardo Camavinga",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2002-11-10",
+        "buts": 0
+      },
+      {
+        "nom": "Thiago Pitarch",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2007-08-03",
+        "buts": 0
+      },
+      {
+        "nom": "Jorge Cestero",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2006-03-24",
+        "buts": 0
+      },
+      {
+        "nom": "Rodrygo",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2001-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Brahim Diaz",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "1999-08-03",
+        "buts": 0
+      },
+      {
+        "nom": "Endrick",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2006-07-21",
+        "buts": 0
+      },
+      {
+        "nom": "Yan Diomandé",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2006-11-14",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Rayo Vallecano de Madrid",
+    "court": "Rayo Vallecano",
+    "tla": "RAY",
+    "logo": "https://crests.football-data.org/87.png",
+    "fonde": 1924,
+    "stade": "Estadio del Rayo Vallecano",
+    "couleurs": "White / Red",
+    "site": "http://www.rayovallecano.es",
+    "entraineur": "Beñat San José",
+    "effectif": [
+      {
+        "nom": "Sergio Camello",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-02-10",
+        "buts": 7
+      },
+      {
+        "nom": "Álvaro García",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1992-10-27",
+        "buts": 2
+      },
+      {
+        "nom": "Andrei Rațiu",
+        "poste": "Defence",
+        "nationalite": "Romania",
+        "naissance": "1998-06-20",
+        "buts": 1
+      },
+      {
+        "nom": "Emil Audero",
+        "poste": "Goalkeeper",
+        "nationalite": "Indonesia",
+        "naissance": "1997-01-18",
+        "buts": 0
+      },
+      {
+        "nom": "Augusto Batalla",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "1996-04-30",
+        "buts": 0
+      },
+      {
+        "nom": "Morro",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2000-09-11",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Cárdenas",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1997-03-28",
+        "buts": 0
+      },
+      {
+        "nom": "Luiz Felipe",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "1997-03-22",
+        "buts": 0
+      },
+      {
+        "nom": "Marash Kumbulla",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2000-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Florian Lejeune",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1991-05-20",
+        "buts": 0
+      },
+      {
+        "nom": "Iván Balliu",
+        "poste": "Defence",
+        "nationalite": "Albania",
+        "naissance": "1992-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Mujaid Sadick",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-03-14",
+        "buts": 0
+      },
+      {
+        "nom": "Pedrosa",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1998-05-13",
+        "buts": 0
+      },
+      {
+        "nom": "Jozhua Vertrouwd",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2004-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "Pelayo Fernández",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Óscar Valentín",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1994-08-20",
+        "buts": 0
+      },
+      {
+        "nom": "Unai López",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1995-10-30",
+        "buts": 0
+      },
+      {
+        "nom": "Pedro Díaz",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Pathé Ciss",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "1994-03-16",
+        "buts": 0
+      },
+      {
+        "nom": "Randy Ntekja",
+        "poste": "Midfield",
+        "nationalite": "Angola",
+        "naissance": "1997-12-06",
+        "buts": 0
+      },
+      {
+        "nom": "Gnangoro Bouare",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-06-13",
+        "buts": 0
+      },
+      {
+        "nom": "Raúl de Tomás",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1994-10-17",
+        "buts": 0
+      },
+      {
+        "nom": "Isi Palazón",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1994-12-27",
+        "buts": 0
+      },
+      {
+        "nom": "Alexandre Alemão",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1998-04-01",
+        "buts": 0
+      },
+      {
+        "nom": "Jorge de Frutos",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-02-20",
+        "buts": 0
+      },
+      {
+        "nom": "Fran Perez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-09-09",
+        "buts": 0
+      },
+      {
+        "nom": "Georgiy Tsitaishvili",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2000-11-18",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Levante UD",
+    "court": "Levante",
+    "tla": "LEV",
+    "logo": "https://crests.football-data.org/88.png",
+    "fonde": 1909,
+    "stade": "Estadio Ciudad de Valencia",
+    "couleurs": "Crimson / Blue",
+    "site": "http://www.levanteud.com",
+    "entraineur": "Luís Castro",
+    "effectif": [
+      {
+        "nom": "Iván Romero",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-04-10",
+        "buts": 2
+      },
+      {
+        "nom": "Adrián de la Fuente",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-02-26",
+        "buts": 1
+      },
+      {
+        "nom": "Jon Olasagasti",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2000-08-16",
+        "buts": 1
+      },
+      {
+        "nom": "Enzo Bardeli",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2001-04-11",
+        "buts": 1
+      },
+      {
+        "nom": "Maty Ryan",
+        "poste": "Goalkeeper",
+        "nationalite": "Australia",
+        "naissance": "1992-04-08",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Cuñat",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2002-04-28",
+        "buts": 0
+      },
+      {
+        "nom": "Álex Primo",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2004-07-10",
+        "buts": 0
+      },
+      {
+        "nom": "Aïssa Mandi",
+        "poste": "Defence",
+        "nationalite": "Algeria",
+        "naissance": "1991-10-22",
+        "buts": 0
+      },
+      {
+        "nom": "Jeremy Toljan",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1994-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Manuel Sánchez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-08-24",
+        "buts": 0
+      },
+      {
+        "nom": "Xavi Grande",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Jorge Cabello",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2004-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Axel Tape",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2007-08-10",
+        "buts": 0
+      },
+      {
+        "nom": "Ifeanyi Ndukwe",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "2008-03-03",
+        "buts": 0
+      },
+      {
+        "nom": "Nacho Pérez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2008-08-29",
+        "buts": 0
+      },
+      {
+        "nom": "Marc Santos",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2010-11-09",
+        "buts": 0
+      },
+      {
+        "nom": "Oriol Rey",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-02-25",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Álvarez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-08-06",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Sotelo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-12-19",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Requena",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Roger Brugué",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1996-11-04",
+        "buts": 0
+      },
+      {
+        "nom": "Víctor García",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Thiago Fernandez",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2004-04-03",
+        "buts": 0
+      },
+      {
+        "nom": "Karl Etta Eyong",
+        "poste": "Offence",
+        "nationalite": "Cameroon",
+        "naissance": "2003-10-14",
+        "buts": 0
+      },
+      {
+        "nom": "Petar Ratkov",
+        "poste": "Offence",
+        "nationalite": "Serbia",
+        "naissance": "2003-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Paco Cortés",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2007-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Yanis Musuayi",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2007-06-26",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Real Betis Balompié",
+    "court": "Real Betis",
+    "tla": "BET",
+    "logo": "https://crests.football-data.org/90.png",
+    "fonde": 1907,
+    "stade": "Estadio Benito Villamarín",
+    "couleurs": "Green / White",
+    "site": "http://www.realbetisbalompie.es",
+    "entraineur": "Manuel Pellegrini",
+    "effectif": [
+      {
+        "nom": "Cucho Hernández",
+        "poste": "Offence",
+        "nationalite": "Colombia",
+        "naissance": "1999-04-20",
+        "buts": 2
+      },
+      {
+        "nom": "Rodrigo Riquelme",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-04-02",
+        "buts": 2
+      },
+      {
+        "nom": "Bartra",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1991-01-15",
+        "buts": 1
+      },
+      {
+        "nom": "Natan",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2001-02-06",
+        "buts": 1
+      },
+      {
+        "nom": "Troy Parrott",
+        "poste": "Offence",
+        "nationalite": "Ireland",
+        "naissance": "2002-02-04",
+        "buts": 1
+      },
+      {
+        "nom": "Abdessamad Ezzalzouli",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2001-12-17",
+        "buts": 1
+      },
+      {
+        "nom": "Álvaro Vallés Rosa",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1997-07-25",
+        "buts": 0
+      },
+      {
+        "nom": "Diego Conde",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1998-10-28",
+        "buts": 0
+      },
+      {
+        "nom": "Diego Llorente",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1993-08-16",
+        "buts": 0
+      },
+      {
+        "nom": "Héctor Bellerín",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Júnior Firpo",
+        "poste": "Defence",
+        "nationalite": "Dominican Republic",
+        "naissance": "1996-05-10",
+        "buts": 0
+      },
+      {
+        "nom": "Francisco Garcia",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-08-14",
+        "buts": 0
+      },
+      {
+        "nom": "Valentín Gómez",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "2003-06-26",
+        "buts": 0
+      },
+      {
+        "nom": "Ángel Ortiz",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2004-07-25",
+        "buts": 0
+      },
+      {
+        "nom": "Isco",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1992-04-21",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Ceballos",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-08-07",
+        "buts": 0
+      },
+      {
+        "nom": "Giovani Lo Celso",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1996-04-09",
+        "buts": 0
+      },
+      {
+        "nom": "Marc Roca",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-11-26",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Fornals",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-02-22",
+        "buts": 0
+      },
+      {
+        "nom": "Álvaro Fidalgo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1997-04-09",
+        "buts": 0
+      },
+      {
+        "nom": "Nelson Deossa",
+        "poste": "Midfield",
+        "nationalite": "Colombia",
+        "naissance": "2000-02-06",
+        "buts": 0
+      },
+      {
+        "nom": "Facundo Bernal",
+        "poste": "Midfield",
+        "nationalite": "Uruguay",
+        "naissance": "2003-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "Aitor Ruibal",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1996-03-22",
+        "buts": 0
+      },
+      {
+        "nom": "Antony",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2000-02-24",
+        "buts": 0
+      },
+      {
+        "nom": "Iker Losada",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-08-01",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Real Sociedad de Fútbol",
+    "court": "Real Sociedad",
+    "tla": "RSO",
+    "logo": "https://crests.football-data.org/92.png",
+    "fonde": 1903,
+    "stade": "Estadio Municipal de Anoeta",
+    "couleurs": "Blue / White",
+    "site": "http://www.realsociedad.com",
+    "entraineur": "Pellegrino Matarazzo",
+    "effectif": [
+      {
+        "nom": "Luka Sučić",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "2002-09-08",
+        "buts": 3
+      },
+      {
+        "nom": "Ander Barrenetxea",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-12-27",
+        "buts": 2
+      },
+      {
+        "nom": "Yangel Herrera",
+        "poste": "Midfield",
+        "nationalite": "Venezuela",
+        "naissance": "1998-01-07",
+        "buts": 1
+      },
+      {
+        "nom": "Ochieng",
+        "poste": "Offence",
+        "nationalite": "Kenya",
+        "naissance": "2003-01-17",
+        "buts": 1
+      },
+      {
+        "nom": "Álex Remiro",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1995-03-24",
+        "buts": 0
+      },
+      {
+        "nom": "Unai Marrero",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2001-10-09",
+        "buts": 0
+      },
+      {
+        "nom": "Álvaro Odriozola",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-12-14",
+        "buts": 0
+      },
+      {
+        "nom": "Igor Zubeldía",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-03-30",
+        "buts": 0
+      },
+      {
+        "nom": "Sergio Gómez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-09-04",
+        "buts": 0
+      },
+      {
+        "nom": "Aihen Muñoz",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-08-16",
+        "buts": 0
+      },
+      {
+        "nom": "Jon Aramburu",
+        "poste": "Defence",
+        "nationalite": "Venezuela",
+        "naissance": "2002-07-23",
+        "buts": 0
+      },
+      {
+        "nom": "Jon Pacheco",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Mamadou Sarr",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "2005-08-29",
+        "buts": 0
+      },
+      {
+        "nom": "Héctor Fort",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2006-08-02",
+        "buts": 0
+      },
+      {
+        "nom": "Jon Martín",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2006-04-23",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Soler",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1997-01-02",
+        "buts": 0
+      },
+      {
+        "nom": "Beñat Turrientes",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Arsen Zakharyan",
+        "poste": "Midfield",
+        "nationalite": "Russia",
+        "naissance": "2003-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Marin",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-07-03",
+        "buts": 0
+      },
+      {
+        "nom": "Jon Gorrotxategi",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Gonçalo Guedes",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "1996-11-29",
+        "buts": 0
+      },
+      {
+        "nom": "Takefusa Kubo",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "2001-06-04",
+        "buts": 0
+      },
+      {
+        "nom": "Mikel Oyarzabal",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-04-21",
+        "buts": 0
+      },
+      {
+        "nom": "Orri Steinn Óskarsson",
+        "poste": "Offence",
+        "nationalite": "Iceland",
+        "naissance": "2004-08-29",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Villarreal CF",
+    "court": "Villarreal",
+    "tla": "VIL",
+    "logo": "https://crests.football-data.org/94.png",
+    "fonde": 1923,
+    "stade": "Estadio de la Cerámica",
+    "couleurs": "Yellow / Blue",
+    "site": "http://www.villarrealcf.es",
+    "entraineur": "Inigo Perez",
+    "effectif": [
+      {
+        "nom": "Pape Gueye",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "1999-01-24",
+        "buts": 3
+      },
+      {
+        "nom": "Nicolas Pépé",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "1995-05-29",
+        "buts": 2
+      },
+      {
+        "nom": "Gerard Moreno",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1992-04-07",
+        "buts": 2
+      },
+      {
+        "nom": "Georges Mikautadze",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2000-10-31",
+        "buts": 2
+      },
+      {
+        "nom": "Alberto Moleiro",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-09-30",
+        "buts": 2
+      },
+      {
+        "nom": "Péter Gulácsi",
+        "poste": "Goalkeeper",
+        "nationalite": "Hungary",
+        "naissance": "1990-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Luiz Lúcio Reis Júnior",
+        "poste": "Goalkeeper",
+        "nationalite": "Brazil",
+        "naissance": "2001-01-14",
+        "buts": 0
+      },
+      {
+        "nom": "Ruben Gomez",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2002-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Logan Costa",
+        "poste": "Defence",
+        "nationalite": "Cape Verde Islands",
+        "naissance": "2001-04-01",
+        "buts": 0
+      },
+      {
+        "nom": "Juan Foyth",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1998-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Alex Freeman",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "2004-08-09",
+        "buts": 0
+      },
+      {
+        "nom": "Renato Veiga",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "2003-07-29",
+        "buts": 0
+      },
+      {
+        "nom": "Sergi Cardona",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-07-08",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Romero",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-10-29",
+        "buts": 0
+      },
+      {
+        "nom": "Santiago Mouriño",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "2002-02-13",
+        "buts": 0
+      },
+      {
+        "nom": "Pau Navarro",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Santiago Comesaña",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-10-05",
+        "buts": 0
+      },
+      {
+        "nom": "Nathan-Dylan Saliba",
+        "poste": "Midfield",
+        "nationalite": "Canada",
+        "naissance": "2004-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Alassane Diatta",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "2005-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Macià",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2008-09-01",
+        "buts": 0
+      },
+      {
+        "nom": "Ayoze Pérez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1993-07-29",
+        "buts": 0
+      },
+      {
+        "nom": "Tajon Buchanan",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "1999-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Ilias Akhomach",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2004-04-16",
+        "buts": 0
+      },
+      {
+        "nom": "Tani Oluwaseyi",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "2000-05-15",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Valencia CF",
+    "court": "Valencia",
+    "tla": "VAL",
+    "logo": "https://crests.football-data.org/95.png",
+    "fonde": 1919,
+    "stade": "Estadio de Mestalla",
+    "couleurs": "White / Orange / Black",
+    "site": "http://www.valenciacf.com",
+    "entraineur": "Carlos Corberán",
+    "effectif": [
+      {
+        "nom": "Umar Sadiq",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1997-02-02",
+        "buts": 1
+      },
+      {
+        "nom": "Luis Rioja",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1993-10-16",
+        "buts": 1
+      },
+      {
+        "nom": "Cristian",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1998-03-21",
+        "buts": 0
+      },
+      {
+        "nom": "Stole Dimitrievski",
+        "poste": "Goalkeeper",
+        "nationalite": "North Macedonia",
+        "naissance": "1993-12-25",
+        "buts": 0
+      },
+      {
+        "nom": "Kayne van Oevelen",
+        "poste": "Goalkeeper",
+        "nationalite": "Netherlands",
+        "naissance": "2003-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Mouctar Diakhaby",
+        "poste": "Defence",
+        "nationalite": "Guinea",
+        "naissance": "1996-12-19",
+        "buts": 0
+      },
+      {
+        "nom": "Dimitri Foulquier",
+        "poste": "Defence",
+        "nationalite": "Guadeloupe",
+        "naissance": "1993-03-23",
+        "buts": 0
+      },
+      {
+        "nom": "Gaya",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1995-05-25",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Maffeo",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-07-12",
+        "buts": 0
+      },
+      {
+        "nom": "Justin de Haas",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-02-01",
+        "buts": 0
+      },
+      {
+        "nom": "Arnau Martinez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Jesus Vazquez Alcalde",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-01-02",
+        "buts": 0
+      },
+      {
+        "nom": "Copete",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-10-10",
+        "buts": 0
+      },
+      {
+        "nom": "Cesar Tarrega",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Iker Córdoba",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-11-11",
+        "buts": 0
+      },
+      {
+        "nom": "Filip Ugrinic",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "1999-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Pepelu",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Guido Rodríguez",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1994-04-12",
+        "buts": 0
+      },
+      {
+        "nom": "Harvey Elliott",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2003-04-04",
+        "buts": 0
+      },
+      {
+        "nom": "Javier Guerra",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-05-13",
+        "buts": 0
+      },
+      {
+        "nom": "Aliou Dieng",
+        "poste": "Midfield",
+        "nationalite": "Mali",
+        "naissance": "1997-10-16",
+        "buts": 0
+      },
+      {
+        "nom": "Sergi Canós",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Arnaut Danjuma",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1997-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Duro",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-11-10",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Raba",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1995-10-29",
+        "buts": 0
+      },
+      {
+        "nom": "Diego López",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-05-13",
+        "buts": 0
+      },
+      {
+        "nom": "Ryunosuke Sato",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "2006-10-16",
+        "buts": 0
+      },
+      {
+        "nom": "Rodrigo Gamón",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2008-07-04",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Deportivo Alavés",
+    "court": "Alavés",
+    "tla": "ALA",
+    "logo": "https://crests.football-data.org/263.png",
+    "fonde": 1921,
+    "stade": "Estadio de Mendizorroza",
+    "couleurs": "Blue / White",
+    "site": "http://www.alaves.com",
+    "entraineur": "Quique Sanchez Flores",
+    "effectif": [
+      {
+        "nom": "Lucas Boyé",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "1996-02-28",
+        "buts": 4
+      },
+      {
+        "nom": "Mariano Díaz",
+        "poste": "Offence",
+        "nationalite": "Dominican Republic",
+        "naissance": "1993-08-01",
+        "buts": 3
+      },
+      {
+        "nom": "Nahuel Tenaglia",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1996-02-21",
+        "buts": 1
+      },
+      {
+        "nom": "Ville Koski",
+        "poste": "Defence",
+        "nationalite": "Finland",
+        "naissance": "2002-01-27",
+        "buts": 1
+      },
+      {
+        "nom": "Pablo Ibáñez Tébar",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-09-20",
+        "buts": 1
+      },
+      {
+        "nom": "Mikel Rodríguez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-04-03",
+        "buts": 1
+      },
+      {
+        "nom": "Sivera",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1996-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Adrian Rodriguez",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "2000-12-12",
+        "buts": 0
+      },
+      {
+        "nom": "Jonny Otto",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1994-03-03",
+        "buts": 0
+      },
+      {
+        "nom": "Facundo Garcés",
+        "poste": "Defence",
+        "nationalite": "Malaysia",
+        "naissance": "1999-09-05",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Novoa",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolas Valentini",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "2001-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "Yusi",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-10-07",
+        "buts": 0
+      },
+      {
+        "nom": "Aleñà",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Denís Suárez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1994-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Benavidez",
+        "poste": "Midfield",
+        "nationalite": "Uruguay",
+        "naissance": "1998-03-30",
+        "buts": 0
+      },
+      {
+        "nom": "Ander Guevara",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1997-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Antonio Blanco",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2000-07-23",
+        "buts": 0
+      },
+      {
+        "nom": "Tomas Mendes",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Selu Diallo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-10-01",
+        "buts": 0
+      },
+      {
+        "nom": "Toni Martínez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Miguel Rodríguez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Abde Rebbach",
+        "poste": "Offence",
+        "nationalite": "Algeria",
+        "naissance": "1998-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Aitor Mañas",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Ángel Pérez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-06-08",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Elche CF",
+    "court": "Elche",
+    "tla": "ELC",
+    "logo": "https://crests.football-data.org/285.png",
+    "fonde": 1923,
+    "stade": "Estadio Manuel Martínez Valero",
+    "couleurs": "White / Green",
+    "site": "http://www.elchecf.es",
+    "entraineur": "Martin Anselmi",
+    "effectif": [
+      {
+        "nom": "Buba",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2007-08-06",
+        "buts": 1
+      },
+      {
+        "nom": "Thomas Lemar",
+        "poste": "Midfield",
+        "nationalite": "Guadeloupe",
+        "naissance": "1995-11-12",
+        "buts": 1
+      },
+      {
+        "nom": "Marc Aguado",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2000-02-22",
+        "buts": 1
+      },
+      {
+        "nom": "Facundo Buonanotte",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2004-12-23",
+        "buts": 1
+      },
+      {
+        "nom": "Abiel Osorio",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2002-06-13",
+        "buts": 1
+      },
+      {
+        "nom": "Matías Dituro",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "1987-05-08",
+        "buts": 0
+      },
+      {
+        "nom": "Alejandro Iturbe",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2003-09-02",
+        "buts": 0
+      },
+      {
+        "nom": "Pedro Bigas",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1990-05-15",
+        "buts": 0
+      },
+      {
+        "nom": "Bambo Diaby",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-12-17",
+        "buts": 0
+      },
+      {
+        "nom": "Víctor Chust",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Kevin Lomónaco",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "2002-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Roy Revivo",
+        "poste": "Defence",
+        "nationalite": "Israel",
+        "naissance": "2003-05-22",
+        "buts": 0
+      },
+      {
+        "nom": "Rubén Sánchez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2024-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Matia Barzic",
+        "poste": "Defence",
+        "nationalite": "Croatia",
+        "naissance": "2004-05-31",
+        "buts": 0
+      },
+      {
+        "nom": "Gonzalo Villar",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-03-23",
+        "buts": 0
+      },
+      {
+        "nom": "Martim Neto",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2003-01-14",
+        "buts": 0
+      },
+      {
+        "nom": "Federico Redondo",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2003-01-18",
+        "buts": 0
+      },
+      {
+        "nom": "Javi Morcillo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2006-03-15",
+        "buts": 0
+      },
+      {
+        "nom": "Grady Diangana",
+        "poste": "Offence",
+        "nationalite": "DR Congo",
+        "naissance": "1998-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Ezequiel Ponce",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "1997-03-29",
+        "buts": 0
+      },
+      {
+        "nom": "Josán Fernández",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1989-12-03",
+        "buts": 0
+      },
+      {
+        "nom": "Tete Morente",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1996-12-04",
+        "buts": 0
+      },
+      {
+        "nom": "Germán Valera",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-03-16",
+        "buts": 0
+      },
+      {
+        "nom": "Fernando Niño",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-10-24",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Cepeda",
+        "poste": "Offence",
+        "nationalite": "Chile",
+        "naissance": "2002-10-31",
+        "buts": 0
+      },
+      {
+        "nom": "Yago Santiago",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-04-15",
+        "buts": 0
+      },
+      {
+        "nom": "Ali Houary",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-08-05",
+        "buts": 0
+      },
+      {
+        "nom": "Adam",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-10-13",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "RC Celta de Vigo",
+    "court": "Celta",
+    "tla": "CEL",
+    "logo": "https://crests.football-data.org/558.png",
+    "fonde": 1923,
+    "stade": "Estadio de Balaídos",
+    "couleurs": "Sky Blue / White",
+    "site": "http://www.celtavigo.net",
+    "entraineur": "Claudio",
+    "effectif": [
+      {
+        "nom": "Pablo Duran",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-05-25",
+        "buts": 2
+      },
+      {
+        "nom": "Carl Starfelt",
+        "poste": "Defence",
+        "nationalite": "Sweden",
+        "naissance": "1995-06-01",
+        "buts": 1
+      },
+      {
+        "nom": "Iago Aspas",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1987-08-01",
+        "buts": 1
+      },
+      {
+        "nom": "Ferran Jutglà",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-02-01",
+        "buts": 1
+      },
+      {
+        "nom": "Ionuț Radu",
+        "poste": "Goalkeeper",
+        "nationalite": "Romania",
+        "naissance": "1997-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Altay Bayındır",
+        "poste": "Goalkeeper",
+        "nationalite": "Turkey",
+        "naissance": "1998-04-14",
+        "buts": 0
+      },
+      {
+        "nom": "Iván Villar",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1997-07-09",
+        "buts": 0
+      },
+      {
+        "nom": "Marcos Alonso",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1990-12-28",
+        "buts": 0
+      },
+      {
+        "nom": "Sebastían Cáceres",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "1999-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Javier Galán",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1994-11-19",
+        "buts": 0
+      },
+      {
+        "nom": "Abdoulaye Fayé",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "1978-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Sergio Carreira",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-10-13",
+        "buts": 0
+      },
+      {
+        "nom": "Álvaro Núñez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Javi Rodríguez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-06-26",
+        "buts": 0
+      },
+      {
+        "nom": "Yoel Lago",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2004-03-25",
+        "buts": 0
+      },
+      {
+        "nom": "Javi Rueda",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-05-08",
+        "buts": 0
+      },
+      {
+        "nom": "Aleix Febas",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Ilaix Moriba",
+        "poste": "Midfield",
+        "nationalite": "Guinea",
+        "naissance": "2003-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Miguel Román",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-12-26",
+        "buts": 0
+      },
+      {
+        "nom": "Borja Iglesias",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1993-01-17",
+        "buts": 0
+      },
+      {
+        "nom": "Couhaib Driouech",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2002-04-17",
+        "buts": 0
+      },
+      {
+        "nom": "Williot Swedberg",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2004-02-01",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Alvarez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-07-02",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Gonzalez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Jones El-Abdellaoui",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2006-01-12",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Sevilla FC",
+    "court": "Sevilla FC",
+    "tla": "SEV",
+    "logo": "https://crests.football-data.org/559.png",
+    "fonde": 1905,
+    "stade": "Estadio Ramón Sánchez Pizjuán",
+    "couleurs": "White / Red",
+    "site": "http://www.sevillafc.es",
+    "entraineur": "Luís García",
+    "effectif": [
+      {
+        "nom": "Miguel Ángel Sierra",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2004-07-14",
+        "buts": 2
+      },
+      {
+        "nom": "Juan Iglesias",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1998-07-03",
+        "buts": 1
+      },
+      {
+        "nom": "Jon Guridi",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1995-02-28",
+        "buts": 1
+      },
+      {
+        "nom": "Chidera Ejuke",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1998-01-02",
+        "buts": 1
+      },
+      {
+        "nom": "Peque",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-10-04",
+        "buts": 1
+      },
+      {
+        "nom": "Lucas Stassin",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2004-11-29",
+        "buts": 1
+      },
+      {
+        "nom": "Isaac",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-05-18",
+        "buts": 1
+      },
+      {
+        "nom": "Odisseas Vlachodimos",
+        "poste": "Goalkeeper",
+        "nationalite": "Greece",
+        "naissance": "1994-04-26",
+        "buts": 0
+      },
+      {
+        "nom": "Fran Gonzalez",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2005-06-24",
+        "buts": 0
+      },
+      {
+        "nom": "Gabriel Suazo",
+        "poste": "Defence",
+        "nationalite": "Chile",
+        "naissance": "1997-08-09",
+        "buts": 0
+      },
+      {
+        "nom": "Fábio Cardoso",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1994-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Marcão",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "1996-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Arouna Sangante",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "2002-04-12",
+        "buts": 0
+      },
+      {
+        "nom": "Jose Angel Carmona",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-01-29",
+        "buts": 0
+      },
+      {
+        "nom": "Kike Salas",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-04-23",
+        "buts": 0
+      },
+      {
+        "nom": "Castrin",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Julio Díaz",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Youssouf Fofana",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1999-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Lucien Agoume",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2002-02-09",
+        "buts": 0
+      },
+      {
+        "nom": "Giorgi Kochorashvili",
+        "poste": "Midfield",
+        "nationalite": "Georgia",
+        "naissance": "1999-06-29",
+        "buts": 0
+      },
+      {
+        "nom": "Manu Bueno",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-07-27",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolás Guillén",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2008-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Ruben Vargas",
+        "poste": "Offence",
+        "nationalite": "Switzerland",
+        "naissance": "1998-08-05",
+        "buts": 0
+      },
+      {
+        "nom": "Alfonso González",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Félix Correia",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2001-01-22",
+        "buts": 0
+      },
+      {
+        "nom": "Robbie Ure",
+        "poste": "Offence",
+        "nationalite": "Scotland",
+        "naissance": "2004-02-26",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "RC Deportivo La Coruña",
+    "court": "Deportivo",
+    "tla": "DEP",
+    "logo": "https://crests.football-data.org/560.png",
+    "fonde": 1906,
+    "stade": "Estadio Abanca-Riazor",
+    "couleurs": "Blue / White",
+    "site": "http://www.rcdeportivo.es",
+    "entraineur": "Antonio Hidalgo",
+    "effectif": [
+      {
+        "nom": "Pierre-Emerick Aubameyang",
+        "poste": "Offence",
+        "nationalite": "Gabon",
+        "naissance": "1989-06-18",
+        "buts": 5
+      },
+      {
+        "nom": "Zakaria Eddahchouri",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-05-11",
+        "buts": 1
+      },
+      {
+        "nom": "Luismi Cruz",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-05-23",
+        "buts": 1
+      },
+      {
+        "nom": "Álvaro Fernández",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1998-04-13",
+        "buts": 0
+      },
+      {
+        "nom": "German Parreno",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1993-02-16",
+        "buts": 0
+      },
+      {
+        "nom": "Leo Román",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2000-07-06",
+        "buts": 0
+      },
+      {
+        "nom": "Ximo Navarro",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1990-01-23",
+        "buts": 0
+      },
+      {
+        "nom": "Angeliño",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "Giacomo Quagliata",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2000-02-19",
+        "buts": 0
+      },
+      {
+        "nom": "Arnau Comas",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-04-11",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Noubi",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2005-01-15",
+        "buts": 0
+      },
+      {
+        "nom": "Adrià Altimira",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-03-28",
+        "buts": 0
+      },
+      {
+        "nom": "Miguel Loureiro",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1996-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "José Giménez",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "1995-01-20",
+        "buts": 0
+      },
+      {
+        "nom": "Dani Barcia",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Ede Bright",
+        "poste": "Defence",
+        "nationalite": "Poland",
+        "naissance": "2007-02-18",
+        "buts": 0
+      },
+      {
+        "nom": "Mario Soriano",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-04-22",
+        "buts": 0
+      },
+      {
+        "nom": "Riki Rodríguez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1997-09-25",
+        "buts": 0
+      },
+      {
+        "nom": "Marc Casado",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-09-14",
+        "buts": 0
+      },
+      {
+        "nom": "Lorenzo Amatucci",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2004-02-05",
+        "buts": 0
+      },
+      {
+        "nom": "Diego Villares",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Teun Gijselhart",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2005-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "Jonathan Asp-Jensen",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "2006-01-14",
+        "buts": 0
+      },
+      {
+        "nom": "Noé Carrillo",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2006-12-28",
+        "buts": 0
+      },
+      {
+        "nom": "Adama Traoré",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1996-01-25",
+        "buts": 0
+      },
+      {
+        "nom": "David Mella",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-05-23",
+        "buts": 0
+      },
+      {
+        "nom": "Peke",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-12-10",
+        "buts": 0
+      },
+      {
+        "nom": "Nsongo Tonfack",
+        "poste": "Offence",
+        "nationalite": "Cameroon",
+        "naissance": "2004-09-21",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Real Racing Club de Santander",
+    "court": "Santander",
+    "tla": "SAN",
+    "logo": "https://crests.football-data.org/5335.png",
+    "fonde": 1913,
+    "stade": "Campos de Sport de El Sardinero",
+    "couleurs": "White / Black / Green",
+    "site": "http://www.realracingclub.com",
+    "entraineur": "José Alberto López",
+    "effectif": [
+      {
+        "nom": "Yassir Zabiri",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2005-02-23",
+        "buts": 6
+      },
+      {
+        "nom": "Pablo García",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-06-05",
+        "buts": 2
+      },
+      {
+        "nom": "Canales",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1991-02-16",
+        "buts": 1
+      },
+      {
+        "nom": "Maguette Gueye",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "2002-12-30",
+        "buts": 1
+      },
+      {
+        "nom": "Andrés Martín",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-07-11",
+        "buts": 1
+      },
+      {
+        "nom": "Julen Agirrezabala",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "2000-12-26",
+        "buts": 0
+      },
+      {
+        "nom": "Simon Eriksson",
+        "poste": "Goalkeeper",
+        "nationalite": "Sweden",
+        "naissance": "2006-04-24",
+        "buts": 0
+      },
+      {
+        "nom": "José Manuel",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1998-07-19",
+        "buts": 0
+      },
+      {
+        "nom": "Aaron Martín",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-04-22",
+        "buts": 0
+      },
+      {
+        "nom": "Pablo Ramon",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Álvaro Mantilla",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2000-05-09",
+        "buts": 0
+      },
+      {
+        "nom": "Jeanuel Belocian",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2005-02-17",
+        "buts": 0
+      },
+      {
+        "nom": "Facundo González",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "2003-06-06",
+        "buts": 0
+      },
+      {
+        "nom": "Pedro Felipe",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2004-05-23",
+        "buts": 0
+      },
+      {
+        "nom": "Salinas",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2007-04-03",
+        "buts": 0
+      },
+      {
+        "nom": "André Almeida",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2000-05-30",
+        "buts": 0
+      },
+      {
+        "nom": "Iván Martín",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1999-02-14",
+        "buts": 0
+      },
+      {
+        "nom": "Íñigo Sainz Maza",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1998-06-16",
+        "buts": 0
+      },
+      {
+        "nom": "Matteo Prati",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2003-12-28",
+        "buts": 0
+      },
+      {
+        "nom": "Asier Villalibre",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-09-30",
+        "buts": 0
+      },
+      {
+        "nom": "Iñigo Vicente",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1998-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Giorgi Guliashvili",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2001-09-05",
+        "buts": 0
+      },
+      {
+        "nom": "Arana",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Iker Luque",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-06-05",
+        "buts": 0
+      }
+    ]
+  }
+]

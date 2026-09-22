@@ -7,12 +7,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Coventry City FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Arsenal",
-    "court_ext": "Coventry City"
+    "buts_ext": 0
   },
   {
     "id": 560543,
@@ -22,12 +22,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Manchester United FC",
+    "court_dom": "Hull City",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Hull City",
-    "court_ext": "Man United"
+    "buts_ext": 0
   },
   {
     "id": 560544,
@@ -37,12 +37,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Sunderland"
+    "buts_ext": 1
   },
   {
     "id": 560545,
@@ -52,12 +52,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Leeds United FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Nottingham",
-    "court_ext": "Leeds United"
+    "buts_ext": 1
   },
   {
     "id": 560546,
@@ -67,12 +67,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Everton",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Everton",
-    "court_ext": "Crystal Palace"
+    "buts_ext": 0
   },
   {
     "id": 560547,
@@ -82,12 +82,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Brentford",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Brentford",
-    "court_ext": "Tottenham"
+    "buts_ext": 0
   },
   {
     "id": 560548,
@@ -97,12 +97,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Man City",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Man City",
-    "court_ext": "Bournemouth"
+    "buts_ext": 1
   },
   {
     "id": 560549,
@@ -112,12 +112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Aston Villa"
+    "buts_ext": 0
   },
   {
     "id": 560550,
@@ -127,12 +127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Liverpool FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Newcastle",
-    "court_ext": "Liverpool"
+    "buts_ext": 2
   },
   {
     "id": 560551,
@@ -142,12 +142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Chelsea FC",
+    "court_dom": "Fulham",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Fulham",
-    "court_ext": "Chelsea"
+    "buts_ext": 3
   },
   {
     "id": 560555,
@@ -157,12 +157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Manchester City FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": 1,
-    "buts_ext": 4,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Man City"
+    "buts_ext": 4
   },
   {
     "id": 560552,
@@ -172,12 +172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Liverpool",
-    "court_ext": "Nottingham"
+    "buts_ext": 2
   },
   {
     "id": 560560,
@@ -187,12 +187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Everton FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Bournemouth",
-    "court_ext": "Everton"
+    "buts_ext": 1
   },
   {
     "id": 560561,
@@ -202,12 +202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Hull City AFC",
+    "court_dom": "Coventry City",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Coventry City",
-    "court_ext": "Hull City"
+    "buts_ext": 1
   },
   {
     "id": 560558,
@@ -217,12 +217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Tottenham",
-    "court_ext": "Newcastle"
+    "buts_ext": 2
   },
   {
     "id": 560554,
@@ -232,12 +232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Fulham FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Sunderland",
-    "court_ext": "Fulham"
+    "buts_ext": 0
   },
   {
     "id": 560556,
@@ -247,12 +247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": 4,
-    "buts_ext": 3,
-    "court_dom": "Chelsea",
-    "court_ext": "Brighton Hove"
+    "buts_ext": 3
   },
   {
     "id": 560559,
@@ -262,12 +262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Brentford FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Leeds United",
-    "court_ext": "Brentford"
+    "buts_ext": 1
   },
   {
     "id": 560553,
@@ -277,12 +277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Man United",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": 5,
-    "buts_ext": 2,
-    "court_dom": "Man United",
-    "court_ext": "Ipswich Town"
+    "buts_ext": 2
   },
   {
     "id": 560557,
@@ -292,12 +292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Arsenal FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Aston Villa",
-    "court_ext": "Arsenal"
+    "buts_ext": 1
   },
   {
     "id": 560566,
@@ -307,12 +307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Liverpool FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Liverpool"
+    "buts_ext": 2
   },
   {
     "id": 560571,
@@ -322,12 +322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Newcastle",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Newcastle",
-    "court_ext": "Bournemouth"
+    "buts_ext": 2
   },
   {
     "id": 560562,
@@ -337,12 +337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Nottingham",
-    "court_ext": "Tottenham"
+    "buts_ext": 0
   },
   {
     "id": 560563,
@@ -352,12 +352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Coventry City FC",
+    "court_dom": "Man City",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Man City",
-    "court_ext": "Coventry City"
+    "buts_ext": 0
   },
   {
     "id": 560564,
@@ -367,12 +367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Leeds United FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Leeds United"
+    "buts_ext": 1
   },
   {
     "id": 560565,
@@ -382,12 +382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Brentford",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Brentford",
-    "court_ext": "Sunderland"
+    "buts_ext": 1
   },
   {
     "id": 560568,
@@ -397,12 +397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Fulham",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Fulham",
-    "court_ext": "Crystal Palace"
+    "buts_ext": 3
   },
   {
     "id": 560569,
@@ -412,12 +412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Aston Villa FC",
+    "court_dom": "Hull City",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Hull City",
-    "court_ext": "Aston Villa"
+    "buts_ext": 0
   },
   {
     "id": 560567,
@@ -427,12 +427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Manchester United FC",
+    "court_dom": "Everton",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Everton",
-    "court_ext": "Man United"
+    "buts_ext": 2
   },
   {
     "id": 560570,
@@ -442,12 +442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Chelsea FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Arsenal",
-    "court_ext": "Chelsea"
+    "buts_ext": 1
   },
   {
     "id": 560572,
@@ -457,12 +457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Ipswich Town"
+    "buts_ext": 3
   },
   {
     "id": 560573,
@@ -472,12 +472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Fulham FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Liverpool",
-    "court_ext": "Fulham"
+    "buts_ext": 0
   },
   {
     "id": 560574,
@@ -487,12 +487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Aston Villa",
-    "court_ext": "Nottingham"
+    "buts_ext": 2
   },
   {
     "id": 560576,
@@ -502,12 +502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Brentford FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Bournemouth",
-    "court_ext": "Brentford"
+    "buts_ext": 2
   },
   {
     "id": 560581,
@@ -517,12 +517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Hull City AFC",
+    "court_dom": "Chelsea",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Chelsea",
-    "court_ext": "Hull City"
+    "buts_ext": 2
   },
   {
     "id": 560575,
@@ -532,12 +532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Everton FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Tottenham",
-    "court_ext": "Everton"
+    "buts_ext": 0
   },
   {
     "id": 560577,
@@ -547,12 +547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Arsenal FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Sunderland",
-    "court_ext": "Arsenal"
+    "buts_ext": 2
   },
   {
     "id": 560578,
@@ -562,12 +562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": 0,
-    "buts_ext": 5,
-    "court_dom": "Coventry City",
-    "court_ext": "Brighton Hove"
+    "buts_ext": 5
   },
   {
     "id": 560580,
@@ -577,12 +577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Manchester City FC",
+    "court_dom": "Man United",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Man United",
-    "court_ext": "Man City"
+    "buts_ext": 1
   },
   {
     "id": 560579,
@@ -592,12 +592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Leeds United",
-    "court_ext": "Newcastle"
+    "buts_ext": 1
   },
   {
     "id": 560591,
@@ -607,12 +607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Chelsea FC",
+    "court_dom": "Brentford",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Brentford",
-    "court_ext": "Chelsea"
+    "buts_ext": 0
   },
   {
     "id": 560587,
@@ -622,12 +622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Tottenham",
-    "court_ext": "Aston Villa"
+    "buts_ext": 3
   },
   {
     "id": 560584,
@@ -637,12 +637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Everton",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Everton",
-    "court_ext": "Ipswich Town"
+    "buts_ext": 0
   },
   {
     "id": 560586,
@@ -652,12 +652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Arsenal FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Arsenal"
+    "buts_ext": 0
   },
   {
     "id": 560588,
@@ -667,12 +667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Hull City AFC",
+    "court_dom": "Newcastle",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Newcastle",
-    "court_ext": "Hull City"
+    "buts_ext": 1
   },
   {
     "id": 560589,
@@ -682,12 +682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Coventry City FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Nottingham",
-    "court_ext": "Coventry City"
+    "buts_ext": 1
   },
   {
     "id": 560582,
@@ -697,12 +697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Liverpool FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Bournemouth",
-    "court_ext": "Liverpool"
+    "buts_ext": 1
   },
   {
     "id": 560585,
@@ -712,12 +712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Leeds United",
-    "court_ext": "Crystal Palace"
+    "buts_ext": 0
   },
   {
     "id": 560590,
@@ -727,12 +727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Man City",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": 5,
-    "buts_ext": 3,
-    "court_dom": "Man City",
-    "court_ext": "Sunderland"
+    "buts_ext": 3
   },
   {
     "id": 560583,
@@ -742,12 +742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Manchester United FC",
+    "court_dom": "Fulham",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Fulham",
-    "court_ext": "Man United"
+    "buts_ext": 1
   },
   {
     "id": 560593,
@@ -757,12 +757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Leeds United FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560592,
@@ -772,12 +772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560595,
@@ -787,12 +787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Chelsea",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560599,
@@ -802,12 +802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Fulham FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560601,
@@ -817,12 +817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Brentford FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560600,
@@ -832,12 +832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Man United",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560594,
@@ -847,12 +847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Everton FC",
+    "court_dom": "Hull City",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560596,
@@ -862,12 +862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560598,
@@ -877,12 +877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Manchester City FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560597,
@@ -892,12 +892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560603,
@@ -907,12 +907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Chelsea FC",
+    "court_dom": "Everton",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560602,
@@ -922,12 +922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Hull City AFC",
+    "court_dom": "Fulham",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560610,
@@ -937,12 +937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Man City",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560611,
@@ -952,12 +952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Liverpool FC",
+    "court_dom": "Brentford",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560607,
@@ -967,12 +967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560604,
@@ -982,12 +982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Sunderland AFC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560605,
@@ -997,12 +997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Manchester United FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560609,
@@ -1012,12 +1012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560608,
@@ -1027,12 +1027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Arsenal FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560606,
@@ -1042,12 +1042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Coventry City FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560620,
@@ -1057,12 +1057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560614,
@@ -1072,12 +1072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Manchester City FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560616,
@@ -1087,12 +1087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Everton FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560618,
@@ -1102,12 +1102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Fulham FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560617,
@@ -1117,12 +1117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560612,
@@ -1132,12 +1132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560613,
@@ -1147,12 +1147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560615,
@@ -1162,12 +1162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Man United",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560619,
@@ -1177,12 +1177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Brentford FC",
+    "court_dom": "Hull City",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560621,
@@ -1192,12 +1192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Leeds United FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560626,
@@ -1207,12 +1207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Manchester United FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560623,
@@ -1222,12 +1222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Man City",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560624,
@@ -1237,12 +1237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Leeds United FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560625,
@@ -1252,12 +1252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Coventry City",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560629,
@@ -1267,12 +1267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Hull City",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560630,
@@ -1282,12 +1282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Brentford",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560627,
@@ -1297,12 +1297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560628,
@@ -1312,12 +1312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Fulham FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560631,
@@ -1327,12 +1327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Arsenal FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560622,
@@ -1342,12 +1342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Everton FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560634,
@@ -1357,12 +1357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Coventry City FC",
+    "court_dom": "Everton",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560632,
@@ -1372,12 +1372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560640,
@@ -1387,12 +1387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Hull City AFC",
+    "court_dom": "Arsenal",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560633,
@@ -1402,12 +1402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Fulham",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560641,
@@ -1417,12 +1417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Manchester City FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560635,
@@ -1432,12 +1432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Liverpool FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560636,
@@ -1447,12 +1447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Chelsea FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560637,
@@ -1462,12 +1462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560638,
@@ -1477,12 +1477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Brentford FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560639,
@@ -1492,12 +1492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Man United",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560643,
@@ -1507,12 +1507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Fulham FC",
+    "court_dom": "Man City",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560642,
@@ -1522,12 +1522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Leeds United FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560644,
@@ -1537,12 +1537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560647,
@@ -1552,12 +1552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560648,
@@ -1567,12 +1567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560650,
@@ -1582,12 +1582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560651,
@@ -1597,12 +1597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Arsenal FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560646,
@@ -1612,12 +1612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Hull City",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560645,
@@ -1627,12 +1627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Manchester United FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560649,
@@ -1642,12 +1642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Everton FC",
+    "court_dom": "Brentford",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560658,
@@ -1657,12 +1657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Chelsea FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560652,
@@ -1672,12 +1672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Coventry City FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560655,
@@ -1687,12 +1687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Brentford FC",
+    "court_dom": "Man United",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560653,
@@ -1702,12 +1702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560656,
@@ -1717,12 +1717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Liverpool FC",
+    "court_dom": "Everton",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560657,
@@ -1732,12 +1732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Fulham",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560659,
@@ -1747,12 +1747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560660,
@@ -1762,12 +1762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560661,
@@ -1777,12 +1777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Hull City AFC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560654,
@@ -1792,12 +1792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Manchester City FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560662,
@@ -1807,12 +1807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Fulham FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560663,
@@ -1822,12 +1822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Liverpool",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560664,
@@ -1837,12 +1837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Hull City",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560665,
@@ -1852,12 +1852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560666,
@@ -1867,12 +1867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Everton FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560667,
@@ -1882,12 +1882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Arsenal FC",
+    "court_dom": "Brentford",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560668,
@@ -1897,12 +1897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560669,
@@ -1912,12 +1912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Leeds United FC",
+    "court_dom": "Man City",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560670,
@@ -1927,12 +1927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Manchester United FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560671,
@@ -1942,12 +1942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560672,
@@ -1957,12 +1957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Arsenal FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560673,
@@ -1972,12 +1972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Coventry City FC",
+    "court_dom": "Man United",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560674,
@@ -1987,12 +1987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560675,
@@ -2002,12 +2002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Newcastle",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560676,
@@ -2017,12 +2017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Liverpool FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560677,
@@ -2032,12 +2032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Manchester City FC",
+    "court_dom": "Brentford",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560678,
@@ -2047,12 +2047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Hull City AFC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560679,
@@ -2062,12 +2062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560680,
@@ -2077,12 +2077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560681,
@@ -2092,12 +2092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Fulham FC",
+    "court_dom": "Everton",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560682,
@@ -2107,12 +2107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560683,
@@ -2122,12 +2122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Manchester United FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560684,
@@ -2137,12 +2137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Hull City",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560685,
@@ -2152,12 +2152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Everton FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560686,
@@ -2167,12 +2167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560687,
@@ -2182,12 +2182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560688,
@@ -2197,12 +2197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Arsenal",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560689,
@@ -2212,12 +2212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Chelsea FC",
+    "court_dom": "Man City",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560690,
@@ -2227,12 +2227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Leeds United FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560691,
@@ -2242,12 +2242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Brentford FC",
+    "court_dom": "Fulham",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560692,
@@ -2257,12 +2257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Fulham FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560693,
@@ -2272,12 +2272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560694,
@@ -2287,12 +2287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Everton FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560695,
@@ -2302,12 +2302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Brentford",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560696,
@@ -2317,12 +2317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Hull City AFC",
+    "court_dom": "Man City",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560697,
@@ -2332,12 +2332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560698,
@@ -2347,12 +2347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Coventry City FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560699,
@@ -2362,12 +2362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Manchester United FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560700,
@@ -2377,12 +2377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560701,
@@ -2392,12 +2392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560702,
@@ -2407,12 +2407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Leeds United FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560705,
@@ -2422,12 +2422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Everton",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560708,
@@ -2437,12 +2437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Fulham",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560709,
@@ -2452,12 +2452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Tottenham",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560711,
@@ -2467,12 +2467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Brentford FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560710,
@@ -2482,12 +2482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Liverpool FC",
+    "court_dom": "Hull City",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560707,
@@ -2497,12 +2497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Manchester City FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560706,
@@ -2512,12 +2512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Chelsea FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560703,
@@ -2527,12 +2527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Man United",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560704,
@@ -2542,12 +2542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Arsenal FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560716,
@@ -2557,12 +2557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Leeds United FC",
+    "court_dom": "Hull City",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560719,
@@ -2572,12 +2572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560720,
@@ -2587,12 +2587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Manchester City FC",
+    "court_dom": "Everton",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560712,
@@ -2602,12 +2602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Arsenal FC",
+    "court_dom": "Fulham",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560713,
@@ -2617,12 +2617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Brentford FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560715,
@@ -2632,12 +2632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560717,
@@ -2647,12 +2647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Man United",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560721,
@@ -2662,12 +2662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560714,
@@ -2677,12 +2677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Liverpool FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560718,
@@ -2692,12 +2692,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Chelsea FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560724,
@@ -2707,12 +2707,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Everton FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560730,
@@ -2722,12 +2722,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Manchester United FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560723,
@@ -2737,12 +2737,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Brentford",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560725,
@@ -2752,12 +2752,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560726,
@@ -2767,12 +2767,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Hull City AFC",
+    "court_dom": "Sunderland",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560727,
@@ -2782,12 +2782,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Coventry City FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560729,
@@ -2797,12 +2797,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Fulham FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560722,
@@ -2812,12 +2812,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Aston Villa FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560728,
@@ -2827,12 +2827,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560731,
@@ -2842,12 +2842,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Man City",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560732,
@@ -2857,12 +2857,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Brentford FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560735,
@@ -2872,12 +2872,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560736,
@@ -2887,12 +2887,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Hull City AFC",
+    "court_dom": "Nottingham",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560738,
@@ -2902,12 +2902,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Everton",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560739,
@@ -2917,12 +2917,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Liverpool FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560737,
@@ -2932,12 +2932,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Fulham",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560740,
@@ -2947,12 +2947,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Chelsea FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560741,
@@ -2962,12 +2962,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Coventry City FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560733,
@@ -2977,12 +2977,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Manchester City FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560734,
@@ -2992,12 +2992,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Man United",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560742,
@@ -3007,12 +3007,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Ipswich Town FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560743,
@@ -3022,12 +3022,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Man City",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560744,
@@ -3037,12 +3037,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Chelsea",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560745,
@@ -3052,12 +3052,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Brentford",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560746,
@@ -3067,12 +3067,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Manchester United FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560747,
@@ -3082,12 +3082,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Leeds United FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560748,
@@ -3097,12 +3097,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Everton FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560749,
@@ -3112,12 +3112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560750,
@@ -3127,12 +3127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Arsenal FC",
+    "court_dom": "Hull City",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560751,
@@ -3142,12 +3142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Fulham FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560752,
@@ -3157,12 +3157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Hull City AFC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560753,
@@ -3172,12 +3172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Brentford FC",
+    "court_dom": "Everton",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560754,
@@ -3187,12 +3187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Coventry City FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560755,
@@ -3202,12 +3202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Nottingham",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560756,
@@ -3217,12 +3217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560757,
@@ -3232,12 +3232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Chelsea FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560758,
@@ -3247,12 +3247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Fulham",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560759,
@@ -3262,12 +3262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Liverpool FC",
+    "court_dom": "Man United",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560760,
@@ -3277,12 +3277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Manchester City FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560761,
@@ -3292,12 +3292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560762,
@@ -3307,12 +3307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Tottenham",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560763,
@@ -3322,12 +3322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Manchester United FC",
+    "court_dom": "Brentford",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560764,
@@ -3337,12 +3337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560765,
@@ -3352,12 +3352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Hull City",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560766,
@@ -3367,12 +3367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Leeds United FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560767,
@@ -3382,12 +3382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Fulham FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560768,
@@ -3397,12 +3397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560769,
@@ -3412,12 +3412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Everton FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560770,
@@ -3427,12 +3427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Arsenal FC",
+    "court_dom": "Man City",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560771,
@@ -3442,12 +3442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560772,
@@ -3457,12 +3457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Liverpool FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560773,
@@ -3472,12 +3472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Hull City AFC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560774,
@@ -3487,12 +3487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Aston Villa FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560775,
@@ -3502,12 +3502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Coventry City FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560776,
@@ -3517,12 +3517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560777,
@@ -3532,12 +3532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Everton",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560778,
@@ -3547,12 +3547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Manchester City FC",
+    "court_dom": "Fulham",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560779,
@@ -3562,12 +3562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Leeds United",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560780,
@@ -3577,12 +3577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Chelsea FC",
+    "court_dom": "Man United",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560781,
@@ -3592,12 +3592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Brentford FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560782,
@@ -3607,12 +3607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Leeds United FC",
+    "court_dom": "Everton",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560783,
@@ -3622,12 +3622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Liverpool FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560784,
@@ -3637,12 +3637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Sunderland AFC",
+    "court_dom": "Hull City",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560785,
@@ -3652,12 +3652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Aston Villa",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560786,
@@ -3667,12 +3667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Brentford FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560787,
@@ -3682,12 +3682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Chelsea FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560788,
@@ -3697,12 +3697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Fulham",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560789,
@@ -3712,12 +3712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Manchester City FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560790,
@@ -3727,12 +3727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Man United",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560791,
@@ -3742,12 +3742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Arsenal FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560792,
@@ -3757,12 +3757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Man City",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560793,
@@ -3772,12 +3772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Crystal Palace FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560794,
@@ -3787,12 +3787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Coventry City FC",
+    "court_dom": "Brentford",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560795,
@@ -3802,12 +3802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560796,
@@ -3817,12 +3817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Hull City AFC",
+    "court_dom": "Liverpool",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560797,
@@ -3832,12 +3832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Fulham FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560798,
@@ -3847,12 +3847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Manchester United FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560799,
@@ -3862,12 +3862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560800,
@@ -3877,12 +3877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Everton FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560801,
@@ -3892,12 +3892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560802,
@@ -3907,12 +3907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560803,
@@ -3922,12 +3922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Arsenal FC",
+    "court_dom": "Man United",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560804,
@@ -3937,12 +3937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560805,
@@ -3952,12 +3952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Coventry City",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560806,
@@ -3967,12 +3967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Everton",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560807,
@@ -3982,12 +3982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Leeds United FC",
+    "court_dom": "Fulham",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560808,
@@ -3997,12 +3997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Chelsea FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560809,
@@ -4012,12 +4012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Liverpool FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560810,
@@ -4027,12 +4027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Brentford FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560811,
@@ -4042,12 +4042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Manchester City FC",
+    "court_dom": "Hull City",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560812,
@@ -4057,12 +4057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560813,
@@ -4072,12 +4072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560814,
@@ -4087,12 +4087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Everton FC",
+    "court_dom": "Man City",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560815,
@@ -4102,12 +4102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560816,
@@ -4117,12 +4117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Hull City AFC",
+    "court_dom": "Leeds United",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560817,
@@ -4132,12 +4132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Manchester United FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560818,
@@ -4147,12 +4147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560819,
@@ -4162,12 +4162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Fulham FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560820,
@@ -4177,12 +4177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Brentford",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560821,
@@ -4192,12 +4192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Coventry City FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560822,
@@ -4207,12 +4207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560823,
@@ -4222,12 +4222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560824,
@@ -4237,12 +4237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Fulham FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560825,
@@ -4252,12 +4252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560826,
@@ -4267,12 +4267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Manchester City FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560827,
@@ -4282,12 +4282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Newcastle United FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560828,
@@ -4297,12 +4297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Arsenal FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560829,
@@ -4312,12 +4312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Hull City AFC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560830,
@@ -4327,12 +4327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Everton FC",
+    "court_dom": "Man United",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560831,
@@ -4342,12 +4342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Brentford FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560832,
@@ -4357,12 +4357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Brentford",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560833,
@@ -4372,12 +4372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Coventry City FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560834,
@@ -4387,12 +4387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Manchester United FC",
+    "court_dom": "Man City",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560835,
@@ -4402,12 +4402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560836,
@@ -4417,12 +4417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Arsenal",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560837,
@@ -4432,12 +4432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Liverpool FC",
+    "court_dom": "Fulham",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560838,
@@ -4447,12 +4447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Chelsea FC",
+    "court_dom": "Hull City",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560839,
@@ -4462,12 +4462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560840,
@@ -4477,12 +4477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Everton",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560841,
@@ -4492,12 +4492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Leeds United FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560842,
@@ -4507,12 +4507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560843,
@@ -4522,12 +4522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560844,
@@ -4537,12 +4537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Hull City AFC",
+    "court_dom": "Man United",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560845,
@@ -4552,12 +4552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Fulham FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560846,
@@ -4567,12 +4567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560847,
@@ -4582,12 +4582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Arsenal FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560848,
@@ -4597,12 +4597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Manchester City FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560849,
@@ -4612,12 +4612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Everton FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560850,
@@ -4627,12 +4627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Brentford FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560851,
@@ -4642,12 +4642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560852,
@@ -4657,12 +4657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Chelsea FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560853,
@@ -4672,12 +4672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Fulham",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560854,
@@ -4687,12 +4687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Leeds United FC",
+    "court_dom": "Brentford",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560855,
@@ -4702,12 +4702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Liverpool FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560856,
@@ -4717,12 +4717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Coventry City FC",
+    "court_dom": "Hull City",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560857,
@@ -4732,12 +4732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560858,
@@ -4747,12 +4747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Manchester United FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560859,
@@ -4762,12 +4762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Man City",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560860,
@@ -4777,12 +4777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560861,
@@ -4792,12 +4792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Everton",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560862,
@@ -4807,12 +4807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Manchester City FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560863,
@@ -4822,12 +4822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Arsenal FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560864,
@@ -4837,12 +4837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Hull City AFC",
+    "court_dom": "Tottenham",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560865,
@@ -4852,12 +4852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Man United",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560866,
@@ -4867,12 +4867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Everton",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560867,
@@ -4882,12 +4882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Nottingham",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560868,
@@ -4897,12 +4897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560869,
@@ -4912,12 +4912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Coventry City FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560870,
@@ -4927,12 +4927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Fulham FC",
+    "court_dom": "Brentford",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560871,
@@ -4942,12 +4942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Liverpool FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560872,
@@ -4957,12 +4957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Newcastle United FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560873,
@@ -4972,12 +4972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560874,
@@ -4987,12 +4987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Manchester United FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560875,
@@ -5002,12 +5002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Hull City",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560876,
@@ -5017,12 +5017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Brentford FC",
+    "court_dom": "Man City",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560877,
@@ -5032,12 +5032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Everton FC",
+    "court_dom": "Fulham",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560878,
@@ -5047,12 +5047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Chelsea FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560879,
@@ -5062,12 +5062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560880,
@@ -5077,12 +5077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560881,
@@ -5092,12 +5092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Leeds United FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560882,
@@ -5107,12 +5107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Liverpool FC",
+    "court_dom": "Man City",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560883,
@@ -5122,12 +5122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Arsenal FC",
+    "court_dom": "Leeds United",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560884,
@@ -5137,12 +5137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Fulham",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560885,
@@ -5152,12 +5152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560886,
@@ -5167,12 +5167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Brentford",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560887,
@@ -5182,12 +5182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Coventry City FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560888,
@@ -5197,12 +5197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560889,
@@ -5212,12 +5212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Chelsea FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560890,
@@ -5227,12 +5227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Hull City AFC",
+    "court_dom": "Everton",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560891,
@@ -5242,12 +5242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Manchester United FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560896,
@@ -5257,12 +5257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Fulham FC",
+    "court_dom": "Hull City",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560897,
@@ -5272,12 +5272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Leeds United FC",
+    "court_dom": "Man United",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   },
   {
     "id": 560898,
@@ -5287,12 +5287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560899,
@@ -5302,12 +5302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Newcastle United FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560900,
@@ -5317,12 +5317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Everton FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560901,
@@ -5332,12 +5332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560892,
@@ -5347,12 +5347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Sunderland",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560893,
@@ -5362,12 +5362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "Brentford FC",
+    "court_dom": "Liverpool",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560894,
@@ -5377,12 +5377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Manchester City FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560895,
@@ -5392,12 +5392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560902,
@@ -5407,12 +5407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
     "ext": "Hull City AFC",
+    "court_dom": "Brentford",
+    "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brentford",
-    "court_ext": "Hull City"
+    "buts_ext": null
   },
   {
     "id": 560903,
@@ -5422,12 +5422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Newcastle United FC",
     "ext": "Crystal Palace FC",
+    "court_dom": "Newcastle",
+    "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/354.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Newcastle",
-    "court_ext": "Crystal Palace"
+    "buts_ext": null
   },
   {
     "id": 560904,
@@ -5437,12 +5437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
     "ext": "Manchester United FC",
+    "court_dom": "Tottenham",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Tottenham",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 560905,
@@ -5452,12 +5452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
     "ext": "Sunderland AFC",
+    "court_dom": "Leeds United",
+    "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/71.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Leeds United",
-    "court_ext": "Sunderland"
+    "buts_ext": null
   },
   {
     "id": 560906,
@@ -5467,12 +5467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
     "ext": "Liverpool FC",
+    "court_dom": "Brighton Hove",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brighton Hove",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 560907,
@@ -5482,12 +5482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
     "ext": "Ipswich Town FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nottingham",
-    "court_ext": "Ipswich Town"
+    "buts_ext": null
   },
   {
     "id": 560908,
@@ -5497,12 +5497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
     "ext": "Chelsea FC",
+    "court_dom": "Bournemouth",
+    "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/61.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bournemouth",
-    "court_ext": "Chelsea"
+    "buts_ext": null
   },
   {
     "id": 560909,
@@ -5512,12 +5512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
     "ext": "Coventry City FC",
+    "court_dom": "Fulham",
+    "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fulham",
-    "court_ext": "Coventry City"
+    "buts_ext": null
   },
   {
     "id": 560910,
@@ -5527,12 +5527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Everton FC",
     "ext": "Arsenal FC",
+    "court_dom": "Everton",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Everton",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 560911,
@@ -5542,12 +5542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
     "ext": "Aston Villa FC",
+    "court_dom": "Man City",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 560912,
@@ -5557,12 +5557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
     "ext": "Everton FC",
+    "court_dom": "Ipswich Town",
+    "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Ipswich Town",
-    "court_ext": "Everton"
+    "buts_ext": null
   },
   {
     "id": 560913,
@@ -5572,12 +5572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
     "ext": "Brighton & Hove Albion FC",
+    "court_dom": "Arsenal",
+    "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Brighton Hove"
+    "buts_ext": null
   },
   {
     "id": 560914,
@@ -5587,12 +5587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
     "ext": "AFC Bournemouth",
+    "court_dom": "Liverpool",
+    "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Bournemouth"
+    "buts_ext": null
   },
   {
     "id": 560915,
@@ -5602,12 +5602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
     "ext": "Nottingham Forest FC",
+    "court_dom": "Coventry City",
+    "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/351.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Coventry City",
-    "court_ext": "Nottingham"
+    "buts_ext": null
   },
   {
     "id": 560916,
@@ -5617,12 +5617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
     "ext": "Tottenham Hotspur FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/73.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Tottenham"
+    "buts_ext": null
   },
   {
     "id": 560917,
@@ -5632,12 +5632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
     "ext": "Newcastle United FC",
+    "court_dom": "Hull City",
+    "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Hull City",
-    "court_ext": "Newcastle"
+    "buts_ext": null
   },
   {
     "id": 560918,
@@ -5647,12 +5647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
     "ext": "Fulham FC",
+    "court_dom": "Man United",
+    "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/63.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Fulham"
+    "buts_ext": null
   },
   {
     "id": 560919,
@@ -5662,12 +5662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
     "ext": "Manchester City FC",
+    "court_dom": "Sunderland",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sunderland",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 560920,
@@ -5677,12 +5677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
     "ext": "Brentford FC",
+    "court_dom": "Chelsea",
+    "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/402.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Chelsea",
-    "court_ext": "Brentford"
+    "buts_ext": null
   },
   {
     "id": 560921,
@@ -5692,11 +5692,11 @@
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
     "ext": "Leeds United FC",
+    "court_dom": "Crystal Palace",
+    "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Crystal Palace",
-    "court_ext": "Leeds United"
+    "buts_ext": null
   }
 ]

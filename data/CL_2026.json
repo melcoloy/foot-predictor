@@ -7,12 +7,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Brugge KV",
     "ext": "Aston Villa FC",
+    "court_dom": "Club Brugge",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/851.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Club Brugge",
-    "court_ext": "Aston Villa"
+    "buts_ext": 3
   },
   {
     "id": 575324,
@@ -22,12 +22,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PAE AEK",
     "ext": "LASK Linz",
+    "court_dom": "PAE AEK",
+    "court_ext": "LASK",
     "logo_dom": "https://crests.football-data.org/1899.png",
     "logo_ext": "https://crests.football-data.org/2016.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "PAE AEK",
-    "court_ext": "LASK"
+    "buts_ext": 0
   },
   {
     "id": 575325,
@@ -37,12 +37,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Madrid CF",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Real Madrid",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Real Madrid",
-    "court_ext": "Inter"
+    "buts_ext": 1
   },
   {
     "id": 575326,
@@ -52,12 +52,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Porto",
     "ext": "Manchester City FC",
+    "court_dom": "Porto",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/503.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Porto",
-    "court_ext": "Man City"
+    "buts_ext": 2
   },
   {
     "id": 575327,
@@ -67,12 +67,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Borussia Dortmund",
     "ext": "Villarreal CF",
+    "court_dom": "Dortmund",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Dortmund",
-    "court_ext": "Villarreal"
+    "buts_ext": 2
   },
   {
     "id": 575328,
@@ -82,12 +82,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Lille OSC",
     "ext": "Real Betis Balompié",
+    "court_dom": "Lille",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Lille",
-    "court_ext": "Real Betis"
+    "buts_ext": 3
   },
   {
     "id": 575329,
@@ -97,12 +97,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Barcelona",
     "ext": "Feyenoord Rotterdam",
+    "court_dom": "Barça",
+    "court_ext": "Feyenoord",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/675.png",
     "buts_dom": 5,
-    "buts_ext": 1,
-    "court_dom": "Barça",
-    "court_ext": "Feyenoord"
+    "buts_ext": 1
   },
   {
     "id": 575330,
@@ -112,12 +112,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "VfB Stuttgart",
     "ext": "Viking FK",
+    "court_dom": "Stuttgart",
+    "court_ext": "Viking",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/5720.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "Stuttgart",
-    "court_ext": "Viking"
+    "buts_ext": 1
   },
   {
     "id": 575331,
@@ -127,12 +127,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Liverpool FC",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Liverpool",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Liverpool",
-    "court_ext": "Atleti"
+    "buts_ext": 1
   },
   {
     "id": 575332,
@@ -142,12 +142,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Paris Saint-Germain FC",
     "ext": "ŠK Slovan Bratislava",
+    "court_dom": "PSG",
+    "court_ext": "Sl. Bratislava",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/7509.png",
     "buts_dom": 6,
-    "buts_ext": 1,
-    "court_dom": "PSG",
-    "court_ext": "Sl. Bratislava"
+    "buts_ext": 1
   },
   {
     "id": 575333,
@@ -157,12 +157,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SSC Napoli",
     "ext": "Arsenal FC",
+    "court_dom": "Napoli",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Napoli",
-    "court_ext": "Arsenal"
+    "buts_ext": 1
   },
   {
     "id": 575334,
@@ -172,12 +172,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sporting Clube de Portugal",
     "ext": "Galatasaray SK",
+    "court_dom": "Sporting CP",
+    "court_ext": "Galatasaray",
     "logo_dom": "https://crests.football-data.org/498.png",
     "logo_ext": "https://crests.football-data.org/610.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "Sporting CP",
-    "court_ext": "Galatasaray"
+    "buts_ext": 1
   },
   {
     "id": 575335,
@@ -187,12 +187,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Fenerbahçe SK",
     "ext": "AS Roma",
+    "court_dom": "Fenerbahçe",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/613.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Fenerbahçe",
-    "court_ext": "Roma"
+    "buts_ext": 1
   },
   {
     "id": 575336,
@@ -202,12 +202,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PSV",
     "ext": "FK Shakhtar Donetsk",
+    "court_dom": "PSV",
+    "court_ext": "Shaktar",
     "logo_dom": "https://crests.football-data.org/674.png",
     "logo_ext": "https://crests.football-data.org/1887.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "PSV",
-    "court_ext": "Shaktar"
+    "buts_ext": 1
   },
   {
     "id": 575337,
@@ -217,12 +217,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Bayern München",
     "ext": "FK Bodø/Glimt",
+    "court_dom": "Bayern",
+    "court_ext": "Bodø/Glimt",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/5721.png",
     "buts_dom": 5,
-    "buts_ext": 0,
-    "court_dom": "Bayern",
-    "court_ext": "Bodø/Glimt"
+    "buts_ext": 0
   },
   {
     "id": 575338,
@@ -232,12 +232,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester United FC",
     "ext": "Sabah FK",
+    "court_dom": "Man United",
+    "court_ext": "Sabah FK",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/10233.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Man United",
-    "court_ext": "Sabah FK"
+    "buts_ext": 0
   },
   {
     "id": 575339,
@@ -247,12 +247,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Como 1907",
     "ext": "RB Leipzig",
+    "court_dom": "Como 1907",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Como 1907",
-    "court_ext": "RB Leipzig"
+    "buts_ext": 1
   },
   {
     "id": 575340,
@@ -262,12 +262,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SK Slavia Praha",
     "ext": "Racing Club de Lens",
+    "court_dom": "Slavia Praha",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/930.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Slavia Praha",
-    "court_ext": "RC Lens"
+    "buts_ext": 3
   },
   {
     "id": 575341,
@@ -277,12 +277,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Racing Club de Lens",
     "ext": "Sporting Clube de Portugal",
+    "court_dom": "RC Lens",
+    "court_ext": "Sporting CP",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/498.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Sporting CP"
+    "buts_ext": null
   },
   {
     "id": 575342,
@@ -292,12 +292,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sabah FK",
     "ext": "SK Slavia Praha",
+    "court_dom": "Sabah FK",
+    "court_ext": "Slavia Praha",
     "logo_dom": "https://crests.football-data.org/10233.png",
     "logo_ext": "https://crests.football-data.org/930.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sabah FK",
-    "court_ext": "Slavia Praha"
+    "buts_ext": null
   },
   {
     "id": 575343,
@@ -307,12 +307,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Internazionale Milano",
     "ext": "Club Brugge KV",
+    "court_dom": "Inter",
+    "court_ext": "Club Brugge",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/851.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Club Brugge"
+    "buts_ext": null
   },
   {
     "id": 575344,
@@ -322,12 +322,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Galatasaray SK",
     "ext": "FC Barcelona",
+    "court_dom": "Galatasaray",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/610.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Galatasaray",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 575345,
@@ -337,12 +337,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Atlético de Madrid",
     "ext": "Manchester United FC",
+    "court_dom": "Atleti",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 575346,
@@ -352,12 +352,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Arsenal FC",
     "ext": "Lille OSC",
+    "court_dom": "Arsenal",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 575347,
@@ -367,12 +367,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Viking FK",
     "ext": "FC Bayern München",
+    "court_dom": "Viking",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/5720.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Viking",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 575348,
@@ -382,12 +382,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "RB Leipzig",
     "ext": "PSV",
+    "court_dom": "RB Leipzig",
+    "court_ext": "PSV",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/674.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "PSV"
+    "buts_ext": null
   },
   {
     "id": 575349,
@@ -397,12 +397,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Villarreal CF",
     "ext": "SSC Napoli",
+    "court_dom": "Villarreal",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 575350,
@@ -412,12 +412,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "LASK Linz",
     "ext": "Liverpool FC",
+    "court_dom": "LASK",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/2016.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "LASK",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 575351,
@@ -427,12 +427,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Feyenoord Rotterdam",
     "ext": "Como 1907",
+    "court_dom": "Feyenoord",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/675.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Feyenoord",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 575352,
@@ -442,12 +442,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "AS Roma",
     "ext": "Real Madrid CF",
+    "court_dom": "Roma",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 575353,
@@ -457,12 +457,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester City FC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Man City",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 575354,
@@ -472,12 +472,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Bodø/Glimt",
     "ext": "Borussia Dortmund",
+    "court_dom": "Bodø/Glimt",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/5721.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bodø/Glimt",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 575355,
@@ -487,12 +487,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Aston Villa FC",
     "ext": "Fenerbahçe SK",
+    "court_dom": "Aston Villa",
+    "court_ext": "Fenerbahçe",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/613.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Fenerbahçe"
+    "buts_ext": null
   },
   {
     "id": 575356,
@@ -502,12 +502,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Betis Balompié",
     "ext": "FC Porto",
+    "court_dom": "Real Betis",
+    "court_ext": "Porto",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/503.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Porto"
+    "buts_ext": null
   },
   {
     "id": 575357,
@@ -517,12 +517,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Shakhtar Donetsk",
     "ext": "PAE AEK",
+    "court_dom": "Shaktar",
+    "court_ext": "PAE AEK",
     "logo_dom": "https://crests.football-data.org/1887.png",
     "logo_ext": "https://crests.football-data.org/1899.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Shaktar",
-    "court_ext": "PAE AEK"
+    "buts_ext": null
   },
   {
     "id": 575358,
@@ -532,12 +532,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "ŠK Slovan Bratislava",
     "ext": "VfB Stuttgart",
+    "court_dom": "Sl. Bratislava",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/7509.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sl. Bratislava",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 575359,
@@ -547,12 +547,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sabah FK",
     "ext": "Borussia Dortmund",
+    "court_dom": "Sabah FK",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/10233.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sabah FK",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 575360,
@@ -562,12 +562,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Fenerbahçe SK",
     "ext": "SK Slavia Praha",
+    "court_dom": "Fenerbahçe",
+    "court_ext": "Slavia Praha",
     "logo_dom": "https://crests.football-data.org/613.png",
     "logo_ext": "https://crests.football-data.org/930.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fenerbahçe",
-    "court_ext": "Slavia Praha"
+    "buts_ext": null
   },
   {
     "id": 575361,
@@ -577,12 +577,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester City FC",
     "ext": "PAE AEK",
+    "court_dom": "Man City",
+    "court_ext": "PAE AEK",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/1899.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "PAE AEK"
+    "buts_ext": null
   },
   {
     "id": 575362,
@@ -592,12 +592,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "VfB Stuttgart",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Stuttgart",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 575363,
@@ -607,12 +607,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Liverpool FC",
     "ext": "Villarreal CF",
+    "court_dom": "Liverpool",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 575364,
@@ -622,12 +622,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "AS Roma",
     "ext": "ŠK Slovan Bratislava",
+    "court_dom": "Roma",
+    "court_ext": "Sl. Bratislava",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/7509.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Sl. Bratislava"
+    "buts_ext": null
   },
   {
     "id": 575365,
@@ -637,12 +637,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Porto",
     "ext": "PSV",
+    "court_dom": "Porto",
+    "court_ext": "PSV",
     "logo_dom": "https://crests.football-data.org/503.png",
     "logo_ext": "https://crests.football-data.org/674.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Porto",
-    "court_ext": "PSV"
+    "buts_ext": null
   },
   {
     "id": 575366,
@@ -652,12 +652,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SSC Napoli",
     "ext": "FK Bodø/Glimt",
+    "court_dom": "Napoli",
+    "court_ext": "Bodø/Glimt",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/5721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Bodø/Glimt"
+    "buts_ext": null
   },
   {
     "id": 575367,
@@ -667,12 +667,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Paris Saint-Germain FC",
     "ext": "FC Barcelona",
+    "court_dom": "PSG",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 575368,
@@ -682,12 +682,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Como 1907",
     "ext": "Manchester United FC",
+    "court_dom": "Como 1907",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 575369,
@@ -697,12 +697,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Lille OSC",
     "ext": "Galatasaray SK",
+    "court_dom": "Lille",
+    "court_ext": "Galatasaray",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/610.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Galatasaray"
+    "buts_ext": null
   },
   {
     "id": 575370,
@@ -712,12 +712,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Madrid CF",
     "ext": "RB Leipzig",
+    "court_dom": "Real Madrid",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 575371,
@@ -727,12 +727,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Internazionale Milano",
     "ext": "FK Shakhtar Donetsk",
+    "court_dom": "Inter",
+    "court_ext": "Shaktar",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/1887.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Shaktar"
+    "buts_ext": null
   },
   {
     "id": 575372,
@@ -742,12 +742,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Bayern München",
     "ext": "Arsenal FC",
+    "court_dom": "Bayern",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 575373,
@@ -757,12 +757,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Brugge KV",
     "ext": "Racing Club de Lens",
+    "court_dom": "Club Brugge",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/851.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Club Brugge",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 575374,
@@ -772,12 +772,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Aston Villa FC",
     "ext": "Viking FK",
+    "court_dom": "Aston Villa",
+    "court_ext": "Viking",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/5720.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Viking"
+    "buts_ext": null
   },
   {
     "id": 575375,
@@ -787,12 +787,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sporting Clube de Portugal",
     "ext": "LASK Linz",
+    "court_dom": "Sporting CP",
+    "court_ext": "LASK",
     "logo_dom": "https://crests.football-data.org/498.png",
     "logo_ext": "https://crests.football-data.org/2016.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sporting CP",
-    "court_ext": "LASK"
+    "buts_ext": null
   },
   {
     "id": 575376,
@@ -802,12 +802,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Betis Balompié",
     "ext": "Feyenoord Rotterdam",
+    "court_dom": "Real Betis",
+    "court_ext": "Feyenoord",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/675.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Feyenoord"
+    "buts_ext": null
   },
   {
     "id": 575377,
@@ -817,12 +817,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Shakhtar Donetsk",
     "ext": "Sporting Clube de Portugal",
+    "court_dom": "Shaktar",
+    "court_ext": "Sporting CP",
     "logo_dom": "https://crests.football-data.org/1887.png",
     "logo_ext": "https://crests.football-data.org/498.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Shaktar",
-    "court_ext": "Sporting CP"
+    "buts_ext": null
   },
   {
     "id": 575378,
@@ -832,12 +832,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Galatasaray SK",
     "ext": "VfB Stuttgart",
+    "court_dom": "Galatasaray",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/610.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Galatasaray",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 575379,
@@ -847,12 +847,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Feyenoord Rotterdam",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Feyenoord",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/675.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Feyenoord",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 575380,
@@ -862,12 +862,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Barcelona",
     "ext": "Aston Villa FC",
+    "court_dom": "Barça",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 575381,
@@ -877,12 +877,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Atlético de Madrid",
     "ext": "FC Bayern München",
+    "court_dom": "Atleti",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 575382,
@@ -892,12 +892,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Villarreal CF",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Villarreal",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 575383,
@@ -907,12 +907,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester United FC",
     "ext": "AS Roma",
+    "court_dom": "Man United",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 575384,
@@ -922,12 +922,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Bodø/Glimt",
     "ext": "Lille OSC",
+    "court_dom": "Bodø/Glimt",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/5721.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bodø/Glimt",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 575385,
@@ -937,12 +937,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "LASK Linz",
     "ext": "ŠK Slovan Bratislava",
+    "court_dom": "LASK",
+    "court_ext": "Sl. Bratislava",
     "logo_dom": "https://crests.football-data.org/2016.png",
     "logo_ext": "https://crests.football-data.org/7509.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "LASK",
-    "court_ext": "Sl. Bratislava"
+    "buts_ext": null
   },
   {
     "id": 575386,
@@ -952,12 +952,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PAE AEK",
     "ext": "Real Madrid CF",
+    "court_dom": "PAE AEK",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/1899.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PAE AEK",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 575387,
@@ -967,12 +967,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Fenerbahçe SK",
     "ext": "Liverpool FC",
+    "court_dom": "Fenerbahçe",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/613.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fenerbahçe",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 575388,
@@ -982,12 +982,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "RB Leipzig",
     "ext": "Manchester City FC",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 575389,
@@ -997,12 +997,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SK Slavia Praha",
     "ext": "Arsenal FC",
+    "court_dom": "Slavia Praha",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/930.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Slavia Praha",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 575390,
@@ -1012,12 +1012,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PSV",
     "ext": "Club Brugge KV",
+    "court_dom": "PSV",
+    "court_ext": "Club Brugge",
     "logo_dom": "https://crests.football-data.org/674.png",
     "logo_ext": "https://crests.football-data.org/851.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSV",
-    "court_ext": "Club Brugge"
+    "buts_ext": null
   },
   {
     "id": 575391,
@@ -1027,12 +1027,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Borussia Dortmund",
     "ext": "Real Betis Balompié",
+    "court_dom": "Dortmund",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 575392,
@@ -1042,12 +1042,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Porto",
     "ext": "SSC Napoli",
+    "court_dom": "Porto",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/503.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Porto",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 575393,
@@ -1057,12 +1057,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Racing Club de Lens",
     "ext": "Como 1907",
+    "court_dom": "RC Lens",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 575394,
@@ -1072,12 +1072,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Viking FK",
     "ext": "Sabah FK",
+    "court_dom": "Viking",
+    "court_ext": "Sabah FK",
     "logo_dom": "https://crests.football-data.org/5720.png",
     "logo_ext": "https://crests.football-data.org/10233.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Viking",
-    "court_ext": "Sabah FK"
+    "buts_ext": null
   },
   {
     "id": 575395,
@@ -1087,12 +1087,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Galatasaray SK",
     "ext": "Aston Villa FC",
+    "court_dom": "Galatasaray",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/610.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Galatasaray",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 575396,
@@ -1102,12 +1102,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Bodø/Glimt",
     "ext": "LASK Linz",
+    "court_dom": "Bodø/Glimt",
+    "court_ext": "LASK",
     "logo_dom": "https://crests.football-data.org/5721.png",
     "logo_ext": "https://crests.football-data.org/2016.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bodø/Glimt",
-    "court_ext": "LASK"
+    "buts_ext": null
   },
   {
     "id": 575397,
@@ -1117,12 +1117,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Madrid CF",
     "ext": "PSV",
+    "court_dom": "Real Madrid",
+    "court_ext": "PSV",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/674.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "PSV"
+    "buts_ext": null
   },
   {
     "id": 575398,
@@ -1132,12 +1132,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester City FC",
     "ext": "SSC Napoli",
+    "court_dom": "Man City",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 575399,
@@ -1147,12 +1147,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Arsenal FC",
     "ext": "Borussia Dortmund",
+    "court_dom": "Arsenal",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 575400,
@@ -1162,12 +1162,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Feyenoord Rotterdam",
     "ext": "FC Porto",
+    "court_dom": "Feyenoord",
+    "court_ext": "Porto",
     "logo_dom": "https://crests.football-data.org/675.png",
     "logo_ext": "https://crests.football-data.org/503.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Feyenoord",
-    "court_ext": "Porto"
+    "buts_ext": null
   },
   {
     "id": 575401,
@@ -1177,12 +1177,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "ŠK Slovan Bratislava",
     "ext": "Real Betis Balompié",
+    "court_dom": "Sl. Bratislava",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/7509.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sl. Bratislava",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 575402,
@@ -1192,12 +1192,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "RB Leipzig",
     "ext": "Racing Club de Lens",
+    "court_dom": "RB Leipzig",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 575403,
@@ -1207,12 +1207,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Como 1907",
     "ext": "PAE AEK",
+    "court_dom": "Como 1907",
+    "court_ext": "PAE AEK",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/1899.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "PAE AEK"
+    "buts_ext": null
   },
   {
     "id": 575404,
@@ -1222,12 +1222,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sabah FK",
     "ext": "FC Barcelona",
+    "court_dom": "Sabah FK",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/10233.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sabah FK",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 575405,
@@ -1237,12 +1237,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SK Slavia Praha",
     "ext": "Villarreal CF",
+    "court_dom": "Slavia Praha",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/930.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Slavia Praha",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 575406,
@@ -1252,12 +1252,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Internazionale Milano",
     "ext": "VfB Stuttgart",
+    "court_dom": "Inter",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 575407,
@@ -1267,12 +1267,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Atlético de Madrid",
     "ext": "Viking FK",
+    "court_dom": "Atleti",
+    "court_ext": "Viking",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/5720.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Viking"
+    "buts_ext": null
   },
   {
     "id": 575408,
@@ -1282,12 +1282,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Paris Saint-Germain FC",
     "ext": "AS Roma",
+    "court_dom": "PSG",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 575409,
@@ -1297,12 +1297,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Brugge KV",
     "ext": "Liverpool FC",
+    "court_dom": "Club Brugge",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/851.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Club Brugge",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 575410,
@@ -1312,12 +1312,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Lille OSC",
     "ext": "FC Bayern München",
+    "court_dom": "Lille",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 575411,
@@ -1327,12 +1327,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sporting Clube de Portugal",
     "ext": "Manchester United FC",
+    "court_dom": "Sporting CP",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/498.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sporting CP",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 575412,
@@ -1342,12 +1342,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Shakhtar Donetsk",
     "ext": "Fenerbahçe SK",
+    "court_dom": "Shaktar",
+    "court_ext": "Fenerbahçe",
     "logo_dom": "https://crests.football-data.org/1887.png",
     "logo_ext": "https://crests.football-data.org/613.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Shaktar",
-    "court_ext": "Fenerbahçe"
+    "buts_ext": null
   },
   {
     "id": 575413,
@@ -1357,12 +1357,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Villarreal CF",
     "ext": "Sabah FK",
+    "court_dom": "Villarreal",
+    "court_ext": "Sabah FK",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/10233.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Sabah FK"
+    "buts_ext": null
   },
   {
     "id": 575414,
@@ -1372,12 +1372,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Viking FK",
     "ext": "Feyenoord Rotterdam",
+    "court_dom": "Viking",
+    "court_ext": "Feyenoord",
     "logo_dom": "https://crests.football-data.org/5720.png",
     "logo_ext": "https://crests.football-data.org/675.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Viking",
-    "court_ext": "Feyenoord"
+    "buts_ext": null
   },
   {
     "id": 575415,
@@ -1387,12 +1387,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Barcelona",
     "ext": "Manchester City FC",
+    "court_dom": "Barça",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 575416,
@@ -1402,12 +1402,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Aston Villa FC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Aston Villa",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 575417,
@@ -1417,12 +1417,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Bayern München",
     "ext": "SK Slavia Praha",
+    "court_dom": "Bayern",
+    "court_ext": "Slavia Praha",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/930.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Slavia Praha"
+    "buts_ext": null
   },
   {
     "id": 575418,
@@ -1432,12 +1432,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SSC Napoli",
     "ext": "Club Brugge KV",
+    "court_dom": "Napoli",
+    "court_ext": "Club Brugge",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/851.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Club Brugge"
+    "buts_ext": null
   },
   {
     "id": 575419,
@@ -1447,12 +1447,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "AS Roma",
     "ext": "Sporting Clube de Portugal",
+    "court_dom": "Roma",
+    "court_ext": "Sporting CP",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/498.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Sporting CP"
+    "buts_ext": null
   },
   {
     "id": 575420,
@@ -1462,12 +1462,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester United FC",
     "ext": "RB Leipzig",
+    "court_dom": "Man United",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 575421,
@@ -1477,12 +1477,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PAE AEK",
     "ext": "Galatasaray SK",
+    "court_dom": "PAE AEK",
+    "court_ext": "Galatasaray",
     "logo_dom": "https://crests.football-data.org/1899.png",
     "logo_ext": "https://crests.football-data.org/610.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PAE AEK",
-    "court_ext": "Galatasaray"
+    "buts_ext": null
   },
   {
     "id": 575422,
@@ -1492,12 +1492,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Betis Balompié",
     "ext": "Como 1907",
+    "court_dom": "Real Betis",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 575423,
@@ -1507,12 +1507,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "ŠK Slovan Bratislava",
     "ext": "FK Shakhtar Donetsk",
+    "court_dom": "Sl. Bratislava",
+    "court_ext": "Shaktar",
     "logo_dom": "https://crests.football-data.org/7509.png",
     "logo_ext": "https://crests.football-data.org/1887.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sl. Bratislava",
-    "court_ext": "Shaktar"
+    "buts_ext": null
   },
   {
     "id": 575280,
@@ -1522,12 +1522,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Arsenal FC",
     "ext": "Real Madrid CF",
+    "court_dom": "Arsenal",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 575286,
@@ -1537,12 +1537,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Borussia Dortmund",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Dortmund",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 575290,
@@ -1552,12 +1552,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PSV",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "PSV",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/674.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSV",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 575295,
@@ -1567,12 +1567,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Liverpool FC",
     "ext": "FC Porto",
+    "court_dom": "Liverpool",
+    "court_ext": "Porto",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/503.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "Porto"
+    "buts_ext": null
   },
   {
     "id": 575315,
@@ -1582,12 +1582,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Racing Club de Lens",
     "ext": "FK Bodø/Glimt",
+    "court_dom": "RC Lens",
+    "court_ext": "Bodø/Glimt",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/5721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Bodø/Glimt"
+    "buts_ext": null
   },
   {
     "id": 575317,
@@ -1597,12 +1597,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "LASK Linz",
     "ext": "Fenerbahçe SK",
+    "court_dom": "LASK",
+    "court_ext": "Fenerbahçe",
     "logo_dom": "https://crests.football-data.org/2016.png",
     "logo_ext": "https://crests.football-data.org/613.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "LASK",
-    "court_ext": "Fenerbahçe"
+    "buts_ext": null
   },
   {
     "id": 575322,
@@ -1612,12 +1612,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "VfB Stuttgart",
     "ext": "Lille OSC",
+    "court_dom": "Stuttgart",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 575292,
@@ -1627,12 +1627,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Bodø/Glimt",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Bodø/Glimt",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/5721.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bodø/Glimt",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 575318,
@@ -1642,12 +1642,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Galatasaray SK",
     "ext": "Feyenoord Rotterdam",
+    "court_dom": "Galatasaray",
+    "court_ext": "Feyenoord",
     "logo_dom": "https://crests.football-data.org/610.png",
     "logo_ext": "https://crests.football-data.org/675.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Galatasaray",
-    "court_ext": "Feyenoord"
+    "buts_ext": null
   },
   {
     "id": 575282,
@@ -1657,12 +1657,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Madrid CF",
     "ext": "LASK Linz",
+    "court_dom": "Real Madrid",
+    "court_ext": "LASK",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/2016.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "LASK"
+    "buts_ext": null
   },
   {
     "id": 575285,
@@ -1672,12 +1672,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Internazionale Milano",
     "ext": "Liverpool FC",
+    "court_dom": "Inter",
+    "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/64.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Inter",
-    "court_ext": "Liverpool"
+    "buts_ext": null
   },
   {
     "id": 575302,
@@ -1687,12 +1687,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "VfB Stuttgart",
     "ext": "Club Brugge KV",
+    "court_dom": "Stuttgart",
+    "court_ext": "Club Brugge",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/851.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stuttgart",
-    "court_ext": "Club Brugge"
+    "buts_ext": null
   },
   {
     "id": 575303,
@@ -1702,12 +1702,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Aston Villa FC",
     "ext": "Borussia Dortmund",
+    "court_dom": "Aston Villa",
+    "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Aston Villa",
-    "court_ext": "Dortmund"
+    "buts_ext": null
   },
   {
     "id": 575307,
@@ -1717,12 +1717,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PAE AEK",
     "ext": "AS Roma",
+    "court_dom": "PAE AEK",
+    "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/1899.png",
     "logo_ext": "https://crests.football-data.org/100.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PAE AEK",
-    "court_ext": "Roma"
+    "buts_ext": null
   },
   {
     "id": 575308,
@@ -1732,12 +1732,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Porto",
     "ext": "SK Slavia Praha",
+    "court_dom": "Porto",
+    "court_ext": "Slavia Praha",
     "logo_dom": "https://crests.football-data.org/503.png",
     "logo_ext": "https://crests.football-data.org/930.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Porto",
-    "court_ext": "Slavia Praha"
+    "buts_ext": null
   },
   {
     "id": 575321,
@@ -1747,12 +1747,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Lille OSC",
     "ext": "ŠK Slovan Bratislava",
+    "court_dom": "Lille",
+    "court_ext": "Sl. Bratislava",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/7509.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Sl. Bratislava"
+    "buts_ext": null
   },
   {
     "id": 575314,
@@ -1762,12 +1762,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Fenerbahçe SK",
     "ext": "Villarreal CF",
+    "court_dom": "Fenerbahçe",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/613.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Fenerbahçe",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 575320,
@@ -1777,12 +1777,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sabah FK",
     "ext": "SSC Napoli",
+    "court_dom": "Sabah FK",
+    "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/10233.png",
     "logo_ext": "https://crests.football-data.org/113.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sabah FK",
-    "court_ext": "Napoli"
+    "buts_ext": null
   },
   {
     "id": 575284,
@@ -1792,12 +1792,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Racing Club de Lens",
     "ext": "Manchester City FC",
+    "court_dom": "RC Lens",
+    "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/65.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Man City"
+    "buts_ext": null
   },
   {
     "id": 575288,
@@ -1807,12 +1807,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Sporting Clube de Portugal",
     "ext": "FC Barcelona",
+    "court_dom": "Sporting CP",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/498.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sporting CP",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 575294,
@@ -1822,12 +1822,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Como 1907",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Como 1907",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Como 1907",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 575297,
@@ -1837,12 +1837,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Real Betis Balompié",
     "ext": "Arsenal FC",
+    "court_dom": "Real Betis",
+    "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/57.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Arsenal"
+    "buts_ext": null
   },
   {
     "id": 575300,
@@ -1852,12 +1852,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester United FC",
     "ext": "FC Bayern München",
+    "court_dom": "Man United",
+    "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man United",
-    "court_ext": "Bayern"
+    "buts_ext": null
   },
   {
     "id": 575312,
@@ -1867,12 +1867,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Viking FK",
     "ext": "PSV",
+    "court_dom": "Viking",
+    "court_ext": "PSV",
     "logo_dom": "https://crests.football-data.org/5720.png",
     "logo_ext": "https://crests.football-data.org/674.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Viking",
-    "court_ext": "PSV"
+    "buts_ext": null
   },
   {
     "id": 575313,
@@ -1882,12 +1882,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "RB Leipzig",
     "ext": "FK Shakhtar Donetsk",
+    "court_dom": "RB Leipzig",
+    "court_ext": "Shaktar",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/1887.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RB Leipzig",
-    "court_ext": "Shaktar"
+    "buts_ext": null
   },
   {
     "id": 575281,
@@ -1897,12 +1897,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FK Shakhtar Donetsk",
     "ext": "Real Madrid CF",
+    "court_dom": "Shaktar",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/1887.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Shaktar",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 575283,
@@ -1912,12 +1912,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester City FC",
     "ext": "Sporting Clube de Portugal",
+    "court_dom": "Man City",
+    "court_ext": "Sporting CP",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/498.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Man City",
-    "court_ext": "Sporting CP"
+    "buts_ext": null
   },
   {
     "id": 575287,
@@ -1927,12 +1927,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "ŠK Slovan Bratislava",
     "ext": "FC Internazionale Milano",
+    "court_dom": "Sl. Bratislava",
+    "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/7509.png",
     "logo_ext": "https://crests.football-data.org/108.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sl. Bratislava",
-    "court_ext": "Inter"
+    "buts_ext": null
   },
   {
     "id": 575289,
@@ -1942,12 +1942,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Barcelona",
     "ext": "Como 1907",
+    "court_dom": "Barça",
+    "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Como 1907"
+    "buts_ext": null
   },
   {
     "id": 575291,
@@ -1957,12 +1957,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Atlético de Madrid",
     "ext": "Fenerbahçe SK",
+    "court_dom": "Atleti",
+    "court_ext": "Fenerbahçe",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/613.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Fenerbahçe"
+    "buts_ext": null
   },
   {
     "id": 575293,
@@ -1972,12 +1972,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Paris Saint-Germain FC",
     "ext": "Galatasaray SK",
+    "court_dom": "PSG",
+    "court_ext": "Galatasaray",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/610.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Galatasaray"
+    "buts_ext": null
   },
   {
     "id": 575296,
@@ -1987,12 +1987,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Liverpool FC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Liverpool",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Liverpool",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 575298,
@@ -2002,12 +2002,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Arsenal FC",
     "ext": "Sabah FK",
+    "court_dom": "Arsenal",
+    "court_ext": "Sabah FK",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/10233.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Arsenal",
-    "court_ext": "Sabah FK"
+    "buts_ext": null
   },
   {
     "id": 575299,
@@ -2017,12 +2017,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "FC Bayern München",
     "ext": "Real Betis Balompié",
+    "court_dom": "Bayern",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Bayern",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 575301,
@@ -2032,12 +2032,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Club Brugge KV",
     "ext": "FK Bodø/Glimt",
+    "court_dom": "Club Brugge",
+    "court_ext": "Bodø/Glimt",
     "logo_dom": "https://crests.football-data.org/851.png",
     "logo_ext": "https://crests.football-data.org/5721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Club Brugge",
-    "court_ext": "Bodø/Glimt"
+    "buts_ext": null
   },
   {
     "id": 575304,
@@ -2047,12 +2047,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Borussia Dortmund",
     "ext": "PAE AEK",
+    "court_dom": "Dortmund",
+    "court_ext": "PAE AEK",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/1899.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Dortmund",
-    "court_ext": "PAE AEK"
+    "buts_ext": null
   },
   {
     "id": 575305,
@@ -2062,12 +2062,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SK Slavia Praha",
     "ext": "Aston Villa FC",
+    "court_dom": "Slavia Praha",
+    "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/930.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Slavia Praha",
-    "court_ext": "Aston Villa"
+    "buts_ext": null
   },
   {
     "id": 575306,
@@ -2077,12 +2077,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "AS Roma",
     "ext": "Lille OSC",
+    "court_dom": "Roma",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Roma",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 575309,
@@ -2092,12 +2092,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "LASK Linz",
     "ext": "FC Porto",
+    "court_dom": "LASK",
+    "court_ext": "Porto",
     "logo_dom": "https://crests.football-data.org/2016.png",
     "logo_ext": "https://crests.football-data.org/503.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "LASK",
-    "court_ext": "Porto"
+    "buts_ext": null
   },
   {
     "id": 575310,
@@ -2107,12 +2107,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Villarreal CF",
     "ext": "Manchester United FC",
+    "court_dom": "Villarreal",
+    "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/66.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Man United"
+    "buts_ext": null
   },
   {
     "id": 575311,
@@ -2122,12 +2122,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "PSV",
     "ext": "VfB Stuttgart",
+    "court_dom": "PSV",
+    "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/674.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSV",
-    "court_ext": "Stuttgart"
+    "buts_ext": null
   },
   {
     "id": 575316,
@@ -2137,12 +2137,12 @@
     "phase": "LEAGUE_STAGE",
     "dom": "Feyenoord Rotterdam",
     "ext": "RB Leipzig",
+    "court_dom": "Feyenoord",
+    "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/675.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Feyenoord",
-    "court_ext": "RB Leipzig"
+    "buts_ext": null
   },
   {
     "id": 575319,
@@ -2152,11 +2152,11 @@
     "phase": "LEAGUE_STAGE",
     "dom": "SSC Napoli",
     "ext": "Viking FK",
+    "court_dom": "Napoli",
+    "court_ext": "Viking",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/5720.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Napoli",
-    "court_ext": "Viking"
+    "buts_ext": null
   }
 ]

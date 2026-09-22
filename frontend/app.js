@@ -6,13 +6,22 @@ const LIGUES = [
   { code: "FL1", nom: "Ligue 1", ldc: 3, releg: 2 },
 ];
 const N_SIMS = 10000;
+const N_SIMS_FICHE = 3000;
 const DELAI_LECTURE = 1600;   // ms entre deux journées en lecture automatique
 const RENOMMER = { "Brighton Hove": "Brighton" };
-const VUES = { pronostics: "vue-pronostics", simulation: "vue-simulation", saison: "vue-saison" };
+const VUES = { pronostics: "vue-pronostics", simulation: "vue-simulation", saison: "vue-saison", equipes: "vue-equipes" };
+const GROUPES = [
+  ["Gardiens", /keeper|goal/i],
+  ["Défenseurs", /back|defen/i],
+  ["Milieux", /midfield/i],
+  ["Attaquants", /forward|winger|offence|striker|attack/i],
+];
 
-const etat = { vue: "pronostics", ligue: "PL", journees: [], index: 0, parJournee: new Map() };
+const etat = { vue: "pronostics", ligue: "PL", equipe: null, journees: [], index: 0, parJournee: new Map() };
 const saison = { ligue: null, classement: [], preds: [], resultats: null, journees: [], etape: 0, timer: null };
 const cache = {};
+const simCache = {};
+let equipesPret = false;
 
 const fmtPct = p => Math.round(p * 100) + "\u202F%";
 const fmtNb = x => x.toLocaleString("fr-BE", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
@@ -25,10 +34,11 @@ const rangTexte = n => (n === 1 ? "1er" : `${n}e`);
 const signe = n => (n > 0 ? `+${n}` : `${n}`);
 const ligueActive = () => LIGUES.find(l => l.code === etat.ligue);
 const mouvementReduit = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
+const groupePoste = poste => (GROUPES.find(([, re]) => re.test(poste || "")) || ["Autres"])[0];
 
 async function chargerJSON(fichier) {
   if (!cache[fichier]) {
-        const r = await fetch(`../data/${fichier}?v=${Math.floor(Date.now() / 3.6e6)}`);
+    const r = await fetch(`../data/${fichier}?v=${Math.floor(Date.now() / 3.6e6)}`);
     if (!r.ok) throw new Error(`${fichier} : HTTP ${r.status}`);
     cache[fichier] = await r.json();
   }
@@ -46,6 +56,15 @@ function poissonAlea(lambda) {   // tirage d'une loi de Poisson (méthode de Knu
   let k = 0, p = 1;
   do { k++; p *= Math.random(); } while (p > L);
   return k - 1;
+}
+
+function age(naissance) {
+  if (!naissance) return null;
+  const d = new Date(naissance), n = new Date();
+  let a = n.getFullYear() - d.getFullYear();
+  const m = n.getMonth() - d.getMonth();
+  if (m < 0 || (m === 0 && n.getDate() < d.getDate())) a--;
+  return a;
 }
 
 /* ---------- Navigation ---------- */
@@ -84,6 +103,7 @@ function choisirVue(vue) {
 function choisirLigue(code) {
   arreterLecture();
   etat.ligue = code;
+  etat.equipe = null;
   document.querySelectorAll(".ligues button").forEach(b => b.setAttribute("aria-selected", b.dataset.code === code));
   rafraichir();
 }
@@ -92,14 +112,15 @@ async function rafraichir() {
   try {
     if (etat.vue === "pronostics") await afficherPronostics();
     else if (etat.vue === "simulation") await lancerSimulation();
-    else await afficherSaison();
+    else if (etat.vue === "saison") await afficherSaison();
+    else await afficherEquipes();
   } catch (err) {
     afficherErreur(err);
   }
 }
 
 function afficherErreur(err) {
-  const zones = { pronostics: "matchs", simulation: "sim-resultats", saison: "s-tableau" };
+  const zones = { pronostics: "matchs", simulation: "sim-resultats", saison: "s-tableau", equipes: "eq-contenu" };
   if (etat.vue === "pronostics") {
     document.getElementById("titre-journee").textContent = "Prédictions indisponibles";
     etat.journees = [];
@@ -375,13 +396,11 @@ function rendreSaison() {
   const table = tire ? tableApres(k) : tableApres(0);
   const rangAvant = tire && k > 0 ? new Map(tableApres(k - 1).map((e, i) => [e.equipe, i])) : null;
 
-  // En-tête de progression
   const prog = document.getElementById("s-progression");
   if (!tire) prog.innerHTML = `Classement actuel`;
   else if (k === 0) prog.innerHTML = `Avant la reprise<small>${nb} journées à jouer</small>`;
   else prog.innerHTML = `Journée ${saison.journees[k - 1]}<small>${k} sur ${nb} jouées</small>`;
 
-  // Bannière de fin
   const banniere = document.getElementById("s-banniere");
   if (fin) {
     const champion = table[0];
@@ -391,12 +410,10 @@ function rendreSaison() {
     banniere.innerHTML = "";
   }
 
-  // Résultats de la journée affichée
   document.getElementById("s-resultats").innerHTML = tire && k > 0
     ? `<ul class="resultats">${saison.resultats.get(saison.journees[k - 1]).map(ligneResultat).join("")}</ul>`
     : "";
 
-  // Classement, avec animation des changements de place
   const zone = document.getElementById("s-tableau");
   const avant = new Map([...zone.querySelectorAll("tr[data-equipe]")]
     .map(r => [r.dataset.equipe, r.getBoundingClientRect().top]));
@@ -448,6 +465,158 @@ function rendreSaison() {
     }
   }
   majLecteur();
+}
+
+/* ---------- Vue Équipes ---------- */
+
+function preparerEquipes() {
+  if (equipesPret) return;
+  equipesPret = true;
+  document.getElementById("vue-equipes").addEventListener("click", e => {
+    const carte = e.target.closest("[data-club]");
+    if (carte) { etat.equipe = carte.dataset.club; afficherEquipes(); return; }
+    if (e.target.closest("#eq-retour")) { etat.equipe = null; afficherEquipes(); }
+  });
+}
+
+async function probasFin(ligue) {
+  if (!simCache[ligue.code]) {
+    const [classement, preds] = await Promise.all([
+      chargerJSON(`classement_${ligue.code}.json`),
+      chargerJSON(`predictions_${ligue.code}.json`),
+    ]);
+    simCache[ligue.code] = new Map(simuler(classement, preds, N_SIMS_FICHE).map(e => [e.equipe, e]));
+  }
+  return simCache[ligue.code];
+}
+
+function formeRecente(matchs, equipe) {
+  return matchs
+    .filter(m => m.statut === "FINISHED" && (m.dom === equipe || m.ext === equipe))
+    .sort((a, b) => a.date.localeCompare(b.date))
+    .slice(-5)
+    .map(m => {
+      const dom = m.dom === equipe;
+      const pour = dom ? m.buts_dom : m.buts_ext;
+      const contre = dom ? m.buts_ext : m.buts_dom;
+      return {
+        issue: pour > contre ? "V" : pour === contre ? "N" : "D",
+        detail: `${pour}–${contre} ${dom ? "contre" : "à"} ${renommer(dom ? m.court_ext : m.court_dom)}`,
+      };
+    });
+}
+
+function grilleClubs(classement) {
+  return `<div class="eq-grille">${classement.map(e => `
+    <button class="eq-carte" data-club="${e.equipe}">
+      ${logo(e.logo, 40)}
+      <span class="eq-nom">${renommer(e.court)}</span>
+      <span class="eq-pts">${e.pts} pts</span>
+    </button>`).join("")}</div>`;
+}
+
+function ficheClub(f, classement, preds, matchs, palmares, probas, ligue) {
+  const T = classement.length;
+  const st = classement.find(e => e.equipe === f.nom) || { pts: 0, j: 0, bp: 0, bc: 0 };
+  const pos = classement.findIndex(e => e.equipe === f.nom) + 1;
+  const pr = probas.get(f.nom);
+  const somme = arr => arr.reduce((a, b) => a + b, 0);
+
+  const forme = formeRecente(matchs, f.nom);
+  const prochains = preds.filter(p => p.dom === f.nom || p.ext === f.nom).slice(0, 3);
+  const stars = new Set(f.effectif.filter(j => j.buts > 0).slice(0, 3).map(j => j.nom));
+
+  const chiffre = (valeur, libelle) => `<div class="chiffre"><b>${valeur}</b><span>${libelle}</span></div>`;
+
+  const blocProbas = pr ? `
+    <div class="chiffres">
+      ${chiffre(fmtPct(pr.rangs[0]), "Titre")}
+      ${chiffre(fmtPct(somme(pr.rangs.slice(0, ligue.ldc))), `Top ${ligue.ldc}`)}
+      ${chiffre(fmtPct(somme(pr.rangs.slice(T - ligue.releg))), "Relégation")}
+      ${chiffre(rangTexte(pr.rangs.indexOf(Math.max(...pr.rangs)) + 1), "Place probable")}
+      ${chiffre(Math.round(pr.ptsMoy), "Points projetés")}
+    </div>` : "";
+
+  const blocProchains = prochains.length ? `
+    <h3 class="eq-titre">Prochains matchs</h3>
+    <ul class="eq-liste">${prochains.map(p => {
+      const dom = p.dom === f.nom;
+      const proba = dom ? p.p1 : p.p2;
+      return `<li>
+        <span class="eq-adv">${dom ? "contre" : "à"} ${nom(p, dom ? "ext" : "dom")}</span>
+        <span class="eq-date">${fmtJour.format(new Date(p.date))}</span>
+        <span class="eq-proba">${fmtPct(proba)} de gagner</span>
+      </li>`;
+    }).join("")}</ul>` : "";
+
+  const titres = palmares[f.nom];
+  const blocPalmares = titres ? `
+    <h3 class="eq-titre">Palmarès</h3>
+    <ul class="eq-liste">${titres.map(t => `<li>
+      <span>${t.titre}</span><span class="eq-date">dernier en ${t.dernier}</span><span class="eq-proba">${t.n}×</span>
+    </li>`).join("")}</ul>` : "";
+
+  const effectif = GROUPES.map(([g]) => g).concat("Autres").map(g => {
+    const joueurs = f.effectif.filter(j => groupePoste(j.poste) === g);
+    if (!joueurs.length) return "";
+    return `<div class="poste">
+      <h4>${g}</h4>
+      <ul>${joueurs.map(j => `<li${stars.has(j.nom) ? ' class="star"' : ""}>
+        <span class="j-nom">${stars.has(j.nom) ? "★ " : ""}${j.nom}</span>
+        <span class="j-info">${j.nationalite || ""}${age(j.naissance) ? ` · ${age(j.naissance)} ans` : ""}</span>
+        ${j.buts ? `<span class="j-buts">${j.buts} but${j.buts > 1 ? "s" : ""}</span>` : ""}
+      </li>`).join("")}</ul>
+    </div>`;
+  }).join("");
+
+  return `
+    <button class="bouton-sec" id="eq-retour">‹ Tous les clubs</button>
+    <header class="eq-entete">
+      ${logo(f.logo, 72)}
+      <div>
+        <h2>${renommer(f.court)}</h2>
+        <p class="eq-meta">${[f.stade, f.fonde && `fondé en ${f.fonde}`, f.entraineur, f.couleurs].filter(Boolean).join(" · ")}</p>
+      </div>
+    </header>
+
+    <div class="chiffres">
+      ${chiffre(rangTexte(pos), "Au classement")}
+      ${chiffre(st.pts, "Points")}
+      ${chiffre(st.j, "Matchs joués")}
+      ${chiffre(signe(st.bp - st.bc), "Différence")}
+    </div>
+
+    <h3 class="eq-titre">Forme récente</h3>
+    <div class="forme">${forme.length
+      ? forme.map(r => `<span class="pastille p-${r.issue}" title="${r.detail}">${r.issue}</span>`).join("")
+      : `<span class="eq-meta">Aucun match joué</span>`}</div>
+
+    <h3 class="eq-titre">Fin de saison</h3>
+    ${blocProbas}
+    ${blocProchains}
+    ${blocPalmares}
+
+    <h3 class="eq-titre">Effectif<span class="eq-meta"> — ★ les meilleurs buteurs du club</span></h3>
+    <div class="effectif">${effectif}</div>`;
+}
+
+async function afficherEquipes() {
+  preparerEquipes();
+  const ligue = ligueActive();
+  const [fiches, classement, preds, matchs, palmares, probas] = await Promise.all([
+    chargerJSON(`equipes_${ligue.code}.json`),
+    chargerJSON(`classement_${ligue.code}.json`),
+    chargerJSON(`predictions_${ligue.code}.json`),
+    chargerJSON(`${ligue.code}_2026.json`),
+    chargerJSON("palmares.json").catch(() => ({})),
+    probasFin(ligue),
+  ]);
+  if (ligue.code !== etat.ligue || etat.vue !== "equipes") return;
+
+  const parNom = new Map(fiches.map(f => [f.nom, f]));
+  document.getElementById("eq-contenu").innerHTML = (etat.equipe && parNom.has(etat.equipe))
+    ? ficheClub(parNom.get(etat.equipe), classement, preds, matchs, palmares, probas, ligue)
+    : grilleClubs(classement);
 }
 
 /* ---------- Démarrage ---------- */

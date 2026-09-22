@@ -1,0 +1,3890 @@
+[
+  {
+    "nom": "1. FC Köln",
+    "court": "1. FC Köln",
+    "tla": "KOE",
+    "logo": "https://crests.football-data.org/1.png",
+    "fonde": 1948,
+    "stade": "RheinEnergieSTADION",
+    "couleurs": "Red / White",
+    "site": "http://www.fc-koeln.de",
+    "entraineur": "René Wagner",
+    "effectif": [
+      {
+        "nom": "Thijs Dallinga",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-08-03",
+        "buts": 2
+      },
+      {
+        "nom": "Linton Maina",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1999-06-23",
+        "buts": 1
+      },
+      {
+        "nom": "Ragnar Ache",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-07-28",
+        "buts": 1
+      },
+      {
+        "nom": "Said El Mala",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2006-08-26",
+        "buts": 1
+      },
+      {
+        "nom": "Matthias Köbbing",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1997-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Ron-Robert Zieler",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1989-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Marvin Schwäbe",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1995-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Martin James",
+        "poste": "Goalkeeper",
+        "nationalite": "France",
+        "naissance": "2008-02-14",
+        "buts": 0
+      },
+      {
+        "nom": "Timo Hübers",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1996-07-20",
+        "buts": 0
+      },
+      {
+        "nom": "Alessio Castro-Montes",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "1997-05-17",
+        "buts": 0
+      },
+      {
+        "nom": "Borna Sosa",
+        "poste": "Defence",
+        "nationalite": "Croatia",
+        "naissance": "1998-01-21",
+        "buts": 0
+      },
+      {
+        "nom": "Gideon Mensah",
+        "poste": "Defence",
+        "nationalite": "Ghana",
+        "naissance": "1998-07-18",
+        "buts": 0
+      },
+      {
+        "nom": "Luka Lochoshvili",
+        "poste": "Defence",
+        "nationalite": "Georgia",
+        "naissance": "1998-05-29",
+        "buts": 0
+      },
+      {
+        "nom": "Joël Schmied",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "1998-09-23",
+        "buts": 0
+      },
+      {
+        "nom": "Sebastian Sebulonsen",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2000-01-27",
+        "buts": 0
+      },
+      {
+        "nom": "Rav van den Berg",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2004-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Elias Bakatukanda",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-04-13",
+        "buts": 0
+      },
+      {
+        "nom": "Julian Pauli",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-07-18",
+        "buts": 0
+      },
+      {
+        "nom": "Jahmai Simpson-Pusey",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2005-11-04",
+        "buts": 0
+      },
+      {
+        "nom": "Ellyes Skhiri",
+        "poste": "Midfield",
+        "nationalite": "Tunisia",
+        "naissance": "1995-05-10",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Krauß",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2001-06-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ísak Bergmann Jóhannesson",
+        "poste": "Midfield",
+        "nationalite": "Iceland",
+        "naissance": "2003-03-23",
+        "buts": 0
+      },
+      {
+        "nom": "Paul Okon-Engstler",
+        "poste": "Midfield",
+        "nationalite": "Australia",
+        "naissance": "2005-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Gil Neves",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2008-02-09",
+        "buts": 0
+      },
+      {
+        "nom": "Gian-Luca Waldschmidt",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1996-05-19",
+        "buts": 0
+      },
+      {
+        "nom": "Imad Rondić",
+        "poste": "Offence",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "1999-02-16",
+        "buts": 0
+      },
+      {
+        "nom": "Marius Bülter",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1993-03-29",
+        "buts": 0
+      },
+      {
+        "nom": "Jan Thielmann",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Malek El Mala",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2005-04-02",
+        "buts": 0
+      },
+      {
+        "nom": "Mikey Moore",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2007-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Reigan Heskey",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2008-01-19",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "TSG 1899 Hoffenheim",
+    "court": "Hoffenheim",
+    "tla": "TSG",
+    "logo": "https://crests.football-data.org/2.png",
+    "fonde": 1921,
+    "stade": "PreZero Arena",
+    "couleurs": "Blue / White",
+    "site": "http://www.achtzehn99.de",
+    "entraineur": "Christian Ilzer",
+    "effectif": [
+      {
+        "nom": "Adam Hložek",
+        "poste": "Offence",
+        "nationalite": "Czech Republic",
+        "naissance": "2002-07-25",
+        "buts": 2
+      },
+      {
+        "nom": "Adam Daghim",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2005-09-28",
+        "buts": 2
+      },
+      {
+        "nom": "Ozan Kabak",
+        "poste": "Defence",
+        "nationalite": "Turkey",
+        "naissance": "2000-03-25",
+        "buts": 1
+      },
+      {
+        "nom": "Leon Avdullahu",
+        "poste": "Midfield",
+        "nationalite": "Kosovo",
+        "naissance": "1991-03-20",
+        "buts": 1
+      },
+      {
+        "nom": "Tim Lemperle",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-02-05",
+        "buts": 1
+      },
+      {
+        "nom": "Oliver Baumann",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1990-06-02",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Philipp",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2000-11-28",
+        "buts": 0
+      },
+      {
+        "nom": "Lukas Petersson",
+        "poste": "Goalkeeper",
+        "nationalite": "Iceland",
+        "naissance": "2004-02-09",
+        "buts": 0
+      },
+      {
+        "nom": "Bernardo",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "1995-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Koki Machida",
+        "poste": "Defence",
+        "nationalite": "Japan",
+        "naissance": "1997-08-25",
+        "buts": 0
+      },
+      {
+        "nom": "Vladimir Coufal",
+        "poste": "Defence",
+        "nationalite": "Czech Republic",
+        "naissance": "1992-08-22",
+        "buts": 0
+      },
+      {
+        "nom": "Valentin Gendrey",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-06-21",
+        "buts": 0
+      },
+      {
+        "nom": "Albian Hajdari",
+        "poste": "Defence",
+        "nationalite": "Kosovo",
+        "naissance": "2003-05-18",
+        "buts": 0
+      },
+      {
+        "nom": "Arthur Chaves",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2001-01-29",
+        "buts": 0
+      },
+      {
+        "nom": "Robin Hranac",
+        "poste": "Defence",
+        "nationalite": "Czech Republic",
+        "naissance": "2000-01-29",
+        "buts": 0
+      },
+      {
+        "nom": "Mats Rots",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2006-03-11",
+        "buts": 0
+      },
+      {
+        "nom": "Sean Dulic",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Natnael Abraha",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2008-03-14",
+        "buts": 0
+      },
+      {
+        "nom": "Wouter Burger",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2001-02-16",
+        "buts": 0
+      },
+      {
+        "nom": "Alexander Prass",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "2001-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Bambase Conte",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Luis Engelns",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2007-03-11",
+        "buts": 0
+      },
+      {
+        "nom": "Nathan De Cat",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2008-07-19",
+        "buts": 0
+      },
+      {
+        "nom": "Cajetan Lenz",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2006-06-16",
+        "buts": 0
+      },
+      {
+        "nom": "Andrej Kramarić",
+        "poste": "Offence",
+        "nationalite": "Croatia",
+        "naissance": "1991-06-19",
+        "buts": 0
+      },
+      {
+        "nom": "Patrick Wimmer",
+        "poste": "Offence",
+        "nationalite": "Austria",
+        "naissance": "2001-05-30",
+        "buts": 0
+      },
+      {
+        "nom": "Fisnik Asllani",
+        "poste": "Offence",
+        "nationalite": "Kosovo",
+        "naissance": "2002-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Max Moerstedt",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2006-01-15",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Bayer 04 Leverkusen",
+    "court": "Leverkusen",
+    "tla": "B04",
+    "logo": "https://crests.football-data.org/3.png",
+    "fonde": 1904,
+    "stade": "BayArena",
+    "couleurs": "Red / White / Black",
+    "site": "http://www.bayer04.de",
+    "entraineur": "Carles Martínez",
+    "effectif": [
+      {
+        "nom": "Patrik Schick",
+        "poste": "Offence",
+        "nationalite": "Czech Republic",
+        "naissance": "1996-01-24",
+        "buts": 4
+      },
+      {
+        "nom": "Christian Kofane",
+        "poste": "Offence",
+        "nationalite": "Cameroon",
+        "naissance": "2006-07-26",
+        "buts": 2
+      },
+      {
+        "nom": "Facundo Medina",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1999-05-28",
+        "buts": 1
+      },
+      {
+        "nom": "Miguel Gutiérrez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-07-27",
+        "buts": 1
+      },
+      {
+        "nom": "Ibrahim Maza",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "2005-11-24",
+        "buts": 1
+      },
+      {
+        "nom": "Niklas Lomb",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1993-07-28",
+        "buts": 0
+      },
+      {
+        "nom": "Janis Blaswich",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1991-05-02",
+        "buts": 0
+      },
+      {
+        "nom": "Mark Flekken",
+        "poste": "Goalkeeper",
+        "nationalite": "Netherlands",
+        "naissance": "1993-06-13",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Vázquez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1991-07-01",
+        "buts": 0
+      },
+      {
+        "nom": "Edmond Tapsoba",
+        "poste": "Defence",
+        "nationalite": "Burkina Faso",
+        "naissance": "1999-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Loïc Bade",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-04-11",
+        "buts": 0
+      },
+      {
+        "nom": "Jarell Quansah",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2003-01-29",
+        "buts": 0
+      },
+      {
+        "nom": "Tim Oermann",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-10-06",
+        "buts": 0
+      },
+      {
+        "nom": "Guéla Doué",
+        "poste": "Defence",
+        "nationalite": "Cote d'Ivoire",
+        "naissance": "2025-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Jonas Hofmann",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1992-07-14",
+        "buts": 0
+      },
+      {
+        "nom": "Aleix García",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1997-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "Robert Andrich",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1994-09-22",
+        "buts": 0
+      },
+      {
+        "nom": "Malik Tillman",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2002-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Ignacio Fernández",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2002-07-25",
+        "buts": 0
+      },
+      {
+        "nom": "Kennet Eichhorn",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2009-07-27",
+        "buts": 0
+      },
+      {
+        "nom": "Naba Mensah",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2007-05-08",
+        "buts": 0
+      },
+      {
+        "nom": "Moussa Diaby",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1999-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Martin Terrier",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1997-03-04",
+        "buts": 0
+      },
+      {
+        "nom": "Victor Boniface",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2000-12-23",
+        "buts": 0
+      },
+      {
+        "nom": "Nathan Tella",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1999-07-05",
+        "buts": 0
+      },
+      {
+        "nom": "Eliesse Ben Seghir",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2025-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Afonso Moreira",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2005-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Montrell Culbreath",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2007-08-29",
+        "buts": 0
+      },
+      {
+        "nom": "Ndjicoura Bomba",
+        "poste": "Offence",
+        "nationalite": "Mali",
+        "naissance": "2008-03-12",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Borussia Dortmund",
+    "court": "Dortmund",
+    "tla": "BVB",
+    "logo": "https://crests.football-data.org/4.png",
+    "fonde": 1909,
+    "stade": "Signal Iduna Park",
+    "couleurs": "Black / Yellow",
+    "site": "http://www.bvb.de",
+    "entraineur": "Niko Kovać",
+    "effectif": [
+      {
+        "nom": "Felix Kalu Nmecha",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2000-10-10",
+        "buts": 2
+      },
+      {
+        "nom": "Sehrou Guirassy",
+        "poste": "Offence",
+        "nationalite": "Guinea",
+        "naissance": "1996-03-12",
+        "buts": 2
+      },
+      {
+        "nom": "Fábio Silva",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2002-07-19",
+        "buts": 2
+      },
+      {
+        "nom": "Maximilian Beier",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-10-17",
+        "buts": 1
+      },
+      {
+        "nom": "Gregor Kobel",
+        "poste": "Goalkeeper",
+        "nationalite": "Switzerland",
+        "naissance": "1997-12-06",
+        "buts": 0
+      },
+      {
+        "nom": "Patrick Drewes",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1993-02-04",
+        "buts": 0
+      },
+      {
+        "nom": "Alexander Meyer",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1991-04-13",
+        "buts": 0
+      },
+      {
+        "nom": "Silas Ostrzinski",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2003-11-19",
+        "buts": 0
+      },
+      {
+        "nom": "Waldemar Anton",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1996-07-20",
+        "buts": 0
+      },
+      {
+        "nom": "Emre Can",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1994-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Ramy Bensebaini",
+        "poste": "Defence",
+        "nationalite": "Algeria",
+        "naissance": "1995-04-16",
+        "buts": 0
+      },
+      {
+        "nom": "Julian Ryerson",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "1997-11-17",
+        "buts": 0
+      },
+      {
+        "nom": "Nico Schlotterbeck",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1999-12-01",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Svensson",
+        "poste": "Defence",
+        "nationalite": "Sweden",
+        "naissance": "2002-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Kouakou Gadou",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2007-01-17",
+        "buts": 0
+      },
+      {
+        "nom": "Filippo Mané",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2005-03-08",
+        "buts": 0
+      },
+      {
+        "nom": "Kaua Prates",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2008-08-12",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Reggiani",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2008-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Marcel Sabitzer",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1994-03-17",
+        "buts": 0
+      },
+      {
+        "nom": "Joey Veerman",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1998-11-19",
+        "buts": 0
+      },
+      {
+        "nom": "Giannis Konstantelias",
+        "poste": "Midfield",
+        "nationalite": "Greece",
+        "naissance": null,
+        "buts": 0
+      },
+      {
+        "nom": "Carney Chukwuemeka",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "2003-10-20",
+        "buts": 0
+      },
+      {
+        "nom": "Jobe Bellingham",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2005-09-23",
+        "buts": 0
+      },
+      {
+        "nom": "Ethan Nwaneri",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-03-21",
+        "buts": 0
+      },
+      {
+        "nom": "Konstantinos Karetsas",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2007-11-19",
+        "buts": 0
+      },
+      {
+        "nom": "Justin Lerma",
+        "poste": "Midfield",
+        "nationalite": "Ecuador",
+        "naissance": "2008-05-05",
+        "buts": 0
+      },
+      {
+        "nom": "Mussa Kaba",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-11-17",
+        "buts": 0
+      },
+      {
+        "nom": "Enzo dos Santos",
+        "poste": "Midfield",
+        "nationalite": "Luxembourg",
+        "naissance": "2009-01-28",
+        "buts": 0
+      },
+      {
+        "nom": "Samuele Inácio",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "2008-04-02",
+        "buts": 0
+      },
+      {
+        "nom": "Mathis Albert",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "2009-05-21",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "FC Bayern München",
+    "court": "Bayern",
+    "tla": "FCB",
+    "logo": "https://crests.football-data.org/5.png",
+    "fonde": 1900,
+    "stade": "Allianz Arena",
+    "couleurs": "Red / White / Blue",
+    "site": "http://www.fcbayern.de",
+    "entraineur": "Vincent Kompany",
+    "effectif": [
+      {
+        "nom": "Michael Olise",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2001-12-12",
+        "buts": 4
+      },
+      {
+        "nom": "Harry Kane",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1993-07-28",
+        "buts": 3
+      },
+      {
+        "nom": "Dayot Upamecano",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1998-10-27",
+        "buts": 1
+      },
+      {
+        "nom": "Ismael Saibari",
+        "poste": "Midfield",
+        "nationalite": "Morocco",
+        "naissance": "2001-01-28",
+        "buts": 1
+      },
+      {
+        "nom": "Jamal Musiala",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-02-26",
+        "buts": 1
+      },
+      {
+        "nom": "Aleksandar Pavlović",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-05-03",
+        "buts": 1
+      },
+      {
+        "nom": "Lennart Karl",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-02-22",
+        "buts": 1
+      },
+      {
+        "nom": "Luis Díaz",
+        "poste": "Offence",
+        "nationalite": "Colombia",
+        "naissance": "1997-01-13",
+        "buts": 1
+      },
+      {
+        "nom": "Manuel Neuer",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1986-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Sven Ulreich",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1988-08-03",
+        "buts": 0
+      },
+      {
+        "nom": "Jonas Urbig",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2003-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Jonathan Tah",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1996-02-11",
+        "buts": 0
+      },
+      {
+        "nom": "Konrad Laimer",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1997-05-27",
+        "buts": 0
+      },
+      {
+        "nom": "Alphonso Davies",
+        "poste": "Defence",
+        "nationalite": "Canada",
+        "naissance": "2000-11-02",
+        "buts": 0
+      },
+      {
+        "nom": "Hiroki Ito",
+        "poste": "Defence",
+        "nationalite": "Japan",
+        "naissance": "1999-05-12",
+        "buts": 0
+      },
+      {
+        "nom": "Sacha Boey",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-09-13",
+        "buts": 0
+      },
+      {
+        "nom": "Josip Stanišić",
+        "poste": "Defence",
+        "nationalite": "Croatia",
+        "naissance": "2000-04-02",
+        "buts": 0
+      },
+      {
+        "nom": "Min-Jae Kim",
+        "poste": "Defence",
+        "nationalite": "South Korea",
+        "naissance": "1996-11-15",
+        "buts": 0
+      },
+      {
+        "nom": "Nathaniel Brown",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-06-16",
+        "buts": 0
+      },
+      {
+        "nom": "Joshua Kimmich",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1995-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Bischof",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2005-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "David Daiber",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2007-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Bara Ndiaye",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "2007-12-31",
+        "buts": 0
+      },
+      {
+        "nom": "Serge Gnabry",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1995-07-14",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "FC Schalke 04",
+    "court": "Schalke",
+    "tla": "S04",
+    "logo": "https://crests.football-data.org/6.png",
+    "fonde": 1904,
+    "stade": "Veltins-Arena",
+    "couleurs": "Blue / White",
+    "site": "http://www.schalke04.de",
+    "entraineur": "Miron Muslic",
+    "effectif": [
+      {
+        "nom": "Robin Gosens",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1994-07-05",
+        "buts": 1
+      },
+      {
+        "nom": "Maximilian Wöber",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1998-02-04",
+        "buts": 1
+      },
+      {
+        "nom": "Adil Aouchiche",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "2002-07-15",
+        "buts": 1
+      },
+      {
+        "nom": "Kevin Müller",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1991-03-15",
+        "buts": 0
+      },
+      {
+        "nom": "Loris Karius",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1993-06-22",
+        "buts": 0
+      },
+      {
+        "nom": "Johannes Siebeking",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2006-03-02",
+        "buts": 0
+      },
+      {
+        "nom": "Timo Becker",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1997-03-25",
+        "buts": 0
+      },
+      {
+        "nom": "Nikola Katić",
+        "poste": "Defence",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "1996-10-10",
+        "buts": 0
+      },
+      {
+        "nom": "Hasan Kuruçay",
+        "poste": "Defence",
+        "nationalite": "Turkey",
+        "naissance": "1997-08-31",
+        "buts": 0
+      },
+      {
+        "nom": "Adrian Gantenbein",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "2001-04-18",
+        "buts": 0
+      },
+      {
+        "nom": "Vitalie Becker",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-03-03",
+        "buts": 0
+      },
+      {
+        "nom": "Mertcan Ayhan",
+        "poste": "Defence",
+        "nationalite": "Turkey",
+        "naissance": "2006-09-08",
+        "buts": 0
+      },
+      {
+        "nom": "Kenan Karaman",
+        "poste": "Midfield",
+        "nationalite": "Turkey",
+        "naissance": "1994-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Janik Bachmann",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1996-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Finn Porath",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1997-02-23",
+        "buts": 0
+      },
+      {
+        "nom": "Dejan Ljubicic",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1997-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Ron Schallenberg",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-10-06",
+        "buts": 0
+      },
+      {
+        "nom": "Dina Ebimbe",
+        "poste": "Midfield",
+        "nationalite": "Cameroon",
+        "naissance": "2000-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Satoshi Tanaka",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "2002-08-13",
+        "buts": 0
+      },
+      {
+        "nom": "Soufiane El-Faouzi",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-07-13",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Vozar",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2007-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Bryan Lasme",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1998-11-14",
+        "buts": 0
+      },
+      {
+        "nom": "Edin Džeko",
+        "poste": "Offence",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "1986-03-17",
+        "buts": 0
+      },
+      {
+        "nom": "Hwang Heechan",
+        "poste": "Offence",
+        "nationalite": "South Korea",
+        "naissance": "1996-01-26",
+        "buts": 0
+      },
+      {
+        "nom": "Moussa Sylla",
+        "poste": "Offence",
+        "nationalite": "Mali",
+        "naissance": "1999-11-25",
+        "buts": 0
+      },
+      {
+        "nom": "Chikwubuike Adamu",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2001-06-06",
+        "buts": 0
+      },
+      {
+        "nom": "Emil Højlund",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2005-01-04",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Hamburger SV",
+    "court": "HSV",
+    "tla": "HSV",
+    "logo": "https://crests.football-data.org/7.png",
+    "fonde": 1887,
+    "stade": "Volksparkstadion",
+    "couleurs": "White / Red / Blue",
+    "site": "http://www.hsv.de",
+    "entraineur": "Merlin Polzin",
+    "effectif": [
+      {
+        "nom": "Nicolás Capaldo",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1997-09-14",
+        "buts": 1
+      },
+      {
+        "nom": "Yussuf Poulsen",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "1994-06-16",
+        "buts": 1
+      },
+      {
+        "nom": "Daniel Fernandes",
+        "poste": "Goalkeeper",
+        "nationalite": "Portugal",
+        "naissance": "1992-11-13",
+        "buts": 0
+      },
+      {
+        "nom": "Sander Tangvik",
+        "poste": "Goalkeeper",
+        "nationalite": "Norway",
+        "naissance": "2002-11-29",
+        "buts": 0
+      },
+      {
+        "nom": "Elias Lahti",
+        "poste": "Goalkeeper",
+        "nationalite": "Finland",
+        "naissance": "2009-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Fernando Dickes",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2007-10-13",
+        "buts": 0
+      },
+      {
+        "nom": "Jordan Torunarigha",
+        "poste": "Defence",
+        "nationalite": "Nigeria",
+        "naissance": "1997-08-07",
+        "buts": 0
+      },
+      {
+        "nom": "Sebastiaan Bornauw",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "1999-03-22",
+        "buts": 0
+      },
+      {
+        "nom": "Miro Muheim",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "1998-03-24",
+        "buts": 0
+      },
+      {
+        "nom": "Warmed Omari",
+        "poste": "Defence",
+        "nationalite": "Comoros",
+        "naissance": "2000-04-23",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Elfadli",
+        "poste": "Defence",
+        "nationalite": "Libya",
+        "naissance": "1997-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "David Wolfe",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2002-04-23",
+        "buts": 0
+      },
+      {
+        "nom": "Joel Agyekum",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-03-08",
+        "buts": 0
+      },
+      {
+        "nom": "Zakaria El Ouahdi",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "2001-12-31",
+        "buts": 0
+      },
+      {
+        "nom": "Shafiq Nandja",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2007-01-15",
+        "buts": 0
+      },
+      {
+        "nom": "Louis Lemke",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2009-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Bakery Jatta",
+        "poste": "Midfield",
+        "nationalite": "Gambia",
+        "naissance": "1998-06-06",
+        "buts": 0
+      },
+      {
+        "nom": "Albert Sambi Lokonga",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "1999-10-22",
+        "buts": 0
+      },
+      {
+        "nom": "Fabio Vieira",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2000-05-30",
+        "buts": 0
+      },
+      {
+        "nom": "Immanuel Pherai",
+        "poste": "Midfield",
+        "nationalite": "Suriname",
+        "naissance": "2001-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Albert Gronbaek Erlykke",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "2001-05-23",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolai Remberg",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2000-06-19",
+        "buts": 0
+      },
+      {
+        "nom": "Bilal Nadir",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-11-28",
+        "buts": 0
+      },
+      {
+        "nom": "Martin Adeline",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-12-02",
+        "buts": 0
+      },
+      {
+        "nom": "Kofi Amoako",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2005-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Patson Daka",
+        "poste": "Offence",
+        "nationalite": "Zambia",
+        "naissance": "1998-10-09",
+        "buts": 0
+      },
+      {
+        "nom": "Terem Moffi",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1999-05-25",
+        "buts": 0
+      },
+      {
+        "nom": "Otto Stange",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2007-02-09",
+        "buts": 0
+      },
+      {
+        "nom": "Alexander Røssing-Lelesiit",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2007-01-20",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "VfB Stuttgart",
+    "court": "Stuttgart",
+    "tla": "VFB",
+    "logo": "https://crests.football-data.org/10.png",
+    "fonde": 1893,
+    "stade": "Mercedes-Benz Arena",
+    "couleurs": "White / Red",
+    "site": "http://www.vfb.de",
+    "entraineur": "Sebastian Hoeneß",
+    "effectif": [
+      {
+        "nom": "Josha Vagnoman",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2000-12-11",
+        "buts": 2
+      },
+      {
+        "nom": "Maximilian Mittelstädt",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1997-03-18",
+        "buts": 1
+      },
+      {
+        "nom": "Grischa Prömel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1995-01-09",
+        "buts": 1
+      },
+      {
+        "nom": "Bilal El Khannouss",
+        "poste": "Midfield",
+        "nationalite": "Morocco",
+        "naissance": "2005-05-09",
+        "buts": 1
+      },
+      {
+        "nom": "Ermedin Demirovic",
+        "poste": "Offence",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "1998-03-25",
+        "buts": 1
+      },
+      {
+        "nom": "Fabian Bredlow",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1995-03-02",
+        "buts": 0
+      },
+      {
+        "nom": "Marius Funk",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1996-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Stefan Drljača",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1999-04-20",
+        "buts": 0
+      },
+      {
+        "nom": "Dennis Seimen",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2005-12-01",
+        "buts": 0
+      },
+      {
+        "nom": "Dan-Axel Zagadou",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1999-06-03",
+        "buts": 0
+      },
+      {
+        "nom": "Julian Chabot",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Leonidas Stergiou",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "2002-03-03",
+        "buts": 0
+      },
+      {
+        "nom": "Lorenz Assignon",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-06-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ramon Hendriks",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-07-18",
+        "buts": 0
+      },
+      {
+        "nom": "Ameen Al Dakhil",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2002-03-06",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Jaquez",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "2003-06-02",
+        "buts": 0
+      },
+      {
+        "nom": "Finn Jeltsch",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2006-07-17",
+        "buts": 0
+      },
+      {
+        "nom": "Nikolas Nartey",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "2000-02-22",
+        "buts": 0
+      },
+      {
+        "nom": "Atakan Karazor",
+        "poste": "Midfield",
+        "nationalite": "Turkey",
+        "naissance": "1996-10-13",
+        "buts": 0
+      },
+      {
+        "nom": "Angelo Stiller",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2001-04-04",
+        "buts": 0
+      },
+      {
+        "nom": "Jarzinho Malanga",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2006-07-10",
+        "buts": 0
+      },
+      {
+        "nom": "Ertugrul Yigit",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2009-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Chris Führich",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Deniz Undav",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1996-07-19",
+        "buts": 0
+      },
+      {
+        "nom": "Jamie Leweling",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2001-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Tiago Tomás",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2002-06-16",
+        "buts": 0
+      },
+      {
+        "nom": "Dzenan Pejcinovic",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2005-02-15",
+        "buts": 0
+      },
+      {
+        "nom": "Badredine Bouanani",
+        "poste": "Offence",
+        "nationalite": "Algeria",
+        "naissance": "2004-12-08",
+        "buts": 0
+      },
+      {
+        "nom": "Justin Diehl",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2024-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Leo Sauer",
+        "poste": "Offence",
+        "nationalite": "Slovakia",
+        "naissance": "2005-12-16",
+        "buts": 0
+      },
+      {
+        "nom": "Jeremy",
+        "poste": "Offence",
+        "nationalite": "Ecuador",
+        "naissance": "2005-03-19",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "SV Werder Bremen",
+    "court": "Bremen",
+    "tla": "SVW",
+    "logo": "https://crests.football-data.org/12.png",
+    "fonde": 1899,
+    "stade": "Weserstadion",
+    "couleurs": "Green / White",
+    "site": "http://www.werder.de",
+    "entraineur": "Daniel Thioune",
+    "effectif": [
+      {
+        "nom": "Niclas Füllkrug",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1993-02-09",
+        "buts": 3
+      },
+      {
+        "nom": "Marco Grüll",
+        "poste": "Offence",
+        "nationalite": "Austria",
+        "naissance": "1998-07-06",
+        "buts": 2
+      },
+      {
+        "nom": "Mitchell Weiser",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1994-04-21",
+        "buts": 1
+      },
+      {
+        "nom": "Dariusz Stalmach",
+        "poste": "Midfield",
+        "nationalite": "Poland",
+        "naissance": "2005-12-08",
+        "buts": 1
+      },
+      {
+        "nom": "Eren Dinkci",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "2001-12-13",
+        "buts": 1
+      },
+      {
+        "nom": "Alexander Schlager",
+        "poste": "Goalkeeper",
+        "nationalite": "Austria",
+        "naissance": "1996-02-01",
+        "buts": 0
+      },
+      {
+        "nom": "Markus Kolke",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1990-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Karl Hein",
+        "poste": "Goalkeeper",
+        "nationalite": "Estonia",
+        "naissance": null,
+        "buts": 0
+      },
+      {
+        "nom": "Stefan Smarkalev",
+        "poste": "Goalkeeper",
+        "nationalite": "Bulgaria",
+        "naissance": "2007-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Niklas Stark",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1995-04-14",
+        "buts": 0
+      },
+      {
+        "nom": "Marco Friedl",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1998-03-16",
+        "buts": 0
+      },
+      {
+        "nom": "Felix Agu",
+        "poste": "Defence",
+        "nationalite": "Nigeria",
+        "naissance": "1999-09-27",
+        "buts": 0
+      },
+      {
+        "nom": "Amos Pieper",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-01-17",
+        "buts": 0
+      },
+      {
+        "nom": "Olivier Deman",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2000-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "Julián Malatini",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "2001-05-31",
+        "buts": 0
+      },
+      {
+        "nom": "Moussa N'Diaye",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "2002-07-18",
+        "buts": 0
+      },
+      {
+        "nom": "Arthur Augusto",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2003-03-17",
+        "buts": 0
+      },
+      {
+        "nom": "Mick Schmetgens",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2007-09-09",
+        "buts": 0
+      },
+      {
+        "nom": "Oskar Wójcik",
+        "poste": "Defence",
+        "nationalite": "Poland",
+        "naissance": "2003-07-21",
+        "buts": 0
+      },
+      {
+        "nom": "Ludovit Reis",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2000-06-01",
+        "buts": 0
+      },
+      {
+        "nom": "Senne Lynen",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "1999-02-19",
+        "buts": 0
+      },
+      {
+        "nom": "Jens Stage",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "1996-11-08",
+        "buts": 0
+      },
+      {
+        "nom": "Youri Regeer",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2003-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Skelly Alvero",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2002-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Chuki",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Dawid Kownacki",
+        "poste": "Offence",
+        "nationalite": "Poland",
+        "naissance": "1997-03-14",
+        "buts": 0
+      },
+      {
+        "nom": "Cédric Itten",
+        "poste": "Offence",
+        "nationalite": "Switzerland",
+        "naissance": "1996-12-27",
+        "buts": 0
+      },
+      {
+        "nom": "Justin Njinmah",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2000-11-15",
+        "buts": 0
+      },
+      {
+        "nom": "Keke Topp",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2004-03-25",
+        "buts": 0
+      },
+      {
+        "nom": "Salim Musah",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2006-02-22",
+        "buts": 0
+      },
+      {
+        "nom": "Kenny Quetant",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2006-07-17",
+        "buts": 0
+      },
+      {
+        "nom": "Paul Erevbenagie",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2007-08-09",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "1. FSV Mainz 05",
+    "court": "Mainz",
+    "tla": "M05",
+    "logo": "https://crests.football-data.org/15.png",
+    "fonde": 1905,
+    "stade": "Opel Arena",
+    "couleurs": "Red / White",
+    "site": "http://www.mainz05.de",
+    "entraineur": "Urs Fischer",
+    "effectif": [
+      {
+        "nom": "Phillip Tietz",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1997-07-09",
+        "buts": 4
+      },
+      {
+        "nom": "Sheraldo Becker",
+        "poste": "Offence",
+        "nationalite": "Suriname",
+        "naissance": "1995-02-09",
+        "buts": 2
+      },
+      {
+        "nom": "Philipp Mwene",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1994-01-29",
+        "buts": 1
+      },
+      {
+        "nom": "Danny da Costa",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1993-07-13",
+        "buts": 1
+      },
+      {
+        "nom": "Eric Martel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-04-29",
+        "buts": 1
+      },
+      {
+        "nom": "Ransford Königsdörffer",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "2001-09-13",
+        "buts": 1
+      },
+      {
+        "nom": "Robin Zentner",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1994-10-28",
+        "buts": 0
+      },
+      {
+        "nom": "Alexander Schwolow",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1992-06-02",
+        "buts": 0
+      },
+      {
+        "nom": "Maximilian Kinzig",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2003-12-04",
+        "buts": 0
+      },
+      {
+        "nom": "Dominik Kohr",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1994-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Stefan Posch",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1997-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Silvan Widmer",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "1993-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Stefan Bell",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1991-08-24",
+        "buts": 0
+      },
+      {
+        "nom": "Anthony Caci",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1997-07-01",
+        "buts": 0
+      },
+      {
+        "nom": "Fabio Gruber",
+        "poste": "Defence",
+        "nationalite": "Peru",
+        "naissance": "2002-09-03",
+        "buts": 0
+      },
+      {
+        "nom": "Kacper Potulski",
+        "poste": "Defence",
+        "nationalite": "Poland",
+        "naissance": "2007-10-19",
+        "buts": 0
+      },
+      {
+        "nom": "Nadiem Amiri",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1996-10-27",
+        "buts": 0
+      },
+      {
+        "nom": "Lee Jaesung",
+        "poste": "Midfield",
+        "nationalite": "Korea, South",
+        "naissance": "1992-08-10",
+        "buts": 0
+      },
+      {
+        "nom": "Marco Richter",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1997-11-24",
+        "buts": 0
+      },
+      {
+        "nom": "Lennart Maloney",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "1999-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Kaishu Sano",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "2000-12-30",
+        "buts": 0
+      },
+      {
+        "nom": "Sota Kawasaki",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "2001-07-30",
+        "buts": 0
+      },
+      {
+        "nom": "Paul Nebel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-10-10",
+        "buts": 0
+      },
+      {
+        "nom": "Hyun-seok Hong",
+        "poste": "Midfield",
+        "nationalite": "South Korea",
+        "naissance": "1999-06-16",
+        "buts": 0
+      },
+      {
+        "nom": "Otto Ruoppi",
+        "poste": "Midfield",
+        "nationalite": "Finland",
+        "naissance": "2003-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Silas Wamangituka",
+        "poste": "Offence",
+        "nationalite": "DR Congo",
+        "naissance": "1999-10-06",
+        "buts": 0
+      },
+      {
+        "nom": "Benedict Hollerbach",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2001-05-17",
+        "buts": 0
+      },
+      {
+        "nom": "Alynho Haidara",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2008-07-26",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "FC Augsburg",
+    "court": "Augsburg",
+    "tla": "FCA",
+    "logo": "https://crests.football-data.org/16.png",
+    "fonde": 1907,
+    "stade": "WWK Arena",
+    "couleurs": "Red / Green / White",
+    "site": "http://www.fcaugsburg.de",
+    "entraineur": "Manuel Baum",
+    "effectif": [
+      {
+        "nom": "Michael Gregoritsch",
+        "poste": "Offence",
+        "nationalite": "Austria",
+        "naissance": "1994-04-18",
+        "buts": 3
+      },
+      {
+        "nom": "Robin Fellhauer",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-01-21",
+        "buts": 2
+      },
+      {
+        "nom": "Calvin Brackelmann",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1999-08-22",
+        "buts": 1
+      },
+      {
+        "nom": "Alexis Claude Maurice",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1998-06-06",
+        "buts": 1
+      },
+      {
+        "nom": "Fabian Rieder",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2002-02-16",
+        "buts": 1
+      },
+      {
+        "nom": "Anton Kade",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-01-17",
+        "buts": 1
+      },
+      {
+        "nom": "Arijon Ibrahimovic",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2005-12-11",
+        "buts": 1
+      },
+      {
+        "nom": "Rodrigo Ribeiro",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2005-04-28",
+        "buts": 1
+      },
+      {
+        "nom": "Finn Dahmen",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1998-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Nediljko Labrović",
+        "poste": "Goalkeeper",
+        "nationalite": "Croatia",
+        "naissance": "1999-10-10",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Wisbereit",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2007-11-17",
+        "buts": 0
+      },
+      {
+        "nom": "Jeffrey Gouweleeuw",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1991-07-10",
+        "buts": 0
+      },
+      {
+        "nom": "Marius Wolf",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1995-05-27",
+        "buts": 0
+      },
+      {
+        "nom": "Chrislain Matsima",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2002-05-15",
+        "buts": 0
+      },
+      {
+        "nom": "Young-woo Seol",
+        "poste": "Defence",
+        "nationalite": "South Korea",
+        "naissance": "1998-12-05",
+        "buts": 0
+      },
+      {
+        "nom": "Noahkai Banks",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "2006-12-01",
+        "buts": 0
+      },
+      {
+        "nom": "Hennes Behrens",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Juma Bah",
+        "poste": "Defence",
+        "nationalite": "Sierra Leone",
+        "naissance": "2006-04-11",
+        "buts": 0
+      },
+      {
+        "nom": "Kristijan Jakić",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "1997-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Yannik Keitel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2000-02-15",
+        "buts": 0
+      },
+      {
+        "nom": "Han-Noah Massengo",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2001-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Tim Breithaupt",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Mert Kömür",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2005-07-17",
+        "buts": 0
+      },
+      {
+        "nom": "Sima Suso",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2005-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Tim Schnitzer",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Steve Mounié",
+        "poste": "Offence",
+        "nationalite": "Benin",
+        "naissance": "1994-09-29",
+        "buts": 0
+      },
+      {
+        "nom": "Nathanael Mbuku",
+        "poste": "Offence",
+        "nationalite": "Congo DR",
+        "naissance": "2002-03-16",
+        "buts": 0
+      },
+      {
+        "nom": "Faik Sakar",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2008-01-14",
+        "buts": 0
+      },
+      {
+        "nom": "Uchenna Ogundu",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2006-05-12",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "SC Freiburg",
+    "court": "Freiburg",
+    "tla": "SCF",
+    "logo": "https://crests.football-data.org/17.png",
+    "fonde": 1912,
+    "stade": "Schwarzwald-Stadion",
+    "couleurs": "Red / White",
+    "site": "http://www.scfreiburg.com",
+    "entraineur": "Julian Schuster",
+    "effectif": [
+      {
+        "nom": "Yuito Suzuki",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "2001-10-25",
+        "buts": 4
+      },
+      {
+        "nom": "Igor Matanovic",
+        "poste": "Offence",
+        "nationalite": "Croatia",
+        "naissance": "2003-03-31",
+        "buts": 3
+      },
+      {
+        "nom": "Maximilian Eggestein",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1996-12-08",
+        "buts": 2
+      },
+      {
+        "nom": "Yannik Engelhardt",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2001-02-07",
+        "buts": 2
+      },
+      {
+        "nom": "Derry Scherhant",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-11-10",
+        "buts": 1
+      },
+      {
+        "nom": "Florian Müller",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1997-11-13",
+        "buts": 0
+      },
+      {
+        "nom": "Jannik Huth",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1994-04-15",
+        "buts": 0
+      },
+      {
+        "nom": "Mio Backhaus",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2004-04-16",
+        "buts": 0
+      },
+      {
+        "nom": "Matthias Ginter",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1994-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Christian Günter",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1993-02-28",
+        "buts": 0
+      },
+      {
+        "nom": "Lukas Kübler",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1992-08-30",
+        "buts": 0
+      },
+      {
+        "nom": "Philipp Lienhart",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1996-07-11",
+        "buts": 0
+      },
+      {
+        "nom": "Anthony Jung",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1991-11-03",
+        "buts": 0
+      },
+      {
+        "nom": "Philipp Treu",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2000-12-03",
+        "buts": 0
+      },
+      {
+        "nom": "Jordy Makengo",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2001-08-03",
+        "buts": 0
+      },
+      {
+        "nom": "Max Rosenfelder",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-02-10",
+        "buts": 0
+      },
+      {
+        "nom": "Ifechukwu Ogbus",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "2005-12-17",
+        "buts": 0
+      },
+      {
+        "nom": "Berkay Yılmaz",
+        "poste": "Defence",
+        "nationalite": "Turkey",
+        "naissance": "2005-02-25",
+        "buts": 0
+      },
+      {
+        "nom": "Rihito Yamamoto",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "2001-12-12",
+        "buts": 0
+      },
+      {
+        "nom": "Patrick Osterhage",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2000-02-01",
+        "buts": 0
+      },
+      {
+        "nom": "Rouven Tarnutzer",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2007-07-24",
+        "buts": 0
+      },
+      {
+        "nom": "Jan-Niklas Beste",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1999-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "Vincenzo Grifo",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1993-04-07",
+        "buts": 0
+      },
+      {
+        "nom": "Florent Muslija",
+        "poste": "Offence",
+        "nationalite": "Kosovo",
+        "naissance": "1998-07-06",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Höler",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1994-07-10",
+        "buts": 0
+      },
+      {
+        "nom": "Cyriaque Irié",
+        "poste": "Offence",
+        "nationalite": "Burkina Faso",
+        "naissance": "2005-06-20",
+        "buts": 0
+      },
+      {
+        "nom": "Keisuke Goto",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "2005-06-03",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Borussia Mönchengladbach",
+    "court": "M'gladbach",
+    "tla": "BMG",
+    "logo": "https://crests.football-data.org/18.png",
+    "fonde": 1900,
+    "stade": "Stadion im Borussia-Park",
+    "couleurs": "Black / White / Green",
+    "site": "http://www.borussia.de",
+    "entraineur": "Eugen Polański",
+    "effectif": [
+      {
+        "nom": "Hugo Bolin",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2003-07-24",
+        "buts": 2
+      },
+      {
+        "nom": "Joseph Scally",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "2002-12-31",
+        "buts": 1
+      },
+      {
+        "nom": "Florian Neuhaus",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1997-03-16",
+        "buts": 1
+      },
+      {
+        "nom": "Isac Lidberg",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "1998-09-08",
+        "buts": 1
+      },
+      {
+        "nom": "Shuto Machino",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "2002-12-14",
+        "buts": 1
+      },
+      {
+        "nom": "Tobias Sippel",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1988-03-22",
+        "buts": 0
+      },
+      {
+        "nom": "Moritz Nicolas",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1997-10-21",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Batz",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1991-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Jan Jakob Olschowsky",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2001-11-18",
+        "buts": 0
+      },
+      {
+        "nom": "Kevin Diks",
+        "poste": "Defence",
+        "nationalite": "Indonesia",
+        "naissance": "1996-10-06",
+        "buts": 0
+      },
+      {
+        "nom": "Daiki Hashioka",
+        "poste": "Defence",
+        "nationalite": "Japan",
+        "naissance": "1999-05-17",
+        "buts": 0
+      },
+      {
+        "nom": "Ko Itakura",
+        "poste": "Defence",
+        "nationalite": "Japan",
+        "naissance": "1997-01-27",
+        "buts": 0
+      },
+      {
+        "nom": "Yukhym Konoplya",
+        "poste": "Defence",
+        "nationalite": "Ukraine",
+        "naissance": "1999-08-26",
+        "buts": 0
+      },
+      {
+        "nom": "Fabio Chiarodia",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2005-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "David Herold",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-02-20",
+        "buts": 0
+      },
+      {
+        "nom": "Lukas Ullrich",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-03-16",
+        "buts": 0
+      },
+      {
+        "nom": "Jan Leszczyński",
+        "poste": "Defence",
+        "nationalite": "Poland",
+        "naissance": "2007-04-12",
+        "buts": 0
+      },
+      {
+        "nom": "Kevin Stöger",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1993-08-27",
+        "buts": 0
+      },
+      {
+        "nom": "Philipp Sander",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-02-21",
+        "buts": 0
+      },
+      {
+        "nom": "Enzo Leopold",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2000-07-23",
+        "buts": 0
+      },
+      {
+        "nom": "Jens Castrop",
+        "poste": "Midfield",
+        "nationalite": "South Korea",
+        "naissance": "2003-07-29",
+        "buts": 0
+      },
+      {
+        "nom": "Zento Uno",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "2003-11-20",
+        "buts": 0
+      },
+      {
+        "nom": "Fritz Fleck",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2007-05-30",
+        "buts": 0
+      },
+      {
+        "nom": "Wael Mohya",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-12-31",
+        "buts": 0
+      },
+      {
+        "nom": "Mathieu Nguefack",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Robin Hack",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-08-27",
+        "buts": 0
+      },
+      {
+        "nom": "Franck Honorat",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1996-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Tim Kleindienst",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1995-08-31",
+        "buts": 0
+      },
+      {
+        "nom": "Tomáš Čvančara",
+        "poste": "Offence",
+        "nationalite": "Czech Republic",
+        "naissance": "2000-08-13",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolas Kühn",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2000-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Iaia Danfa",
+        "poste": "Offence",
+        "nationalite": "Guinea-Bissau",
+        "naissance": "2007-04-06",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Eintracht Frankfurt",
+    "court": "Frankfurt",
+    "tla": "SGE",
+    "logo": "https://crests.football-data.org/19.png",
+    "fonde": 1899,
+    "stade": "Deutsche Bank Park",
+    "couleurs": "Red / Black",
+    "site": "http://www.eintracht.de",
+    "entraineur": "Adi Hütter",
+    "effectif": [
+      {
+        "nom": "Younes Ebnoutalib",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2003-09-13",
+        "buts": 4
+      },
+      {
+        "nom": "Jonathan Burkardt",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2000-07-11",
+        "buts": 3
+      },
+      {
+        "nom": "Can Uzun",
+        "poste": "Midfield",
+        "nationalite": "Turkey",
+        "naissance": "2005-11-11",
+        "buts": 2
+      },
+      {
+        "nom": "Jens Grahl",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1988-09-22",
+        "buts": 0
+      },
+      {
+        "nom": "Noah Atubolu",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2002-05-25",
+        "buts": 0
+      },
+      {
+        "nom": "Kauã Santos",
+        "poste": "Goalkeeper",
+        "nationalite": "Brazil",
+        "naissance": "2003-04-11",
+        "buts": 0
+      },
+      {
+        "nom": "Amil Siljevic",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2007-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Timmy Chandler",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "1990-03-29",
+        "buts": 0
+      },
+      {
+        "nom": "Robin Koch",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1996-07-17",
+        "buts": 0
+      },
+      {
+        "nom": "Lilian Brassier",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1999-11-02",
+        "buts": 0
+      },
+      {
+        "nom": "Nnamdi Collins",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Elias Baum",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-10-26",
+        "buts": 0
+      },
+      {
+        "nom": "Keita Kosugi",
+        "poste": "Defence",
+        "nationalite": "Japan",
+        "naissance": "2006-03-18",
+        "buts": 0
+      },
+      {
+        "nom": "Otávio",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2005-11-25",
+        "buts": 0
+      },
+      {
+        "nom": "Mario Götze",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1992-06-03",
+        "buts": 0
+      },
+      {
+        "nom": "Raphael Onyedika",
+        "poste": "Midfield",
+        "nationalite": "Nigeria",
+        "naissance": "2001-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Fares Chaïbi",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "2002-11-28",
+        "buts": 0
+      },
+      {
+        "nom": "Noel Aseko Nkili",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2005-11-22",
+        "buts": 0
+      },
+      {
+        "nom": "Oscar Højlund",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "2005-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "Love Arrhov",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "2008-05-17",
+        "buts": 0
+      },
+      {
+        "nom": "Ritsu Doan",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "1998-06-16",
+        "buts": 0
+      },
+      {
+        "nom": "Jessic Ngankam",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2000-07-20",
+        "buts": 0
+      },
+      {
+        "nom": "Ansgar Knauff",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Ayoube Amaimouni-Echghouyab",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2004-11-30",
+        "buts": 0
+      },
+      {
+        "nom": "Malik Pimpong",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2008-01-01",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "1. FC Union Berlin",
+    "court": "Union Berlin",
+    "tla": "UNB",
+    "logo": "https://crests.football-data.org/28.png",
+    "fonde": 1906,
+    "stade": "Stadion An der Alten Försterei",
+    "couleurs": "Red / White",
+    "site": "http://www.fc-union-berlin.de",
+    "entraineur": "Mauro Lustrinelli",
+    "effectif": [
+      {
+        "nom": "Tim Skarke",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1996-09-07",
+        "buts": 2
+      },
+      {
+        "nom": "Leopold Querfeld",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "2003-12-20",
+        "buts": 1
+      },
+      {
+        "nom": "Emmanuel Latte Lath",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "1999-01-01",
+        "buts": 1
+      },
+      {
+        "nom": "Frederik Rønnow",
+        "poste": "Goalkeeper",
+        "nationalite": "Denmark",
+        "naissance": "1992-08-04",
+        "buts": 0
+      },
+      {
+        "nom": "Carl Klaus",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1994-01-16",
+        "buts": 0
+      },
+      {
+        "nom": "Matheo Raab",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1998-12-18",
+        "buts": 0
+      },
+      {
+        "nom": "Marvin Friedrich",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1995-12-13",
+        "buts": 0
+      },
+      {
+        "nom": "Christopher Trimmel",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1987-02-24",
+        "buts": 0
+      },
+      {
+        "nom": "Ohis Uduokhai",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1997-09-09",
+        "buts": 0
+      },
+      {
+        "nom": "Josip Juranović",
+        "poste": "Defence",
+        "nationalite": "Croatia",
+        "naissance": "1995-08-16",
+        "buts": 0
+      },
+      {
+        "nom": "Derrick Köhn",
+        "poste": "Defence",
+        "nationalite": "Ghana",
+        "naissance": "1999-02-04",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Rothe",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-10-29",
+        "buts": 0
+      },
+      {
+        "nom": "Zeno Van Den Bosch",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2003-07-06",
+        "buts": 0
+      },
+      {
+        "nom": "Stanley N'Soki",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1999-04-09",
+        "buts": 0
+      },
+      {
+        "nom": "Andrik Markgraf",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2006-09-07",
+        "buts": 0
+      },
+      {
+        "nom": "Rani Khedira",
+        "poste": "Midfield",
+        "nationalite": "Tunisia",
+        "naissance": "1994-01-27",
+        "buts": 0
+      },
+      {
+        "nom": "Janik Haberer",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1994-04-02",
+        "buts": 0
+      },
+      {
+        "nom": "Robert Skov",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "1996-05-20",
+        "buts": 0
+      },
+      {
+        "nom": "Michel Aebischer",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "1997-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Kastriot Imeri",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2000-06-27",
+        "buts": 0
+      },
+      {
+        "nom": "András Schafer",
+        "poste": "Midfield",
+        "nationalite": "Hungary",
+        "naissance": "1999-04-13",
+        "buts": 0
+      },
+      {
+        "nom": "Jeong Wooyeong",
+        "poste": "Midfield",
+        "nationalite": "South Korea",
+        "naissance": "1999-09-20",
+        "buts": 0
+      },
+      {
+        "nom": "Aljoscha Kemlein",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-08-02",
+        "buts": 0
+      },
+      {
+        "nom": "Oliver Burke",
+        "poste": "Offence",
+        "nationalite": "Scotland",
+        "naissance": "1997-04-07",
+        "buts": 0
+      },
+      {
+        "nom": "Andrej Ilic",
+        "poste": "Offence",
+        "nationalite": "Serbia",
+        "naissance": "2000-04-03",
+        "buts": 0
+      },
+      {
+        "nom": "Marin Ljubicic",
+        "poste": "Offence",
+        "nationalite": "Croatia",
+        "naissance": "2002-02-28",
+        "buts": 0
+      },
+      {
+        "nom": "Livan Burcu",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "2004-09-28",
+        "buts": 0
+      },
+      {
+        "nom": "Julien Friedrich",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2006-11-12",
+        "buts": 0
+      },
+      {
+        "nom": "Linus Güther",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2010-04-08",
+        "buts": 0
+      },
+      {
+        "nom": "Mekhi Gray",
+        "poste": "Offence",
+        "nationalite": "Jamaica",
+        "naissance": "2007-02-19",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "SC Paderborn 07",
+    "court": "SC Paderborn",
+    "tla": "SCP",
+    "logo": "https://crests.football-data.org/29.png",
+    "fonde": 1985,
+    "stade": "Benteler-Arena",
+    "couleurs": "Black / Blue",
+    "site": "http://www.scpaderborn07.de",
+    "entraineur": "Ralf Kettemann",
+    "effectif": [
+      {
+        "nom": "Santiago Castaneda",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2004-11-13",
+        "buts": 1
+      },
+      {
+        "nom": "Steffen Tigges",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-07-31",
+        "buts": 1
+      },
+      {
+        "nom": "Stefano Marino",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2004-03-12",
+        "buts": 1
+      },
+      {
+        "nom": "Markus Schubert",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1998-06-12",
+        "buts": 0
+      },
+      {
+        "nom": "Nahuel Noll",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2003-03-17",
+        "buts": 0
+      },
+      {
+        "nom": "Florian Pruhs",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2006-02-06",
+        "buts": 0
+      },
+      {
+        "nom": "Felix Götze",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-02-11",
+        "buts": 0
+      },
+      {
+        "nom": "Marcel Hoffmeier",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1999-07-15",
+        "buts": 0
+      },
+      {
+        "nom": "Tjark Scheller",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2002-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Jano ter Horst",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2002-06-19",
+        "buts": 0
+      },
+      {
+        "nom": "Mattes Hansen",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-05-15",
+        "buts": 0
+      },
+      {
+        "nom": "Tristan Zobel",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-10-04",
+        "buts": 0
+      },
+      {
+        "nom": "Jonah Sticker",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-05-08",
+        "buts": 0
+      },
+      {
+        "nom": "Nyamekye Awortwie-Grant",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2000-08-07",
+        "buts": 0
+      },
+      {
+        "nom": "Ruben Müller",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2005-08-24",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Baack",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1999-03-13",
+        "buts": 0
+      },
+      {
+        "nom": "Sebastian Klaas",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Raphael Obermair",
+        "poste": "Midfield",
+        "nationalite": "Philippines",
+        "naissance": "1996-04-01",
+        "buts": 0
+      },
+      {
+        "nom": "Timur Gayret",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Laurin Curda",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2001-10-30",
+        "buts": 0
+      },
+      {
+        "nom": "Laurin Ulrich",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2005-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Luka Đurić",
+        "poste": "Midfield",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "2003-06-18",
+        "buts": 0
+      },
+      {
+        "nom": "Clemens Lippmann",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2006-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "Niklas Mohr",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-07-23",
+        "buts": 0
+      },
+      {
+        "nom": "Sven Michel",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1990-07-15",
+        "buts": 0
+      },
+      {
+        "nom": "Oliver Batista-Meier",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2001-02-16",
+        "buts": 0
+      },
+      {
+        "nom": "Marvin Pieringer",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1999-10-04",
+        "buts": 0
+      },
+      {
+        "nom": "Rayan Philippe",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2000-10-23",
+        "buts": 0
+      },
+      {
+        "nom": "Gabriel Vidovic",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2003-12-01",
+        "buts": 0
+      },
+      {
+        "nom": "Deniz Zeitler",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2006-12-13",
+        "buts": 0
+      },
+      {
+        "nom": "Albert Millgramm",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2004-11-12",
+        "buts": 0
+      },
+      {
+        "nom": "Lasse Eickel",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2008-02-28",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "SV 07 Elversberg",
+    "court": "Elversberg",
+    "tla": "ELV",
+    "logo": "https://crests.football-data.org/719.png",
+    "fonde": 1907,
+    "stade": "Ursapharm-Arena an der Kaiserlinde",
+    "couleurs": "Black / White",
+    "site": "http://www.sv07elversberg.de",
+    "entraineur": "Vincent Wagner",
+    "effectif": [
+      {
+        "nom": "Maurice Krattenmacher",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2005-08-11",
+        "buts": 3
+      },
+      {
+        "nom": "David Mokwa Ntusu",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2004-05-03",
+        "buts": 2
+      },
+      {
+        "nom": "Felix Keidel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-06-14",
+        "buts": 1
+      },
+      {
+        "nom": "Lukas Petkov",
+        "poste": "Offence",
+        "nationalite": "Bulgaria",
+        "naissance": "2000-11-01",
+        "buts": 1
+      },
+      {
+        "nom": "Cole Campbell",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "2006-02-20",
+        "buts": 1
+      },
+      {
+        "nom": "Tim Boss",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1993-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "Frank Lehmann",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1989-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolas Kristof",
+        "poste": "Goalkeeper",
+        "nationalite": "Austria",
+        "naissance": "1999-12-20",
+        "buts": 0
+      },
+      {
+        "nom": "Elias Etringer",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "2007-11-24",
+        "buts": 0
+      },
+      {
+        "nom": "Florian Le Joncour",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1995-02-03",
+        "buts": 0
+      },
+      {
+        "nom": "Jan Gyamerah",
+        "poste": "Defence",
+        "nationalite": "Ghana",
+        "naissance": "1995-06-18",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Sirch",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1999-06-14",
+        "buts": 0
+      },
+      {
+        "nom": "Maximilian Rohr",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1995-06-27",
+        "buts": 0
+      },
+      {
+        "nom": "Lukas Pinckert",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2000-01-22",
+        "buts": 0
+      },
+      {
+        "nom": "Lasse Günther",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-03-21",
+        "buts": 0
+      },
+      {
+        "nom": "Look Sa Nicholas Mickelson",
+        "poste": "Defence",
+        "nationalite": "Thailand",
+        "naissance": "1999-07-24",
+        "buts": 0
+      },
+      {
+        "nom": "Luis Seifert",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-01-26",
+        "buts": 0
+      },
+      {
+        "nom": "Amara Condé",
+        "poste": "Midfield",
+        "nationalite": "Guinea",
+        "naissance": "1997-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Łukasz Poręba",
+        "poste": "Midfield",
+        "nationalite": "Poland",
+        "naissance": "2000-03-13",
+        "buts": 0
+      },
+      {
+        "nom": "Frederik Schmahl",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-12-21",
+        "buts": 0
+      },
+      {
+        "nom": "Noah Darvich",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2006-09-25",
+        "buts": 0
+      },
+      {
+        "nom": "Francis Onyeka",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2007-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Schnellbacher",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1994-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Zimmerschied",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-09-22",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Pfeiffer",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1996-08-20",
+        "buts": 0
+      },
+      {
+        "nom": "Jason Ceka",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1999-11-10",
+        "buts": 0
+      },
+      {
+        "nom": "Noel Futkeu",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-12-06",
+        "buts": 0
+      },
+      {
+        "nom": "Raif Adam",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2005-09-07",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "RB Leipzig",
+    "court": "RB Leipzig",
+    "tla": "RBL",
+    "logo": "https://crests.football-data.org/721.png",
+    "fonde": 2009,
+    "stade": "Red Bull Arena",
+    "couleurs": "White / Red",
+    "site": "http://www.dierotenbullen.com",
+    "entraineur": "Martín Demichelis",
+    "effectif": [
+      {
+        "nom": "Ridle Baku",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-04-08",
+        "buts": 2
+      },
+      {
+        "nom": "Antonio Nusa",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2005-04-17",
+        "buts": 2
+      },
+      {
+        "nom": "Willi Orban",
+        "poste": "Defence",
+        "nationalite": "Hungary",
+        "naissance": "1992-11-03",
+        "buts": 1
+      },
+      {
+        "nom": "Rocco Reitz",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-05-29",
+        "buts": 1
+      },
+      {
+        "nom": "Christopher Nkunku",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1997-11-14",
+        "buts": 1
+      },
+      {
+        "nom": "Romulo Cruz",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2002-02-08",
+        "buts": 1
+      },
+      {
+        "nom": "Tidiam Gomis",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2006-08-08",
+        "buts": 1
+      },
+      {
+        "nom": "Ørjan Nyland",
+        "poste": "Goalkeeper",
+        "nationalite": "Norway",
+        "naissance": "1990-09-10",
+        "buts": 0
+      },
+      {
+        "nom": "Leopold Zingerle",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1994-04-10",
+        "buts": 0
+      },
+      {
+        "nom": "Maarten Vandevoordt",
+        "poste": "Goalkeeper",
+        "nationalite": "Belgium",
+        "naissance": "2002-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Benjamin Henrichs",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1997-02-23",
+        "buts": 0
+      },
+      {
+        "nom": "Lukas Klostermann",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1996-06-03",
+        "buts": 0
+      },
+      {
+        "nom": "David Raum",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-04-22",
+        "buts": 0
+      },
+      {
+        "nom": "Castello Lukeba",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2002-12-17",
+        "buts": 0
+      },
+      {
+        "nom": "Maxime Estève",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2002-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Max Finkgräfe",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2004-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Abdoul Koné",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2005-04-22",
+        "buts": 0
+      },
+      {
+        "nom": "Christoph Baumgartner",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1999-08-01",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolas  Seiwald",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "2001-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Neil El Aynaoui",
+        "poste": "Midfield",
+        "nationalite": "Morocco",
+        "naissance": "2001-07-02",
+        "buts": 0
+      },
+      {
+        "nom": "Ezechiel Banzuzi",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2005-02-16",
+        "buts": 0
+      },
+      {
+        "nom": "Arthur Vermeeren",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2005-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Brajan Gruda",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-05-31",
+        "buts": 0
+      },
+      {
+        "nom": "Assan Ouédraogo",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2006-05-09",
+        "buts": 0
+      },
+      {
+        "nom": "Andrija Maksimović",
+        "poste": "Midfield",
+        "nationalite": "Serbia",
+        "naissance": "2007-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Viggo Gebel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2007-11-22",
+        "buts": 0
+      },
+      {
+        "nom": "Benno Kaltefleiter",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-02-14",
+        "buts": 0
+      },
+      {
+        "nom": "Johan Bakayoko",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2003-04-20",
+        "buts": 0
+      },
+      {
+        "nom": "Marc Guiu",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2006-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "Samba Konaté",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2009-02-27",
+        "buts": 0
+      },
+      {
+        "nom": "Suleman Sani",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2006-09-01",
+        "buts": 0
+      }
+    ]
+  }
+]

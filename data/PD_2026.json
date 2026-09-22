@@ -7,12 +7,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Getafe CF",
+    "court_dom": "Alavés",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Alavés",
-    "court_ext": "Getafe"
+    "buts_ext": 0
   },
   {
     "id": 564633,
@@ -22,12 +22,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": 1
   },
   {
     "id": 564629,
@@ -37,12 +37,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Villarreal CF",
+    "court_dom": "Santander",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Santander",
-    "court_ext": "Villarreal"
+    "buts_ext": 2
   },
   {
     "id": 564632,
@@ -52,12 +52,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Levante UD",
+    "court_dom": "Espanyol",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Espanyol",
-    "court_ext": "Levante"
+    "buts_ext": 0
   },
   {
     "id": 564635,
@@ -67,12 +67,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Elche CF",
+    "court_dom": "Deportivo",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Deportivo",
-    "court_ext": "Elche"
+    "buts_ext": 1
   },
   {
     "id": 564628,
@@ -82,12 +82,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Málaga CF",
+    "court_dom": "Atleti",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Atleti",
-    "court_ext": "Málaga"
+    "buts_ext": 0
   },
   {
     "id": 564638,
@@ -97,12 +97,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Deportivo Alavés",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Alavés"
+    "buts_ext": 1
   },
   {
     "id": 564647,
@@ -112,12 +112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Real Betis",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Real Betis",
-    "court_ext": "Real Sociedad"
+    "buts_ext": 0
   },
   {
     "id": 564641,
@@ -127,12 +127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Sevilla FC",
+    "court_dom": "Athletic",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Athletic",
-    "court_ext": "Sevilla FC"
+    "buts_ext": 3
   },
   {
     "id": 564643,
@@ -142,12 +142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Valencia",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Valencia",
-    "court_ext": "Celta"
+    "buts_ext": 0
   },
   {
     "id": 564645,
@@ -157,12 +157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Real Madrid CF",
+    "court_dom": "Espanyol",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Espanyol",
-    "court_ext": "Real Madrid"
+    "buts_ext": 2
   },
   {
     "id": 564646,
@@ -172,12 +172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Villarreal CF",
+    "court_dom": "Atleti",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Atleti",
-    "court_ext": "Villarreal"
+    "buts_ext": 2
   },
   {
     "id": 564644,
@@ -187,12 +187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Getafe",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Getafe",
-    "court_ext": "Santander"
+    "buts_ext": 0
   },
   {
     "id": 564642,
@@ -202,12 +202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "FC Barcelona",
+    "court_dom": "Elche",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": 0,
-    "buts_ext": 5,
-    "court_dom": "Elche",
-    "court_ext": "Barça"
+    "buts_ext": 5
   },
   {
     "id": 564639,
@@ -217,12 +217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Levante UD",
+    "court_dom": "Osasuna",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Osasuna",
-    "court_ext": "Levante"
+    "buts_ext": 0
   },
   {
     "id": 564640,
@@ -232,12 +232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Málaga",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Málaga",
-    "court_ext": "Deportivo"
+    "buts_ext": 1
   },
   {
     "id": 564637,
@@ -247,12 +247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Real Betis Balompié",
+    "court_dom": "Valencia",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Valencia",
-    "court_ext": "Real Betis"
+    "buts_ext": 1
   },
   {
     "id": 564631,
@@ -262,12 +262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Real Madrid",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Real Madrid",
-    "court_ext": "Real Sociedad"
+    "buts_ext": 1
   },
   {
     "id": 564636,
@@ -277,12 +277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "CA Osasuna",
+    "court_dom": "Celta",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Celta",
-    "court_ext": "Osasuna"
+    "buts_ext": 2
   },
   {
     "id": 564630,
@@ -292,12 +292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Athletic Club",
+    "court_dom": "Barça",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Barça",
-    "court_ext": "Athletic"
+    "buts_ext": 0
   },
   {
     "id": 564654,
@@ -307,12 +307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Elche CF",
+    "court_dom": "Santander",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Santander",
-    "court_ext": "Elche"
+    "buts_ext": 2
   },
   {
     "id": 564648,
@@ -322,12 +322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Villarreal CF",
+    "court_dom": "Alavés",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Alavés",
-    "court_ext": "Villarreal"
+    "buts_ext": 0
   },
   {
     "id": 564655,
@@ -337,12 +337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Real Betis Balompié",
+    "court_dom": "Levante",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": 5,
-    "buts_ext": 2,
-    "court_dom": "Levante",
-    "court_ext": "Real Betis"
+    "buts_ext": 2
   },
   {
     "id": 564653,
@@ -352,12 +352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Espanyol"
+    "buts_ext": 1
   },
   {
     "id": 564649,
@@ -367,12 +367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Atleti"
+    "buts_ext": 3
   },
   {
     "id": 564656,
@@ -382,12 +382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Málaga CF",
+    "court_dom": "Real Madrid",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Real Madrid",
-    "court_ext": "Málaga"
+    "buts_ext": 0
   },
   {
     "id": 564651,
@@ -397,12 +397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Valencia CF",
+    "court_dom": "Deportivo",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "Deportivo",
-    "court_ext": "Valencia"
+    "buts_ext": 1
   },
   {
     "id": 564652,
@@ -412,12 +412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Athletic Club",
+    "court_dom": "Celta",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Celta",
-    "court_ext": "Athletic"
+    "buts_ext": 2
   },
   {
     "id": 564657,
@@ -427,12 +427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Getafe CF",
+    "court_dom": "Osasuna",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Osasuna",
-    "court_ext": "Getafe"
+    "buts_ext": 0
   },
   {
     "id": 564650,
@@ -442,12 +442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Barça",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": 5,
-    "buts_ext": 2,
-    "court_dom": "Barça",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": 2
   },
   {
     "id": 564682,
@@ -457,12 +457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Celta"
+    "buts_ext": 0
   },
   {
     "id": 564667,
@@ -472,12 +472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Real Madrid CF",
+    "court_dom": "Real Betis",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Real Betis",
-    "court_ext": "Real Madrid"
+    "buts_ext": 0
   },
   {
     "id": 564663,
@@ -487,12 +487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Athletic",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Athletic",
-    "court_ext": "Atleti"
+    "buts_ext": 0
   },
   {
     "id": 564660,
@@ -502,12 +502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Santander"
+    "buts_ext": 2
   },
   {
     "id": 564662,
@@ -517,12 +517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Villarreal",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Villarreal",
-    "court_ext": "Deportivo"
+    "buts_ext": 3
   },
   {
     "id": 564659,
@@ -532,12 +532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "FC Barcelona",
+    "court_dom": "Valencia",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": 0,
-    "buts_ext": 5,
-    "court_dom": "Valencia",
-    "court_ext": "Barça"
+    "buts_ext": 5
   },
   {
     "id": 564664,
@@ -547,12 +547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "CA Osasuna",
+    "court_dom": "Alavés",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": 5,
-    "buts_ext": 2,
-    "court_dom": "Alavés",
-    "court_ext": "Osasuna"
+    "buts_ext": 2
   },
   {
     "id": 564666,
@@ -562,12 +562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Levante UD",
+    "court_dom": "Málaga",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Málaga",
-    "court_ext": "Levante"
+    "buts_ext": 0
   },
   {
     "id": 564661,
@@ -577,12 +577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Sevilla FC",
+    "court_dom": "Espanyol",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Espanyol",
-    "court_ext": "Sevilla FC"
+    "buts_ext": 1
   },
   {
     "id": 564665,
@@ -592,12 +592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Getafe",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Getafe",
-    "court_ext": "Celta"
+    "buts_ext": 1
   },
   {
     "id": 564658,
@@ -607,12 +607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Elche",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Elche",
-    "court_ext": "Real Sociedad"
+    "buts_ext": 3
   },
   {
     "id": 564669,
@@ -622,12 +622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Valencia CF",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Valencia"
+    "buts_ext": 0
   },
   {
     "id": 564670,
@@ -637,12 +637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Deportivo Alavés",
+    "court_dom": "Santander",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Santander",
-    "court_ext": "Alavés"
+    "buts_ext": 1
   },
   {
     "id": 564673,
@@ -652,12 +652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Osasuna",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Osasuna",
-    "court_ext": "Espanyol"
+    "buts_ext": 2
   },
   {
     "id": 564676,
@@ -667,12 +667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Elche CF",
+    "court_dom": "Athletic",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Athletic",
-    "court_ext": "Elche"
+    "buts_ext": 1
   },
   {
     "id": 564677,
@@ -682,12 +682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Real Madrid",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": 4,
-    "buts_ext": 1,
-    "court_dom": "Real Madrid",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": 1
   },
   {
     "id": 564672,
@@ -697,12 +697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Málaga CF",
+    "court_dom": "Celta",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Celta",
-    "court_ext": "Málaga"
+    "buts_ext": 1
   },
   {
     "id": 564675,
@@ -712,12 +712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "FC Barcelona",
+    "court_dom": "Levante",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": 2,
-    "buts_ext": 4,
-    "court_dom": "Levante",
-    "court_ext": "Barça"
+    "buts_ext": 4
   },
   {
     "id": 564668,
@@ -727,12 +727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Getafe",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Getafe",
-    "court_ext": "Deportivo"
+    "buts_ext": 1
   },
   {
     "id": 564674,
@@ -742,12 +742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": 0,
-    "buts_ext": 3,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Atleti"
+    "buts_ext": 3
   },
   {
     "id": 564671,
@@ -757,12 +757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Real Betis Balompié",
+    "court_dom": "Villarreal",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Villarreal",
-    "court_ext": "Real Betis"
+    "buts_ext": 2
   },
   {
     "id": 564678,
@@ -772,12 +772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Espanyol"
+    "buts_ext": 1
   },
   {
     "id": 564680,
@@ -787,12 +787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Valencia CF",
+    "court_dom": "Alavés",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Alavés",
-    "court_ext": "Valencia"
+    "buts_ext": 1
   },
   {
     "id": 564681,
@@ -802,12 +802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Real Madrid CF",
+    "court_dom": "Elche",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Elche",
-    "court_ext": "Real Madrid"
+    "buts_ext": 3
   },
   {
     "id": 564679,
@@ -817,12 +817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Sevilla FC",
+    "court_dom": "Deportivo",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Deportivo",
-    "court_ext": "Sevilla FC"
+    "buts_ext": 1
   },
   {
     "id": 564684,
@@ -832,12 +832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "CA Osasuna",
+    "court_dom": "Atleti",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Atleti",
-    "court_ext": "Osasuna"
+    "buts_ext": 0
   },
   {
     "id": 564687,
@@ -847,12 +847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Barça",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": 7,
-    "buts_ext": 2,
-    "court_dom": "Barça",
-    "court_ext": "Santander"
+    "buts_ext": 2
   },
   {
     "id": 564686,
@@ -862,12 +862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Getafe CF",
+    "court_dom": "Real Betis",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Real Betis",
-    "court_ext": "Getafe"
+    "buts_ext": 0
   },
   {
     "id": 564683,
@@ -877,12 +877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Villarreal CF",
+    "court_dom": "Málaga",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Málaga",
-    "court_ext": "Villarreal"
+    "buts_ext": 3
   },
   {
     "id": 564692,
@@ -892,12 +892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Elche CF",
+    "court_dom": "Espanyol",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Espanyol",
-    "court_ext": "Elche"
+    "buts_ext": 3
   },
   {
     "id": 564693,
@@ -907,12 +907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Osasuna",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Osasuna",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": 1
   },
   {
     "id": 564691,
@@ -922,12 +922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Deportivo Alavés",
+    "court_dom": "Athletic",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Athletic",
-    "court_ext": "Alavés"
+    "buts_ext": 0
   },
   {
     "id": 564694,
@@ -937,12 +937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Celta",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": 5,
-    "buts_ext": 0,
-    "court_dom": "Celta",
-    "court_ext": "Santander"
+    "buts_ext": 0
   },
   {
     "id": 564690,
@@ -952,12 +952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "FC Barcelona",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Barça"
+    "buts_ext": 3
   },
   {
     "id": 564697,
@@ -967,12 +967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Málaga CF",
+    "court_dom": "Getafe",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Getafe",
-    "court_ext": "Málaga"
+    "buts_ext": 0
   },
   {
     "id": 564688,
@@ -982,12 +982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Real Madrid CF",
+    "court_dom": "Atleti",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Atleti",
-    "court_ext": "Real Madrid"
+    "buts_ext": 1
   },
   {
     "id": 564695,
@@ -997,12 +997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Real Betis Balompié",
+    "court_dom": "Deportivo",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Deportivo",
-    "court_ext": "Real Betis"
+    "buts_ext": 1
   },
   {
     "id": 564696,
@@ -1012,12 +1012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Levante UD",
+    "court_dom": "Villarreal",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "Villarreal",
-    "court_ext": "Levante"
+    "buts_ext": 1
   },
   {
     "id": 564689,
@@ -1027,12 +1027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Valencia",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Valencia",
-    "court_ext": "Real Sociedad"
+    "buts_ext": 3
   },
   {
     "id": 564706,
@@ -1042,12 +1042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Málaga",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564698,
@@ -1057,12 +1057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Athletic Club",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564699,
@@ -1072,12 +1072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Alavés",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564700,
@@ -1087,12 +1087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Getafe CF",
+    "court_dom": "Barça",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564702,
@@ -1102,12 +1102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Villarreal CF",
+    "court_dom": "Real Madrid",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564703,
@@ -1117,12 +1117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Elche",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564707,
@@ -1132,12 +1132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564701,
@@ -1147,12 +1147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "CA Osasuna",
+    "court_dom": "Real Betis",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564705,
@@ -1162,12 +1162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Valencia CF",
+    "court_dom": "Santander",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564704,
@@ -1177,12 +1177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Sevilla FC",
+    "court_dom": "Levante",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564716,
@@ -1192,12 +1192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Levante UD",
+    "court_dom": "Deportivo",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564710,
@@ -1207,12 +1207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Espanyol",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564708,
@@ -1222,12 +1222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Elche CF",
+    "court_dom": "Villarreal",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564713,
@@ -1237,12 +1237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "FC Barcelona",
+    "court_dom": "Real Betis",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564711,
@@ -1252,12 +1252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Athletic Club",
+    "court_dom": "Valencia",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564715,
@@ -1267,12 +1267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Osasuna",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564712,
@@ -1282,12 +1282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Deportivo Alavés",
+    "court_dom": "Celta",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564714,
@@ -1297,12 +1297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Málaga",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564709,
@@ -1312,12 +1312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Sevilla FC",
+    "court_dom": "Real Madrid",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564717,
@@ -1327,12 +1327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Getafe",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564685,
@@ -1342,12 +1342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Athletic Club",
+    "court_dom": "Levante",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Levante",
-    "court_ext": "Athletic"
+    "buts_ext": 0
   },
   {
     "id": 564719,
@@ -1357,12 +1357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Málaga CF",
+    "court_dom": "Alavés",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564718,
@@ -1372,12 +1372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Elche CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564727,
@@ -1387,12 +1387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Santander",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564722,
@@ -1402,12 +1402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Villarreal CF",
+    "court_dom": "Valencia",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564724,
@@ -1417,12 +1417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Atleti",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564720,
@@ -1432,12 +1432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Getafe CF",
+    "court_dom": "Athletic",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564725,
@@ -1447,12 +1447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Real Betis Balompié",
+    "court_dom": "Celta",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564726,
@@ -1462,12 +1462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Levante UD",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564723,
@@ -1477,12 +1477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Real Madrid CF",
+    "court_dom": "Barça",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564721,
@@ -1492,12 +1492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "CA Osasuna",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564736,
@@ -1507,12 +1507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Málaga CF",
+    "court_dom": "Real Betis",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564737,
@@ -1522,12 +1522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Villarreal",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564728,
@@ -1537,12 +1537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Valencia CF",
+    "court_dom": "Elche",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564729,
@@ -1552,12 +1552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Athletic",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564730,
@@ -1567,12 +1567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Levante",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564731,
@@ -1582,12 +1582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "CA Osasuna",
+    "court_dom": "Deportivo",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564732,
@@ -1597,12 +1597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Deportivo Alavés",
+    "court_dom": "Barça",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564733,
@@ -1612,12 +1612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Sevilla FC",
+    "court_dom": "Getafe",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564734,
@@ -1627,12 +1627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Real Madrid CF",
+    "court_dom": "Santander",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564735,
@@ -1642,12 +1642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564738,
@@ -1657,12 +1657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Real Betis Balompié",
+    "court_dom": "Elche",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564739,
@@ -1672,12 +1672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Athletic Club",
+    "court_dom": "Osasuna",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564740,
@@ -1687,12 +1687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Deportivo Alavés",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564741,
@@ -1702,12 +1702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Real Madrid CF",
+    "court_dom": "Valencia",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564742,
@@ -1717,12 +1717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Levante UD",
+    "court_dom": "Celta",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564743,
@@ -1732,12 +1732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564744,
@@ -1747,12 +1747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Málaga",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564745,
@@ -1762,12 +1762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Espanyol",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564746,
@@ -1777,12 +1777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "FC Barcelona",
+    "court_dom": "Atleti",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564747,
@@ -1792,12 +1792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Getafe CF",
+    "court_dom": "Villarreal",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564748,
@@ -1807,12 +1807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Athletic",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564749,
@@ -1822,12 +1822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Villarreal CF",
+    "court_dom": "Barça",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564750,
@@ -1837,12 +1837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Santander",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564751,
@@ -1852,12 +1852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Valencia CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564752,
@@ -1867,12 +1867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Málaga CF",
+    "court_dom": "Osasuna",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564753,
@@ -1882,12 +1882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Getafe",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564754,
@@ -1897,12 +1897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Real Madrid",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564755,
@@ -1912,12 +1912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Alavés",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564756,
@@ -1927,12 +1927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Real Betis Balompié",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564757,
@@ -1942,12 +1942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Elche CF",
+    "court_dom": "Levante",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564758,
@@ -1957,12 +1957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Villarreal CF",
+    "court_dom": "Celta",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564759,
@@ -1972,12 +1972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Elche",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564760,
@@ -1987,12 +1987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Real Betis",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564761,
@@ -2002,12 +2002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "CA Osasuna",
+    "court_dom": "Valencia",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564762,
@@ -2017,12 +2017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Deportivo Alavés",
+    "court_dom": "Real Madrid",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564763,
@@ -2032,12 +2032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Getafe CF",
+    "court_dom": "Espanyol",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564764,
@@ -2047,12 +2047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Sevilla FC",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564765,
@@ -2062,12 +2062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Levante",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564766,
@@ -2077,12 +2077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "FC Barcelona",
+    "court_dom": "Deportivo",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564767,
@@ -2092,12 +2092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Athletic Club",
+    "court_dom": "Málaga",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564768,
@@ -2107,12 +2107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Elche CF",
+    "court_dom": "Osasuna",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564769,
@@ -2122,12 +2122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Málaga CF",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564770,
@@ -2137,12 +2137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Alavés",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564771,
@@ -2152,12 +2152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Real Betis Balompié",
+    "court_dom": "Atleti",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564772,
@@ -2167,12 +2167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Santander",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564773,
@@ -2182,12 +2182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Barça",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564774,
@@ -2197,12 +2197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Valencia CF",
+    "court_dom": "Getafe",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564775,
@@ -2212,12 +2212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Real Madrid CF",
+    "court_dom": "Athletic",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564776,
@@ -2227,12 +2227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Villarreal",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564777,
@@ -2242,12 +2242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Levante UD",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564778,
@@ -2257,12 +2257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Espanyol",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564779,
@@ -2272,12 +2272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "FC Barcelona",
+    "court_dom": "Málaga",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564780,
@@ -2287,12 +2287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "CA Osasuna",
+    "court_dom": "Real Madrid",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564781,
@@ -2302,12 +2302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Athletic Club",
+    "court_dom": "Deportivo",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564782,
@@ -2317,12 +2317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Deportivo Alavés",
+    "court_dom": "Levante",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564783,
@@ -2332,12 +2332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Sevilla FC",
+    "court_dom": "Elche",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564784,
@@ -2347,12 +2347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Villarreal",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564785,
@@ -2362,12 +2362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Real Betis",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564786,
@@ -2377,12 +2377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Getafe CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564787,
@@ -2392,12 +2392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Valencia CF",
+    "court_dom": "Atleti",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564788,
@@ -2407,12 +2407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Real Betis Balompié",
+    "court_dom": "Athletic",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564789,
@@ -2422,12 +2422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Levante UD",
+    "court_dom": "Getafe",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564790,
@@ -2437,12 +2437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Elche CF",
+    "court_dom": "Alavés",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564791,
@@ -2452,12 +2452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Valencia",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564792,
@@ -2467,12 +2467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Villarreal CF",
+    "court_dom": "Osasuna",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564793,
@@ -2482,12 +2482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Barça",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564794,
@@ -2497,12 +2497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Celta",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564795,
@@ -2512,12 +2512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Málaga CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564796,
@@ -2527,12 +2527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Real Madrid CF",
+    "court_dom": "Deportivo",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564797,
@@ -2542,12 +2542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564798,
@@ -2557,12 +2557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Getafe CF",
+    "court_dom": "Real Madrid",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564799,
@@ -2572,12 +2572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "CA Osasuna",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564800,
@@ -2587,12 +2587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Valencia CF",
+    "court_dom": "Levante",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564801,
@@ -2602,12 +2602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Athletic Club",
+    "court_dom": "Santander",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564802,
@@ -2617,12 +2617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Elche CF",
+    "court_dom": "Málaga",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564803,
@@ -2632,12 +2632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Deportivo Alavés",
+    "court_dom": "Real Betis",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564804,
@@ -2647,12 +2647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Celta",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564805,
@@ -2662,12 +2662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "FC Barcelona",
+    "court_dom": "Espanyol",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564806,
@@ -2677,12 +2677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Sevilla FC",
+    "court_dom": "Villarreal",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564807,
@@ -2692,12 +2692,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564808,
@@ -2707,12 +2707,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Villarreal CF",
+    "court_dom": "Athletic",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564809,
@@ -2722,12 +2722,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Getafe CF",
+    "court_dom": "Elche",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564810,
@@ -2737,12 +2737,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Levante UD",
+    "court_dom": "Real Madrid",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564811,
@@ -2752,12 +2752,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "FC Barcelona",
+    "court_dom": "Osasuna",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564812,
@@ -2767,12 +2767,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Deportivo",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564813,
@@ -2782,12 +2782,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Atleti",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564814,
@@ -2797,12 +2797,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Alavés",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564815,
@@ -2812,12 +2812,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564816,
@@ -2827,12 +2827,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Real Betis Balompié",
+    "court_dom": "Espanyol",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564817,
@@ -2842,12 +2842,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Málaga CF",
+    "court_dom": "Valencia",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564818,
@@ -2857,12 +2857,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Real Madrid CF",
+    "court_dom": "Málaga",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564819,
@@ -2872,12 +2872,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Elche CF",
+    "court_dom": "Barça",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564820,
@@ -2887,12 +2887,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Deportivo Alavés",
+    "court_dom": "Villarreal",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564821,
@@ -2902,12 +2902,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "CA Osasuna",
+    "court_dom": "Santander",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564822,
@@ -2917,12 +2917,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Levante",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564823,
@@ -2932,12 +2932,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Valencia CF",
+    "court_dom": "Celta",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564824,
@@ -2947,12 +2947,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Athletic Club",
+    "court_dom": "Getafe",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564825,
@@ -2962,12 +2962,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Sevilla FC",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564826,
@@ -2977,12 +2977,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Real Betis",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564827,
@@ -2992,12 +2992,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Atleti",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564828,
@@ -3007,12 +3007,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Real Betis Balompié",
+    "court_dom": "Real Madrid",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564829,
@@ -3022,12 +3022,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "CA Osasuna",
+    "court_dom": "Getafe",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564830,
@@ -3037,12 +3037,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Sevilla FC",
+    "court_dom": "Valencia",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564831,
@@ -3052,12 +3052,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Elche",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564832,
@@ -3067,12 +3067,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "FC Barcelona",
+    "court_dom": "Alavés",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564833,
@@ -3082,12 +3082,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Málaga CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564834,
@@ -3097,12 +3097,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Santander",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564835,
@@ -3112,12 +3112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Levante UD",
+    "court_dom": "Athletic",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564836,
@@ -3127,12 +3127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Villarreal CF",
+    "court_dom": "Espanyol",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564837,
@@ -3142,12 +3142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Deportivo",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564838,
@@ -3157,12 +3157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Elche CF",
+    "court_dom": "Real Betis",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564839,
@@ -3172,12 +3172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Real Madrid CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564840,
@@ -3187,12 +3187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Atleti",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564841,
@@ -3202,12 +3202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Getafe CF",
+    "court_dom": "Celta",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564842,
@@ -3217,12 +3217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Villarreal",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564843,
@@ -3232,12 +3232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Levante",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564844,
@@ -3247,12 +3247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Valencia CF",
+    "court_dom": "Barça",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564845,
@@ -3262,12 +3262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Athletic Club",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564846,
@@ -3277,12 +3277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Osasuna",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564847,
@@ -3292,12 +3292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Deportivo Alavés",
+    "court_dom": "Málaga",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564848,
@@ -3307,12 +3307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "CA Osasuna",
+    "court_dom": "Athletic",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564849,
@@ -3322,12 +3322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Alavés",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564850,
@@ -3337,12 +3337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Sevilla FC",
+    "court_dom": "Real Betis",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564851,
@@ -3352,12 +3352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Levante UD",
+    "court_dom": "Elche",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564852,
@@ -3367,12 +3367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Espanyol",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564853,
@@ -3382,12 +3382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Villarreal CF",
+    "court_dom": "Getafe",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564854,
@@ -3397,12 +3397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Málaga CF",
+    "court_dom": "Deportivo",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564855,
@@ -3412,12 +3412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Real Madrid CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564856,
@@ -3427,12 +3427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Valencia",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564857,
@@ -3442,12 +3442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Barça",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564858,
@@ -3457,12 +3457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564859,
@@ -3472,12 +3472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Osasuna",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564860,
@@ -3487,12 +3487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Celta",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564861,
@@ -3502,12 +3502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "FC Barcelona",
+    "court_dom": "Villarreal",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564862,
@@ -3517,12 +3517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Real Betis Balompié",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564863,
@@ -3532,12 +3532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Elche",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564864,
@@ -3547,12 +3547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Deportivo Alavés",
+    "court_dom": "Valencia",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564865,
@@ -3562,12 +3562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Málaga CF",
+    "court_dom": "Levante",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564866,
@@ -3577,12 +3577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Getafe CF",
+    "court_dom": "Santander",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564867,
@@ -3592,12 +3592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Athletic Club",
+    "court_dom": "Real Madrid",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564868,
@@ -3607,12 +3607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Alavés",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564869,
@@ -3622,12 +3622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Real Betis Balompié",
+    "court_dom": "Málaga",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564870,
@@ -3637,12 +3637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Valencia CF",
+    "court_dom": "Villarreal",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564871,
@@ -3652,12 +3652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Levante UD",
+    "court_dom": "Barça",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564872,
@@ -3667,12 +3667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Athletic",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564873,
@@ -3682,12 +3682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "CA Osasuna",
+    "court_dom": "Espanyol",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564874,
@@ -3697,12 +3697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Real Madrid CF",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564875,
@@ -3712,12 +3712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Elche CF",
+    "court_dom": "Atleti",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564876,
@@ -3727,12 +3727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Deportivo",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564877,
@@ -3742,12 +3742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Getafe CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564878,
@@ -3757,12 +3757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Celta",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564879,
@@ -3772,12 +3772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Levante",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564880,
@@ -3787,12 +3787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Málaga",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564881,
@@ -3802,12 +3802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Sevilla FC",
+    "court_dom": "Osasuna",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564882,
@@ -3817,12 +3817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Valencia CF",
+    "court_dom": "Real Madrid",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564883,
@@ -3832,12 +3832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Deportivo Alavés",
+    "court_dom": "Getafe",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564884,
@@ -3847,12 +3847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "FC Barcelona",
+    "court_dom": "Athletic",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564885,
@@ -3862,12 +3862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Santander",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564886,
@@ -3877,12 +3877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Villarreal CF",
+    "court_dom": "Real Betis",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564887,
@@ -3892,12 +3892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Elche CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564888,
@@ -3907,12 +3907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Real Betis Balompié",
+    "court_dom": "Barça",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564889,
@@ -3922,12 +3922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Málaga CF",
+    "court_dom": "Elche",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564890,
@@ -3937,12 +3937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Athletic Club",
+    "court_dom": "Alavés",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564891,
@@ -3952,12 +3952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "CA Osasuna",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564892,
@@ -3967,12 +3967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564893,
@@ -3982,12 +3982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Atleti",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564894,
@@ -3997,12 +3997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Real Madrid CF",
+    "court_dom": "Villarreal",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564895,
@@ -4012,12 +4012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Levante UD",
+    "court_dom": "Valencia",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564896,
@@ -4027,12 +4027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Getafe CF",
+    "court_dom": "Deportivo",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564897,
@@ -4042,12 +4042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Espanyol",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564898,
@@ -4057,12 +4057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Osasuna",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564899,
@@ -4072,12 +4072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Villarreal CF",
+    "court_dom": "Elche",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564900,
@@ -4087,12 +4087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Sevilla FC",
+    "court_dom": "Alavés",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564901,
@@ -4102,12 +4102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Valencia CF",
+    "court_dom": "Athletic",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564902,
@@ -4117,12 +4117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Levante UD",
+    "court_dom": "Real Betis",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564903,
@@ -4132,12 +4132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Santander",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564904,
@@ -4147,12 +4147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Málaga",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564905,
@@ -4162,12 +4162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Getafe",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564906,
@@ -4177,12 +4177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Barça",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564907,
@@ -4192,12 +4192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Real Madrid",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564908,
@@ -4207,12 +4207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Málaga CF",
+    "court_dom": "Villarreal",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564909,
@@ -4222,12 +4222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Elche CF",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564910,
@@ -4237,12 +4237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "CA Osasuna",
+    "court_dom": "Levante",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564911,
@@ -4252,12 +4252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Real Madrid CF",
+    "court_dom": "Celta",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564912,
@@ -4267,12 +4267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "FC Barcelona",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564913,
@@ -4282,12 +4282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Deportivo Alavés",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564914,
@@ -4297,12 +4297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Athletic Club",
+    "court_dom": "Espanyol",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564915,
@@ -4312,12 +4312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Real Betis Balompié",
+    "court_dom": "Santander",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564916,
@@ -4327,12 +4327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Valencia",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564917,
@@ -4342,12 +4342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Getafe CF",
+    "court_dom": "Atleti",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564918,
@@ -4357,12 +4357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Levante",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564919,
@@ -4372,12 +4372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Sevilla FC",
+    "court_dom": "Barça",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564920,
@@ -4387,12 +4387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "CA Osasuna",
+    "court_dom": "Málaga",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564921,
@@ -4402,12 +4402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Athletic",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564922,
@@ -4417,12 +4417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Villarreal CF",
+    "court_dom": "Deportivo",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564923,
@@ -4432,12 +4432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Valencia CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564924,
@@ -4447,12 +4447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Deportivo Alavés",
+    "court_dom": "Elche",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564925,
@@ -4462,12 +4462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Real Madrid",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564926,
@@ -4477,12 +4477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Getafe",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564927,
@@ -4492,12 +4492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Real Betis",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564928,
@@ -4507,12 +4507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564929,
@@ -4522,12 +4522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Málaga CF",
+    "court_dom": "Espanyol",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564930,
@@ -4537,12 +4537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Athletic Club",
+    "court_dom": "Villarreal",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564931,
@@ -4552,12 +4552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Real Betis Balompié",
+    "court_dom": "Alavés",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564932,
@@ -4567,12 +4567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Getafe CF",
+    "court_dom": "Valencia",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564933,
@@ -4582,12 +4582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564934,
@@ -4597,12 +4597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Elche CF",
+    "court_dom": "Celta",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564935,
@@ -4612,12 +4612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "FC Barcelona",
+    "court_dom": "Santander",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564936,
@@ -4627,12 +4627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Real Madrid CF",
+    "court_dom": "Osasuna",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564937,
@@ -4642,12 +4642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Levante UD",
+    "court_dom": "Atleti",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564938,
@@ -4657,12 +4657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Sevilla FC",
+    "court_dom": "Atleti",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564939,
@@ -4672,12 +4672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Barça",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564940,
@@ -4687,12 +4687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Villarreal CF",
+    "court_dom": "Levante",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564941,
@@ -4702,12 +4702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564942,
@@ -4717,12 +4717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Valencia CF",
+    "court_dom": "Málaga",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564943,
@@ -4732,12 +4732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Deportivo",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564944,
@@ -4747,12 +4747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "CA Osasuna",
+    "court_dom": "Elche",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564945,
@@ -4762,12 +4762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Alavés",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564946,
@@ -4777,12 +4777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Athletic Club",
+    "court_dom": "Real Betis",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564947,
@@ -4792,12 +4792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Real Madrid CF",
+    "court_dom": "Getafe",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564948,
@@ -4807,12 +4807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Real Betis Balompié",
+    "court_dom": "Getafe",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564949,
@@ -4822,12 +4822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Valencia",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564950,
@@ -4837,12 +4837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "FC Barcelona",
+    "court_dom": "Celta",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564951,
@@ -4852,12 +4852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Deportivo Alavés",
+    "court_dom": "Osasuna",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564952,
@@ -4867,12 +4867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Elche CF",
+    "court_dom": "Real Madrid",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564953,
@@ -4882,12 +4882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Athletic",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564954,
@@ -4897,12 +4897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Málaga CF",
+    "court_dom": "Santander",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564955,
@@ -4912,12 +4912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Villarreal",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564956,
@@ -4927,12 +4927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Levante UD",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564957,
@@ -4942,12 +4942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Espanyol",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564958,
@@ -4957,12 +4957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Deportivo",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564959,
@@ -4972,12 +4972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Sevilla FC",
+    "court_dom": "Celta",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564960,
@@ -4987,12 +4987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Athletic Club",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564961,
@@ -5002,12 +5002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "CA Osasuna",
+    "court_dom": "Barça",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564962,
@@ -5017,12 +5017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Villarreal CF",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564963,
@@ -5032,12 +5032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Getafe CF",
+    "court_dom": "Málaga",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564964,
@@ -5047,12 +5047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Valencia CF",
+    "court_dom": "Real Betis",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564965,
@@ -5062,12 +5062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Elche",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564966,
@@ -5077,12 +5077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Real Madrid CF",
+    "court_dom": "Levante",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564967,
@@ -5092,12 +5092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Deportivo Alavés",
+    "court_dom": "Atleti",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564968,
@@ -5107,12 +5107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Valencia",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 564969,
@@ -5122,12 +5122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Osasuna",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564970,
@@ -5137,12 +5137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Levante UD",
+    "court_dom": "Alavés",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564971,
@@ -5152,12 +5152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Málaga CF",
+    "court_dom": "Athletic",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564972,
@@ -5167,12 +5167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Sevilla FC",
+    "court_dom": "Santander",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 564973,
@@ -5182,12 +5182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 564974,
@@ -5197,12 +5197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Real Betis",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564975,
@@ -5212,12 +5212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "FC Barcelona",
+    "court_dom": "Real Madrid",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564976,
@@ -5227,12 +5227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "Elche CF",
+    "court_dom": "Getafe",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564977,
@@ -5242,12 +5242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Villarreal",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564978,
@@ -5257,12 +5257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Atleti",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 564979,
@@ -5272,12 +5272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Villarreal CF",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 564980,
@@ -5287,12 +5287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "FC Barcelona",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 564981,
@@ -5302,12 +5302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Athletic Club",
+    "court_dom": "Elche",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564982,
@@ -5317,12 +5317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Málaga",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564983,
@@ -5332,12 +5332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "Deportivo Alavés",
+    "court_dom": "Deportivo",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 564984,
@@ -5347,12 +5347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "Getafe CF",
+    "court_dom": "Levante",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564985,
@@ -5362,12 +5362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Valencia CF",
+    "court_dom": "Espanyol",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Valencia"
+    "buts_ext": null
   },
   {
     "id": 564986,
@@ -5377,12 +5377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Real Madrid",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 564987,
@@ -5392,12 +5392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Real Betis Balompié",
+    "court_dom": "Osasuna",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564992,
@@ -5407,12 +5407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Club Atlético de Madrid",
     "ext": "Athletic Club",
+    "court_dom": "Atleti",
+    "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Atleti",
-    "court_ext": "Athletic"
+    "buts_ext": null
   },
   {
     "id": 564993,
@@ -5422,12 +5422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
     "ext": "Real Madrid CF",
+    "court_dom": "Alavés",
+    "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Alavés",
-    "court_ext": "Real Madrid"
+    "buts_ext": null
   },
   {
     "id": 564994,
@@ -5437,12 +5437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
     "ext": "Getafe CF",
+    "court_dom": "Sevilla FC",
+    "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/82.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Sevilla FC",
-    "court_ext": "Getafe"
+    "buts_ext": null
   },
   {
     "id": 564995,
@@ -5452,12 +5452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
     "ext": "CA Osasuna",
+    "court_dom": "Villarreal",
+    "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/79.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Villarreal",
-    "court_ext": "Osasuna"
+    "buts_ext": null
   },
   {
     "id": 564996,
@@ -5467,12 +5467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
     "ext": "Levante UD",
+    "court_dom": "Santander",
+    "court_ext": "Levante",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Santander",
-    "court_ext": "Levante"
+    "buts_ext": null
   },
   {
     "id": 564997,
@@ -5482,12 +5482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
     "ext": "RCD Espanyol de Barcelona",
+    "court_dom": "Deportivo",
+    "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/80.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Deportivo",
-    "court_ext": "Espanyol"
+    "buts_ext": null
   },
   {
     "id": 564988,
@@ -5497,12 +5497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
     "ext": "Real Betis Balompié",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Real Betis"
+    "buts_ext": null
   },
   {
     "id": 564989,
@@ -5512,12 +5512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
     "ext": "Málaga CF",
+    "court_dom": "Barça",
+    "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Barça",
-    "court_ext": "Málaga"
+    "buts_ext": null
   },
   {
     "id": 564990,
@@ -5527,12 +5527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
     "ext": "Elche CF",
+    "court_dom": "Valencia",
+    "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/285.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Valencia",
-    "court_ext": "Elche"
+    "buts_ext": null
   },
   {
     "id": 564991,
@@ -5542,12 +5542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
     "ext": "Real Sociedad de Fútbol",
+    "court_dom": "Celta",
+    "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/92.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Celta",
-    "court_ext": "Real Sociedad"
+    "buts_ext": null
   },
   {
     "id": 564998,
@@ -5557,12 +5557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
     "ext": "RC Celta de Vigo",
+    "court_dom": "Levante",
+    "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/558.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Levante",
-    "court_ext": "Celta"
+    "buts_ext": null
   },
   {
     "id": 564999,
@@ -5572,12 +5572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
     "ext": "RC Deportivo La Coruña",
+    "court_dom": "Real Madrid",
+    "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/560.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Madrid",
-    "court_ext": "Deportivo"
+    "buts_ext": null
   },
   {
     "id": 565000,
@@ -5587,12 +5587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
     "ext": "Club Atlético de Madrid",
+    "court_dom": "Real Betis",
+    "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Betis",
-    "court_ext": "Atleti"
+    "buts_ext": null
   },
   {
     "id": 565001,
@@ -5602,12 +5602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Real Sociedad de Fútbol",
     "ext": "Villarreal CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/92.png",
     "logo_ext": "https://crests.football-data.org/94.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Real Sociedad",
-    "court_ext": "Villarreal"
+    "buts_ext": null
   },
   {
     "id": 565002,
@@ -5617,12 +5617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
     "ext": "Sevilla FC",
+    "court_dom": "Málaga",
+    "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/559.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Málaga",
-    "court_ext": "Sevilla FC"
+    "buts_ext": null
   },
   {
     "id": 565003,
@@ -5632,12 +5632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
     "ext": "Real Racing Club de Santander",
+    "court_dom": "Elche",
+    "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Elche",
-    "court_ext": "Santander"
+    "buts_ext": null
   },
   {
     "id": 565004,
@@ -5647,12 +5647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
     "ext": "Rayo Vallecano de Madrid",
+    "court_dom": "Athletic",
+    "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/87.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Athletic",
-    "court_ext": "Rayo Vallecano"
+    "buts_ext": null
   },
   {
     "id": 565005,
@@ -5662,12 +5662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
     "ext": "Deportivo Alavés",
+    "court_dom": "Espanyol",
+    "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/263.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Espanyol",
-    "court_ext": "Alavés"
+    "buts_ext": null
   },
   {
     "id": 565006,
@@ -5677,12 +5677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
     "ext": "FC Barcelona",
+    "court_dom": "Getafe",
+    "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Getafe",
-    "court_ext": "Barça"
+    "buts_ext": null
   },
   {
     "id": 565007,
@@ -5692,11 +5692,11 @@
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
     "ext": "Valencia CF",
+    "court_dom": "Osasuna",
+    "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Osasuna",
-    "court_ext": "Valencia"
+    "buts_ext": null
   }
 ]

@@ -1,0 +1,4133 @@
+[
+  {
+    "nom": "Arsenal FC",
+    "court": "Arsenal",
+    "tla": "ARS",
+    "logo": "https://crests.football-data.org/57.png",
+    "fonde": 1886,
+    "stade": "Emirates Stadium",
+    "couleurs": "Red / White",
+    "site": "http://www.arsenal.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Bukayo Saka",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-09-05",
+        "buts": 3
+      },
+      {
+        "nom": "Martin Ødegaard",
+        "poste": "Midfield",
+        "nationalite": "Norway",
+        "naissance": "1998-12-17",
+        "buts": 2
+      },
+      {
+        "nom": "Kai Havertz",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1999-06-11",
+        "buts": 2
+      },
+      {
+        "nom": "Bruno Guimarães",
+        "poste": "Midfield",
+        "nationalite": "Brazil",
+        "naissance": "1997-11-16",
+        "buts": 1
+      },
+      {
+        "nom": "Kepa Arrizabalaga",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1994-10-03",
+        "buts": 0
+      },
+      {
+        "nom": "David Raya",
+        "poste": "Goalkeeper",
+        "nationalite": "Spain",
+        "naissance": "1995-09-15",
+        "buts": 0
+      },
+      {
+        "nom": "Illan Meslier",
+        "poste": "Goalkeeper",
+        "nationalite": "France",
+        "naissance": "2000-03-02",
+        "buts": 0
+      },
+      {
+        "nom": "Ben White",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1997-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Ezri Konsa",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1997-10-23",
+        "buts": 0
+      },
+      {
+        "nom": "Gabriel Magalhães",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "1997-12-19",
+        "buts": 0
+      },
+      {
+        "nom": "William Saliba",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2001-03-24",
+        "buts": 0
+      },
+      {
+        "nom": "Jurrien Timber",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Piero Hincapié",
+        "poste": "Defence",
+        "nationalite": "Ecuador",
+        "naissance": "2002-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Riccardo Calafiori",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2002-05-19",
+        "buts": 0
+      },
+      {
+        "nom": "Cristhian Mosquera",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2004-06-27",
+        "buts": 0
+      },
+      {
+        "nom": "Eberechi Eze",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1998-06-29",
+        "buts": 0
+      },
+      {
+        "nom": "Mikel Merino",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-06-22",
+        "buts": 0
+      },
+      {
+        "nom": "Declan Rice",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1999-01-14",
+        "buts": 0
+      },
+      {
+        "nom": "Martín Zubimendi",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1999-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Myles Lewis-Skelly",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2006-09-26",
+        "buts": 0
+      },
+      {
+        "nom": "Viktor Gyökeres",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "1998-06-04",
+        "buts": 0
+      },
+      {
+        "nom": "Christos Tzolis",
+        "poste": "Offence",
+        "nationalite": "Greece",
+        "naissance": "2002-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Noni Madueke",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2002-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "Max Dowman",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2009-12-31",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Aston Villa FC",
+    "court": "Aston Villa",
+    "tla": "AVL",
+    "logo": "https://crests.football-data.org/58.png",
+    "fonde": 1872,
+    "stade": "Villa Park",
+    "couleurs": "Claret / Sky Blue",
+    "site": "http://www.avfc.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Emiliano Buendía",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1996-12-25",
+        "buts": 1
+      },
+      {
+        "nom": "Johan Manzambi",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2005-10-14",
+        "buts": 1
+      },
+      {
+        "nom": "Nicolas Jackson",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2001-06-20",
+        "buts": 1
+      },
+      {
+        "nom": "Alysson",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2006-05-05",
+        "buts": 1
+      },
+      {
+        "nom": "Marco Bizot",
+        "poste": "Goalkeeper",
+        "nationalite": "Netherlands",
+        "naissance": "1991-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "Zion Suzuki",
+        "poste": "Goalkeeper",
+        "nationalite": "Japan",
+        "naissance": "2002-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "Victor Nilsson-Lindelöf",
+        "poste": "Defence",
+        "nationalite": "Sweden",
+        "naissance": "1994-07-17",
+        "buts": 0
+      },
+      {
+        "nom": "Aaron Wan-Bissaka",
+        "poste": "Defence",
+        "nationalite": "Congo DR",
+        "naissance": "1997-11-26",
+        "buts": 0
+      },
+      {
+        "nom": "Tyrone Mings",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1993-03-13",
+        "buts": 0
+      },
+      {
+        "nom": "Matty Cash",
+        "poste": "Defence",
+        "nationalite": "Poland",
+        "naissance": "1997-08-07",
+        "buts": 0
+      },
+      {
+        "nom": "Pau Torres",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1997-01-16",
+        "buts": 0
+      },
+      {
+        "nom": "Taylor Harwood-Bellis",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2002-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Ian Maatsen",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2002-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "Matteo Ruggeri",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2002-07-11",
+        "buts": 0
+      },
+      {
+        "nom": "Modou Keba Cisse",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "2005-08-04",
+        "buts": 0
+      },
+      {
+        "nom": "Leon Goretzka",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1995-02-06",
+        "buts": 0
+      },
+      {
+        "nom": "Ross Barkley",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1993-12-05",
+        "buts": 0
+      },
+      {
+        "nom": "Boubacar Kamara",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1999-11-23",
+        "buts": 0
+      },
+      {
+        "nom": "John McGinn",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1994-10-18",
+        "buts": 0
+      },
+      {
+        "nom": "Amadou Onana",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2001-08-16",
+        "buts": 0
+      },
+      {
+        "nom": "João Gomes",
+        "poste": "Midfield",
+        "nationalite": "Brazil",
+        "naissance": "2001-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Lamare Bogarde",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2004-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Tammy Abraham",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-10-02",
+        "buts": 0
+      },
+      {
+        "nom": "Alejandro Garnacho",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2004-07-01",
+        "buts": 0
+      },
+      {
+        "nom": "Ibrahim M'Baye",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2008-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Brian Madjo",
+        "poste": "Offence",
+        "nationalite": "Luxembourg",
+        "naissance": "2009-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "George Hemmings",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2007-03-04",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Chelsea FC",
+    "court": "Chelsea",
+    "tla": "CHE",
+    "logo": "https://crests.football-data.org/61.png",
+    "fonde": 1905,
+    "stade": "Stamford Bridge",
+    "couleurs": "Royal Blue / White",
+    "site": "http://www.chelseafc.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Morgan Rogers",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-07-26",
+        "buts": 3
+      },
+      {
+        "nom": "João Pedro",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2001-09-26",
+        "buts": 3
+      },
+      {
+        "nom": "Cole Palmer",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-05-06",
+        "buts": 2
+      },
+      {
+        "nom": "Romeo Lavia",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2004-01-06",
+        "buts": 1
+      },
+      {
+        "nom": "Pedro Neto",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2000-03-09",
+        "buts": 1
+      },
+      {
+        "nom": "Emiliano Martínez",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "1992-09-02",
+        "buts": 0
+      },
+      {
+        "nom": "Gabriel Slonina",
+        "poste": "Goalkeeper",
+        "nationalite": "USA",
+        "naissance": "2004-05-15",
+        "buts": 0
+      },
+      {
+        "nom": "Teddy Sharman-Lowe",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2003-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Mike Penders",
+        "poste": "Goalkeeper",
+        "nationalite": "Belgium",
+        "naissance": "2005-07-31",
+        "buts": 0
+      },
+      {
+        "nom": "Wesley Fofana",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-12-17",
+        "buts": 0
+      },
+      {
+        "nom": "Reece James",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1999-12-08",
+        "buts": 0
+      },
+      {
+        "nom": "Maxence Lacroix",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "Pep Chavarría",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1998-04-10",
+        "buts": 0
+      },
+      {
+        "nom": "Malo Gusto",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2003-05-19",
+        "buts": 0
+      },
+      {
+        "nom": "Levi Colwill",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2003-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Jorrel Hato",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2006-03-07",
+        "buts": 0
+      },
+      {
+        "nom": "Marco Palestra",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2005-03-03",
+        "buts": 0
+      },
+      {
+        "nom": "Aaron Anselmino",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "2005-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Josh Acheampong",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2006-05-05",
+        "buts": 0
+      },
+      {
+        "nom": "Jordan Henderson",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1990-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Moisés Caicedo",
+        "poste": "Midfield",
+        "nationalite": "Ecuador",
+        "naissance": "2001-11-02",
+        "buts": 0
+      },
+      {
+        "nom": "Valentin Barco",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2004-07-23",
+        "buts": 0
+      },
+      {
+        "nom": "Ray Paez",
+        "poste": "Midfield",
+        "nationalite": "Ecuador",
+        "naissance": "2007-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Danny Welbeck",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1990-11-26",
+        "buts": 0
+      },
+      {
+        "nom": "Emanuel Emegha",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2003-02-03",
+        "buts": 0
+      },
+      {
+        "nom": "Jamie Bynoe-Gittens",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2004-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Geovany Quenda",
+        "poste": "Offence",
+        "nationalite": "Guinea-Bissau",
+        "naissance": "2007-04-30",
+        "buts": 0
+      },
+      {
+        "nom": "Estevao",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2007-04-24",
+        "buts": 0
+      },
+      {
+        "nom": "Mahdi Nicoll-Jazuli",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2010-01-06",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Everton FC",
+    "court": "Everton",
+    "tla": "EVE",
+    "logo": "https://crests.football-data.org/62.png",
+    "fonde": 1878,
+    "stade": "Goodison Park",
+    "couleurs": "Blue / White",
+    "site": "http://www.evertonfc.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Thierno Barry",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2000-01-12",
+        "buts": 2
+      },
+      {
+        "nom": "James Tarkowski",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1992-11-19",
+        "buts": 1
+      },
+      {
+        "nom": "Ainsley Maitland-Niles",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1997-08-29",
+        "buts": 1
+      },
+      {
+        "nom": "Kiernan Dewsbury Hall",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1998-09-06",
+        "buts": 1
+      },
+      {
+        "nom": "Tyrique George",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2006-02-04",
+        "buts": 1
+      },
+      {
+        "nom": "Jordan Pickford",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1994-03-07",
+        "buts": 0
+      },
+      {
+        "nom": "Thomas King",
+        "poste": "Goalkeeper",
+        "nationalite": "Wales",
+        "naissance": "1995-03-09",
+        "buts": 0
+      },
+      {
+        "nom": "Mark Travers",
+        "poste": "Goalkeeper",
+        "nationalite": "Ireland",
+        "naissance": "1999-05-18",
+        "buts": 0
+      },
+      {
+        "nom": "Michael Keane",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1993-01-11",
+        "buts": 0
+      },
+      {
+        "nom": "Vitalii Mykolenko",
+        "poste": "Defence",
+        "nationalite": "Ukraine",
+        "naissance": "1999-05-29",
+        "buts": 0
+      },
+      {
+        "nom": "Jarrad Branthwaite",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2002-06-27",
+        "buts": 0
+      },
+      {
+        "nom": "Jake O'Brien",
+        "poste": "Defence",
+        "nationalite": "Ireland",
+        "naissance": "2001-05-15",
+        "buts": 0
+      },
+      {
+        "nom": "Christian Nørgaard",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "1994-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "James Garner",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2001-03-13",
+        "buts": 0
+      },
+      {
+        "nom": "Hayden Hackney",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-06-26",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Alcaraz",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2002-11-30",
+        "buts": 0
+      },
+      {
+        "nom": "Merlin Röhl",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-07-05",
+        "buts": 0
+      },
+      {
+        "nom": "Harrison Armstrong",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "Jack Grealish",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1995-09-10",
+        "buts": 0
+      },
+      {
+        "nom": "Brennan Johnson",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "2001-05-23",
+        "buts": 0
+      },
+      {
+        "nom": "Tyler Dibling",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2006-02-17",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Fulham FC",
+    "court": "Fulham",
+    "tla": "FUL",
+    "logo": "https://crests.football-data.org/63.png",
+    "fonde": 1879,
+    "stade": "Craven Cottage",
+    "couleurs": "White / Black",
+    "site": "http://www.fulhamfc.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Joshua King",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-01-03",
+        "buts": 2
+      },
+      {
+        "nom": "César Palacios",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-11-11",
+        "buts": 1
+      },
+      {
+        "nom": "Gonzalo García",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2004-03-24",
+        "buts": 1
+      },
+      {
+        "nom": "Bernd Leno",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1992-03-04",
+        "buts": 0
+      },
+      {
+        "nom": "Benjamin Lecomte",
+        "poste": "Goalkeeper",
+        "nationalite": "France",
+        "naissance": "1991-04-26",
+        "buts": 0
+      },
+      {
+        "nom": "Alex Borto",
+        "poste": "Goalkeeper",
+        "nationalite": "United States",
+        "naissance": "2003-11-06",
+        "buts": 0
+      },
+      {
+        "nom": "Timothy Castagne",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "1995-12-05",
+        "buts": 0
+      },
+      {
+        "nom": "Joachim Andersen",
+        "poste": "Defence",
+        "nationalite": "Denmark",
+        "naissance": "1996-05-31",
+        "buts": 0
+      },
+      {
+        "nom": "Antonee Robinson",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "1997-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Ryan Sessegnon",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-05-18",
+        "buts": 0
+      },
+      {
+        "nom": "Kenny Tete",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1995-10-09",
+        "buts": 0
+      },
+      {
+        "nom": "Jorge Cuenca",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-11-17",
+        "buts": 0
+      },
+      {
+        "nom": "David Affengruber",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "2001-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Calvin Bassey",
+        "poste": "Defence",
+        "nationalite": "Nigeria",
+        "naissance": "1999-12-31",
+        "buts": 0
+      },
+      {
+        "nom": "Luc De Fougerolles",
+        "poste": "Defence",
+        "nationalite": "Canada",
+        "naissance": "2005-10-12",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Cairney",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1991-01-20",
+        "buts": 0
+      },
+      {
+        "nom": "Harrison Reed",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1995-01-27",
+        "buts": 0
+      },
+      {
+        "nom": "Sander Berge",
+        "poste": "Midfield",
+        "nationalite": "Norway",
+        "naissance": "1998-02-14",
+        "buts": 0
+      },
+      {
+        "nom": "Emile Smith Rowe",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-07-28",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Larsson",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "2004-06-27",
+        "buts": 0
+      },
+      {
+        "nom": "Shea Charles",
+        "poste": "Midfield",
+        "nationalite": "Northern Ireland",
+        "naissance": "2003-11-05",
+        "buts": 0
+      },
+      {
+        "nom": "Manuel Angel",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-03-15",
+        "buts": 0
+      },
+      {
+        "nom": "Alex Iwobi",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1996-05-03",
+        "buts": 0
+      },
+      {
+        "nom": "Rodrigo Muniz",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2001-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Kevin Santos",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2003-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "Oscar Bobb",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2003-07-12",
+        "buts": 0
+      },
+      {
+        "nom": "Jonah Kusi-Asare",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2007-07-04",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Liverpool FC",
+    "court": "Liverpool",
+    "tla": "LIV",
+    "logo": "https://crests.football-data.org/64.png",
+    "fonde": 1892,
+    "stade": "Anfield",
+    "couleurs": "Red / White",
+    "site": "http://www.liverpoolfc.tv",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Alexander Isak",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "1999-09-21",
+        "buts": 4
+      },
+      {
+        "nom": "Dominik Szoboszlai",
+        "poste": "Midfield",
+        "nationalite": "Hungary",
+        "naissance": "2000-10-25",
+        "buts": 1
+      },
+      {
+        "nom": "Cody Gakpo",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-05-07",
+        "buts": 1
+      },
+      {
+        "nom": "Víctor Muñoz",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-07-13",
+        "buts": 1
+      },
+      {
+        "nom": "Alisson Becker",
+        "poste": "Goalkeeper",
+        "nationalite": "Brazil",
+        "naissance": "1992-10-02",
+        "buts": 0
+      },
+      {
+        "nom": "Freddie Woodman",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1997-03-04",
+        "buts": 0
+      },
+      {
+        "nom": "Giorgi Mamardashvili",
+        "poste": "Goalkeeper",
+        "nationalite": "Georgia",
+        "naissance": "2000-09-29",
+        "buts": 0
+      },
+      {
+        "nom": "Vítězslav Jaroš",
+        "poste": "Goalkeeper",
+        "nationalite": "Czech Republic",
+        "naissance": "2001-07-23",
+        "buts": 0
+      },
+      {
+        "nom": "Harvey Davies",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2003-09-03",
+        "buts": 0
+      },
+      {
+        "nom": "Kostas Tsimikas",
+        "poste": "Defence",
+        "nationalite": "Greece",
+        "naissance": "1996-05-12",
+        "buts": 0
+      },
+      {
+        "nom": "Joe Gomez",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1997-05-23",
+        "buts": 0
+      },
+      {
+        "nom": "Virgil van Dijk",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1991-07-08",
+        "buts": 0
+      },
+      {
+        "nom": "Ronald Araújo",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "1999-03-07",
+        "buts": 0
+      },
+      {
+        "nom": "Jeremie Frimpong",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-12-10",
+        "buts": 0
+      },
+      {
+        "nom": "Milos Kerkez",
+        "poste": "Defence",
+        "nationalite": "Hungary",
+        "naissance": "2003-11-07",
+        "buts": 0
+      },
+      {
+        "nom": "Conor Bradley",
+        "poste": "Defence",
+        "nationalite": "Northern Ireland",
+        "naissance": "2003-07-09",
+        "buts": 0
+      },
+      {
+        "nom": "Giovanni Leoni",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2006-12-21",
+        "buts": 0
+      },
+      {
+        "nom": "Jeremy Jacquet",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2005-07-13",
+        "buts": 0
+      },
+      {
+        "nom": "Wataru Endō",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "1993-02-09",
+        "buts": 0
+      },
+      {
+        "nom": "Florian Wirtz",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-05-03",
+        "buts": 0
+      },
+      {
+        "nom": "Alexis Mac Allister",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1998-12-24",
+        "buts": 0
+      },
+      {
+        "nom": "Ryan Gravenberch",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2002-05-16",
+        "buts": 0
+      },
+      {
+        "nom": "Trey Nyoni",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-06-30",
+        "buts": 0
+      },
+      {
+        "nom": "Federico Chiesa",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1997-10-25",
+        "buts": 0
+      },
+      {
+        "nom": "Hugo Ekitike",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-06-20",
+        "buts": 0
+      },
+      {
+        "nom": "Bradley Barcola",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-09-02",
+        "buts": 0
+      },
+      {
+        "nom": "Rio Ngumoha",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2008-08-29",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Manchester City FC",
+    "court": "Man City",
+    "tla": "MCI",
+    "logo": "https://crests.football-data.org/65.png",
+    "fonde": 1880,
+    "stade": "Etihad Stadium",
+    "couleurs": "Sky Blue / White",
+    "site": "https://www.mancity.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Erling Haaland",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2000-07-21",
+        "buts": 5
+      },
+      {
+        "nom": "Rayan Cherki",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-08-17",
+        "buts": 3
+      },
+      {
+        "nom": "Antoine Semenyo",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "2000-01-07",
+        "buts": 2
+      },
+      {
+        "nom": "Marc Guéhi",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-07-13",
+        "buts": 1
+      },
+      {
+        "nom": "Joško Gvardiol",
+        "poste": "Defence",
+        "nationalite": "Croatia",
+        "naissance": "2002-01-23",
+        "buts": 1
+      },
+      {
+        "nom": "Enzo Fernández",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2001-01-17",
+        "buts": 1
+      },
+      {
+        "nom": "Géronimo Rulli",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "1992-05-20",
+        "buts": 0
+      },
+      {
+        "nom": "Gianluigi Donnarumma",
+        "poste": "Goalkeeper",
+        "nationalite": "Italy",
+        "naissance": "1999-02-25",
+        "buts": 0
+      },
+      {
+        "nom": "Marcus Bettinelli",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1992-05-24",
+        "buts": 0
+      },
+      {
+        "nom": "Rayan Aït Nouri",
+        "poste": "Defence",
+        "nationalite": "Algeria",
+        "naissance": "2001-06-06",
+        "buts": 0
+      },
+      {
+        "nom": "Rúben Dias",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1997-05-14",
+        "buts": 0
+      },
+      {
+        "nom": "Matheus Nunes",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1998-08-27",
+        "buts": 0
+      },
+      {
+        "nom": "Josh Wilson-Esbrand",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2002-12-26",
+        "buts": 0
+      },
+      {
+        "nom": "Rico Lewis",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2004-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Nico O'Reilly",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2005-03-21",
+        "buts": 0
+      },
+      {
+        "nom": "Abdukodir Khusanov",
+        "poste": "Defence",
+        "nationalite": "Uzbekistan",
+        "naissance": "2004-02-29",
+        "buts": 0
+      },
+      {
+        "nom": "Vitor Reis",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2006-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Mateo Kovačić",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "1994-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Phil Foden",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Elliot Anderson",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-11-06",
+        "buts": 0
+      },
+      {
+        "nom": "Ayyoub Bouaddi",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2007-10-02",
+        "buts": 0
+      },
+      {
+        "nom": "Iliman Ndiaye",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2000-03-06",
+        "buts": 0
+      },
+      {
+        "nom": "Jeremy Doku",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2002-05-27",
+        "buts": 0
+      },
+      {
+        "nom": "Allan",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2004-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Ryan McAidoo",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2008-06-24",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Manchester United FC",
+    "court": "Man United",
+    "tla": "MUN",
+    "logo": "https://crests.football-data.org/66.png",
+    "fonde": 1878,
+    "stade": "Old Trafford",
+    "couleurs": "Red / White",
+    "site": "http://www.manutd.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Bruno Fernandes",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "1994-09-08",
+        "buts": 3
+      },
+      {
+        "nom": "Bryan Mbeumo",
+        "poste": "Offence",
+        "nationalite": "Cameroon",
+        "naissance": "1999-08-07",
+        "buts": 2
+      },
+      {
+        "nom": "Matheus Cunha",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-05-27",
+        "buts": 1
+      },
+      {
+        "nom": "Benjamin Šeško",
+        "poste": "Offence",
+        "nationalite": "Slovenia",
+        "naissance": "2003-05-31",
+        "buts": 1
+      },
+      {
+        "nom": "Karl Darlow",
+        "poste": "Goalkeeper",
+        "nationalite": "Wales",
+        "naissance": "1990-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Tom Heaton",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1986-04-15",
+        "buts": 0
+      },
+      {
+        "nom": "Senne Lammens",
+        "poste": "Goalkeeper",
+        "nationalite": "Belgium",
+        "naissance": "2002-07-07",
+        "buts": 0
+      },
+      {
+        "nom": "Dermot Mee",
+        "poste": "Goalkeeper",
+        "nationalite": "Northern Ireland",
+        "naissance": "2002-11-20",
+        "buts": 0
+      },
+      {
+        "nom": "Harry Maguire",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1993-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Matthijs de Ligt",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-08-12",
+        "buts": 0
+      },
+      {
+        "nom": "Noussair Mazraoui",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "1997-11-14",
+        "buts": 0
+      },
+      {
+        "nom": "Luke Shaw",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1995-07-12",
+        "buts": 0
+      },
+      {
+        "nom": "Diogo Dalot",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1999-03-18",
+        "buts": 0
+      },
+      {
+        "nom": "Lisandro Martínez",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1998-01-18",
+        "buts": 0
+      },
+      {
+        "nom": "Leny Yoro",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2005-11-13",
+        "buts": 0
+      },
+      {
+        "nom": "Harry Amass",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2007-03-16",
+        "buts": 0
+      },
+      {
+        "nom": "Ayden Heaven",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2006-09-22",
+        "buts": 0
+      },
+      {
+        "nom": "Youri Tielemans",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "1997-05-07",
+        "buts": 0
+      },
+      {
+        "nom": "Mason Mount",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1999-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Manuel Ugarte",
+        "poste": "Midfield",
+        "nationalite": "Uruguay",
+        "naissance": "2001-04-11",
+        "buts": 0
+      },
+      {
+        "nom": "Andrey Santos",
+        "poste": "Midfield",
+        "nationalite": "Brazil",
+        "naissance": "2004-05-03",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Baleba",
+        "poste": "Midfield",
+        "nationalite": "Cameroon",
+        "naissance": "2004-01-03",
+        "buts": 0
+      },
+      {
+        "nom": "Kobbie Mainoo",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2005-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Jack Fletcher",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Tyler Fletcher",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Marcus Rashford",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-10-31",
+        "buts": 0
+      },
+      {
+        "nom": "Joshua Zirkzee",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-05-22",
+        "buts": 0
+      },
+      {
+        "nom": "Amad Diallo",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2002-07-11",
+        "buts": 0
+      },
+      {
+        "nom": "Patrick Dorgu",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2004-10-26",
+        "buts": 0
+      },
+      {
+        "nom": "Shea Lacey",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2007-04-14",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Newcastle United FC",
+    "court": "Newcastle",
+    "tla": "NEW",
+    "logo": "https://crests.football-data.org/67.png",
+    "fonde": 1881,
+    "stade": "St. James' Park",
+    "couleurs": "Black / White",
+    "site": "http://www.nufc.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Joe Willock",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1999-08-20",
+        "buts": 2
+      },
+      {
+        "nom": "Anthony Elanga",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2002-04-27",
+        "buts": 2
+      },
+      {
+        "nom": "Lewis Hall",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2025-06-30",
+        "buts": 1
+      },
+      {
+        "nom": "Jacob Ramsey",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2001-05-28",
+        "buts": 1
+      },
+      {
+        "nom": "Yoane Wissa",
+        "poste": "Offence",
+        "nationalite": "Congo DR",
+        "naissance": "1996-09-03",
+        "buts": 1
+      },
+      {
+        "nom": "Harvey Barnes",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-12-09",
+        "buts": 1
+      },
+      {
+        "nom": "Bazoumana Touré",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2006-03-02",
+        "buts": 1
+      },
+      {
+        "nom": "Nick Pope",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1992-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Mark Gillespie",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1992-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Lukáš Horníček",
+        "poste": "Goalkeeper",
+        "nationalite": "Czech Republic",
+        "naissance": "2002-07-13",
+        "buts": 0
+      },
+      {
+        "nom": "Ewen Jaouen",
+        "poste": "Goalkeeper",
+        "nationalite": "France",
+        "naissance": "2005-12-29",
+        "buts": 0
+      },
+      {
+        "nom": "Fabian Schär",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "1991-12-20",
+        "buts": 0
+      },
+      {
+        "nom": "Dan Burn",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1992-05-09",
+        "buts": 0
+      },
+      {
+        "nom": "Sven Botman",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Amar Dedić",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "2002-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Malick Thiaw",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2001-08-08",
+        "buts": 0
+      },
+      {
+        "nom": "Valentino Livramento",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2002-11-12",
+        "buts": 0
+      },
+      {
+        "nom": "Leo Shahar",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2007-03-18",
+        "buts": 0
+      },
+      {
+        "nom": "Joelinton",
+        "poste": "Midfield",
+        "nationalite": "Brazil",
+        "naissance": "1996-08-14",
+        "buts": 0
+      },
+      {
+        "nom": "Nico Gonzalez",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-01-03",
+        "buts": 0
+      },
+      {
+        "nom": "Lewis Miley",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2006-05-01",
+        "buts": 0
+      },
+      {
+        "nom": "Sean Steur",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2008-01-11",
+        "buts": 0
+      },
+      {
+        "nom": "Aladji Bamba",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2006-07-14",
+        "buts": 0
+      },
+      {
+        "nom": "Jacob Murphy",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1995-02-24",
+        "buts": 0
+      },
+      {
+        "nom": "William Osula",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2003-08-04",
+        "buts": 0
+      },
+      {
+        "nom": "Matias Fernandez-Pardo",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2005-02-03",
+        "buts": 0
+      },
+      {
+        "nom": "Kyran Thompson",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2009-09-06",
+        "buts": 0
+      },
+      {
+        "nom": "Michael Mills",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2009-02-18",
+        "buts": 0
+      },
+      {
+        "nom": "Mason Miley",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2008-09-29",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Sunderland AFC",
+    "court": "Sunderland",
+    "tla": "SUN",
+    "logo": "https://crests.football-data.org/71.png",
+    "fonde": 1879,
+    "stade": "Stadium of Light",
+    "couleurs": "Red / White",
+    "site": "http://www.safc.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Brian Brobbey",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2002-02-01",
+        "buts": 3
+      },
+      {
+        "nom": "Enzo Le Fée",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2000-02-03",
+        "buts": 1
+      },
+      {
+        "nom": "Wilson Isidor",
+        "poste": "Offence",
+        "nationalite": "Haiti",
+        "naissance": "2000-08-27",
+        "buts": 1
+      },
+      {
+        "nom": "Nilson Angulo",
+        "poste": "Offence",
+        "nationalite": "Ecuador",
+        "naissance": "2003-06-19",
+        "buts": 1
+      },
+      {
+        "nom": "Simon Moore",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1990-05-19",
+        "buts": 0
+      },
+      {
+        "nom": "Robin Roefs",
+        "poste": "Goalkeeper",
+        "nationalite": "Netherlands",
+        "naissance": "2003-01-17",
+        "buts": 0
+      },
+      {
+        "nom": "Melker Ellborg",
+        "poste": "Goalkeeper",
+        "nationalite": "Sweden",
+        "naissance": "2003-05-22",
+        "buts": 0
+      },
+      {
+        "nom": "Thomas Meunier",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "1991-09-12",
+        "buts": 0
+      },
+      {
+        "nom": "Luke O'Nien",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1994-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Kevin Danso",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1998-09-19",
+        "buts": 0
+      },
+      {
+        "nom": "Nordi Mukiele",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1997-11-01",
+        "buts": 0
+      },
+      {
+        "nom": "Reinildo",
+        "poste": "Defence",
+        "nationalite": "Mozambique",
+        "naissance": "1994-01-21",
+        "buts": 0
+      },
+      {
+        "nom": "Omar Alderete",
+        "poste": "Defence",
+        "nationalite": "Paraguay",
+        "naissance": "1996-12-26",
+        "buts": 0
+      },
+      {
+        "nom": "Trai Hume",
+        "poste": "Defence",
+        "nationalite": "Northern Ireland",
+        "naissance": "2002-03-18",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Ballard",
+        "poste": "Defence",
+        "nationalite": "Northern Ireland",
+        "naissance": "1999-09-22",
+        "buts": 0
+      },
+      {
+        "nom": "Aji Alese",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2001-01-17",
+        "buts": 0
+      },
+      {
+        "nom": "Dayann Methalie",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2006-02-15",
+        "buts": 0
+      },
+      {
+        "nom": "Granit Xhaka",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "1992-09-27",
+        "buts": 0
+      },
+      {
+        "nom": "Alan Browne",
+        "poste": "Midfield",
+        "nationalite": "Ireland",
+        "naissance": "1995-04-15",
+        "buts": 0
+      },
+      {
+        "nom": "Abdoullah Ba",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-07-31",
+        "buts": 0
+      },
+      {
+        "nom": "Habib Diarra",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "2004-01-03",
+        "buts": 0
+      },
+      {
+        "nom": "Noah Sadiki",
+        "poste": "Midfield",
+        "nationalite": "Congo DR",
+        "naissance": "2004-12-17",
+        "buts": 0
+      },
+      {
+        "nom": "Chris Rigg",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2007-06-18",
+        "buts": 0
+      },
+      {
+        "nom": "Jules Ahoka",
+        "poste": "Midfield",
+        "nationalite": "DR Congo",
+        "naissance": "2005-12-17",
+        "buts": 0
+      },
+      {
+        "nom": "Romaine Mundle",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2003-04-24",
+        "buts": 0
+      },
+      {
+        "nom": "Malick Fofana",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2005-03-31",
+        "buts": 0
+      },
+      {
+        "nom": "Chemsdine Talbi",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2005-05-09",
+        "buts": 0
+      },
+      {
+        "nom": "Juan Angulo",
+        "poste": "Offence",
+        "nationalite": "Ecuador",
+        "naissance": "2008-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Jocelin Bi",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2005-02-09",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Tottenham Hotspur FC",
+    "court": "Tottenham",
+    "tla": "TOT",
+    "logo": "https://crests.football-data.org/73.png",
+    "fonde": 1882,
+    "stade": "Tottenham Hotspur Stadium",
+    "couleurs": "Navy Blue / White",
+    "site": "http://www.tottenhamhotspur.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Jan Paul van Hecke",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-06-08",
+        "buts": 1
+      },
+      {
+        "nom": "Conor Gallagher",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-02-06",
+        "buts": 1
+      },
+      {
+        "nom": "Martin Dúbravka",
+        "poste": "Goalkeeper",
+        "nationalite": "Slovakia",
+        "naissance": "1989-01-15",
+        "buts": 0
+      },
+      {
+        "nom": "Brandon Austin",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1999-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Antonín Kinský",
+        "poste": "Goalkeeper",
+        "nationalite": "Czech Republic",
+        "naissance": "2003-03-13",
+        "buts": 0
+      },
+      {
+        "nom": "Andrew Robertson",
+        "poste": "Defence",
+        "nationalite": "Scotland",
+        "naissance": "1994-03-11",
+        "buts": 0
+      },
+      {
+        "nom": "Tosin Adarabioyo",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1997-09-24",
+        "buts": 0
+      },
+      {
+        "nom": "Ben Davies",
+        "poste": "Defence",
+        "nationalite": "Wales",
+        "naissance": "1993-04-24",
+        "buts": 0
+      },
+      {
+        "nom": "Marcos Senesi",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1997-05-10",
+        "buts": 0
+      },
+      {
+        "nom": "Pedro Porro",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-09-13",
+        "buts": 0
+      },
+      {
+        "nom": "Mickey van de Ven",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-04-19",
+        "buts": 0
+      },
+      {
+        "nom": "Destiny Udogie",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2002-11-28",
+        "buts": 0
+      },
+      {
+        "nom": "Archie Gray",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2006-03-12",
+        "buts": 0
+      },
+      {
+        "nom": "Dejan Kulusevski",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "2000-04-25",
+        "buts": 0
+      },
+      {
+        "nom": "Rodrigo Bentancur",
+        "poste": "Midfield",
+        "nationalite": "Uruguay",
+        "naissance": "1997-06-25",
+        "buts": 0
+      },
+      {
+        "nom": "Sandro Tonali",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2000-05-08",
+        "buts": 0
+      },
+      {
+        "nom": "James Maddison",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1996-11-23",
+        "buts": 0
+      },
+      {
+        "nom": "Xavi Simons",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2003-04-21",
+        "buts": 0
+      },
+      {
+        "nom": "Mateus Fernandes",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2004-07-10",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Bergvall",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "2006-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Dominic Solanke",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-09-14",
+        "buts": 0
+      },
+      {
+        "nom": "Richarlison",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1997-05-10",
+        "buts": 0
+      },
+      {
+        "nom": "Omar Marmoush",
+        "poste": "Offence",
+        "nationalite": "Egypt",
+        "naissance": "1999-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Mohammed Kudus",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "2000-08-02",
+        "buts": 0
+      },
+      {
+        "nom": "Mykhailo Mudryk",
+        "poste": "Offence",
+        "nationalite": "Ukraine",
+        "naissance": "2001-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Sávio",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2004-04-10",
+        "buts": 0
+      },
+      {
+        "nom": "Mathys Tel",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2005-04-27",
+        "buts": 0
+      },
+      {
+        "nom": "Wilson Odobert",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2004-11-28",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Hull City AFC",
+    "court": "Hull City",
+    "tla": "HUL",
+    "logo": "https://crests.football-data.org/322.png",
+    "fonde": 1904,
+    "stade": "Kingston Communications Stadium",
+    "couleurs": "Orange / Black",
+    "site": "http://www.hullcitytigers.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Mohamed Belloumi",
+        "poste": "Offence",
+        "nationalite": "Algeria",
+        "naissance": "2002-06-01",
+        "buts": 2
+      },
+      {
+        "nom": "Semi Ajayi",
+        "poste": "Defence",
+        "nationalite": "Nigeria",
+        "naissance": "1993-11-09",
+        "buts": 1
+      },
+      {
+        "nom": "Nobel Mendy",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "2004-08-16",
+        "buts": 1
+      },
+      {
+        "nom": "Jack Butland",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1993-03-10",
+        "buts": 0
+      },
+      {
+        "nom": "Dillon Phillips",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1995-06-11",
+        "buts": 0
+      },
+      {
+        "nom": "Konstantinos Tzolakis",
+        "poste": "Goalkeeper",
+        "nationalite": "Greece",
+        "naissance": "2002-11-08",
+        "buts": 0
+      },
+      {
+        "nom": "Matt Targett",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1995-09-18",
+        "buts": 0
+      },
+      {
+        "nom": "Paddy McNair",
+        "poste": "Defence",
+        "nationalite": "Northern Ireland",
+        "naissance": "1995-04-27",
+        "buts": 0
+      },
+      {
+        "nom": "John Egan",
+        "poste": "Defence",
+        "nationalite": "Ireland",
+        "naissance": "1992-10-20",
+        "buts": 0
+      },
+      {
+        "nom": "Lewie Coyle",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1995-10-15",
+        "buts": 0
+      },
+      {
+        "nom": "Ryan John Giles",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-01-26",
+        "buts": 0
+      },
+      {
+        "nom": "Brooke Norton-Cuffy",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2004-01-12",
+        "buts": 0
+      },
+      {
+        "nom": "Charlie Hughes",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2003-10-16",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Herrington",
+        "poste": "Defence",
+        "nationalite": "Australia",
+        "naissance": "2007-09-05",
+        "buts": 0
+      },
+      {
+        "nom": "Regan Slater",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1999-09-11",
+        "buts": 0
+      },
+      {
+        "nom": "Matty Crooks",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1994-01-20",
+        "buts": 0
+      },
+      {
+        "nom": "Kieran Dowell",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1997-10-10",
+        "buts": 0
+      },
+      {
+        "nom": "Abdülkadir Ömür",
+        "poste": "Midfield",
+        "nationalite": "Turkey",
+        "naissance": "1999-06-25",
+        "buts": 0
+      },
+      {
+        "nom": "Hidemasa Morita",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "1995-05-10",
+        "buts": 0
+      },
+      {
+        "nom": "Eliot Matazo",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2002-02-15",
+        "buts": 0
+      },
+      {
+        "nom": "Tim Iroegbunam",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-08-12",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Gourna-Douath",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-08-05",
+        "buts": 0
+      },
+      {
+        "nom": "Darko Gyabi",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2004-02-17",
+        "buts": 0
+      },
+      {
+        "nom": "Jens Hjertö-Dahl",
+        "poste": "Midfield",
+        "nationalite": "Norway",
+        "naissance": "2005-10-31",
+        "buts": 0
+      },
+      {
+        "nom": "Óscar Zambrano",
+        "poste": "Midfield",
+        "nationalite": "Ecuador",
+        "naissance": "2004-04-20",
+        "buts": 0
+      },
+      {
+        "nom": "Christos Mouzakitis",
+        "poste": "Midfield",
+        "nationalite": "Greece",
+        "naissance": "2006-12-25",
+        "buts": 0
+      },
+      {
+        "nom": "Oliver McBurnie",
+        "poste": "Offence",
+        "nationalite": "Scotland",
+        "naissance": "1996-06-04",
+        "buts": 0
+      },
+      {
+        "nom": "Sorba Thomas",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "1999-08-22",
+        "buts": 0
+      },
+      {
+        "nom": "Joe Gelhardt",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2002-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "Mohamed Ali Cho",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2004-01-19",
+        "buts": 0
+      },
+      {
+        "nom": "David Akintola",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1996-01-13",
+        "buts": 0
+      },
+      {
+        "nom": "Elliot Stroud",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2002-06-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ilyas Ansah",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2004-11-08",
+        "buts": 0
+      },
+      {
+        "nom": "Robinio Vaz",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2007-02-17",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Leeds United FC",
+    "court": "Leeds United",
+    "tla": "LEE",
+    "logo": "https://crests.football-data.org/341.png",
+    "fonde": 1904,
+    "stade": "Elland Road",
+    "couleurs": "White / Blue",
+    "site": "http://www.leedsunited.com",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Jayden Bogle",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-07-27",
+        "buts": 2
+      },
+      {
+        "nom": "Dominic Calvert-Lewin",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-03-16",
+        "buts": 2
+      },
+      {
+        "nom": "Anton Stach",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-11-15",
+        "buts": 1
+      },
+      {
+        "nom": "Noah Okafor",
+        "poste": "Offence",
+        "nationalite": "Switzerland",
+        "naissance": "2000-05-24",
+        "buts": 1
+      },
+      {
+        "nom": "Alex Cairns",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1993-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "Michael Zetterer",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1995-07-12",
+        "buts": 0
+      },
+      {
+        "nom": "James Trafford",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2002-10-10",
+        "buts": 0
+      },
+      {
+        "nom": "Nico Elvedi",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "1996-09-30",
+        "buts": 0
+      },
+      {
+        "nom": "James Justin",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1998-02-23",
+        "buts": 0
+      },
+      {
+        "nom": "Joe Rodon",
+        "poste": "Defence",
+        "nationalite": "Wales",
+        "naissance": "1997-10-22",
+        "buts": 0
+      },
+      {
+        "nom": "Gabriel Gudmundsson",
+        "poste": "Defence",
+        "nationalite": "Sweden",
+        "naissance": "1999-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Jaka Bijol",
+        "poste": "Defence",
+        "nationalite": "Slovenia",
+        "naissance": "1999-02-05",
+        "buts": 0
+      },
+      {
+        "nom": "Melvin Bard",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-11-06",
+        "buts": 0
+      },
+      {
+        "nom": "Tarik Muharemović",
+        "poste": "Defence",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "2003-02-28",
+        "buts": 0
+      },
+      {
+        "nom": "Sean Longstaff",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1997-10-30",
+        "buts": 0
+      },
+      {
+        "nom": "Ethan Ampadu",
+        "poste": "Midfield",
+        "nationalite": "Wales",
+        "naissance": "2000-09-14",
+        "buts": 0
+      },
+      {
+        "nom": "Ao Tanaka",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "1998-09-10",
+        "buts": 0
+      },
+      {
+        "nom": "Ilia Gruev",
+        "poste": "Midfield",
+        "nationalite": "Bulgaria",
+        "naissance": "2000-05-06",
+        "buts": 0
+      },
+      {
+        "nom": "Brenden Aaronson",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2000-10-22",
+        "buts": 0
+      },
+      {
+        "nom": "Lukas Nmecha",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-12-14",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel James",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "1997-11-10",
+        "buts": 0
+      },
+      {
+        "nom": "Harry Wilson",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "1997-03-22",
+        "buts": 0
+      },
+      {
+        "nom": "Mateo Fernandez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-10-19",
+        "buts": 0
+      },
+      {
+        "nom": "Jean Bahoya",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2005-05-07",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Ipswich Town FC",
+    "court": "Ipswich Town",
+    "tla": "IPS",
+    "logo": "https://crests.football-data.org/349.png",
+    "fonde": 1887,
+    "stade": "Portman Road Stadium",
+    "couleurs": "Blue / White",
+    "site": "http://www.itfc.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Leif Davis",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1999-12-31",
+        "buts": 2
+      },
+      {
+        "nom": "Emersonn",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2004-07-16",
+        "buts": 2
+      },
+      {
+        "nom": "Jack Clarke",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2000-11-23",
+        "buts": 1
+      },
+      {
+        "nom": "Chuba Akpom",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1995-10-09",
+        "buts": 1
+      },
+      {
+        "nom": "Zian Flemming",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1998-08-01",
+        "buts": 1
+      },
+      {
+        "nom": "David Button",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1989-02-27",
+        "buts": 0
+      },
+      {
+        "nom": "Christian Walton",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1995-11-09",
+        "buts": 0
+      },
+      {
+        "nom": "Alex Palmer",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1996-08-10",
+        "buts": 0
+      },
+      {
+        "nom": "Kjell Scherpen",
+        "poste": "Goalkeeper",
+        "nationalite": "Netherlands",
+        "naissance": "2000-01-23",
+        "buts": 0
+      },
+      {
+        "nom": "Darnell Furlong",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1995-10-31",
+        "buts": 0
+      },
+      {
+        "nom": "Issa Diop",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1997-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Dara O'Shea",
+        "poste": "Defence",
+        "nationalite": "Ireland",
+        "naissance": "1999-03-04",
+        "buts": 0
+      },
+      {
+        "nom": "Cédric Kipré",
+        "poste": "Defence",
+        "nationalite": "Ivory Coast",
+        "naissance": "1996-12-09",
+        "buts": 0
+      },
+      {
+        "nom": "Jacob Greaves",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-09-12",
+        "buts": 0
+      },
+      {
+        "nom": "Abdoul Ouattara",
+        "poste": "Defence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2005-10-22",
+        "buts": 0
+      },
+      {
+        "nom": "Jack Taylor",
+        "poste": "Midfield",
+        "nationalite": "Ireland",
+        "naissance": "1998-06-23",
+        "buts": 0
+      },
+      {
+        "nom": "Azor Matusiwa",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1998-04-28",
+        "buts": 0
+      },
+      {
+        "nom": "Exequiel Palacios",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1998-10-05",
+        "buts": 0
+      },
+      {
+        "nom": "Saša Lukić",
+        "poste": "Midfield",
+        "nationalite": "Serbia",
+        "naissance": "1996-08-13",
+        "buts": 0
+      },
+      {
+        "nom": "Florentino",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "1999-08-19",
+        "buts": 0
+      },
+      {
+        "nom": "Marcelino Núñez",
+        "poste": "Midfield",
+        "nationalite": "Chile",
+        "naissance": "2000-03-01",
+        "buts": 0
+      },
+      {
+        "nom": "Anis Mehmeti",
+        "poste": "Midfield",
+        "nationalite": "Albania",
+        "naissance": "2001-01-09",
+        "buts": 0
+      },
+      {
+        "nom": "Julio Enciso",
+        "poste": "Midfield",
+        "nationalite": "Paraguay",
+        "naissance": "2004-01-23",
+        "buts": 0
+      },
+      {
+        "nom": "Kasey McAteer",
+        "poste": "Midfield",
+        "nationalite": "Ireland",
+        "naissance": "2001-11-22",
+        "buts": 0
+      },
+      {
+        "nom": "Daizen Maeda",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "1997-10-20",
+        "buts": 0
+      },
+      {
+        "nom": "Jaden Philogene-Bidace",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2002-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Abdul Issahaku",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "2004-03-08",
+        "buts": 0
+      },
+      {
+        "nom": "Sindre Egeli",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2006-06-21",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Nottingham Forest FC",
+    "court": "Nottingham",
+    "tla": "NOT",
+    "logo": "https://crests.football-data.org/351.png",
+    "fonde": 1865,
+    "stade": "The City Ground",
+    "couleurs": "Red / White",
+    "site": "http://www.nottinghamforest.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Morgan Gibbs-White",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-01-27",
+        "buts": 1
+      },
+      {
+        "nom": "Dan Ndoye",
+        "poste": "Offence",
+        "nationalite": "Switzerland",
+        "naissance": "2000-10-25",
+        "buts": 1
+      },
+      {
+        "nom": "Liam Delap",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2003-02-08",
+        "buts": 1
+      },
+      {
+        "nom": "Igor Jesus",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2001-02-25",
+        "buts": 1
+      },
+      {
+        "nom": "John",
+        "poste": "Goalkeeper",
+        "nationalite": "Brazil",
+        "naissance": "1996-02-13",
+        "buts": 0
+      },
+      {
+        "nom": "Matz Sels",
+        "poste": "Goalkeeper",
+        "nationalite": "Belgium",
+        "naissance": "1992-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Steven Benda",
+        "poste": "Goalkeeper",
+        "nationalite": "Germany",
+        "naissance": "1998-10-01",
+        "buts": 0
+      },
+      {
+        "nom": "Nikola Milenković",
+        "poste": "Defence",
+        "nationalite": "Serbia",
+        "naissance": "1997-10-12",
+        "buts": 0
+      },
+      {
+        "nom": "Ola Aina",
+        "poste": "Defence",
+        "nationalite": "Nigeria",
+        "naissance": "1996-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Muñoz",
+        "poste": "Defence",
+        "nationalite": "Colombia",
+        "naissance": "1996-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Neco Williams",
+        "poste": "Defence",
+        "nationalite": "Wales",
+        "naissance": "2001-04-13",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Netz",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-05-15",
+        "buts": 0
+      },
+      {
+        "nom": "Jair Paula",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2005-03-07",
+        "buts": 0
+      },
+      {
+        "nom": "Ousmane Diomande",
+        "poste": "Defence",
+        "nationalite": "Cote d'Ivoire",
+        "naissance": "2004-11-16",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolò Savona",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2003-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Murillo",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2002-07-04",
+        "buts": 0
+      },
+      {
+        "nom": "Ryan Yates",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1997-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Ibrahim Sangaré",
+        "poste": "Midfield",
+        "nationalite": "Ivory Coast",
+        "naissance": "1997-12-02",
+        "buts": 0
+      },
+      {
+        "nom": "Xaver Schlager",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1997-09-28",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolás Domínguez",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1998-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "James McAtee",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-10-18",
+        "buts": 0
+      },
+      {
+        "nom": "Callum Hudson-Odoi",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2000-11-07",
+        "buts": 0
+      },
+      {
+        "nom": "Chris Wood",
+        "poste": "Offence",
+        "nationalite": "New Zealand",
+        "naissance": "1991-12-07",
+        "buts": 0
+      },
+      {
+        "nom": "Arnaud Kalimuendo",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-01-20",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Crystal Palace FC",
+    "court": "Crystal Palace",
+    "tla": "CRY",
+    "logo": "https://crests.football-data.org/354.png",
+    "fonde": 1905,
+    "stade": "Selhurst Park",
+    "couleurs": "Red / Blue",
+    "site": "http://www.cpfc.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Tyrick Mitchell",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1999-09-01",
+        "buts": 2
+      },
+      {
+        "nom": "Ben Chilwell",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1996-12-21",
+        "buts": 1
+      },
+      {
+        "nom": "Anan Khalaili",
+        "poste": "Midfield",
+        "nationalite": "Israel",
+        "naissance": "2004-09-03",
+        "buts": 1
+      },
+      {
+        "nom": "Jørgen Strand Larsen",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2000-02-06",
+        "buts": 1
+      },
+      {
+        "nom": "Dean Henderson",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1997-03-12",
+        "buts": 0
+      },
+      {
+        "nom": "Remi Matthews",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1994-02-10",
+        "buts": 0
+      },
+      {
+        "nom": "Walter Benítez",
+        "poste": "Goalkeeper",
+        "nationalite": "Argentina",
+        "naissance": "1993-03-19",
+        "buts": 0
+      },
+      {
+        "nom": "Axel Disasi",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1998-03-11",
+        "buts": 0
+      },
+      {
+        "nom": "Takehiro Tomiyasu",
+        "poste": "Defence",
+        "nationalite": "Japan",
+        "naissance": "1998-11-05",
+        "buts": 0
+      },
+      {
+        "nom": "Chris Richards",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "2000-03-28",
+        "buts": 0
+      },
+      {
+        "nom": "Óscar Mingueza",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1999-05-13",
+        "buts": 0
+      },
+      {
+        "nom": "Chadi Riad",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "2003-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Jaydee Canvot",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2006-07-29",
+        "buts": 0
+      },
+      {
+        "nom": "Honest Ahanor",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2008-02-23",
+        "buts": 0
+      },
+      {
+        "nom": "Jefferson Lerma",
+        "poste": "Midfield",
+        "nationalite": "Colombia",
+        "naissance": "1994-10-25",
+        "buts": 0
+      },
+      {
+        "nom": "Daichi Kamada",
+        "poste": "Midfield",
+        "nationalite": "Japan",
+        "naissance": "1996-08-05",
+        "buts": 0
+      },
+      {
+        "nom": "Will Hughes",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1995-04-17",
+        "buts": 0
+      },
+      {
+        "nom": "Cheick Doucouré",
+        "poste": "Midfield",
+        "nationalite": "Mali",
+        "naissance": "2000-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Quinten Timber",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2001-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Adam Wharton",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2004-06-02",
+        "buts": 0
+      },
+      {
+        "nom": "Jean-Philippe Mateta",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1997-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "Ismaïla Sarr",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "1998-02-25",
+        "buts": 0
+      },
+      {
+        "nom": "Eddie Nketiah",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1999-05-30",
+        "buts": 0
+      },
+      {
+        "nom": "Dwight McNeil",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1999-11-22",
+        "buts": 0
+      },
+      {
+        "nom": "Evann Guessand",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2001-07-01",
+        "buts": 0
+      },
+      {
+        "nom": "Yeremi Pino",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-10-20",
+        "buts": 0
+      },
+      {
+        "nom": "Matheus Franca",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2004-04-01",
+        "buts": 0
+      },
+      {
+        "nom": "Darío Osorio",
+        "poste": "Offence",
+        "nationalite": "Chile",
+        "naissance": "2004-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Jesurun Rak-Sakyi",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2002-10-05",
+        "buts": 0
+      },
+      {
+        "nom": "Zavier Gozo",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "2007-03-22",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Brighton & Hove Albion FC",
+    "court": "Brighton Hove",
+    "tla": "BHA",
+    "logo": "https://crests.football-data.org/397.png",
+    "fonde": 1898,
+    "stade": "The American Express Community Stadium",
+    "couleurs": "Blue / White",
+    "site": "http://www.seagulls.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Pascal Groß",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1991-06-15",
+        "buts": 3
+      },
+      {
+        "nom": "Jack Hinshelwood",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2005-04-11",
+        "buts": 2
+      },
+      {
+        "nom": "Malick Yalcouyé",
+        "poste": "Midfield",
+        "nationalite": "Mali",
+        "naissance": "2005-11-18",
+        "buts": 2
+      },
+      {
+        "nom": "Charalampos Kostoulas",
+        "poste": "Offence",
+        "nationalite": "Greece",
+        "naissance": "2007-05-30",
+        "buts": 2
+      },
+      {
+        "nom": "Lewis Dunk",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1991-11-21",
+        "buts": 1
+      },
+      {
+        "nom": "Maxim De Cuyper",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2000-12-22",
+        "buts": 1
+      },
+      {
+        "nom": "Luka Vušković",
+        "poste": "Defence",
+        "nationalite": "Croatia",
+        "naissance": "2007-02-24",
+        "buts": 1
+      },
+      {
+        "nom": "Yasin Ayari",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "2003-10-06",
+        "buts": 1
+      },
+      {
+        "nom": "Chema Andrés",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2005-04-25",
+        "buts": 1
+      },
+      {
+        "nom": "Jason Steele",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1990-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Bart Verbruggen",
+        "poste": "Goalkeeper",
+        "nationalite": "Netherlands",
+        "naissance": "2002-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Thomas McGill",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2000-03-25",
+        "buts": 0
+      },
+      {
+        "nom": "Olivier Boscagli",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1997-11-18",
+        "buts": 0
+      },
+      {
+        "nom": "Pascal Struijk",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-08-11",
+        "buts": 0
+      },
+      {
+        "nom": "Ferdi Kadıoğlu",
+        "poste": "Defence",
+        "nationalite": "Turkey",
+        "naissance": "1999-10-07",
+        "buts": 0
+      },
+      {
+        "nom": "Michael Svoboda",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "1998-10-15",
+        "buts": 0
+      },
+      {
+        "nom": "Mats Wieffer",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-11-16",
+        "buts": 0
+      },
+      {
+        "nom": "Jaouen Hadjam",
+        "poste": "Defence",
+        "nationalite": "Algeria",
+        "naissance": "2003-03-26",
+        "buts": 0
+      },
+      {
+        "nom": "Costinha",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "2000-03-26",
+        "buts": 0
+      },
+      {
+        "nom": "Matt O'Riley",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "2000-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Femi Azeez",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2001-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Diego Gómez",
+        "poste": "Midfield",
+        "nationalite": "Paraguay",
+        "naissance": "2003-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Georginio Rutter",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-04-20",
+        "buts": 0
+      },
+      {
+        "nom": "Evan Ferguson",
+        "poste": "Offence",
+        "nationalite": "Ireland",
+        "naissance": "2004-10-19",
+        "buts": 0
+      },
+      {
+        "nom": "Kaoru Mitoma",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "1997-05-20",
+        "buts": 0
+      },
+      {
+        "nom": "Yankubah Minteh",
+        "poste": "Offence",
+        "nationalite": "Gambia",
+        "naissance": "2004-07-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ibrahim Osman",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "2004-12-14",
+        "buts": 0
+      },
+      {
+        "nom": "Stefanos Tzimas",
+        "poste": "Offence",
+        "nationalite": "Greece",
+        "naissance": "2006-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Promise Akinpelu",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "2001-07-03",
+        "buts": 0
+      },
+      {
+        "nom": "Zadok Yohanna",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2007-06-29",
+        "buts": 0
+      },
+      {
+        "nom": "Younes Ibrahim",
+        "poste": null,
+        "nationalite": "Australia",
+        "naissance": "2008-02-16",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Brentford FC",
+    "court": "Brentford",
+    "tla": "BRE",
+    "logo": "https://crests.football-data.org/402.png",
+    "fonde": 1889,
+    "stade": "Griffin Park",
+    "couleurs": "Red / White / Black",
+    "site": "http://www.brentfordfc.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Kevin Schade",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2001-11-27",
+        "buts": 3
+      },
+      {
+        "nom": "Vitaly Janelt",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-05-10",
+        "buts": 2
+      },
+      {
+        "nom": "Michael Kayode",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2004-07-10",
+        "buts": 1
+      },
+      {
+        "nom": "Keane Lewis-Potter",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2001-02-22",
+        "buts": 1
+      },
+      {
+        "nom": "Fabio Carvalho",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2002-08-30",
+        "buts": 1
+      },
+      {
+        "nom": "Thiago",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2001-06-26",
+        "buts": 1
+      },
+      {
+        "nom": "Jaidon Anthony",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1999-12-01",
+        "buts": 1
+      },
+      {
+        "nom": "Ellery Balcombe",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1999-10-15",
+        "buts": 0
+      },
+      {
+        "nom": "Caoimhin Kelleher",
+        "poste": "Goalkeeper",
+        "nationalite": "Ireland",
+        "naissance": "1998-11-23",
+        "buts": 0
+      },
+      {
+        "nom": "Hákon Rafn Valdimarsson",
+        "poste": "Goalkeeper",
+        "nationalite": "Iceland",
+        "naissance": "2001-10-13",
+        "buts": 0
+      },
+      {
+        "nom": "Rico Henry",
+        "poste": "Defence",
+        "nationalite": "Jamaica",
+        "naissance": "1997-07-08",
+        "buts": 0
+      },
+      {
+        "nom": "Sepp van den Berg",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-12-20",
+        "buts": 0
+      },
+      {
+        "nom": "Kristoffer Ajer",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "1998-04-17",
+        "buts": 0
+      },
+      {
+        "nom": "Aaron Hickey",
+        "poste": "Defence",
+        "nationalite": "Scotland",
+        "naissance": "2002-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Nathan Collins",
+        "poste": "Defence",
+        "nationalite": "Ireland",
+        "naissance": "2001-04-30",
+        "buts": 0
+      },
+      {
+        "nom": "El Hadji Malick Diouf",
+        "poste": "Defence",
+        "nationalite": "Senegal",
+        "naissance": "2023-02-21",
+        "buts": 0
+      },
+      {
+        "nom": "Ji-soo Kim",
+        "poste": "Defence",
+        "nationalite": "South Korea",
+        "naissance": "2004-12-24",
+        "buts": 0
+      },
+      {
+        "nom": "Jannik Schuster",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "2006-05-16",
+        "buts": 0
+      },
+      {
+        "nom": "Benjamin Fredrick",
+        "poste": "Defence",
+        "nationalite": "Nigeria",
+        "naissance": "2005-05-28",
+        "buts": 0
+      },
+      {
+        "nom": "Josh Dasilva",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1998-10-23",
+        "buts": 0
+      },
+      {
+        "nom": "Mathias Jensen",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "1996-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Mikkel Damsgaard",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "2000-07-03",
+        "buts": 0
+      },
+      {
+        "nom": "Mamadou Sangare",
+        "poste": "Midfield",
+        "nationalite": "Mali",
+        "naissance": "2002-06-26",
+        "buts": 0
+      },
+      {
+        "nom": "Antoni Milambo",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2005-04-03",
+        "buts": 0
+      },
+      {
+        "nom": "Yegor Yarmolyuk",
+        "poste": "Midfield",
+        "nationalite": "Ukraine",
+        "naissance": "2004-03-01",
+        "buts": 0
+      },
+      {
+        "nom": "Callum Wilson",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1992-02-27",
+        "buts": 0
+      },
+      {
+        "nom": "Dango Ouattara",
+        "poste": "Offence",
+        "nationalite": "Burkina Faso",
+        "naissance": "2002-02-11",
+        "buts": 0
+      },
+      {
+        "nom": "Gustavo Gomes",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2005-11-20",
+        "buts": 0
+      },
+      {
+        "nom": "Kaye Furo",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2007-02-06",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "AFC Bournemouth",
+    "court": "Bournemouth",
+    "tla": "BOU",
+    "logo": "https://crests.football-data.org/bournemouth.png",
+    "fonde": 1890,
+    "stade": "Vitality Stadium",
+    "couleurs": "Red / Black",
+    "site": "http://www.afcb.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Marcus Tavernier",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1999-03-22",
+        "buts": 3
+      },
+      {
+        "nom": "Justin Kluivert",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1999-05-05",
+        "buts": 1
+      },
+      {
+        "nom": "Alex Scott",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2003-08-21",
+        "buts": 1
+      },
+      {
+        "nom": "Fraser Forster",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1988-03-17",
+        "buts": 0
+      },
+      {
+        "nom": "Michele Di Gregorio",
+        "poste": "Goalkeeper",
+        "nationalite": "Italy",
+        "naissance": "1997-07-27",
+        "buts": 0
+      },
+      {
+        "nom": "Đorđe Petrović",
+        "poste": "Goalkeeper",
+        "nationalite": "Serbia",
+        "naissance": "1999-10-08",
+        "buts": 0
+      },
+      {
+        "nom": "Adam Smith",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1991-04-29",
+        "buts": 0
+      },
+      {
+        "nom": "Max Aarons",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-01-04",
+        "buts": 0
+      },
+      {
+        "nom": "James Hill",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2002-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Bafodé Diakité",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2001-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Julian Araujo",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "2001-08-13",
+        "buts": 0
+      },
+      {
+        "nom": "Adrien Truffert",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2001-11-20",
+        "buts": 0
+      },
+      {
+        "nom": "Juanlu",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2003-08-15",
+        "buts": 0
+      },
+      {
+        "nom": "Julio Soler",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "2005-02-16",
+        "buts": 0
+      },
+      {
+        "nom": "Antonio Silva",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "2003-10-31",
+        "buts": 0
+      },
+      {
+        "nom": "Veljko Milosavljević",
+        "poste": "Defence",
+        "nationalite": "Serbia",
+        "naissance": "2007-06-28",
+        "buts": 0
+      },
+      {
+        "nom": "Lewis Cook",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1997-02-03",
+        "buts": 0
+      },
+      {
+        "nom": "Ryan Christie",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1995-02-22",
+        "buts": 0
+      },
+      {
+        "nom": "Tyler Adams",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "1999-02-14",
+        "buts": 0
+      },
+      {
+        "nom": "Alex Toth",
+        "poste": "Midfield",
+        "nationalite": "Hungary",
+        "naissance": "2005-10-23",
+        "buts": 0
+      },
+      {
+        "nom": "Ben Winterburn",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2004-09-04",
+        "buts": 0
+      },
+      {
+        "nom": "David Brooks",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "1997-07-08",
+        "buts": 0
+      },
+      {
+        "nom": "Evanilson",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-10-06",
+        "buts": 0
+      },
+      {
+        "nom": "Amine Adli",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2000-05-10",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Jebbison",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "2003-07-11",
+        "buts": 0
+      },
+      {
+        "nom": "Ben Doak",
+        "poste": "Offence",
+        "nationalite": "Scotland",
+        "naissance": "2005-11-11",
+        "buts": 0
+      },
+      {
+        "nom": "Alvaro Rodriguez",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2004-07-14",
+        "buts": 0
+      },
+      {
+        "nom": "Rayan",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2006-08-03",
+        "buts": 0
+      },
+      {
+        "nom": "Eli Kroupi",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2006-06-23",
+        "buts": 0
+      }
+    ]
+  },
+  {
+    "nom": "Coventry City FC",
+    "court": "Coventry City",
+    "tla": "COV",
+    "logo": "https://crests.football-data.org/1076.png",
+    "fonde": 1883,
+    "stade": "St Andrew's Trillion Trophy Stadium",
+    "couleurs": "Sky Blue / White",
+    "site": "http://www.ccfc.co.uk",
+    "entraineur": null,
+    "effectif": [
+      {
+        "nom": "Jay Dasilva",
+        "poste": "Defence",
+        "nationalite": "Wales",
+        "naissance": "1998-04-22",
+        "buts": 1
+      },
+      {
+        "nom": "Daniel Bentley",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1993-07-13",
+        "buts": 0
+      },
+      {
+        "nom": "Ben Wilson",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "1992-08-09",
+        "buts": 0
+      },
+      {
+        "nom": "Carl Rushworth",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2001-07-02",
+        "buts": 0
+      },
+      {
+        "nom": "Jake Bidwell",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1993-03-21",
+        "buts": 0
+      },
+      {
+        "nom": "Luke Woolfenden",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1998-10-21",
+        "buts": 0
+      },
+      {
+        "nom": "Ethan Pinnock",
+        "poste": "Defence",
+        "nationalite": "Jamaica",
+        "naissance": "1993-05-29",
+        "buts": 0
+      },
+      {
+        "nom": "Milan van Ewijk",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-09-08",
+        "buts": 0
+      },
+      {
+        "nom": "Joel Latibeaudiere",
+        "poste": "Defence",
+        "nationalite": "Jamaica",
+        "naissance": "2000-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Bobby Thomas",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2001-01-30",
+        "buts": 0
+      },
+      {
+        "nom": "Aurele Amenda",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "2003-07-31",
+        "buts": 0
+      },
+      {
+        "nom": "Kaine Kesler",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2002-10-23",
+        "buts": 0
+      },
+      {
+        "nom": "Stephen Mfuni",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2008-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Matt Grimes",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1995-07-15",
+        "buts": 0
+      },
+      {
+        "nom": "Gustavo Hamer",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1997-06-24",
+        "buts": 0
+      },
+      {
+        "nom": "Victor Torp",
+        "poste": "Midfield",
+        "nationalite": "Denmark",
+        "naissance": "1999-07-30",
+        "buts": 0
+      },
+      {
+        "nom": "Frank Onyeka",
+        "poste": "Midfield",
+        "nationalite": "Nigeria",
+        "naissance": "1998-01-01",
+        "buts": 0
+      },
+      {
+        "nom": "Josh Eccles",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "Jack Rudoni",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2001-06-14",
+        "buts": 0
+      },
+      {
+        "nom": "Caleb Yirenkyi",
+        "poste": "Midfield",
+        "nationalite": "Ghana",
+        "naissance": "2006-01-15",
+        "buts": 0
+      },
+      {
+        "nom": "Ephron Mason-Clark",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1999-08-25",
+        "buts": 0
+      },
+      {
+        "nom": "Brandon Thomas-Asante",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "1998-12-29",
+        "buts": 0
+      },
+      {
+        "nom": "Taiwo Awoniyi",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1997-08-12",
+        "buts": 0
+      },
+      {
+        "nom": "Haji Wright",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "1998-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Tatsuhiro Sakamoto",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "1996-10-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ellis Simms",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Loum Tchaouna",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2003-09-08",
+        "buts": 0
+      },
+      {
+        "nom": "Sidiki Cherif",
+        "poste": "Offence",
+        "nationalite": "Guinea",
+        "naissance": "2006-12-15",
+        "buts": 0
+      }
+    ]
+  }
+]

@@ -7,12 +7,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Marseille",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Marseille",
-    "court_ext": "Strasbourg"
+    "buts_ext": 0
   },
   {
     "id": 559712,
@@ -22,12 +22,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "AJ Auxerre",
+    "court_dom": "RC Lens",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": 5,
-    "buts_ext": 2,
-    "court_dom": "RC Lens",
-    "court_ext": "Auxerre"
+    "buts_ext": 2
   },
   {
     "id": 559711,
@@ -37,12 +37,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Le Mans",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Le Mans",
-    "court_ext": "Brest"
+    "buts_ext": 2
   },
   {
     "id": 559714,
@@ -52,12 +52,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Paris FC",
+    "court_dom": "Troyes",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Troyes",
-    "court_ext": "Paris FC"
+    "buts_ext": 0
   },
   {
     "id": 559716,
@@ -67,12 +67,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "FC Lorient",
+    "court_dom": "Nice",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Nice",
-    "court_ext": "Lorient"
+    "buts_ext": 0
   },
   {
     "id": 559718,
@@ -82,12 +82,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Toulouse",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Toulouse",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": 2
   },
   {
     "id": 559717,
@@ -97,12 +97,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Lille OSC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": 0,
-    "buts_ext": 2,
-    "court_dom": "Angers SCO",
-    "court_ext": "Lille"
+    "buts_ext": 2
   },
   {
     "id": 559719,
@@ -112,12 +112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "AS Monaco FC",
+    "court_dom": "Le Havre",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Le Havre",
-    "court_ext": "Monaco"
+    "buts_ext": 1
   },
   {
     "id": 559713,
@@ -127,12 +127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Stade Rennais",
-    "court_ext": "PSG"
+    "buts_ext": 2
   },
   {
     "id": 559702,
@@ -142,12 +142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Lille",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Lille",
-    "court_ext": "PSG"
+    "buts_ext": 2
   },
   {
     "id": 559704,
@@ -157,12 +157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Racing Club de Lens",
+    "court_dom": "Strasbourg",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Strasbourg",
-    "court_ext": "RC Lens"
+    "buts_ext": 1
   },
   {
     "id": 559705,
@@ -172,12 +172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "ES Troyes AC",
+    "court_dom": "Lorient",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Lorient",
-    "court_ext": "Troyes"
+    "buts_ext": 2
   },
   {
     "id": 559706,
@@ -187,12 +187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Le Havre AC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Le Havre"
+    "buts_ext": 1
   },
   {
     "id": 559708,
@@ -202,12 +202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Angers SCO",
+    "court_dom": "Auxerre",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": 1,
-    "buts_ext": 3,
-    "court_dom": "Auxerre",
-    "court_ext": "Angers SCO"
+    "buts_ext": 3
   },
   {
     "id": 559710,
@@ -217,12 +217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Toulouse FC",
+    "court_dom": "Brest",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Brest",
-    "court_ext": "Toulouse"
+    "buts_ext": 2
   },
   {
     "id": 559707,
@@ -232,12 +232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "OGC Nice",
+    "court_dom": "Paris FC",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": 3,
-    "buts_ext": 0,
-    "court_dom": "Paris FC",
-    "court_ext": "Nice"
+    "buts_ext": 0
   },
   {
     "id": 559709,
@@ -247,12 +247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Le Mans FC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Le Mans"
+    "buts_ext": 2
   },
   {
     "id": 559703,
@@ -262,12 +262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Monaco",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Monaco",
-    "court_ext": "Marseille"
+    "buts_ext": 0
   },
   {
     "id": 559696,
@@ -277,12 +277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Lille OSC",
+    "court_dom": "Toulouse",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Toulouse",
-    "court_ext": "Lille"
+    "buts_ext": 1
   },
   {
     "id": 559699,
@@ -292,12 +292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "AJ Auxerre",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": 3,
-    "buts_ext": 1,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Auxerre"
+    "buts_ext": 1
   },
   {
     "id": 559697,
@@ -307,12 +307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "AS Monaco FC",
+    "court_dom": "PSG",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "PSG",
-    "court_ext": "Monaco"
+    "buts_ext": 2
   },
   {
     "id": 559695,
@@ -322,12 +322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "FC Lorient",
+    "court_dom": "RC Lens",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "RC Lens",
-    "court_ext": "Lorient"
+    "buts_ext": 1
   },
   {
     "id": 559693,
@@ -337,12 +337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Le Havre",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Le Havre",
-    "court_ext": "Brest"
+    "buts_ext": 2
   },
   {
     "id": 559701,
@@ -352,12 +352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Le Mans FC",
+    "court_dom": "Nice",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Nice",
-    "court_ext": "Le Mans"
+    "buts_ext": 1
   },
   {
     "id": 559700,
@@ -367,12 +367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Troyes",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": 2,
-    "buts_ext": 6,
-    "court_dom": "Troyes",
-    "court_ext": "Strasbourg"
+    "buts_ext": 6
   },
   {
     "id": 559698,
@@ -382,12 +382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Angers SCO",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Angers SCO",
-    "court_ext": "Stade Rennais"
+    "buts_ext": 2
   },
   {
     "id": 559694,
@@ -397,12 +397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Paris FC",
+    "court_dom": "Marseille",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": 2,
-    "buts_ext": 3,
-    "court_dom": "Marseille",
-    "court_ext": "Paris FC"
+    "buts_ext": 3
   },
   {
     "id": 559689,
@@ -412,12 +412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Olympique de Marseille",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Marseille"
+    "buts_ext": 0
   },
   {
     "id": 559687,
@@ -427,12 +427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "AS Monaco FC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": 1,
-    "buts_ext": 1,
-    "court_dom": "Strasbourg",
-    "court_ext": "Monaco"
+    "buts_ext": 1
   },
   {
     "id": 559684,
@@ -442,12 +442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Toulouse FC",
+    "court_dom": "Lorient",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Lorient",
-    "court_ext": "Toulouse"
+    "buts_ext": 2
   },
   {
     "id": 559688,
@@ -457,12 +457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "OGC Nice",
+    "court_dom": "Auxerre",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": 1,
-    "buts_ext": 0,
-    "court_dom": "Auxerre",
-    "court_ext": "Nice"
+    "buts_ext": 0
   },
   {
     "id": 559690,
@@ -472,12 +472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Angers SCO",
+    "court_dom": "Le Havre",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Le Havre",
-    "court_ext": "Angers SCO"
+    "buts_ext": 0
   },
   {
     "id": 559692,
@@ -487,12 +487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Paris FC",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": 0,
-    "buts_ext": 0,
-    "court_dom": "Paris FC",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": 0
   },
   {
     "id": 559685,
@@ -502,12 +502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "ES Troyes AC",
+    "court_dom": "Lille",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Lille",
-    "court_ext": "Troyes"
+    "buts_ext": 0
   },
   {
     "id": 559686,
@@ -517,12 +517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Le Mans",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": 2,
-    "buts_ext": 2,
-    "court_dom": "Le Mans",
-    "court_ext": "RC Lens"
+    "buts_ext": 2
   },
   {
     "id": 559691,
@@ -532,12 +532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Brest",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": 0,
-    "buts_ext": 1,
-    "court_dom": "Brest",
-    "court_ext": "PSG"
+    "buts_ext": 1
   },
   {
     "id": 559682,
@@ -547,12 +547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Monaco",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Monaco",
-    "court_ext": "RC Lens"
+    "buts_ext": 1
   },
   {
     "id": 559679,
@@ -562,12 +562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Paris FC",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Paris FC",
-    "court_ext": "Strasbourg"
+    "buts_ext": 1
   },
   {
     "id": 559677,
@@ -577,12 +577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "FC Lorient",
+    "court_dom": "Le Mans",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Le Mans",
-    "court_ext": "Lorient"
+    "buts_ext": 1
   },
   {
     "id": 559680,
@@ -592,12 +592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Le Havre AC",
+    "court_dom": "Toulouse",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": 3,
-    "buts_ext": 2,
-    "court_dom": "Toulouse",
-    "court_ext": "Le Havre"
+    "buts_ext": 2
   },
   {
     "id": 559681,
@@ -607,12 +607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "ES Troyes AC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": 2,
-    "buts_ext": 0,
-    "court_dom": "Angers SCO",
-    "court_ext": "Troyes"
+    "buts_ext": 0
   },
   {
     "id": 559683,
@@ -622,12 +622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": 4,
-    "buts_ext": 0,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Stade Rennais"
+    "buts_ext": 0
   },
   {
     "id": 559676,
@@ -637,12 +637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Stade Brestois 29",
+    "court_dom": "Auxerre",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Auxerre",
-    "court_ext": "Brest"
+    "buts_ext": 1
   },
   {
     "id": 559678,
@@ -652,12 +652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Lille OSC",
+    "court_dom": "Nice",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": 2,
-    "buts_ext": 1,
-    "court_dom": "Nice",
-    "court_ext": "Lille"
+    "buts_ext": 1
   },
   {
     "id": 559675,
@@ -667,12 +667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Marseille",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": 1,
-    "buts_ext": 2,
-    "court_dom": "Marseille",
-    "court_ext": "PSG"
+    "buts_ext": 2
   },
   {
     "id": 559669,
@@ -682,12 +682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Olympique Lyonnais",
+    "court_dom": "RC Lens",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559674,
@@ -697,12 +697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Le Havre AC",
+    "court_dom": "Lille",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559666,
@@ -712,12 +712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Angers SCO",
+    "court_dom": "Brest",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559668,
@@ -727,12 +727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Paris FC",
+    "court_dom": "Lorient",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559672,
@@ -742,12 +742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Le Mans FC",
+    "court_dom": "PSG",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559673,
@@ -757,12 +757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Toulouse FC",
+    "court_dom": "Monaco",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559670,
@@ -772,12 +772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Nice",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559667,
@@ -787,12 +787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "AJ Auxerre",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559671,
@@ -802,12 +802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Troyes",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559661,
@@ -817,12 +817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Toulouse FC",
+    "court_dom": "Le Mans",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559662,
@@ -832,12 +832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Strasbourg",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559659,
@@ -847,12 +847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Troyes",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559660,
@@ -862,12 +862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Lille",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559664,
@@ -877,12 +877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Olympique de Marseille",
+    "court_dom": "Angers SCO",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559657,
@@ -892,12 +892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "AS Monaco FC",
+    "court_dom": "Lorient",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559658,
@@ -907,12 +907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Paris FC",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559663,
@@ -922,12 +922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "AJ Auxerre",
+    "court_dom": "Le Havre",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559665,
@@ -937,12 +937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "OGC Nice",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559654,
@@ -952,12 +952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "OGC Nice",
+    "court_dom": "Brest",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559655,
@@ -967,12 +967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "ES Troyes AC",
+    "court_dom": "Toulouse",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559652,
@@ -982,12 +982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Paris FC",
+    "court_dom": "RC Lens",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559650,
@@ -997,12 +997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Lille OSC",
+    "court_dom": "Monaco",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559649,
@@ -1012,12 +1012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Le Havre AC",
+    "court_dom": "Marseille",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559651,
@@ -1027,12 +1027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559653,
@@ -1042,12 +1042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "FC Lorient",
+    "court_dom": "Angers SCO",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559656,
@@ -1057,12 +1057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Le Mans FC",
+    "court_dom": "Auxerre",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559648,
@@ -1072,12 +1072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "PSG",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559644,
@@ -1087,12 +1087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Le Havre",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559639,
@@ -1102,12 +1102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Lille",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559646,
@@ -1117,12 +1117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Nice",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559640,
@@ -1132,12 +1132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Angers SCO",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559641,
@@ -1147,12 +1147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Stade Brestois 29",
+    "court_dom": "Lorient",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559643,
@@ -1162,12 +1162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Le Mans FC",
+    "court_dom": "Troyes",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559647,
@@ -1177,12 +1177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "AJ Auxerre",
+    "court_dom": "Strasbourg",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559642,
@@ -1192,12 +1192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "AS Monaco FC",
+    "court_dom": "Paris FC",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559645,
@@ -1207,12 +1207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Toulouse FC",
+    "court_dom": "Marseille",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559638,
@@ -1222,12 +1222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Toulouse",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559637,
@@ -1237,12 +1237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Paris FC",
+    "court_dom": "Auxerre",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559635,
@@ -1252,12 +1252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "ES Troyes AC",
+    "court_dom": "PSG",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559636,
@@ -1267,12 +1267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Lille OSC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559631,
@@ -1282,12 +1282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "AS Monaco FC",
+    "court_dom": "Le Mans",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559632,
@@ -1297,12 +1297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Brest",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559633,
@@ -1312,12 +1312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "FC Lorient",
+    "court_dom": "Le Havre",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559634,
@@ -1327,12 +1327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "OGC Nice",
+    "court_dom": "Angers SCO",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559630,
@@ -1342,12 +1342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Olympique de Marseille",
+    "court_dom": "RC Lens",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559622,
@@ -1357,12 +1357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Le Havre AC",
+    "court_dom": "Troyes",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559628,
@@ -1372,12 +1372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Nice",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559621,
@@ -1387,12 +1387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "AJ Auxerre",
+    "court_dom": "Monaco",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559623,
@@ -1402,12 +1402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Toulouse FC",
+    "court_dom": "RC Lens",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559624,
@@ -1417,12 +1417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Lille",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559627,
@@ -1432,12 +1432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Stade Brestois 29",
+    "court_dom": "Strasbourg",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559625,
@@ -1447,12 +1447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Angers SCO",
+    "court_dom": "Paris FC",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559626,
@@ -1462,12 +1462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Lorient",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559629,
@@ -1477,12 +1477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Le Mans FC",
+    "court_dom": "Marseille",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559616,
@@ -1492,12 +1492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Paris FC",
+    "court_dom": "Brest",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559612,
@@ -1507,12 +1507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Racing Club de Lens",
+    "court_dom": "Angers SCO",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559617,
@@ -1522,12 +1522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Lille OSC",
+    "court_dom": "Le Mans",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559620,
@@ -1537,12 +1537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "ES Troyes AC",
+    "court_dom": "Nice",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559613,
@@ -1552,12 +1552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Le Havre",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559614,
@@ -1567,12 +1567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "FC Lorient",
+    "court_dom": "PSG",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559619,
@@ -1582,12 +1582,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Olympique de Marseille",
+    "court_dom": "Auxerre",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559618,
@@ -1597,12 +1597,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Toulouse",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559615,
@@ -1612,12 +1612,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "AS Monaco FC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559603,
@@ -1627,12 +1627,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Troyes",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559604,
@@ -1642,12 +1642,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Angers SCO",
+    "court_dom": "Monaco",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559605,
@@ -1657,12 +1657,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Le Havre AC",
+    "court_dom": "RC Lens",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559606,
@@ -1672,12 +1672,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "AJ Auxerre",
+    "court_dom": "Lille",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559607,
@@ -1687,12 +1687,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "OGC Nice",
+    "court_dom": "Marseille",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559608,
@@ -1702,12 +1702,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Stade Brestois 29",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559609,
@@ -1717,12 +1717,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Toulouse",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559610,
@@ -1732,12 +1732,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "FC Lorient",
+    "court_dom": "Strasbourg",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559611,
@@ -1747,12 +1747,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Le Mans FC",
+    "court_dom": "Paris FC",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559595,
@@ -1762,12 +1762,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Racing Club de Lens",
+    "court_dom": "Nice",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559596,
@@ -1777,12 +1777,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Paris FC",
+    "court_dom": "PSG",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559597,
@@ -1792,12 +1792,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Angers SCO",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559598,
@@ -1807,12 +1807,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "ES Troyes AC",
+    "court_dom": "Brest",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559599,
@@ -1822,12 +1822,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Le Mans FC",
+    "court_dom": "Le Havre",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559600,
@@ -1837,12 +1837,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "AS Monaco FC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559601,
@@ -1852,12 +1852,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Lille OSC",
+    "court_dom": "Lorient",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559602,
@@ -1867,12 +1867,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Toulouse FC",
+    "court_dom": "Auxerre",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559594,
@@ -1882,12 +1882,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Olympique de Marseille",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559586,
@@ -1897,12 +1897,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Le Mans",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559587,
@@ -1912,12 +1912,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Olympique de Marseille",
+    "court_dom": "Brest",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559588,
@@ -1927,12 +1927,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Troyes",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559589,
@@ -1942,12 +1942,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Angers SCO",
+    "court_dom": "Toulouse",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559590,
@@ -1957,12 +1957,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "OGC Nice",
+    "court_dom": "Monaco",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559591,
@@ -1972,12 +1972,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Le Havre AC",
+    "court_dom": "Paris FC",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559592,
@@ -1987,12 +1987,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "AJ Auxerre",
+    "court_dom": "Lorient",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559593,
@@ -2002,12 +2002,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Lille",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559585,
@@ -2017,12 +2017,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "RC Lens",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559576,
@@ -2032,12 +2032,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Lille OSC",
+    "court_dom": "Marseille",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559577,
@@ -2047,12 +2047,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "FC Lorient",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559578,
@@ -2062,12 +2062,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Toulouse FC",
+    "court_dom": "Paris FC",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559579,
@@ -2077,12 +2077,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Racing Club de Lens",
+    "court_dom": "Stade Rennais",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559580,
@@ -2092,12 +2092,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Le Havre AC",
+    "court_dom": "Nice",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559581,
@@ -2107,12 +2107,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "ES Troyes AC",
+    "court_dom": "Auxerre",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559582,
@@ -2122,12 +2122,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Le Mans FC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559583,
@@ -2137,12 +2137,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Monaco",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559584,
@@ -2152,12 +2152,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Angers SCO",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559567,
@@ -2167,12 +2167,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Le Havre",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559568,
@@ -2182,12 +2182,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Strasbourg",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559569,
@@ -2197,12 +2197,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Paris FC",
+    "court_dom": "Lille",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559570,
@@ -2212,12 +2212,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Stade Brestois 29",
+    "court_dom": "RC Lens",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559571,
@@ -2227,12 +2227,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "AJ Auxerre",
+    "court_dom": "PSG",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559572,
@@ -2242,12 +2242,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "AS Monaco FC",
+    "court_dom": "Troyes",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559573,
@@ -2257,12 +2257,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Olympique de Marseille",
+    "court_dom": "Lorient",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559574,
@@ -2272,12 +2272,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Angers SCO",
+    "court_dom": "Le Mans",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559575,
@@ -2287,12 +2287,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "OGC Nice",
+    "court_dom": "Toulouse",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559558,
@@ -2302,12 +2302,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "AJ Auxerre",
+    "court_dom": "Paris FC",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559559,
@@ -2317,12 +2317,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Lille OSC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559560,
@@ -2332,12 +2332,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "FC Lorient",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559561,
@@ -2347,12 +2347,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "OGC Nice",
+    "court_dom": "Le Mans",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559562,
@@ -2362,12 +2362,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "ES Troyes AC",
+    "court_dom": "Marseille",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559563,
@@ -2377,12 +2377,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Le Havre AC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559564,
@@ -2392,12 +2392,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Brest",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559565,
@@ -2407,12 +2407,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Monaco",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559566,
@@ -2422,12 +2422,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Toulouse",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559550,
@@ -2437,12 +2437,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Lille OSC",
+    "court_dom": "Troyes",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559551,
@@ -2452,12 +2452,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Angers SCO",
+    "court_dom": "RC Lens",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559552,
@@ -2467,12 +2467,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Toulouse FC",
+    "court_dom": "Le Havre",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559553,
@@ -2482,12 +2482,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Le Mans FC",
+    "court_dom": "Lorient",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559554,
@@ -2497,12 +2497,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Stade Brestois 29",
+    "court_dom": "Nice",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559555,
@@ -2512,12 +2512,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559556,
@@ -2527,12 +2527,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Paris FC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559557,
@@ -2542,12 +2542,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "AS Monaco FC",
+    "court_dom": "Auxerre",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559549,
@@ -2557,12 +2557,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Olympique de Marseille",
+    "court_dom": "PSG",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559540,
@@ -2572,12 +2572,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Brest",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559541,
@@ -2587,12 +2587,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "ES Troyes AC",
+    "court_dom": "Paris FC",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559542,
@@ -2602,12 +2602,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Le Mans",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559543,
@@ -2617,12 +2617,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Le Havre AC",
+    "court_dom": "Lorient",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559544,
@@ -2632,12 +2632,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Auxerre",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559545,
@@ -2647,12 +2647,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "AS Monaco FC",
+    "court_dom": "Toulouse",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559546,
@@ -2662,12 +2662,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Angers SCO",
+    "court_dom": "Marseille",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559547,
@@ -2677,12 +2677,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "OGC Nice",
+    "court_dom": "Lille",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559548,
@@ -2692,12 +2692,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Racing Club de Lens",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559531,
@@ -2707,12 +2707,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Paris FC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559532,
@@ -2722,12 +2722,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Toulouse FC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559533,
@@ -2737,12 +2737,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Stade Brestois 29",
+    "court_dom": "PSG",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559534,
@@ -2752,12 +2752,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Olympique de Marseille",
+    "court_dom": "Strasbourg",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559535,
@@ -2767,12 +2767,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "AJ Auxerre",
+    "court_dom": "Nice",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559536,
@@ -2782,12 +2782,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Le Havre",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559537,
@@ -2797,12 +2797,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Le Mans FC",
+    "court_dom": "Monaco",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559538,
@@ -2812,12 +2812,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "FC Lorient",
+    "court_dom": "Lille",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559539,
@@ -2827,12 +2827,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "ES Troyes AC",
+    "court_dom": "RC Lens",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559523,
@@ -2842,12 +2842,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Le Havre AC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559524,
@@ -2857,12 +2857,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Lille OSC",
+    "court_dom": "Auxerre",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559525,
@@ -2872,12 +2872,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "OGC Nice",
+    "court_dom": "Troyes",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559526,
@@ -2887,12 +2887,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "AS Monaco FC",
+    "court_dom": "Brest",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559527,
@@ -2902,12 +2902,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Angers SCO",
+    "court_dom": "Lorient",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559528,
@@ -2917,12 +2917,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Marseille",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559529,
@@ -2932,12 +2932,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Toulouse FC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559530,
@@ -2947,12 +2947,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Paris FC",
+    "court_dom": "Le Mans",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559522,
@@ -2962,12 +2962,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Racing Club de Lens",
+    "court_dom": "PSG",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559513,
@@ -2977,12 +2977,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "OGC Nice",
+    "court_dom": "Le Havre",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559514,
@@ -2992,12 +2992,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "PSG",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559515,
@@ -3007,12 +3007,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "RC Lens",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559516,
@@ -3022,12 +3022,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Le Mans FC",
+    "court_dom": "Toulouse",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559517,
@@ -3037,12 +3037,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "FC Lorient",
+    "court_dom": "Troyes",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559518,
@@ -3052,12 +3052,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "AJ Auxerre",
+    "court_dom": "Angers SCO",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559519,
@@ -3067,12 +3067,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Monaco",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559520,
@@ -3082,12 +3082,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Paris FC",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559521,
@@ -3097,12 +3097,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Lille",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559504,
@@ -3112,12 +3112,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Toulouse FC",
+    "court_dom": "Nice",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559505,
@@ -3127,12 +3127,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "FC Lorient",
+    "court_dom": "Paris FC",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559506,
@@ -3142,12 +3142,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Angers SCO",
+    "court_dom": "Strasbourg",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559507,
@@ -3157,12 +3157,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Le Mans",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559508,
@@ -3172,12 +3172,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Lille OSC",
+    "court_dom": "Brest",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559509,
@@ -3187,12 +3187,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Le Havre",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559510,
@@ -3202,12 +3202,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "AS Monaco FC",
+    "court_dom": "Marseille",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559511,
@@ -3217,12 +3217,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Auxerre",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559512,
@@ -3232,12 +3232,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "ES Troyes AC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559496,
@@ -3247,12 +3247,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Le Mans FC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559497,
@@ -3262,12 +3262,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Toulouse",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559498,
@@ -3277,12 +3277,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "AJ Auxerre",
+    "court_dom": "Troyes",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559499,
@@ -3292,12 +3292,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Paris FC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559500,
@@ -3307,12 +3307,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Le Havre AC",
+    "court_dom": "Monaco",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559501,
@@ -3322,12 +3322,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "PSG",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559502,
@@ -3337,12 +3337,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Lille OSC",
+    "court_dom": "RC Lens",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559503,
@@ -3352,12 +3352,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "OGC Nice",
+    "court_dom": "Lorient",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559495,
@@ -3367,12 +3367,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Marseille",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559486,
@@ -3382,12 +3382,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "ES Troyes AC",
+    "court_dom": "Le Havre",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559487,
@@ -3397,12 +3397,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "AS Monaco FC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559488,
@@ -3412,12 +3412,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Le Mans",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559489,
@@ -3427,12 +3427,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Racing Club de Lens",
+    "court_dom": "Auxerre",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559490,
@@ -3442,12 +3442,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Lille",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559491,
@@ -3457,12 +3457,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "FC Lorient",
+    "court_dom": "Brest",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559492,
@@ -3472,12 +3472,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Toulouse FC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559493,
@@ -3487,12 +3487,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Paris FC",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559494,
@@ -3502,12 +3502,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Nice",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559477,
@@ -3517,12 +3517,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Racing Club de Lens",
+    "court_dom": "Lorient",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559478,
@@ -3532,12 +3532,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Stade Brestois 29",
+    "court_dom": "Marseille",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559479,
@@ -3547,12 +3547,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Monaco",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559480,
@@ -3562,12 +3562,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Angers SCO",
+    "court_dom": "Troyes",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559481,
@@ -3577,12 +3577,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Le Havre AC",
+    "court_dom": "PSG",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559482,
@@ -3592,12 +3592,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559483,
@@ -3607,12 +3607,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "AJ Auxerre",
+    "court_dom": "Le Mans",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559484,
@@ -3622,12 +3622,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Toulouse FC",
+    "court_dom": "Lille",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559485,
@@ -3637,12 +3637,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Paris FC",
+    "court_dom": "Nice",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559468,
@@ -3652,12 +3652,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "FC Lorient",
+    "court_dom": "Auxerre",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559469,
@@ -3667,12 +3667,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Le Mans FC",
+    "court_dom": "Brest",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559470,
@@ -3682,12 +3682,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Monaco",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559471,
@@ -3697,12 +3697,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Angers SCO",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559472,
@@ -3712,12 +3712,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "OGC Nice",
+    "court_dom": "RC Lens",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559473,
@@ -3727,12 +3727,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "ES Troyes AC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559474,
@@ -3742,12 +3742,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Le Havre",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559475,
@@ -3757,12 +3757,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Lille OSC",
+    "court_dom": "PSG",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559476,
@@ -3772,12 +3772,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Paris FC",
+    "court_dom": "Toulouse",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559459,
@@ -3787,12 +3787,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Racing Club de Lens",
+    "court_dom": "Paris FC",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559460,
@@ -3802,12 +3802,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "AJ Auxerre",
+    "court_dom": "Marseille",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559461,
@@ -3817,12 +3817,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "AS Monaco FC",
+    "court_dom": "Lille",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559462,
@@ -3832,12 +3832,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Lorient",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559463,
@@ -3847,12 +3847,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Toulouse FC",
+    "court_dom": "Troyes",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559464,
@@ -3862,12 +3862,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Angers SCO",
+    "court_dom": "Nice",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559465,
@@ -3877,12 +3877,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Stade Brestois 29",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559466,
@@ -3892,12 +3892,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "Le Havre AC",
+    "court_dom": "Le Mans",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559467,
@@ -3907,12 +3907,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Strasbourg",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559450,
@@ -3922,12 +3922,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "Lille OSC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559451,
@@ -3937,12 +3937,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "FC Lorient",
+    "court_dom": "Monaco",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559452,
@@ -3952,12 +3952,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Stade Brestois 29",
+    "court_dom": "Troyes",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559453,
@@ -3967,12 +3967,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Le Mans FC",
+    "court_dom": "RC Lens",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559454,
@@ -3982,12 +3982,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Angers SCO",
+    "court_dom": "PSG",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559455,
@@ -3997,12 +3997,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Paris FC",
+    "court_dom": "Le Havre",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559456,
@@ -4012,12 +4012,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Auxerre",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559457,
@@ -4027,12 +4027,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "OGC Nice",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559458,
@@ -4042,12 +4042,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Toulouse",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559442,
@@ -4057,12 +4057,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Lille OSC",
+    "court_dom": "Paris FC",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559443,
@@ -4072,12 +4072,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Lorient",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559444,
@@ -4087,12 +4087,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "AJ Auxerre",
+    "court_dom": "Brest",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559445,
@@ -4102,12 +4102,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "ES Troyes AC",
+    "court_dom": "Le Mans",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559446,
@@ -4117,12 +4117,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Le Havre AC",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559447,
@@ -4132,12 +4132,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "AS Monaco FC",
+    "court_dom": "RC Lens",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559448,
@@ -4147,12 +4147,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Toulouse FC",
+    "court_dom": "Angers SCO",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559449,
@@ -4162,12 +4162,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "Olympique de Marseille",
+    "court_dom": "Nice",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559441,
@@ -4177,12 +4177,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559432,
@@ -4192,12 +4192,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "Paris FC",
+    "court_dom": "Monaco",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559433,
@@ -4207,12 +4207,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Le Mans FC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559434,
@@ -4222,12 +4222,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "OGC Nice",
+    "court_dom": "PSG",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Nice"
+    "buts_ext": null
   },
   {
     "id": 559435,
@@ -4237,12 +4237,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "FC Lorient",
+    "court_dom": "Toulouse",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559436,
@@ -4252,12 +4252,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Le Havre AC",
+    "court_dom": "Brest",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559437,
@@ -4267,12 +4267,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "Racing Club de Lens",
+    "court_dom": "Marseille",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559438,
@@ -4282,12 +4282,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Angers SCO",
+    "court_dom": "Lille",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559439,
@@ -4297,12 +4297,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "Auxerre",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559440,
@@ -4312,12 +4312,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "ES Troyes AC",
+    "court_dom": "Strasbourg",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559423,
@@ -4327,12 +4327,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
     "ext": "AS Monaco FC",
+    "court_dom": "Nice",
+    "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/548.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Nice",
-    "court_ext": "Monaco"
+    "buts_ext": null
   },
   {
     "id": 559424,
@@ -4342,12 +4342,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
     "ext": "Stade Brestois 29",
+    "court_dom": "Angers SCO",
+    "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Angers SCO",
-    "court_ext": "Brest"
+    "buts_ext": null
   },
   {
     "id": 559425,
@@ -4357,12 +4357,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
     "ext": "Olympique Lyonnais",
+    "court_dom": "Lorient",
+    "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/523.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lorient",
-    "court_ext": "Olympique Lyon"
+    "buts_ext": null
   },
   {
     "id": 559426,
@@ -4372,12 +4372,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
     "ext": "Paris Saint-Germain FC",
+    "court_dom": "Troyes",
+    "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/524.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Troyes",
-    "court_ext": "PSG"
+    "buts_ext": null
   },
   {
     "id": 559427,
@@ -4387,12 +4387,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
     "ext": "RC Strasbourg Alsace",
+    "court_dom": "Le Mans",
+    "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/576.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Mans",
-    "court_ext": "Strasbourg"
+    "buts_ext": null
   },
   {
     "id": 559428,
@@ -4402,12 +4402,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
     "ext": "AJ Auxerre",
+    "court_dom": "Toulouse",
+    "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/519.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Toulouse",
-    "court_ext": "Auxerre"
+    "buts_ext": null
   },
   {
     "id": 559429,
@@ -4417,12 +4417,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
     "ext": "Lille OSC",
+    "court_dom": "Le Havre",
+    "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/521.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Le Havre",
-    "court_ext": "Lille"
+    "buts_ext": null
   },
   {
     "id": 559430,
@@ -4432,12 +4432,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
     "ext": "Olympique de Marseille",
+    "court_dom": "Paris FC",
+    "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Paris FC",
-    "court_ext": "Marseille"
+    "buts_ext": null
   },
   {
     "id": 559431,
@@ -4447,12 +4447,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
     "ext": "Stade Rennais FC 1901",
+    "court_dom": "RC Lens",
+    "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/529.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "RC Lens",
-    "court_ext": "Stade Rennais"
+    "buts_ext": null
   },
   {
     "id": 559414,
@@ -4462,12 +4462,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AS Monaco FC",
     "ext": "ES Troyes AC",
+    "court_dom": "Monaco",
+    "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Monaco",
-    "court_ext": "Troyes"
+    "buts_ext": null
   },
   {
     "id": 559415,
@@ -4477,12 +4477,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
     "ext": "Toulouse FC",
+    "court_dom": "PSG",
+    "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/511.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "PSG",
-    "court_ext": "Toulouse"
+    "buts_ext": null
   },
   {
     "id": 559416,
@@ -4492,12 +4492,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
     "ext": "Le Mans FC",
+    "court_dom": "Lille",
+    "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/535.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Lille",
-    "court_ext": "Le Mans"
+    "buts_ext": null
   },
   {
     "id": 559417,
@@ -4507,12 +4507,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
     "ext": "Racing Club de Lens",
+    "court_dom": "Brest",
+    "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/546.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Brest",
-    "court_ext": "RC Lens"
+    "buts_ext": null
   },
   {
     "id": 559418,
@@ -4522,12 +4522,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
     "ext": "FC Lorient",
+    "court_dom": "Marseille",
+    "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/525.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Marseille",
-    "court_ext": "Lorient"
+    "buts_ext": null
   },
   {
     "id": 559419,
@@ -4537,12 +4537,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
     "ext": "Angers SCO",
+    "court_dom": "Stade Rennais",
+    "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Stade Rennais",
-    "court_ext": "Angers SCO"
+    "buts_ext": null
   },
   {
     "id": 559420,
@@ -4552,12 +4552,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
     "ext": "Paris FC",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Paris FC"
+    "buts_ext": null
   },
   {
     "id": 559421,
@@ -4567,12 +4567,12 @@
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
     "ext": "Le Havre AC",
+    "court_dom": "Auxerre",
+    "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Auxerre",
-    "court_ext": "Le Havre"
+    "buts_ext": null
   },
   {
     "id": 559422,
@@ -4582,11 +4582,11 @@
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
     "ext": "OGC Nice",
+    "court_dom": "Strasbourg",
+    "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "buts_dom": null,
-    "buts_ext": null,
-    "court_dom": "Strasbourg",
-    "court_ext": "Nice"
+    "buts_ext": null
   }
 ]
