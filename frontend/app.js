@@ -5,13 +5,14 @@ const LIGUES = [
   { code: "SA", nom: "Serie A", ldc: 4, releg: 3 },
   { code: "FL1", nom: "Ligue 1", ldc: 3, releg: 2 },
   { code: "CL", nom: "Ligue des champions", ldc: 8, releg: 12, phaseLigue: true,
-    labelTop: "Top 8", labelBas: "Éliminé", labelBasPluriel: "Éliminés", equipes: false },
+    labelTop: "Top 8", labelBas: "Éliminé", labelBasPluriel: "Éliminés" },
 ];
 const PHASES = {
   LEAGUE_STAGE: "Phase de ligue", PLAYOFFS: "Barrages", LAST_16: "Huitièmes",
   QUARTER_FINALS: "Quarts de finale", SEMI_FINALS: "Demi-finales", FINAL: "Finale",
 };
 const N_SIMS = 10000;
+const N_SIMS_C1 = 5000;
 const N_SIMS_FICHE = 3000;
 const DELAI_LECTURE = 1600;   // ms entre deux journées en lecture automatique
 const RENOMMER = { "Brighton Hove": "Brighton" };
@@ -108,14 +109,6 @@ function construireNavigation() {
   document.getElementById("s-fin").addEventListener("click", () => { arreterLecture(); avancer(Infinity); });
 }
 
-function majOngletEquipes() {
-  const b = document.querySelector('.vues button[data-vue="equipes"]');
-  const dispo = ligueActive().equipes !== false;
-  if (b) b.hidden = !dispo;
-  if (!dispo && etat.vue === "equipes") { choisirVue("pronostics"); return true; }
-  return false;
-}
-
 function choisirVue(vue) {
   if (vue !== "saison") arreterLecture();
   etat.vue = vue;
@@ -129,7 +122,6 @@ function choisirLigue(code) {
   etat.ligue = code;
   etat.equipe = null;
   document.querySelectorAll(".ligues button").forEach(b => b.setAttribute("aria-selected", b.dataset.code === code));
-  if (majOngletEquipes()) return;   // choisirVue a déjà rafraîchi
   rafraichir();
 }
 
@@ -223,7 +215,7 @@ function majBoutons() {
   document.getElementById("suiv").disabled = etat.index >= etat.journees.length - 1;
 }
 
-/* ---------- Vue Simulation (10 000 saisons) ---------- */
+/* ---------- Vue Simulation ---------- */
 
 function simuler(classement, preds, n) {
   const T = classement.length;
@@ -260,6 +252,7 @@ async function lancerSimulation() {
   const ligue = ligueActive();
   const classement = await chargerJSON(`classement_${ligue.code}.json`);
   const preds = matchsLigue(ligue, await chargerJSON(`predictions_${ligue.code}.json`));
+  const forces = ligue.phaseLigue ? await chargerJSON("forces_cl.json") : null;
   if (ligue.code !== etat.ligue || etat.vue !== "simulation") return;
 
   const bouton = document.getElementById("lancer");
@@ -267,8 +260,13 @@ async function lancerSimulation() {
   document.getElementById("sim-info").textContent = "Simulation en cours…";
   await new Promise(r => setTimeout(r, 30));   // laisse le navigateur afficher le message
 
-  const resultats = simuler(classement, preds, N_SIMS);
-  if (ligue.code === etat.ligue) afficherTableau(resultats, ligue, preds.length);
+  if (ligue.phaseLigue) {
+    const resultats = simulerC1(classement, preds, forces, N_SIMS_C1);
+    if (ligue.code === etat.ligue) afficherTableauC1(resultats, preds.length);
+  } else {
+    const resultats = simuler(classement, preds, N_SIMS);
+    if (ligue.code === etat.ligue) afficherTableau(resultats, ligue, preds.length);
+  }
   bouton.disabled = false;
 }
 
@@ -319,6 +317,140 @@ function afficherTableau(res, ligue, nMatchs) {
           <th scope="col">${labelTop(ligue)}</th>
           <th scope="col">${labelBas(ligue)}</th>
           <th scope="col">Positions finales</th>
+        </tr></thead>
+        <tbody>${lignes}</tbody>
+      </table>
+    </div>`;
+}
+
+/* ---------- Phase finale de la C1 ---------- */
+
+// Sections de barrages : [tête A, tête B, non-tête A, non-tête B] en positions 0-based
+const SECTIONS_PO = [[8, 9, 22, 23], [10, 11, 20, 21], [12, 13, 18, 19], [14, 15, 16, 17]];
+// Huitièmes : [tête A, tête B, section de barrage affrontée]
+const SECTIONS_R16 = [[0, 1, 3], [2, 3, 2], [4, 5, 1], [6, 7, 0]];
+
+function matchC1(forces, dom, ext, facteur = 1) {
+  const a = forces.equipes[dom], b = forces.equipes[ext];
+  return [poissonAlea(forces.mu * forces.home * a.att * b.def * facteur),
+          poissonAlea(forces.mu * b.att * a.def * facteur)];
+}
+
+function duel(forces, tete, autre) {   // la tête de série reçoit au retour
+  const [a1, b1] = matchC1(forces, autre, tete);   // aller
+  const [a2, b2] = matchC1(forces, tete, autre);   // retour
+  let bTete = a2 + b1, bAutre = a1 + b2;
+  if (bTete === bAutre) {                          // prolongation au retour
+    const [p, q] = matchC1(forces, tete, autre, 1 / 3);
+    bTete += p; bAutre += q;
+  }
+  if (bTete === bAutre) return Math.random() < 0.5 ? tete : autre;   // tirs au but
+  return bTete > bAutre ? tete : autre;
+}
+
+function phaseFinale(forces, noms) {
+  const rang = new Map(noms.map((n, i) => [n, i]));
+  const duelR = (a, b) => rang.get(a) < rang.get(b) ? duel(forces, a, b) : duel(forces, b, a);
+  const melange = t => Math.random() < 0.5 ? t : [t[1], t[0]];
+
+  const vPO = SECTIONS_PO.map(([s1, s2, u1, u2]) => {
+    const [a, b] = melange([u1, u2]);              // tirage : qui affronte qui
+    return [duel(forces, noms[s1], noms[a]), duel(forces, noms[s2], noms[b])];
+  });
+  const h = SECTIONS_R16.map(([t1, t2, po]) => {
+    const [x, y] = melange(vPO[po]);
+    const [g1, g2] = melange([noms[t1], noms[t2]]);   // répartition dans les deux moitiés
+    return [duel(forces, g1, x), duel(forces, g2, y)];
+  });
+
+  const huit = [...SECTIONS_R16.flatMap(([t1, t2]) => [noms[t1], noms[t2]]), ...vPO.flat()];
+  const quarts = h.flat();
+  const demis = [], finalistes = [];
+  for (const k of [0, 1]) {                        // une moitié de tableau à la fois
+    const q1 = duelR(h[0][k], h[3][k]);            // A contre D
+    const q2 = duelR(h[1][k], h[2][k]);            // B contre C
+    demis.push(q1, q2);
+    finalistes.push(duelR(q1, q2));
+  }
+  return { huit, quarts, demis, finalistes, titre: duelR(finalistes[0], finalistes[1]) };
+}
+
+function simulerC1(classement, preds, forces, n) {
+  const T = classement.length;
+  const idx = new Map(classement.map((e, i) => [e.equipe, i]));
+  const matchs = preds
+    .filter(p => idx.has(p.dom) && idx.has(p.ext))
+    .map(p => [idx.get(p.dom), idx.get(p.ext), p.lambda_dom, p.lambda_ext]);
+  const pts = new Float64Array(T), diff = new Float64Array(T), bp = new Float64Array(T), hasard = new Float64Array(T);
+  const st = classement.map(() => ({ ptsTotal: 0, top8: 0, huit: 0, quarts: 0, demis: 0, finale: 0, titre: 0 }));
+  const ordre = [...Array(T).keys()];
+
+  for (let s = 0; s < n; s++) {
+    for (let i = 0; i < T; i++) {
+      const e = classement[i];
+      pts[i] = e.pts; diff[i] = e.bp - e.bc; bp[i] = e.bp; hasard[i] = Math.random();
+    }
+    for (const [d, x, ld, lx] of matchs) {
+      const bd = poissonAlea(ld), bx = poissonAlea(lx);
+      bp[d] += bd; bp[x] += bx;
+      diff[d] += bd - bx; diff[x] += bx - bd;
+      if (bd > bx) pts[d] += 3;
+      else if (bd < bx) pts[x] += 3;
+      else { pts[d] += 1; pts[x] += 1; }
+    }
+    ordre.sort((a, b) => pts[b] - pts[a] || diff[b] - diff[a] || bp[b] - bp[a] || hasard[b] - hasard[a]);
+    for (let i = 0; i < T; i++) st[i].ptsTotal += pts[i];
+    for (let p = 0; p < 8; p++) st[ordre[p]].top8++;
+
+    const noms = ordre.slice(0, 24).map(i => classement[i].equipe);
+    const r = phaseFinale(forces, noms);
+    for (const nm of r.huit) st[idx.get(nm)].huit++;
+    for (const nm of r.quarts) st[idx.get(nm)].quarts++;
+    for (const nm of r.demis) st[idx.get(nm)].demis++;
+    for (const nm of r.finalistes) st[idx.get(nm)].finale++;
+    st[idx.get(r.titre)].titre++;
+  }
+
+  return classement.map((e, i) => ({
+    ...e, ptsMoy: st[i].ptsTotal / n,
+    top8: st[i].top8 / n, pHuit: st[i].huit / n, pQuarts: st[i].quarts / n,
+    pDemis: st[i].demis / n, pFinale: st[i].finale / n, pTitre: st[i].titre / n,
+  }));
+}
+
+function afficherTableauC1(res, nMatchs) {
+  res.sort((a, b) => b.pTitre - a.pTitre || b.ptsMoy - a.ptsMoy);
+  document.getElementById("sim-info").textContent =
+    `${N_SIMS_C1.toLocaleString("fr-BE")} tournois simulés : ${nMatchs} matchs de phase de ligue, puis barrages, huitièmes, quarts, demies et finale selon le tableau UEFA.`;
+
+  const lignes = res.map((e, i) => `
+    <tr>
+      <td class="pos">${i + 1}</td>
+      <td><div class="eq">${logo(e.logo, 24)}<span>${renommer(e.court)}</span></div></td>
+      <td class="num">${e.pts}</td>
+      <td class="num fort">${Math.round(e.ptsMoy)}</td>
+      ${cellule(e.top8, "--ext")}
+      ${cellule(e.pHuit, "--ext")}
+      ${cellule(e.pQuarts, "--ext")}
+      ${cellule(e.pDemis, "--dom")}
+      ${cellule(e.pFinale, "--dom")}
+      ${cellule(e.pTitre, "--dom")}
+    </tr>`).join("");
+
+  document.getElementById("sim-resultats").innerHTML = `
+    <div class="tableau-scroll">
+      <table class="sim">
+        <thead><tr>
+          <th scope="col"><span class="sr">Rang</span></th>
+          <th scope="col">Équipe</th>
+          <th scope="col">Pts actuels</th>
+          <th scope="col">Pts projetés</th>
+          <th scope="col" title="Qualifié directement pour les huitièmes">Top 8</th>
+          <th scope="col">Huitièmes</th>
+          <th scope="col">Quarts</th>
+          <th scope="col">Demies</th>
+          <th scope="col">Finale</th>
+          <th scope="col">Titre</th>
         </tr></thead>
         <tbody>${lignes}</tbody>
       </table>
@@ -554,7 +686,7 @@ function ficheClub(f, classement, preds, matchs, palmares, probas, ligue) {
 
   const blocProbas = pr ? `
     <div class="chiffres">
-      ${chiffre(fmtPct(pr.rangs[0]), "Titre")}
+      ${chiffre(fmtPct(pr.rangs[0]), "1re place")}
       ${chiffre(fmtPct(somme(pr.rangs.slice(0, ligue.ldc))), labelTop(ligue))}
       ${chiffre(fmtPct(somme(pr.rangs.slice(T - ligue.releg))), labelBas(ligue))}
       ${chiffre(rangTexte(pr.rangs.indexOf(Math.max(...pr.rangs)) + 1), "Place probable")}
@@ -646,5 +778,4 @@ async function afficherEquipes() {
 /* ---------- Démarrage ---------- */
 
 construireNavigation();
-majOngletEquipes();
 rafraichir();

@@ -57,6 +57,7 @@ if __name__ == "__main__":
     th = d.ajuster(t_now, DEMI_VIE, R, R_PROMU, R_EXT)
     iCL = d.comps.index("CL")
     n, C = len(d.equipes), len(d.comps)
+    cl = charger("CL", ACTUELLE)
 
     print("\nNiveau par compétition (buts moyens, avantage du terrain) :")
     for k, code in enumerate(d.comps):
@@ -70,12 +71,21 @@ if __name__ == "__main__":
         print(f"  {code:>4} : {np.mean(vals):.2f}")
 
     print("\nTop 10 des clubs européens selon le modèle :")
-    classe = sorted(((forces[e][0] / forces[e][1], e) for e in equipes_de(charger("CL", ACTUELLE))), reverse=True)
+    classe = sorted(((forces[e][0] / forces[e][1], e) for e in equipes_de(cl)), reverse=True)
     for v, e in classe[:10]:
         print(f"  {v:.2f}  {e}")
 
+    # Forces des 36 clubs de C1 : permettent de simuler n'importe quelle affiche côté navigateur
+    ecrire("forces_cl.json", {
+        "mu": float(np.exp(th[2*n+C+iCL])),
+        "home": float(np.exp(th[2*n+iCL])),
+        "rho": float(th[-1]),
+        "equipes": {e: {"att": round(float(np.exp(th[d.idx[e]])), 4),
+                        "def": round(float(np.exp(th[n+d.idx[e]])), 4)}
+                    for e in equipes_de(cl)},
+    })
+
     # Prédictions des matchs de C1 à venir
-    cl = charger("CL", ACTUELLE)
     preds = []
     for m in sorted((m for m in cl if m["statut"] in ("SCHEDULED", "TIMED")), key=lambda m: m["date"]):
         lam, nu, rho = d.lambdas(th, d.idx[m["dom"]], d.idx[m["ext"]], iCL)

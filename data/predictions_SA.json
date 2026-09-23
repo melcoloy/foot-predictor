@@ -1036,7 +1036,7 @@
     "lambda_ext": 1.11,
     "p1": 0.477,
     "pN": 0.244,
-    "p2": 0.278,
+    "p2": 0.279,
     "score_probable": "1-1"
   },
   {
@@ -1338,7 +1338,7 @@
     "logo_ext": "https://crests.football-data.org/100.png",
     "lambda_dom": 0.86,
     "lambda_ext": 1.64,
-    "p1": 0.2,
+    "p1": 0.201,
     "pN": 0.237,
     "p2": 0.563,
     "score_probable": "0-1"
