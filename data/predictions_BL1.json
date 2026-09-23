@@ -26,7 +26,7 @@
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 1.41,
     "lambda_ext": 1.65,
-    "p1": 0.322,
+    "p1": 0.323,
     "pN": 0.25,
     "p2": 0.427,
     "score_probable": "1-1"
@@ -1164,7 +1164,7 @@
     "lambda_ext": 1.3,
     "p1": 0.4,
     "pN": 0.269,
-    "p2": 0.332,
+    "p2": 0.331,
     "score_probable": "1-1"
   },
   {
@@ -1738,9 +1738,9 @@
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 1.44,
     "lambda_ext": 1.4,
-    "p1": 0.376,
+    "p1": 0.377,
     "pN": 0.264,
-    "p2": 0.36,
+    "p2": 0.359,
     "score_probable": "1-1"
   },
   {
@@ -3563,7 +3563,7 @@
     "lambda_dom": 1.55,
     "lambda_ext": 1.24,
     "p1": 0.439,
-    "pN": 0.264,
+    "pN": 0.263,
     "p2": 0.297,
     "score_probable": "1-1"
   },
@@ -3675,7 +3675,7 @@
     "lambda_dom": 1.52,
     "lambda_ext": 0.94,
     "p1": 0.5,
-    "pN": 0.273,
+    "pN": 0.272,
     "p2": 0.227,
     "score_probable": "1-1"
   },
@@ -3912,7 +3912,7 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 2.11,
+    "lambda_dom": 2.12,
     "lambda_ext": 0.95,
     "p1": 0.637,
     "pN": 0.21,
@@ -4235,7 +4235,7 @@
     "lambda_dom": 1.18,
     "lambda_ext": 1.62,
     "p1": 0.272,
-    "pN": 0.26,
+    "pN": 0.259,
     "p2": 0.468,
     "score_probable": "1-1"
   },

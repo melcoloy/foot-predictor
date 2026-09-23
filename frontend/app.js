@@ -4,7 +4,13 @@ const LIGUES = [
   { code: "BL1", nom: "Bundesliga", ldc: 4, releg: 2 },
   { code: "SA", nom: "Serie A", ldc: 4, releg: 3 },
   { code: "FL1", nom: "Ligue 1", ldc: 3, releg: 2 },
+  { code: "CL", nom: "Ligue des champions", ldc: 8, releg: 12, phaseLigue: true,
+    labelTop: "Top 8", labelBas: "Éliminé", labelBasPluriel: "Éliminés", equipes: false },
 ];
+const PHASES = {
+  LEAGUE_STAGE: "Phase de ligue", PLAYOFFS: "Barrages", LAST_16: "Huitièmes",
+  QUARTER_FINALS: "Quarts de finale", SEMI_FINALS: "Demi-finales", FINAL: "Finale",
+};
 const N_SIMS = 10000;
 const N_SIMS_FICHE = 3000;
 const DELAI_LECTURE = 1600;   // ms entre deux journées en lecture automatique
@@ -35,6 +41,16 @@ const signe = n => (n > 0 ? `+${n}` : `${n}`);
 const ligueActive = () => LIGUES.find(l => l.code === etat.ligue);
 const mouvementReduit = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
 const groupePoste = poste => (GROUPES.find(([, re]) => re.test(poste || "")) || ["Autres"])[0];
+
+// Compétitions à élimination directe : on ne simule que la phase de ligue
+const matchsLigue = (l, preds) => l.phaseLigue ? preds.filter(p => (p.phase || "").startsWith("LEAGUE")) : preds;
+const labelTop = l => l.labelTop || `Top ${l.ldc}`;
+const labelBas = l => l.labelBas || "Relégation";
+const labelBasPluriel = l => l.labelBasPluriel || "Relégués";
+const cleJournee = p => (p.phase && !p.phase.startsWith("LEAGUE"))
+  ? (PHASES[p.phase] || p.phase)
+  : (p.journee ?? (PHASES[p.phase] || "À venir"));
+const rangCle = c => typeof c === "number" ? c : 1000 + Object.values(PHASES).indexOf(c);
 
 async function chargerJSON(fichier) {
   if (!cache[fichier]) {
@@ -92,6 +108,14 @@ function construireNavigation() {
   document.getElementById("s-fin").addEventListener("click", () => { arreterLecture(); avancer(Infinity); });
 }
 
+function majOngletEquipes() {
+  const b = document.querySelector('.vues button[data-vue="equipes"]');
+  const dispo = ligueActive().equipes !== false;
+  if (b) b.hidden = !dispo;
+  if (!dispo && etat.vue === "equipes") { choisirVue("pronostics"); return true; }
+  return false;
+}
+
 function choisirVue(vue) {
   if (vue !== "saison") arreterLecture();
   etat.vue = vue;
@@ -105,6 +129,7 @@ function choisirLigue(code) {
   etat.ligue = code;
   etat.equipe = null;
   document.querySelectorAll(".ligues button").forEach(b => b.setAttribute("aria-selected", b.dataset.code === code));
+  if (majOngletEquipes()) return;   // choisirVue a déjà rafraîchi
   rafraichir();
 }
 
@@ -137,10 +162,11 @@ async function afficherPronostics() {
   const preds = await chargerJSON(`predictions_${etat.ligue}.json`);
   etat.parJournee = new Map();
   for (const p of preds) {
-    if (!etat.parJournee.has(p.journee)) etat.parJournee.set(p.journee, []);
-    etat.parJournee.get(p.journee).push(p);
+    const cle = cleJournee(p);
+    if (!etat.parJournee.has(cle)) etat.parJournee.set(cle, []);
+    etat.parJournee.get(cle).push(p);
   }
-  etat.journees = [...etat.parJournee.keys()].sort((a, b) => a - b);
+  etat.journees = [...etat.parJournee.keys()].sort((a, b) => rangCle(a) - rangCle(b));
   etat.index = 0;
   afficherJournee();
 }
@@ -174,12 +200,12 @@ function afficherJournee() {
   const titre = document.getElementById("titre-journee");
   if (!etat.journees.length) {
     titre.textContent = "Saison terminée";
-    zone.innerHTML = `<p class="vide">Il n'y a plus de match à venir dans ce championnat.</p>`;
+    zone.innerHTML = `<p class="vide">Il n'y a plus de match à venir dans cette compétition.</p>`;
     majBoutons();
     return;
   }
   const j = etat.journees[etat.index];
-  titre.textContent = `Journée ${j}`;
+  titre.textContent = typeof j === "number" ? `Journée ${j}` : j;
   const jours = new Map();
   for (const p of etat.parJournee.get(j)) {
     const cle = fmtJour.format(new Date(p.date));
@@ -202,7 +228,9 @@ function majBoutons() {
 function simuler(classement, preds, n) {
   const T = classement.length;
   const idx = new Map(classement.map((e, i) => [e.equipe, i]));
-  const matchs = preds.map(p => [idx.get(p.dom), idx.get(p.ext), p.lambda_dom, p.lambda_ext]);
+  const matchs = preds
+    .filter(p => idx.has(p.dom) && idx.has(p.ext))
+    .map(p => [idx.get(p.dom), idx.get(p.ext), p.lambda_dom, p.lambda_ext]);
   const pts = new Float64Array(T), diff = new Float64Array(T), bp = new Float64Array(T), hasard = new Float64Array(T);
   const rangs = Array.from({ length: T }, () => new Float64Array(T));
   const ptsTotal = new Float64Array(T);
@@ -230,10 +258,8 @@ function simuler(classement, preds, n) {
 
 async function lancerSimulation() {
   const ligue = ligueActive();
-  const [classement, preds] = await Promise.all([
-    chargerJSON(`classement_${ligue.code}.json`),
-    chargerJSON(`predictions_${ligue.code}.json`),
-  ]);
+  const classement = await chargerJSON(`classement_${ligue.code}.json`);
+  const preds = matchsLigue(ligue, await chargerJSON(`predictions_${ligue.code}.json`));
   if (ligue.code !== etat.ligue || etat.vue !== "simulation") return;
 
   const bouton = document.getElementById("lancer");
@@ -289,9 +315,9 @@ function afficherTableau(res, ligue, nMatchs) {
           <th scope="col">Équipe</th>
           <th scope="col">Pts actuels</th>
           <th scope="col">Pts projetés</th>
-          <th scope="col">Titre</th>
-          <th scope="col">Top ${ligue.ldc}</th>
-          <th scope="col">Relégation</th>
+          <th scope="col">1re place</th>
+          <th scope="col">${labelTop(ligue)}</th>
+          <th scope="col">${labelBas(ligue)}</th>
           <th scope="col">Positions finales</th>
         </tr></thead>
         <tbody>${lignes}</tbody>
@@ -303,10 +329,8 @@ function afficherTableau(res, ligue, nMatchs) {
 
 async function afficherSaison() {
   const ligue = ligueActive();
-  const [classement, preds] = await Promise.all([
-    chargerJSON(`classement_${ligue.code}.json`),
-    chargerJSON(`predictions_${ligue.code}.json`),
-  ]);
+  const classement = await chargerJSON(`classement_${ligue.code}.json`);
+  const preds = matchsLigue(ligue, await chargerJSON(`predictions_${ligue.code}.json`));
   if (ligue.code !== etat.ligue || etat.vue !== "saison") return;
   if (saison.ligue !== ligue.code) {
     Object.assign(saison, { ligue: ligue.code, classement, preds, resultats: null, journees: [], etape: 0 });
@@ -318,8 +342,9 @@ function nouvelleSaison() {
   arreterLecture();
   saison.resultats = new Map();
   for (const p of saison.preds) {
-    if (!saison.resultats.has(p.journee)) saison.resultats.set(p.journee, []);
-    saison.resultats.get(p.journee).push({ p, bd: poissonAlea(p.lambda_dom), bx: poissonAlea(p.lambda_ext) });
+    const cle = p.journee ?? 0;
+    if (!saison.resultats.has(cle)) saison.resultats.set(cle, []);
+    saison.resultats.get(cle).push({ p, bd: poissonAlea(p.lambda_dom), bx: poissonAlea(p.lambda_ext) });
   }
   saison.journees = [...saison.resultats.keys()].sort((a, b) => a - b);
   saison.etape = 0;
@@ -332,6 +357,7 @@ function tableApres(etape) {
   for (let k = 0; k < etape; k++) {
     for (const { p, bd, bx } of saison.resultats.get(saison.journees[k])) {
       const d = t.get(p.dom), x = t.get(p.ext);
+      if (!d || !x) continue;
       d.j++; x.j++;
       d.bp += bd; d.bc += bx; x.bp += bx; x.bc += bd;
       if (bd > bx) { d.pts += 3; d.g++; x.p++; }
@@ -403,9 +429,9 @@ function rendreSaison() {
 
   const banniere = document.getElementById("s-banniere");
   if (fin) {
-    const champion = table[0];
-    const relegues = fmtListe.format(table.slice(T - ligue.releg).map(e => renommer(e.court)));
-    banniere.innerHTML = `<p class="banniere"><strong>${renommer(champion.court)} champion</strong> avec ${champion.pts} points. Relégués : ${relegues}.</p>`;
+    const premier = table[0];
+    const derniers = fmtListe.format(table.slice(T - ligue.releg).map(e => renommer(e.court)));
+    banniere.innerHTML = `<p class="banniere"><strong>${renommer(premier.court)} termine en tête</strong> avec ${premier.pts} points. ${labelBasPluriel(ligue)} : ${derniers}.</p>`;
   } else {
     banniere.innerHTML = "";
   }
@@ -481,10 +507,8 @@ function preparerEquipes() {
 
 async function probasFin(ligue) {
   if (!simCache[ligue.code]) {
-    const [classement, preds] = await Promise.all([
-      chargerJSON(`classement_${ligue.code}.json`),
-      chargerJSON(`predictions_${ligue.code}.json`),
-    ]);
+    const classement = await chargerJSON(`classement_${ligue.code}.json`);
+    const preds = matchsLigue(ligue, await chargerJSON(`predictions_${ligue.code}.json`));
     simCache[ligue.code] = new Map(simuler(classement, preds, N_SIMS_FICHE).map(e => [e.equipe, e]));
   }
   return simCache[ligue.code];
@@ -531,8 +555,8 @@ function ficheClub(f, classement, preds, matchs, palmares, probas, ligue) {
   const blocProbas = pr ? `
     <div class="chiffres">
       ${chiffre(fmtPct(pr.rangs[0]), "Titre")}
-      ${chiffre(fmtPct(somme(pr.rangs.slice(0, ligue.ldc))), `Top ${ligue.ldc}`)}
-      ${chiffre(fmtPct(somme(pr.rangs.slice(T - ligue.releg))), "Relégation")}
+      ${chiffre(fmtPct(somme(pr.rangs.slice(0, ligue.ldc))), labelTop(ligue))}
+      ${chiffre(fmtPct(somme(pr.rangs.slice(T - ligue.releg))), labelBas(ligue))}
       ${chiffre(rangTexte(pr.rangs.indexOf(Math.max(...pr.rangs)) + 1), "Place probable")}
       ${chiffre(Math.round(pr.ptsMoy), "Points projetés")}
     </div>` : "";
@@ -622,4 +646,5 @@ async function afficherEquipes() {
 /* ---------- Démarrage ---------- */
 
 construireNavigation();
+majOngletEquipes();
 rafraichir();

@@ -118,3 +118,86 @@ def matrice_scores(lam_d, lam_e, rho=0.0):
 
 def issue_probas(mat):
     return float(np.tril(mat, -1).sum()), float(np.trace(mat)), float(np.triu(mat, 1).sum())
+
+class DonneesMulti:
+    """Plusieurs compétitions à la fois : forces d'équipe communes, niveau et avantage du terrain par compétition."""
+
+    def __init__(self, matchs_par_comp, promues=(), externes=()):
+        self.comps = list(matchs_par_comp)
+        promues, externes = set(promues), set(externes)
+        paires = [(c, m) for c, code in enumerate(self.comps) for m in matchs_par_comp[code]]
+        self.equipes = sorted({m[k] for _, m in paires for k in ("dom", "ext") if m[k]})
+        self.idx = {e: i for i, e in enumerate(self.equipes)}
+        joues = [(c, m) for c, m in paires if m["statut"] == "FINISHED"]
+        self.comp = np.array([c for c, _ in joues])
+        self.dom = np.array([self.idx[m["dom"]] for _, m in joues])
+        self.ext = np.array([self.idx[m["ext"]] for _, m in joues])
+        self.bd = np.array([m["buts_dom"] for _, m in joues], dtype=float)
+        self.be = np.array([m["buts_ext"] for _, m in joues], dtype=float)
+        self.t = np.array([en_jours(m["date"]) for _, m in joues])
+        self.promu = np.array([e in promues for e in self.equipes])
+        self.externe = np.array([e in externes for e in self.equipes])
+
+    def ajuster(self, t_ref, demi_vie, r, r_promu, r_externe, x0=None):
+        """theta = [attaques (n), défenses (n), avantage_dom (C), mu (C), rho]."""
+        m = self.t < t_ref
+        hi, ai, ci, x, y = self.dom[m], self.ext[m], self.comp[m], self.bd[m], self.be[m]
+        w = 0.5 ** ((t_ref - self.t[m]) / demi_vie)
+        n, C = len(self.equipes), len(self.comps)
+        prior_att = np.where(self.promu, np.log(PRIOR_PROMU[0]), 0.0)
+        prior_def = np.where(self.promu, np.log(PRIOR_PROMU[1]), 0.0)
+        R = np.where(self.externe, r_externe, np.where(self.promu, r_promu, r))
+        c00, c01 = (x == 0) & (y == 0), (x == 0) & (y == 1)
+        c10, c11 = (x == 1) & (y == 0), (x == 1) & (y == 1)
+        bt = lambda idx, poids: np.bincount(idx, weights=poids, minlength=n)
+        bk = lambda idx, poids: np.bincount(idx, weights=poids, minlength=C)
+
+        def objectif(th):
+            att, dfn = th[:n], th[n:2*n]
+            home, mu, rho = th[2*n:2*n+C], th[2*n+C:2*n+2*C], th[-1]
+            lam = np.exp(mu[ci] + home[ci] + att[hi] + dfn[ai])
+            nu = np.exp(mu[ci] + att[ai] + dfn[hi])
+            tau = np.ones_like(lam)
+            tau[c00] = 1 - lam[c00] * nu[c00] * rho
+            tau[c01] = 1 + lam[c01] * rho
+            tau[c10] = 1 + nu[c10] * rho
+            tau[c11] = 1 - rho
+            tau = np.maximum(tau, 1e-10)
+            dl, dn, dr = np.zeros_like(lam), np.zeros_like(lam), np.zeros_like(lam)
+            dl[c00] = dn[c00] = -lam[c00] * nu[c00] * rho / tau[c00]
+            dr[c00] = -lam[c00] * nu[c00] / tau[c00]
+            dl[c01] = lam[c01] * rho / tau[c01]
+            dr[c01] = lam[c01] / tau[c01]
+            dn[c10] = nu[c10] * rho / tau[c10]
+            dr[c10] = nu[c10] / tau[c10]
+            dr[c11] = -1 / tau[c11]
+
+            ll = np.sum(w * (x * np.log(lam) - lam + y * np.log(nu) - nu + np.log(tau)))
+            ea, ed = att - prior_att, dfn - prior_def
+            penalite = np.sum(R * (ea**2 + ed**2))
+
+            gl, gn = w * (x - lam + dl), w * (y - nu + dn)
+            g = np.empty_like(th)
+            g[:n] = -(bt(hi, gl) + bt(ai, gn)) + 2 * R * ea
+            g[n:2*n] = -(bt(ai, gl) + bt(hi, gn)) + 2 * R * ed
+            g[2*n:2*n+C] = -bk(ci, gl)
+            g[2*n+C:2*n+2*C] = -(bk(ci, gl) + bk(ci, gn))
+            g[-1] = -np.sum(w * dr)
+            return -ll + penalite, g
+
+        if x0 is None:
+            x0 = np.zeros(2 * n + 2 * C + 1)
+            x0[2*n:2*n+C] = 0.1
+            x0[2*n+C:2*n+2*C] = 0.2
+        bornes = [(None, None)] * (2 * n + 2 * C) + [(-0.3, 0.3)]
+        return minimize(objectif, x0, jac=True, method="L-BFGS-B", bounds=bornes).x
+
+    def lambdas(self, th, i, j, c):
+        n, C = len(self.equipes), len(self.comps)
+        att, dfn = th[:n], th[n:2*n]
+        home, mu, rho = th[2*n:2*n+C], th[2*n+C:2*n+2*C], th[-1]
+        return np.exp(mu[c] + home[c] + att[i] + dfn[j]), np.exp(mu[c] + att[j] + dfn[i]), rho
+
+    def forces_lisibles(self, th):
+        n = len(self.equipes)
+        return {e: (float(np.exp(th[i])), float(np.exp(th[n+i]))) for i, e in enumerate(self.equipes)}

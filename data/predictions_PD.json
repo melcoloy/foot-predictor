@@ -280,7 +280,7 @@
     "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/92.png",
-    "lambda_dom": 1.34,
+    "lambda_dom": 1.35,
     "lambda_ext": 1.51,
     "p1": 0.334,
     "pN": 0.259,
@@ -298,7 +298,7 @@
     "logo_ext": "https://crests.football-data.org/559.png",
     "lambda_dom": 2.55,
     "lambda_ext": 0.78,
-    "p1": 0.753,
+    "p1": 0.752,
     "pN": 0.158,
     "p2": 0.09,
     "score_probable": "2-0"
@@ -492,7 +492,7 @@
     "lambda_ext": 1.01,
     "p1": 0.496,
     "pN": 0.264,
-    "p2": 0.24,
+    "p2": 0.241,
     "score_probable": "1-1"
   },
   {
@@ -764,7 +764,7 @@
     "lambda_ext": 1.25,
     "p1": 0.472,
     "pN": 0.249,
-    "p2": 0.28,
+    "p2": 0.279,
     "score_probable": "1-1"
   },
   {
@@ -1500,7 +1500,7 @@
     "lambda_ext": 1.16,
     "p1": 0.513,
     "pN": 0.242,
-    "p2": 0.244,
+    "p2": 0.245,
     "score_probable": "1-1"
   },
   {
@@ -2074,7 +2074,7 @@
     "logo_ext": "https://crests.football-data.org/560.png",
     "lambda_dom": 1.91,
     "lambda_ext": 0.88,
-    "p1": 0.611,
+    "p1": 0.612,
     "pN": 0.225,
     "p2": 0.163,
     "score_probable": "1-0"
@@ -2604,7 +2604,7 @@
     "lambda_ext": 1.53,
     "p1": 0.278,
     "pN": 0.264,
-    "p2": 0.459,
+    "p2": 0.458,
     "score_probable": "1-1"
   },
   {
@@ -3386,7 +3386,7 @@
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 2.48,
     "lambda_ext": 0.81,
-    "p1": 0.738,
+    "p1": 0.737,
     "pN": 0.165,
     "p2": 0.098,
     "score_probable": "2-0"
@@ -4232,7 +4232,7 @@
     "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/79.png",
-    "lambda_dom": 3.4,
+    "lambda_dom": 3.39,
     "lambda_ext": 0.72,
     "p1": 0.866,
     "pN": 0.092,
@@ -4394,7 +4394,7 @@
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 1.59,
     "lambda_ext": 0.82,
-    "p1": 0.552,
+    "p1": 0.551,
     "pN": 0.26,
     "p2": 0.188,
     "score_probable": "1-0"
@@ -4426,7 +4426,7 @@
     "logo_ext": "https://crests.football-data.org/560.png",
     "lambda_dom": 1.56,
     "lambda_ext": 0.98,
-    "p1": 0.504,
+    "p1": 0.505,
     "pN": 0.264,
     "p2": 0.231,
     "score_probable": "1-1"
