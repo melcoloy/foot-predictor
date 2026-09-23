@@ -2458,7 +2458,7 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.33,
     "lambda_ext": 1.37,
-    "p1": 0.355,
+    "p1": 0.354,
     "pN": 0.272,
     "p2": 0.373,
     "score_probable": "1-1"

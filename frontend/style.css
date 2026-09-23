@@ -40,7 +40,7 @@ body {
 }
 .vues button[aria-pressed="true"] { background: var(--craie); color: var(--pelouse); }
 
-/* Onglets des championnats : soulignés comme une ligne de craie */
+/* Onglets des compétitions : soulignés comme une ligne de craie */
 .ligues {
   display: flex; gap: 0.25rem;
   overflow-x: auto; overflow-y: hidden;
@@ -167,7 +167,7 @@ button:focus-visible { outline: 2px solid var(--dom); outline-offset: 2px; }
 
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
-/* Ta saison */
+/* Ta simulation */
 .bouton-sec {
   padding: 0.45rem 0.9rem; border: 2px solid var(--ligne); border-radius: 4px;
   background: transparent; color: var(--craie);
@@ -186,6 +186,7 @@ button:focus-visible { outline: 2px solid var(--dom); outline-offset: 2px; }
   background: color-mix(in srgb, var(--dom) 12%, transparent);
 }
 .banniere strong { font: 800 1.35rem "Barlow Condensed", sans-serif; }
+.banniere.perdu { border-left-color: var(--rel); background: color-mix(in srgb, var(--rel) 12%, transparent); }
 
 .resultats {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); column-gap: 1.5rem;
@@ -210,6 +211,54 @@ button:focus-visible { outline: 2px solid var(--dom); outline-offset: 2px; }
 .sim tr.z-ldc td.pos { box-shadow: inset 3px 0 0 var(--ext); }
 .sim tr.z-rel td.pos { box-shadow: inset 3px 0 0 var(--rel); }
 #s-tableau + .legende { margin-top: 0.75rem; }
+
+/* Phase finale simulée */
+.ko-liste { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+.ko-duel {
+  display: grid; grid-template-columns: 1fr 3.5rem 1fr; align-items: center; gap: 0.5rem;
+  padding: 0.5rem 0; border-bottom: 1px solid var(--ligne);
+}
+.ko-eq { display: flex; align-items: center; gap: 0.5rem; min-width: 0; font: 600 1.05rem "Barlow Condensed", sans-serif; color: var(--craie-douce); }
+.ko-eq.gauche { justify-content: flex-end; text-align: right; }
+.ko-eq.gagnant { color: var(--craie); font-weight: 800; }
+.ko-eq img, .ko-eq .logo-vide { width: 22px; height: 22px; object-fit: contain; flex-shrink: 0; }
+.ko-score { text-align: center; font: 800 1.1rem "Barlow Condensed", sans-serif; font-variant-numeric: tabular-nums; }
+.ko-detail { grid-column: 1 / -1; text-align: center; font-size: 0.75rem; color: var(--craie-douce); }
+
+/* Ta Ligue des champions */
+.pr-tie { padding: 0.7rem 0; border-bottom: 1px solid var(--ligne); }
+.pr-tete { display: flex; justify-content: space-between; gap: 1rem; margin-bottom: 0.4rem; font: 700 1.05rem "Barlow Condensed", sans-serif; }
+.pr-mid { font-weight: 600; font-size: 0.85rem; color: var(--craie-douce); white-space: nowrap; }
+
+.pr-leg { display: grid; grid-template-columns: 1fr auto 1fr 4.5rem; align-items: center; gap: 0.6rem; padding: 0.25rem 0; }
+.ko-liste > .pr-leg { border-bottom: 1px solid var(--ligne); padding: 0.45rem 0; }
+.pr-leg-nom { font-size: 0.75rem; color: var(--craie-douce); }
+.pr-eq { display: flex; align-items: center; gap: 0.5rem; min-width: 0; font: 600 1.05rem "Barlow Condensed", sans-serif; }
+.pr-eq.gauche { justify-content: flex-end; text-align: right; }
+.pr-eq img, .pr-eq .logo-vide { width: 22px; height: 22px; object-fit: contain; flex-shrink: 0; }
+.pr-tds { font-size: 0.75rem; font-weight: 600; color: var(--craie-douce); }
+
+.pr-saisie { display: flex; align-items: center; gap: 0.3rem; }
+.pr-saisie b { color: var(--craie-douce); }
+.pr-score {
+  width: 2.6rem; padding: 0.3rem 0; border: 2px solid var(--ligne); border-radius: 4px;
+  background: transparent; color: var(--craie);
+  font: 700 1rem "Barlow Condensed", sans-serif; text-align: center;
+  -moz-appearance: textfield;
+}
+.pr-score:focus { outline: none; border-color: var(--craie); }
+.pr-score::placeholder { color: var(--craie-douce); opacity: 0.5; font-weight: 400; }
+.pr-score::-webkit-outer-spin-button, .pr-score::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+
+.pr-bilan { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: 0.4rem 0 0; font-size: 0.85rem; color: var(--craie-douce); }
+.pr-bilan b { color: var(--craie); font: 700 1rem "Barlow Condensed", sans-serif; }
+.pr-tab { padding: 0.25rem 0.6rem; font-size: 0.85rem; }
+
+.pr-top8 { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.3rem 1rem; margin: 0 0 1.5rem; padding: 0; list-style: none; }
+.pr-top8 li { display: flex; align-items: center; gap: 0.5rem; font: 600 1rem "Barlow Condensed", sans-serif; }
+.pr-top8 img, .pr-top8 .logo-vide { width: 22px; height: 22px; object-fit: contain; }
+.pr-top8 > li > span:last-of-type { flex: 1; }
+.pr-top8 b { color: var(--craie-douce); font-weight: 600; font-size: 0.85rem; }
 
 /* Équipes */
 .eq-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.5rem; margin-top: 1.5rem; }
@@ -259,4 +308,6 @@ button:focus-visible { outline: 2px solid var(--dom); outline-offset: 2px; }
   .match { grid-template-columns: 1fr 1fr; grid-template-areas: "dom ext" "centre centre"; row-gap: 0.6rem; }
   .equipe.dom { justify-content: flex-end; flex-direction: row-reverse; text-align: left; }
   .equipe.ext { justify-content: flex-start; flex-direction: row-reverse; text-align: right; }
+  .pr-leg { grid-template-columns: 1fr auto 1fr; }
+  .pr-leg-nom { grid-column: 1 / -1; text-align: center; }
 }

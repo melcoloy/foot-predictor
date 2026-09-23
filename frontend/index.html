@@ -17,12 +17,15 @@
       <nav class="vues" aria-label="Section">
         <button data-vue="pronostics" aria-pressed="true">Pronostics</button>
         <button data-vue="simulation" aria-pressed="false">Simulation</button>
-        <button data-vue="saison" aria-pressed="false">Ta saison</button>
+        <button data-vue="saison" aria-pressed="false">Ta simulation</button>
+        <button data-vue="pronos" aria-pressed="false" hidden>Ta Ligue des champions</button>
         <button data-vue="equipes" aria-pressed="false">Équipes</button>
       </nav>
       <nav class="ligues" role="tablist" aria-label="Championnat"></nav>
     </header>
-
+    <section id="vue-pronos" hidden>
+      <div id="pr-contenu"></div>
+    </section>
     <main>
       <section id="vue-pronostics">
         <div class="journee">
@@ -53,7 +56,7 @@
       <section id="vue-saison" hidden>
         <div class="sim-entete">
           <div>
-            <h2>Ta saison</h2>
+            <h2>Ta simulation</h2>
             <p class="sim-texte">Chaque match restant est joué une seule fois, avec les buts attendus du modèle. Chaque saison est différente : rejoue autant de fois que tu veux.</p>
           </div>
           <button id="jouer" class="bouton">Jouer la fin de saison</button>
@@ -68,6 +71,7 @@
         <div id="s-banniere" aria-live="polite"></div>
         <div id="s-resultats"></div>
         <div id="s-tableau"></div>
+        <div id="s-ko"></div>
         <p class="legende">
           <span style="--c: var(--dom)">Champion</span>
           <span style="--c: var(--ext)">Ligue des champions</span>

@@ -16,7 +16,7 @@ const N_SIMS_C1 = 5000;
 const N_SIMS_FICHE = 3000;
 const DELAI_LECTURE = 1600;   // ms entre deux journées en lecture automatique
 const RENOMMER = { "Brighton Hove": "Brighton" };
-const VUES = { pronostics: "vue-pronostics", simulation: "vue-simulation", saison: "vue-saison", equipes: "vue-equipes" };
+const VUES = { pronostics: "vue-pronostics", simulation: "vue-simulation", saison: "vue-saison", equipes: "vue-equipes", pronos: "vue-pronos" };
 const GROUPES = [
   ["Gardiens", /keeper|goal/i],
   ["Défenseurs", /back|defen/i],
@@ -122,6 +122,7 @@ function choisirLigue(code) {
   etat.ligue = code;
   etat.equipe = null;
   document.querySelectorAll(".ligues button").forEach(b => b.setAttribute("aria-selected", b.dataset.code === code));
+  if (majOngletCL()) return;   // l'onglet C1 a disparu : choisirVue a déjà rafraîchi
   rafraichir();
 }
 
@@ -130,14 +131,15 @@ async function rafraichir() {
     if (etat.vue === "pronostics") await afficherPronostics();
     else if (etat.vue === "simulation") await lancerSimulation();
     else if (etat.vue === "saison") await afficherSaison();
-    else await afficherEquipes();
+    else if (etat.vue === "equipes") await afficherEquipes();
+    else await afficherPronos();
   } catch (err) {
     afficherErreur(err);
   }
 }
 
 function afficherErreur(err) {
-  const zones = { pronostics: "matchs", simulation: "sim-resultats", saison: "s-tableau", equipes: "eq-contenu" };
+  const zones = { pronostics: "matchs", simulation: "sim-resultats", saison: "s-tableau", equipes: "eq-contenu", pronos: "pr-contenu" };
   if (etat.vue === "pronostics") {
     document.getElementById("titre-journee").textContent = "Prédictions indisponibles";
     etat.journees = [];
@@ -372,7 +374,7 @@ function phaseFinale(forces, noms) {
     demis.push(q1, q2);
     finalistes.push(duelR(q1, q2));
   }
-  return { huit, quarts, demis, finalistes, titre: duelR(finalistes[0], finalistes[1]) };
+  return { huit, quarts, demis, finalistes, titre: finaleRapide(forces, finalistes[0], finalistes[1]) };
 }
 
 function simulerC1(classement, preds, forces, n) {
@@ -465,7 +467,8 @@ async function afficherSaison() {
   const preds = matchsLigue(ligue, await chargerJSON(`predictions_${ligue.code}.json`));
   if (ligue.code !== etat.ligue || etat.vue !== "saison") return;
   if (saison.ligue !== ligue.code) {
-    Object.assign(saison, { ligue: ligue.code, classement, preds, resultats: null, journees: [], etape: 0 });
+    const forces = ligue.phaseLigue ? await chargerJSON("forces_cl.json") : null;
+    Object.assign(saison, { ligue: ligue.code, classement, preds, forces, resultats: null, journees: [], etape: 0, ko: null });
   }
   rendreSaison();
 }
@@ -479,6 +482,8 @@ function nouvelleSaison() {
     saison.resultats.get(cle).push({ p, bd: poissonAlea(p.lambda_dom), bx: poissonAlea(p.lambda_ext) });
   }
   saison.journees = [...saison.resultats.keys()].sort((a, b) => a - b);
+  saison.etape = 0;
+  saison.ko = null;
   saison.etape = 0;
   rendreSaison();
   demarrerLecture();
@@ -519,6 +524,7 @@ function demarrerLecture() {
 function arreterLecture() {
   clearInterval(saison.timer);
   saison.timer = null;
+  if (saison.ko) { clearInterval(saison.ko.timer); saison.ko.timer = null; }
   majLecteur();
 }
 
@@ -623,6 +629,7 @@ function rendreSaison() {
     }
   }
   majLecteur();
+  rendreKO(fin, ligue, table);
 }
 
 /* ---------- Vue Équipes ---------- */
@@ -778,4 +785,479 @@ async function afficherEquipes() {
 /* ---------- Démarrage ---------- */
 
 construireNavigation();
+majOngletCL();
 rafraichir();
+
+/* ---------- Phase finale jouée pas à pas ---------- */
+
+const DELAI_KO = 2200;   // ms entre deux tours
+
+function matchNeutre(forces, a, b, facteur = 1) {   // finale : terrain neutre
+  const A = forces.equipes[a], B = forces.equipes[b];
+  return [poissonAlea(forces.mu * A.att * B.def * facteur),
+          poissonAlea(forces.mu * B.att * A.def * facteur)];
+}
+
+function finaleRapide(forces, a, b) {
+  let [ga, gb] = matchNeutre(forces, a, b);
+  if (ga === gb) { const [p, q] = matchNeutre(forces, a, b, 1 / 3); ga += p; gb += q; }
+  if (ga === gb) return Math.random() < 0.5 ? a : b;
+  return ga > gb ? a : b;
+}
+
+function finaleDetail(forces, a, b) {
+  const t = { type: "simple", g: a, d: b };
+  let [ga, gb] = matchNeutre(forces, a, b);
+  t.score = [ga, gb];
+  if (ga === gb) { const [p, q] = matchNeutre(forces, a, b, 1 / 3); ga += p; gb += q; t.prolongation = [p, q]; }
+  if (ga === gb) { t.vainqueur = Math.random() < 0.5 ? a : b; t.tab = true; }
+  else t.vainqueur = ga > gb ? a : b;
+  t.cumul = [ga, gb];
+  return t;
+}
+
+function duelDetail(forces, tete, autre) {
+  const [a1, b1] = matchC1(forces, autre, tete);   // aller chez l'équipe non tête de série
+  const [a2, b2] = matchC1(forces, tete, autre);   // retour
+  const t = { type: "double", g: tete, d: autre, aller: [b1, a1], retour: [a2, b2] };
+  let bt = a2 + b1, ba = a1 + b2;
+  if (bt === ba) { const [p, q] = matchC1(forces, tete, autre, 1 / 3); bt += p; ba += q; t.prolongation = [p, q]; }
+  if (bt === ba) { t.vainqueur = Math.random() < 0.5 ? tete : autre; t.tab = true; }
+  else t.vainqueur = bt > ba ? tete : autre;
+  t.cumul = [bt, ba];
+  return t;
+}
+
+function phaseFinaleDetail(forces, noms) {
+  const rang = new Map(noms.map((n, i) => [n, i]));
+  const duelR = (a, b) => rang.get(a) < rang.get(b) ? duelDetail(forces, a, b) : duelDetail(forces, b, a);
+  const melange = t => Math.random() < 0.5 ? t : [t[1], t[0]];
+  const tours = [];
+
+  const barrages = [];
+  const vPO = SECTIONS_PO.map(([s1, s2, u1, u2]) => {
+    const [a, b] = melange([u1, u2]);              // tirage dans la section
+    const d1 = duelDetail(forces, noms[s1], noms[a]);
+    const d2 = duelDetail(forces, noms[s2], noms[b]);
+    barrages.push(d1, d2);
+    return [d1.vainqueur, d2.vainqueur];
+  });
+  tours.push({ nom: "Barrages", ties: barrages });
+
+  const huitiemes = [];
+  const h = SECTIONS_R16.map(([t1, t2, po]) => {
+    const [x, y] = melange(vPO[po]);
+    const [g1, g2] = melange([noms[t1], noms[t2]]);   // répartition dans les deux moitiés
+    const d1 = duelDetail(forces, g1, x), d2 = duelDetail(forces, g2, y);
+    huitiemes.push(d1, d2);
+    return [d1.vainqueur, d2.vainqueur];
+  });
+  tours.push({ nom: "Huitièmes de finale", ties: huitiemes });
+
+  const quarts = [], demis = [], finalistes = [];
+  for (const k of [0, 1]) {                        // une moitié de tableau à la fois
+    const q1 = duelR(h[0][k], h[3][k]);            // A contre D
+    const q2 = duelR(h[1][k], h[2][k]);            // B contre C
+    quarts.push(q1, q2);
+    const s = duelR(q1.vainqueur, q2.vainqueur);
+    demis.push(s);
+    finalistes.push(s.vainqueur);
+  }
+  tours.push({ nom: "Quarts de finale", ties: quarts });
+  tours.push({ nom: "Demi-finales", ties: demis });
+  tours.push({ nom: "Finale", ties: [finaleDetail(forces, finalistes[0], finalistes[1])] });
+  return tours;
+}
+
+function duelHTML(t, infos) {
+  const club = nm => infos.get(nm) || { court: nm, logo: null };
+  const gagne = c => t.vainqueur === c ? " gagnant" : "";
+  const detail = t.type === "double"
+    ? `aller ${t.aller[0]}–${t.aller[1]}, retour ${t.retour[0]}–${t.retour[1]}`
+      + (t.prolongation ? `, prol. ${t.prolongation[0]}–${t.prolongation[1]}` : "")
+      + (t.tab ? ", tirs au but" : "")
+    : `match sec${t.prolongation ? ", prolongation" : ""}${t.tab ? " et tirs au but" : ""}`;
+  return `<li class="ko-duel">
+    <span class="ko-eq gauche${gagne(t.g)}">${renommer(club(t.g).court)}${logo(club(t.g).logo, 22)}</span>
+    <span class="ko-score">${t.cumul[0]}–${t.cumul[1]}</span>
+    <span class="ko-eq${gagne(t.d)}">${logo(club(t.d).logo, 22)}${renommer(club(t.d).court)}</span>
+    <span class="ko-detail">${detail}</span>
+  </li>`;
+}
+
+function rendreKO(ligueFinie, ligue, table) {
+  const zone = document.getElementById("s-ko");
+  if (!ligue.phaseLigue || !ligueFinie) { zone.innerHTML = ""; return; }
+
+  const infos = new Map(saison.classement.map(e => [e.equipe, e]));
+  const ko = saison.ko;
+
+  if (!ko) {
+    zone.innerHTML = `<h3 class="eq-titre">Phase finale</h3>
+      <p class="sim-texte">Les 8 premiers sont qualifiés pour les huitièmes. Les 9e à 24e passent par les barrages, appariés selon le tableau UEFA : 9-10 contre 23-24, 11-12 contre 21-22, 13-14 contre 19-20, 15-16 contre 17-18.</p>
+      <button class="bouton" id="ko-jouer">Simuler la phase finale</button>`;
+    return;
+  }
+
+  const fini = ko.etape >= ko.tours.length;
+  const champion = fini ? infos.get(ko.tours.at(-1).ties[0].vainqueur) : null;
+
+  zone.innerHTML = `<h3 class="eq-titre">Phase finale</h3>
+    <div class="lecteur">
+      <button class="bouton-sec" id="ko-lecture"${fini ? " disabled" : ""}>${ko.timer ? "Pause" : "Lecture"}</button>
+      <button class="bouton-sec" id="ko-tout"${fini ? " disabled" : ""}>Tout afficher</button>
+      <button class="bouton-sec" id="ko-rejouer">Rejouer la phase finale</button>
+    </div>
+    ${champion ? `<p class="banniere"><strong>${renommer(champion.court)} remporte la Ligue des champions</strong>.</p>` : ""}
+    ${ko.tours.slice(0, ko.etape).map(t =>
+      `<h4 class="jour">${t.nom}</h4><ul class="ko-liste">${t.ties.map(x => duelHTML(x, infos)).join("")}</ul>`
+    ).join("")}`;
+}
+
+function lancerKO() {
+  const table = tableApres(saison.journees.length);
+  const noms = table.slice(0, 24).map(e => e.equipe);
+  saison.ko = { tours: phaseFinaleDetail(saison.forces, noms), etape: 0, timer: null };
+  avancerKO(1);
+  saison.ko.timer = setInterval(() => {
+    avancerKO(1);
+    if (saison.ko.etape >= saison.ko.tours.length) { clearInterval(saison.ko.timer); saison.ko.timer = null; rendreSaison(); }
+  }, DELAI_KO);
+}
+
+function avancerKO(pas) {
+  saison.ko.etape = Math.min(saison.ko.etape + pas, saison.ko.tours.length);
+  rendreSaison();
+}
+
+document.getElementById("s-ko").addEventListener("click", e => {
+  if (e.target.closest("#ko-jouer") || e.target.closest("#ko-rejouer")) {
+    if (saison.ko?.timer) clearInterval(saison.ko.timer);
+    lancerKO();
+    return;
+  }
+  if (e.target.closest("#ko-tout")) {
+    if (saison.ko.timer) { clearInterval(saison.ko.timer); saison.ko.timer = null; }
+    avancerKO(Infinity);
+    return;
+  }
+  if (e.target.closest("#ko-lecture")) {
+    if (saison.ko.timer) { clearInterval(saison.ko.timer); saison.ko.timer = null; rendreSaison(); }
+    else {
+      saison.ko.timer = setInterval(() => {
+        avancerKO(1);
+        if (saison.ko.etape >= saison.ko.tours.length) { clearInterval(saison.ko.timer); saison.ko.timer = null; rendreSaison(); }
+      }, DELAI_KO);
+      avancerKO(1);
+    }
+  }
+});
+
+/* ---------- Ta Ligue des champions : pronostics de l'utilisateur ---------- */
+
+const CLE_PRONOS = "foot-predictor-pronos-cl";
+const pro = { preds: [], classement: [], forces: null, picks: {}, bracket: null, seeds: new Map(), pret: false };
+
+const idMatch = p => `${p.dom}|${p.ext}`;
+const scoreModele = p => (p.score_probable || "1-1").split("-").map(Number);
+const parSec = (ties, s) => ties.filter(t => t.sec === s);
+const tousFinis = ties => ties.length > 0 && ties.every(t => t.v);
+const melange = t => Math.random() < 0.5 ? t : [t[1], t[0]];
+const tds = nm => pro.seeds.has(nm) ? ` <small class="pr-tds">(${pro.seeds.get(nm)})</small>` : "";
+const complet = l => l && l.every(x => x !== null && x !== "");
+
+function majOngletCL() {
+  const b = document.querySelector('.vues button[data-vue="pronos"]');
+  const dispo = !!ligueActive().phaseLigue;
+  if (b) b.hidden = !dispo;
+  if (!dispo && etat.vue === "pronos") { choisirVue("pronostics"); return true; }
+  return false;
+}
+
+function proCharger() {
+  try {
+    const d = JSON.parse(localStorage.getItem(CLE_PRONOS) || "{}");
+    pro.picks = d.picks || {};
+    pro.bracket = d.bracket || null;
+  } catch { pro.picks = {}; pro.bracket = null; }
+}
+
+function proSauver() {
+  try { localStorage.setItem(CLE_PRONOS, JSON.stringify({ picks: pro.picks, bracket: pro.bracket })); } catch {}
+}
+
+function proClassement() {
+  const t = new Map(pro.classement.map(e => [e.equipe, { ...e }]));
+  for (const p of pro.preds) {
+    const d = t.get(p.dom), x = t.get(p.ext);
+    if (!d || !x) continue;
+    const [bd, be] = pro.picks[idMatch(p)] || scoreModele(p);
+    d.j++; x.j++;
+    d.bp += bd; d.bc += be; x.bp += be; x.bc += bd;
+    if (bd > be) { d.pts += 3; d.g++; x.p++; }
+    else if (bd < be) { x.pts += 3; x.g++; d.p++; }
+    else { d.pts++; x.pts++; d.n++; x.n++; }
+  }
+  return [...t.values()].sort((a, b) =>
+    b.pts - a.pts || (b.bp - b.bc) - (a.bp - a.bc) || b.bp - a.bp || a.equipe.localeCompare(b.equipe));
+}
+
+function probaDuel(a, b, n = 1200) {   // a est tête de série (reçoit au retour)
+  let v = 0;
+  for (let i = 0; i < n; i++) if (duel(pro.forces, a, b) === a) v++;
+  return v / n;
+}
+
+// tie : a = tête de série (reçoit au retour), b = adversaire
+// l1 = aller chez b [buts b, buts a] ; l2 = retour chez a [buts a, buts b]
+function tie(a, b, sec, half, sec_match = false) {
+  return { a, b, sec, half, sec_match, l1: [null, null], l2: [null, null], tab: null, v: null,
+           p: Math.round(probaDuel(a, b) * 100) };
+}
+
+function resoudre(t) {
+  if (t.sec_match) {
+    if (!complet(t.l1)) { t.v = null; return; }
+    const [ga, gb] = t.l1;
+    t.v = ga > gb ? t.a : ga < gb ? t.b : t.tab;
+    t.cumul = [ga, gb];
+    return;
+  }
+  if (!complet(t.l1) || !complet(t.l2)) { t.v = null; return; }
+  const ba = +t.l1[1] + +t.l2[0], bb = +t.l1[0] + +t.l2[1];
+  t.cumul = [ba, bb];
+  t.v = ba > bb ? t.a : ba < bb ? t.b : t.tab;
+}
+
+function ordonne(x, y) {
+  return (pro.seeds.get(x) ?? 99) < (pro.seeds.get(y) ?? 99) ? [x, y] : [y, x];
+}
+
+function proTirage() {
+  const noms = proClassement().slice(0, 24).map(e => e.equipe);
+  const po = [];
+  SECTIONS_PO.forEach(([s1, s2, u1, u2], sec) => {
+    const [x, y] = melange([u1, u2]);              // tirage dans la section
+    po.push(tie(noms[s1], noms[x], sec, 0), tie(noms[s2], noms[y], sec, 1));
+  });
+  pro.bracket = { noms, po, r16: null, qf: null, sf: null, fin: null };
+  proSauver();
+}
+
+function proSuite() {
+  const b = pro.bracket;
+  if (!b) return;
+  for (const tour of ["po", "r16", "qf", "sf", "fin"]) (b[tour] || []).forEach(resoudre);
+
+  if (!b.r16 && tousFinis(b.po)) {
+    b.r16 = [];
+    SECTIONS_R16.forEach(([t1, t2, secPO], sec) => {
+      const [x, y] = melange(parSec(b.po, secPO).map(t => t.v));
+      const [g1, g2] = melange([b.noms[t1], b.noms[t2]]);   // répartition dans les deux moitiés
+      b.r16.push(tie(g1, x, sec, 0), tie(g2, y, sec, 1));
+    });
+  }
+  if (b.r16 && !b.qf && tousFinis(b.r16)) {
+    const gagnant = (sec, half) => b.r16.find(t => t.sec === sec && t.half === half).v;
+    b.qf = [0, 1].flatMap(k => [
+      tie(...ordonne(gagnant(0, k), gagnant(3, k)), 0, k),   // A contre D
+      tie(...ordonne(gagnant(1, k), gagnant(2, k)), 1, k),   // B contre C
+    ]);
+  }
+  if (b.qf && !b.sf && tousFinis(b.qf)) {
+    b.sf = [tie(...ordonne(b.qf[0].v, b.qf[1].v), 0, 0), tie(...ordonne(b.qf[2].v, b.qf[3].v), 0, 1)];
+  }
+  if (b.sf && !b.fin && tousFinis(b.sf)) {
+    b.fin = [tie(...ordonne(b.sf[0].v, b.sf[1].v), 0, 0, true)];   // match sec sur terrain neutre
+  }
+}
+
+function proClub(nm) {
+  return pro.classement.find(e => e.equipe === nm) || { court: nm, logo: null };
+}
+
+function nomClub(nm, droite = false) {
+  const c = proClub(nm);
+  return droite
+    ? `${logo(c.logo, 22)}<span>${renommer(c.court)}${tds(nm)}</span>`
+    : `<span>${renommer(c.court)}${tds(nm)}</span>${logo(c.logo, 22)}`;
+}
+
+function champScore(tour, i, leg, side, valeur) {
+  return `<input class="pr-score" type="number" min="0" max="20" inputmode="numeric"
+    data-tour="${tour}" data-i="${i}" data-leg="${leg}" data-side="${side}"
+    value="${valeur ?? ""}" aria-label="Buts">`;
+}
+
+function ligneLeg(t, tour, i, leg, libelle) {
+  const dom = leg === 1 ? t.b : t.a;   // le retour se joue chez la tête de série
+  const ext = leg === 1 ? t.a : t.b;
+  const sc = leg === 1 ? t.l1 : t.l2;
+  return `<div class="pr-leg">
+    <span class="pr-eq gauche">${nomClub(dom)}</span>
+    <span class="pr-saisie">${champScore(tour, i, leg, 0, sc[0])}<b>–</b>${champScore(tour, i, leg, 1, sc[1])}</span>
+    <span class="pr-eq droite">${nomClub(ext, true)}</span>
+    <span class="pr-leg-nom">${libelle}</span>
+  </div>`;
+}
+
+function bilanTie(t, tour, i) {
+  if (!t.cumul) return `<p class="pr-bilan">Entre les scores pour désigner le qualifié.</p>`;
+  const egalite = t.cumul[0] === t.cumul[1];
+  if (egalite && !t.v) {
+    return `<p class="pr-bilan">Cumul ${t.cumul[0]}–${t.cumul[1]} : qui passe aux tirs au but ?
+      <button class="bouton-sec pr-tab" data-tour="${tour}" data-i="${i}" data-tab="${t.a}">${renommer(proClub(t.a).court)}</button>
+      <button class="bouton-sec pr-tab" data-tour="${tour}" data-i="${i}" data-tab="${t.b}">${renommer(proClub(t.b).court)}</button></p>`;
+  }
+  return `<p class="pr-bilan"><b>${renommer(proClub(t.v).court)}</b> qualifié (${t.cumul[0]}–${t.cumul[1]}${egalite ? ", tirs au but" : ""}).</p>`;
+}
+
+function tieHTML(t, tour, i) {
+  return `<li class="pr-tie">
+    <div class="pr-tete">
+      <span>${renommer(proClub(t.a).court)}${tds(t.a)} — ${renommer(proClub(t.b).court)}${tds(t.b)}</span>
+      <span class="pr-mid" title="Probabilité de qualification selon le modèle">${t.p}\u202F%</span>
+    </div>
+    ${t.sec_match
+      ? `<div class="pr-leg">
+          <span class="pr-eq gauche">${nomClub(t.a)}</span>
+          <span class="pr-saisie">${champScore(tour, i, 1, 0, t.l1[0])}<b>–</b>${champScore(tour, i, 1, 1, t.l1[1])}</span>
+          <span class="pr-eq droite">${nomClub(t.b, true)}</span>
+          <span class="pr-leg-nom">terrain neutre</span>
+        </div>`
+      : ligneLeg(t, tour, i, 1, "aller") + ligneLeg(t, tour, i, 2, "retour")}
+    ${bilanTie(t, tour, i)}
+  </li>`;
+}
+
+function tourHTML(nom, ties, tour) {
+  if (!ties) return "";
+  return `<h4 class="jour">${nom}</h4><ul class="ko-liste">${ties.map((t, i) => tieHTML(t, tour, i)).join("")}</ul>`;
+}
+
+function rendrePronos() {
+  const zone = document.getElementById("pr-contenu");
+  const b = pro.bracket;
+  const table = proClassement();
+  pro.seeds = new Map(table.map((e, i) => [e.equipe, i + 1]));
+  const remplis = pro.preds.filter(p => pro.picks[idMatch(p)]).length;
+
+  if (!b) {
+    const parJ = new Map();
+    for (const p of pro.preds) {
+      const cle = p.journee ?? 0;
+      if (!parJ.has(cle)) parJ.set(cle, []);
+      parJ.get(cle).push(p);
+    }
+    const saisie = p => {
+      const sc = pro.picks[idMatch(p)], mod = scoreModele(p);
+      const champ = s => `<input class="pr-score" type="number" min="0" max="20" inputmode="numeric"
+        data-match="${idMatch(p)}" data-side="${s}" value="${sc ? sc[s] : ""}" placeholder="${mod[s]}" aria-label="Buts">`;
+      return `<span class="pr-saisie">${champ(0)}<b>–</b>${champ(1)}</span>`;
+    };
+    zone.innerHTML = `
+      <div class="sim-entete">
+        <div>
+          <h2>Ta Ligue des champions</h2>
+          <p class="sim-texte">Entre le score exact des ${pro.preds.length} matchs restants de la phase de ligue, puis pronostique l'arbre jusqu'à la finale. Les scores grisés sont ceux du modèle, utilisés pour les matchs laissés vides. Tes choix sont conservés dans ce navigateur.</p>
+        </div>
+        <button class="bouton" id="pr-tirage">Valider et tirer au sort</button>
+      </div>
+      <p id="sim-info">${remplis} matchs remplis sur ${pro.preds.length}.</p>
+      <div class="lecteur">
+        <button class="bouton-sec" id="pr-modele">Remplir avec le modèle</button>
+        <button class="bouton-sec" id="pr-vider">Tout effacer</button>
+      </div>
+      ${[...parJ].sort((x, y) => x[0] - y[0]).map(([j, liste]) => `
+        <h4 class="jour">Journée ${j}</h4>
+        <ul class="ko-liste">${liste.map(p => `<li class="pr-leg">
+          <span class="pr-eq gauche"><span>${nom(p, "dom")}</span>${logo(p.logo_dom, 22)}</span>
+          ${saisie(p)}
+          <span class="pr-eq droite">${logo(p.logo_ext, 22)}<span>${nom(p, "ext")}</span></span>
+        </li>`).join("")}</ul>`).join("")}`;
+    return;
+  }
+
+  proSuite();
+  const champion = b.fin?.[0]?.v;
+  zone.innerHTML = `
+    <div class="sim-entete">
+      <div>
+        <h2>Ta Ligue des champions</h2>
+        <p class="sim-texte">Entre les scores de chaque match : l'équipe à domicile est affichée à gauche, et le retour se joue chez la tête de série. Le numéro entre parenthèses est la place à l'issue de ta phase de ligue. Tirage selon le tableau UEFA : 9-10 contre 23-24, 11-12 contre 21-22, 13-14 contre 19-20, 15-16 contre 17-18.</p>
+      </div>
+      <button class="bouton-sec" id="pr-retour">Modifier la phase de ligue</button>
+    </div>
+    ${champion ? `<p class="banniere"><strong>${renommer(proClub(champion).court)} remporte ta Ligue des champions</strong>.</p>` : ""}
+    <h4 class="jour">Ton top 8 (qualifié directement pour les huitièmes)</h4>
+    <ol class="pr-top8">${table.slice(0, 8).map((e, i) =>
+      `<li><span class="pr-tds">${i + 1}</span>${logo(e.logo, 22)}<span>${renommer(e.court)}</span><b>${e.pts}</b></li>`).join("")}</ol>
+    ${tourHTML("Barrages", b.po, "po")}
+    ${tourHTML("Huitièmes de finale", b.r16, "r16")}
+    ${tourHTML("Quarts de finale", b.qf, "qf")}
+    ${tourHTML("Demi-finales", b.sf, "sf")}
+    ${tourHTML("Finale", b.fin, "fin")}`;
+}
+
+function invaliderApres(tour) {
+  const suite = ["po", "r16", "qf", "sf", "fin"];
+  for (const s of suite.slice(suite.indexOf(tour) + 1)) pro.bracket[s] = null;
+}
+
+function preparerPronos() {
+  if (pro.pret) return;
+  pro.pret = true;
+  proCharger();
+  const zone = document.getElementById("vue-pronos");
+
+  zone.addEventListener("change", e => {
+    const champ = e.target.closest(".pr-score");
+    if (!champ) return;
+    const val = champ.value === "" ? null : Math.max(0, Math.min(20, +champ.value));
+
+    if (champ.dataset.match) {                       // phase de ligue
+      const cle = champ.dataset.match, s = +champ.dataset.side;
+      const p = pro.preds.find(x => idMatch(x) === cle);
+      const actuel = pro.picks[cle] || [...scoreModele(p)];
+      actuel[s] = val;
+      if (actuel[0] === null && actuel[1] === null) delete pro.picks[cle];
+      else pro.picks[cle] = [actuel[0] ?? scoreModele(p)[0], actuel[1] ?? scoreModele(p)[1]];
+    } else {                                         // phase finale
+      const { tour, i, leg, side } = champ.dataset;
+      const t = pro.bracket[tour][+i];
+      (leg === "1" ? t.l1 : t.l2)[+side] = val;
+      t.tab = null;
+      resoudre(t);
+      invaliderApres(tour);
+    }
+    proSauver(); rendrePronos();
+  });
+
+  zone.addEventListener("click", e => {
+    const tab = e.target.closest(".pr-tab");
+    if (tab) {
+      const t = pro.bracket[tab.dataset.tour][+tab.dataset.i];
+      t.tab = tab.dataset.tab;
+      resoudre(t);
+      invaliderApres(tab.dataset.tour);
+      proSauver(); rendrePronos(); return;
+    }
+    if (e.target.closest("#pr-tirage")) { proTirage(); rendrePronos(); return; }
+    if (e.target.closest("#pr-retour")) { pro.bracket = null; proSauver(); rendrePronos(); return; }
+    if (e.target.closest("#pr-modele")) {
+      for (const p of pro.preds) pro.picks[idMatch(p)] = scoreModele(p);
+      proSauver(); rendrePronos(); return;
+    }
+    if (e.target.closest("#pr-vider")) { pro.picks = {}; proSauver(); rendrePronos(); }
+  });
+}
+
+async function afficherPronos() {
+  preparerPronos();
+  const ligue = ligueActive();
+  pro.classement = await chargerJSON(`classement_${ligue.code}.json`);
+  pro.preds = matchsLigue(ligue, await chargerJSON(`predictions_${ligue.code}.json`));
+  pro.forces = await chargerJSON("forces_cl.json");
+  if (etat.vue !== "pronos") return;
+  rendrePronos();
+}
