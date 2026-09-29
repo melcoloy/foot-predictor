@@ -10,7 +10,7 @@
     "logo_ext": "https://crests.football-data.org/12.png",
     "lambda_dom": 2.38,
     "lambda_ext": 0.66,
-    "p1": 0.753,
+    "p1": 0.752,
     "pN": 0.167,
     "p2": 0.081,
     "score_probable": "2-0"
@@ -328,7 +328,7 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.51,
+    "lambda_dom": 1.52,
     "lambda_ext": 1.25,
     "p1": 0.427,
     "pN": 0.266,
@@ -348,7 +348,7 @@
     "lambda_ext": 1.15,
     "p1": 0.611,
     "pN": 0.207,
-    "p2": 0.183,
+    "p2": 0.182,
     "score_probable": "2-1"
   },
   {
@@ -444,7 +444,7 @@
     "lambda_ext": 1.33,
     "p1": 0.44,
     "pN": 0.254,
-    "p2": 0.305,
+    "p2": 0.306,
     "score_probable": "1-1"
   },
   {
@@ -828,7 +828,7 @@
     "lambda_ext": 1.64,
     "p1": 0.292,
     "pN": 0.255,
-    "p2": 0.452,
+    "p2": 0.453,
     "score_probable": "1-1"
   },
   {
@@ -1225,8 +1225,8 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "lambda_dom": 1.22,
-    "lambda_ext": 1.17,
-    "p1": 0.365,
+    "lambda_ext": 1.18,
+    "p1": 0.366,
     "pN": 0.292,
     "p2": 0.343,
     "score_probable": "1-1"
@@ -1258,7 +1258,7 @@
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.41,
     "lambda_ext": 1.93,
-    "p1": 0.276,
+    "p1": 0.277,
     "pN": 0.232,
     "p2": 0.492,
     "score_probable": "1-1"
@@ -1338,9 +1338,9 @@
     "logo_ext": "https://crests.football-data.org/7.png",
     "lambda_dom": 1.87,
     "lambda_ext": 1.04,
-    "p1": 0.561,
+    "p1": 0.56,
     "pN": 0.237,
-    "p2": 0.202,
+    "p2": 0.203,
     "score_probable": "1-1"
   },
   {
@@ -1466,7 +1466,7 @@
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 1.11,
     "lambda_ext": 1.89,
-    "p1": 0.214,
+    "p1": 0.215,
     "pN": 0.236,
     "p2": 0.55,
     "score_probable": "1-1"
@@ -1802,7 +1802,7 @@
     "logo_ext": "https://crests.football-data.org/6.png",
     "lambda_dom": 2.09,
     "lambda_ext": 0.91,
-    "p1": 0.64,
+    "p1": 0.641,
     "pN": 0.211,
     "p2": 0.149,
     "score_probable": "2-0"
@@ -1963,7 +1963,7 @@
     "lambda_dom": 1.57,
     "lambda_ext": 2.66,
     "p1": 0.211,
-    "pN": 0.184,
+    "pN": 0.185,
     "p2": 0.605,
     "score_probable": "1-2"
   },
@@ -2282,7 +2282,7 @@
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 3.87,
     "lambda_ext": 0.91,
-    "p1": 0.876,
+    "p1": 0.877,
     "pN": 0.08,
     "p2": 0.043,
     "score_probable": "3-0"
@@ -2460,7 +2460,7 @@
     "lambda_ext": 1.37,
     "p1": 0.354,
     "pN": 0.272,
-    "p2": 0.373,
+    "p2": 0.374,
     "score_probable": "1-1"
   },
   {
@@ -2524,7 +2524,7 @@
     "lambda_ext": 1.76,
     "p1": 0.292,
     "pN": 0.245,
-    "p2": 0.464,
+    "p2": 0.463,
     "score_probable": "1-1"
   },
   {
@@ -2648,7 +2648,7 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 1.79,
+    "lambda_dom": 1.8,
     "lambda_ext": 1.39,
     "p1": 0.466,
     "pN": 0.242,
@@ -2874,7 +2874,7 @@
     "logo_ext": "https://crests.football-data.org/29.png",
     "lambda_dom": 1.28,
     "lambda_ext": 1.18,
-    "p1": 0.38,
+    "p1": 0.381,
     "pN": 0.286,
     "p2": 0.333,
     "score_probable": "1-1"
@@ -3449,7 +3449,7 @@
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "lambda_dom": 1.37,
-    "lambda_ext": 1.01,
+    "lambda_ext": 1.02,
     "p1": 0.442,
     "pN": 0.287,
     "p2": 0.271,
@@ -3899,7 +3899,7 @@
     "lambda_dom": 1.68,
     "lambda_ext": 1.46,
     "p1": 0.423,
-    "pN": 0.248,
+    "pN": 0.247,
     "p2": 0.33,
     "score_probable": "1-1"
   },
@@ -3996,7 +3996,7 @@
     "lambda_ext": 1.66,
     "p1": 0.406,
     "pN": 0.235,
-    "p2": 0.358,
+    "p2": 0.359,
     "score_probable": "1-1"
   },
   {
