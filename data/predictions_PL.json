@@ -460,7 +460,7 @@
     "lambda_ext": 1.33,
     "p1": 0.309,
     "pN": 0.305,
-    "p2": 0.386,
+    "p2": 0.387,
     "score_probable": "1-1"
   },
   {
@@ -506,7 +506,7 @@
     "logo_ext": "https://crests.football-data.org/397.png",
     "lambda_dom": 1.91,
     "lambda_ext": 1.05,
-    "p1": 0.559,
+    "p1": 0.558,
     "pN": 0.251,
     "p2": 0.191,
     "score_probable": "1-1"
@@ -653,7 +653,7 @@
     "p1": 0.541,
     "pN": 0.288,
     "p2": 0.171,
-    "score_probable": "1-0"
+    "score_probable": "1-1"
   },
   {
     "date": "2026-11-07T12:30:00Z",
@@ -681,7 +681,7 @@
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/322.png",
     "lambda_dom": 1.86,
-    "lambda_ext": 0.59,
+    "lambda_ext": 0.6,
     "p1": 0.664,
     "pN": 0.238,
     "p2": 0.098,
@@ -780,7 +780,7 @@
     "lambda_ext": 1.18,
     "p1": 0.472,
     "pN": 0.274,
-    "p2": 0.253,
+    "p2": 0.254,
     "score_probable": "1-1"
   },
   {
@@ -1020,7 +1020,7 @@
     "lambda_ext": 1.58,
     "p1": 0.304,
     "pN": 0.277,
-    "p2": 0.419,
+    "p2": 0.418,
     "score_probable": "1-1"
   },
   {
@@ -1528,7 +1528,7 @@
     "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/58.png",
-    "lambda_dom": 1.08,
+    "lambda_dom": 1.09,
     "lambda_ext": 1.47,
     "p1": 0.263,
     "pN": 0.296,
@@ -1563,7 +1563,7 @@
     "lambda_dom": 2.49,
     "lambda_ext": 1.02,
     "p1": 0.683,
-    "pN": 0.191,
+    "pN": 0.192,
     "p2": 0.126,
     "score_probable": "2-1"
   },
@@ -1724,7 +1724,7 @@
     "lambda_ext": 0.92,
     "p1": 0.577,
     "pN": 0.254,
-    "p2": 0.168,
+    "p2": 0.169,
     "score_probable": "1-1"
   },
   {
@@ -1880,9 +1880,9 @@
     "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/61.png",
-    "lambda_dom": 1.2,
+    "lambda_dom": 1.21,
     "lambda_ext": 1.65,
-    "p1": 0.263,
+    "p1": 0.264,
     "pN": 0.275,
     "p2": 0.461,
     "score_probable": "1-1"
@@ -1978,7 +1978,7 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.75,
     "lambda_ext": 1.52,
-    "p1": 0.167,
+    "p1": 0.168,
     "pN": 0.293,
     "p2": 0.54,
     "score_probable": "0-1"
@@ -2476,7 +2476,7 @@
     "lambda_ext": 1.61,
     "p1": 0.343,
     "pN": 0.268,
-    "p2": 0.39,
+    "p2": 0.389,
     "score_probable": "1-1"
   },
   {
@@ -2506,7 +2506,7 @@
     "logo_ext": "https://crests.football-data.org/62.png",
     "lambda_dom": 0.95,
     "lambda_ext": 1.28,
-    "p1": 0.258,
+    "p1": 0.259,
     "pN": 0.321,
     "p2": 0.421,
     "score_probable": "1-1"
@@ -3048,7 +3048,7 @@
     "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/341.png",
-    "lambda_dom": 1.26,
+    "lambda_dom": 1.27,
     "lambda_ext": 1.06,
     "p1": 0.392,
     "pN": 0.317,
@@ -3194,7 +3194,7 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.76,
     "lambda_ext": 1.95,
-    "p1": 0.123,
+    "p1": 0.124,
     "pN": 0.236,
     "p2": 0.64,
     "score_probable": "0-2"
@@ -3580,7 +3580,7 @@
     "lambda_ext": 0.6,
     "p1": 0.708,
     "pN": 0.209,
-    "p2": 0.083,
+    "p2": 0.084,
     "score_probable": "2-0"
   },
   {
@@ -4187,7 +4187,7 @@
     "lambda_dom": 1.28,
     "lambda_ext": 1.04,
     "p1": 0.402,
-    "pN": 0.317,
+    "pN": 0.316,
     "p2": 0.282,
     "score_probable": "1-1"
   },
@@ -4252,7 +4252,7 @@
     "lambda_ext": 0.74,
     "p1": 0.643,
     "pN": 0.237,
-    "p2": 0.12,
+    "p2": 0.121,
     "score_probable": "2-0"
   },
   {
@@ -4648,7 +4648,7 @@
     "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/64.png",
-    "lambda_dom": 2.09,
+    "lambda_dom": 2.08,
     "lambda_ext": 1.03,
     "p1": 0.603,
     "pN": 0.232,
@@ -4699,7 +4699,7 @@
     "lambda_dom": 1.47,
     "lambda_ext": 0.97,
     "p1": 0.471,
-    "pN": 0.299,
+    "pN": 0.298,
     "p2": 0.231,
     "score_probable": "1-1"
   },
@@ -4779,7 +4779,7 @@
     "lambda_dom": 1.32,
     "lambda_ext": 0.91,
     "p1": 0.441,
-    "pN": 0.318,
+    "pN": 0.317,
     "p2": 0.241,
     "score_probable": "1-1"
   },
@@ -5067,7 +5067,7 @@
     "lambda_dom": 1.84,
     "lambda_ext": 1.44,
     "p1": 0.457,
-    "pN": 0.254,
+    "pN": 0.255,
     "p2": 0.289,
     "score_probable": "1-1"
   },
