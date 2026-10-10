@@ -687,6 +687,20 @@
         "buts": 2
       },
       {
+        "nom": "Nico Schlotterbeck",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1999-12-01",
+        "buts": 1
+      },
+      {
+        "nom": "Daniel Svensson",
+        "poste": "Defence",
+        "nationalite": "Sweden",
+        "naissance": "2002-02-12",
+        "buts": 1
+      },
+      {
         "nom": "Maximilian Beier",
         "poste": "Offence",
         "nationalite": "Germany",
@@ -747,20 +761,6 @@
         "poste": "Defence",
         "nationalite": "Norway",
         "naissance": "1997-11-17",
-        "buts": 0
-      },
-      {
-        "nom": "Nico Schlotterbeck",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1999-12-01",
-        "buts": 0
-      },
-      {
-        "nom": "Daniel Svensson",
-        "poste": "Defence",
-        "nationalite": "Sweden",
-        "naissance": "2002-02-12",
         "buts": 0
       },
       {
@@ -1722,7 +1722,7 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1993-02-09",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Marco Grüll",
@@ -1736,6 +1736,13 @@
         "poste": "Defence",
         "nationalite": "Germany",
         "naissance": "1994-04-21",
+        "buts": 1
+      },
+      {
+        "nom": "Ludovit Reis",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2000-06-01",
         "buts": 1
       },
       {
@@ -1848,13 +1855,6 @@
         "poste": "Defence",
         "nationalite": "Poland",
         "naissance": "2003-07-21",
-        "buts": 0
-      },
-      {
-        "nom": "Ludovit Reis",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "2000-06-01",
         "buts": 0
       },
       {

@@ -3,13 +3,13 @@
     "equipe": "Borussia Dortmund",
     "court": "Dortmund",
     "logo": "https://crests.football-data.org/4.png",
-    "j": 4,
+    "j": 5,
     "g": 4,
-    "n": 0,
+    "n": 1,
     "p": 0,
-    "pts": 12,
-    "bp": 9,
-    "bc": 2
+    "pts": 13,
+    "bp": 11,
+    "bc": 4
   },
   {
     "equipe": "FC Bayern München",
@@ -34,6 +34,18 @@
     "pts": 10,
     "bp": 12,
     "bc": 3
+  },
+  {
+    "equipe": "SV Werder Bremen",
+    "court": "Bremen",
+    "logo": "https://crests.football-data.org/12.png",
+    "j": 5,
+    "g": 2,
+    "n": 2,
+    "p": 1,
+    "pts": 8,
+    "bp": 10,
+    "bc": 10
   },
   {
     "equipe": "FC Augsburg",
@@ -82,18 +94,6 @@
     "pts": 7,
     "bp": 8,
     "bc": 7
-  },
-  {
-    "equipe": "SV Werder Bremen",
-    "court": "Bremen",
-    "logo": "https://crests.football-data.org/12.png",
-    "j": 4,
-    "g": 2,
-    "n": 1,
-    "p": 1,
-    "pts": 7,
-    "bp": 8,
-    "bc": 8
   },
   {
     "equipe": "RB Leipzig",

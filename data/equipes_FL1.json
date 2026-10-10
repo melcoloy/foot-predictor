@@ -1230,6 +1230,13 @@
         "buts": 1
       },
       {
+        "nom": "Khalis Merah",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2007-02-24",
+        "buts": 1
+      },
+      {
         "nom": "Loïs Openda",
         "poste": "Offence",
         "nationalite": "Belgium",
@@ -1353,13 +1360,6 @@
         "poste": "Midfield",
         "nationalite": "Portugal",
         "naissance": "2005-05-01",
-        "buts": 0
-      },
-      {
-        "nom": "Khalis Merah",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2007-02-24",
         "buts": 0
       },
       {
@@ -2748,18 +2748,18 @@
         "buts": 3
       },
       {
+        "nom": "Matthieu Udol",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1996-03-20",
+        "buts": 2
+      },
+      {
         "nom": "Franjo Ivanovic",
         "poste": "Offence",
         "nationalite": "Austria",
         "naissance": "2003-10-01",
         "buts": 2
-      },
-      {
-        "nom": "Matthieu Udol",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1996-03-20",
-        "buts": 1
       },
       {
         "nom": "Saud Abdulhamid",
@@ -2773,6 +2773,13 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2005-03-14",
+        "buts": 1
+      },
+      {
+        "nom": "Florian Sotoca",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1990-10-25",
         "buts": 1
       },
       {
@@ -2920,13 +2927,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1998-01-16",
-        "buts": 0
-      },
-      {
-        "nom": "Florian Sotoca",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1990-10-25",
         "buts": 0
       },
       {

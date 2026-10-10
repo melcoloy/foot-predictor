@@ -120,6 +120,18 @@
     "bc": 6
   },
   {
+    "equipe": "RCD Espanyol de Barcelona",
+    "court": "Espanyol",
+    "logo": "https://crests.football-data.org/80.png",
+    "j": 8,
+    "g": 2,
+    "n": 2,
+    "p": 4,
+    "pts": 8,
+    "bp": 11,
+    "bc": 11
+  },
+  {
     "equipe": "Getafe CF",
     "court": "Getafe",
     "logo": "https://crests.football-data.org/82.png",
@@ -168,18 +180,6 @@
     "bc": 6
   },
   {
-    "equipe": "RCD Espanyol de Barcelona",
-    "court": "Espanyol",
-    "logo": "https://crests.football-data.org/80.png",
-    "j": 7,
-    "g": 2,
-    "n": 1,
-    "p": 4,
-    "pts": 7,
-    "bp": 10,
-    "bc": 10
-  },
-  {
     "equipe": "Real Racing Club de Santander",
     "court": "Santander",
     "logo": "https://crests.football-data.org/5335.png",
@@ -216,6 +216,18 @@
     "bc": 17
   },
   {
+    "equipe": "Málaga CF",
+    "court": "Málaga",
+    "logo": "https://crests.football-data.org/84.png",
+    "j": 8,
+    "g": 0,
+    "n": 4,
+    "p": 4,
+    "pts": 4,
+    "bp": 4,
+    "bc": 13
+  },
+  {
     "equipe": "Valencia CF",
     "court": "Valencia",
     "logo": "https://crests.football-data.org/95.png",
@@ -226,17 +238,5 @@
     "pts": 4,
     "bp": 4,
     "bc": 13
-  },
-  {
-    "equipe": "Málaga CF",
-    "court": "Málaga",
-    "logo": "https://crests.football-data.org/84.png",
-    "j": 7,
-    "g": 0,
-    "n": 3,
-    "p": 4,
-    "pts": 3,
-    "bp": 3,
-    "bc": 12
   }
 ]

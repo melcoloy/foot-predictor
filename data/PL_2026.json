@@ -752,7 +752,7 @@
   {
     "id": 560593,
     "date": "2026-10-10T11:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
@@ -761,8 +761,8 @@
     "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/341.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 560592,

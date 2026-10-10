@@ -1037,7 +1037,7 @@
   {
     "id": 564706,
     "date": "2026-10-09T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
@@ -1046,13 +1046,13 @@
     "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/80.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 564698,
     "date": "2026-10-10T12:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
@@ -1061,8 +1061,8 @@
     "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/77.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 564699,

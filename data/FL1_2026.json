@@ -677,7 +677,7 @@
   {
     "id": 559669,
     "date": "2026-10-09T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
@@ -686,8 +686,8 @@
     "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/523.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 559674,

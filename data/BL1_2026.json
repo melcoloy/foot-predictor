@@ -542,7 +542,7 @@
   {
     "id": 565820,
     "date": "2026-10-09T18:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",
@@ -551,8 +551,8 @@
     "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/12.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 2
   },
   {
     "id": 565812,

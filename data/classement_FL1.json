@@ -15,13 +15,13 @@
     "equipe": "Olympique Lyonnais",
     "court": "Olympique Lyon",
     "logo": "https://crests.football-data.org/523.png",
-    "j": 5,
+    "j": 6,
     "g": 3,
     "n": 2,
-    "p": 0,
+    "p": 1,
     "pts": 11,
-    "bp": 10,
-    "bc": 2
+    "bp": 11,
+    "bc": 4
   },
   {
     "equipe": "Paris FC",
@@ -70,6 +70,18 @@
     "pts": 8,
     "bp": 8,
     "bc": 7
+  },
+  {
+    "equipe": "Racing Club de Lens",
+    "court": "RC Lens",
+    "logo": "https://crests.football-data.org/546.png",
+    "j": 6,
+    "g": 2,
+    "n": 1,
+    "p": 3,
+    "pts": 7,
+    "bp": 11,
+    "bc": 10
   },
   {
     "equipe": "Angers SCO",
@@ -166,18 +178,6 @@
     "pts": 5,
     "bp": 3,
     "bc": 6
-  },
-  {
-    "equipe": "Racing Club de Lens",
-    "court": "RC Lens",
-    "logo": "https://crests.football-data.org/546.png",
-    "j": 5,
-    "g": 1,
-    "n": 1,
-    "p": 3,
-    "pts": 4,
-    "bp": 9,
-    "bc": 9
   },
   {
     "equipe": "ES Troyes AC",
