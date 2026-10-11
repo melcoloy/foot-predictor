@@ -1206,13 +1206,20 @@
         "poste": "Offence",
         "nationalite": "Montenegro",
         "naissance": "1999-07-25",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Johan Vásquez",
         "poste": "Defence",
         "nationalite": "Mexico",
         "naissance": "1998-10-22",
+        "buts": 1
+      },
+      {
+        "nom": "Junior Messias",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1991-05-13",
         "buts": 1
       },
       {
@@ -1356,13 +1363,6 @@
         "buts": 0
       },
       {
-        "nom": "Junior Messias",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1991-05-13",
-        "buts": 0
-      },
-      {
         "nom": "Lorenzo Colombo",
         "poste": "Offence",
         "nationalite": "Italy",
@@ -1415,14 +1415,14 @@
         "poste": "Midfield",
         "nationalite": "Turkey",
         "naissance": "1994-02-08",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Marcus Thuram-Ulien",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1997-08-06",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Francesco Esposito",
@@ -1450,6 +1450,13 @@
         "poste": "Midfield",
         "nationalite": "Poland",
         "naissance": "1994-05-20",
+        "buts": 1
+      },
+      {
+        "nom": "Petar Sucic",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "2003-10-25",
         "buts": 1
       },
       {
@@ -1548,13 +1555,6 @@
         "poste": "Midfield",
         "nationalite": "Brazil",
         "naissance": "2001-12-14",
-        "buts": 0
-      },
-      {
-        "nom": "Petar Sucic",
-        "poste": "Midfield",
-        "nationalite": "Croatia",
-        "naissance": "2003-10-25",
         "buts": 0
       },
       {
@@ -2218,6 +2218,13 @@
         "nationalite": "Argentina",
         "naissance": "2008-06-26",
         "buts": 0
+      },
+      {
+        "nom": "Djibril Diallo",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2009-03-09",
+        "buts": 0
       }
     ]
   },
@@ -2233,18 +2240,18 @@
     "entraineur": "Massimiliano Allegri",
     "effectif": [
       {
+        "nom": "Kevin De Bruyne",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "1991-06-28",
+        "buts": 3
+      },
+      {
         "nom": "Rasmus Højlund",
         "poste": "Offence",
         "nationalite": "Denmark",
         "naissance": "2003-02-04",
         "buts": 2
-      },
-      {
-        "nom": "Kevin De Bruyne",
-        "poste": "Midfield",
-        "nationalite": "Belgium",
-        "naissance": "1991-06-28",
-        "buts": 1
       },
       {
         "nom": "Stanislav Lobotka",
@@ -2272,6 +2279,13 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "1993-08-03",
+        "buts": 1
+      },
+      {
+        "nom": "Noa Lang",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-06-17",
         "buts": 1
       },
       {
@@ -2377,13 +2391,6 @@
         "poste": "Midfield",
         "nationalite": "Cameroon",
         "naissance": "1995-11-16",
-        "buts": 0
-      },
-      {
-        "nom": "Noa Lang",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "1999-06-17",
         "buts": 0
       },
       {

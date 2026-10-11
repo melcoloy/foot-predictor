@@ -18,6 +18,13 @@
         "buts": 3
       },
       {
+        "nom": "Bruno Guimarães",
+        "poste": "Midfield",
+        "nationalite": "Brazil",
+        "naissance": "1997-11-16",
+        "buts": 2
+      },
+      {
         "nom": "Martin Ødegaard",
         "poste": "Midfield",
         "nationalite": "Norway",
@@ -32,10 +39,10 @@
         "buts": 2
       },
       {
-        "nom": "Bruno Guimarães",
-        "poste": "Midfield",
-        "nationalite": "Brazil",
-        "naissance": "1997-11-16",
+        "nom": "Riccardo Calafiori",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2002-05-19",
         "buts": 1
       },
       {
@@ -99,13 +106,6 @@
         "poste": "Defence",
         "nationalite": "Ecuador",
         "naissance": "2002-01-09",
-        "buts": 0
-      },
-      {
-        "nom": "Riccardo Calafiori",
-        "poste": "Defence",
-        "nationalite": "Italy",
-        "naissance": "2002-05-19",
         "buts": 0
       },
       {
@@ -192,6 +192,13 @@
     "entraineur": null,
     "effectif": [
       {
+        "nom": "Nicolas Jackson",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2001-06-20",
+        "buts": 2
+      },
+      {
         "nom": "Emiliano Buendía",
         "poste": "Midfield",
         "nationalite": "Argentina",
@@ -199,17 +206,17 @@
         "buts": 1
       },
       {
+        "nom": "John McGinn",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1994-10-18",
+        "buts": 1
+      },
+      {
         "nom": "Johan Manzambi",
         "poste": "Midfield",
         "nationalite": "Switzerland",
         "naissance": "2005-10-14",
-        "buts": 1
-      },
-      {
-        "nom": "Nicolas Jackson",
-        "poste": "Offence",
-        "nationalite": "Senegal",
-        "naissance": "2001-06-20",
         "buts": 1
       },
       {
@@ -318,13 +325,6 @@
         "buts": 0
       },
       {
-        "nom": "John McGinn",
-        "poste": "Midfield",
-        "nationalite": "Scotland",
-        "naissance": "1994-10-18",
-        "buts": 0
-      },
-      {
         "nom": "Amadou Onana",
         "poste": "Midfield",
         "nationalite": "Belgium",
@@ -394,18 +394,25 @@
     "entraineur": null,
     "effectif": [
       {
-        "nom": "Morgan Rogers",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2002-07-26",
-        "buts": 3
-      },
-      {
         "nom": "João Pedro",
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "2001-09-26",
-        "buts": 3
+        "buts": 5
+      },
+      {
+        "nom": "Morgan Rogers",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2002-07-26",
+        "buts": 4
+      },
+      {
+        "nom": "Jordan Henderson",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1990-06-17",
+        "buts": 2
       },
       {
         "nom": "Cole Palmer",
@@ -524,13 +531,6 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2006-05-05",
-        "buts": 0
-      },
-      {
-        "nom": "Jordan Henderson",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "1990-06-17",
         "buts": 0
       },
       {
@@ -777,6 +777,13 @@
         "buts": 2
       },
       {
+        "nom": "Ryan Sessegnon",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-05-18",
+        "buts": 1
+      },
+      {
         "nom": "César Palacios",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -830,13 +837,6 @@
         "poste": "Defence",
         "nationalite": "USA",
         "naissance": "1997-08-08",
-        "buts": 0
-      },
-      {
-        "nom": "Ryan Sessegnon",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2000-05-18",
         "buts": 0
       },
       {
@@ -1373,7 +1373,7 @@
         "poste": "Offence",
         "nationalite": "Cameroon",
         "naissance": "1999-08-07",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Matheus Cunha",
@@ -2491,6 +2491,13 @@
         "buts": 2
       },
       {
+        "nom": "James Justin",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1998-02-23",
+        "buts": 1
+      },
+      {
         "nom": "Anton Stach",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -2530,13 +2537,6 @@
         "poste": "Defence",
         "nationalite": "Switzerland",
         "naissance": "1996-09-30",
-        "buts": 0
-      },
-      {
-        "nom": "James Justin",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "1998-02-23",
         "buts": 0
       },
       {
@@ -2672,6 +2672,20 @@
         "buts": 2
       },
       {
+        "nom": "Dara O'Shea",
+        "poste": "Defence",
+        "nationalite": "Ireland",
+        "naissance": "1999-03-04",
+        "buts": 1
+      },
+      {
+        "nom": "Abdoul Ouattara",
+        "poste": "Defence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2005-10-22",
+        "buts": 1
+      },
+      {
         "nom": "Jack Clarke",
         "poste": "Offence",
         "nationalite": "England",
@@ -2735,13 +2749,6 @@
         "buts": 0
       },
       {
-        "nom": "Dara O'Shea",
-        "poste": "Defence",
-        "nationalite": "Ireland",
-        "naissance": "1999-03-04",
-        "buts": 0
-      },
-      {
         "nom": "Cédric Kipré",
         "poste": "Defence",
         "nationalite": "Ivory Coast",
@@ -2753,13 +2760,6 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2000-09-12",
-        "buts": 0
-      },
-      {
-        "nom": "Abdoul Ouattara",
-        "poste": "Defence",
-        "nationalite": "Ivory Coast",
-        "naissance": "2005-10-22",
         "buts": 0
       },
       {
@@ -3278,6 +3278,13 @@
         "buts": 3
       },
       {
+        "nom": "Maxim De Cuyper",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2000-12-22",
+        "buts": 2
+      },
+      {
         "nom": "Jack Hinshelwood",
         "poste": "Midfield",
         "nationalite": "England",
@@ -3306,10 +3313,10 @@
         "buts": 1
       },
       {
-        "nom": "Maxim De Cuyper",
+        "nom": "Jaouen Hadjam",
         "poste": "Defence",
-        "nationalite": "Belgium",
-        "naissance": "2000-12-22",
+        "nationalite": "Algeria",
+        "naissance": "2003-03-26",
         "buts": 1
       },
       {
@@ -3387,13 +3394,6 @@
         "poste": "Defence",
         "nationalite": "Netherlands",
         "naissance": "1999-11-16",
-        "buts": 0
-      },
-      {
-        "nom": "Jaouen Hadjam",
-        "poste": "Defence",
-        "nationalite": "Algeria",
-        "naissance": "2003-03-26",
         "buts": 0
       },
       {
@@ -3536,6 +3536,13 @@
         "buts": 1
       },
       {
+        "nom": "Yegor Yarmolyuk",
+        "poste": "Midfield",
+        "nationalite": "Ukraine",
+        "naissance": "2004-03-01",
+        "buts": 1
+      },
+      {
         "nom": "Thiago",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -3669,13 +3676,6 @@
         "buts": 0
       },
       {
-        "nom": "Yegor Yarmolyuk",
-        "poste": "Midfield",
-        "nationalite": "Ukraine",
-        "naissance": "2004-03-01",
-        "buts": 0
-      },
-      {
         "nom": "Callum Wilson",
         "poste": "Offence",
         "nationalite": "England",
@@ -3735,6 +3735,13 @@
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "2003-08-21",
+        "buts": 1
+      },
+      {
+        "nom": "Evanilson",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-10-06",
         "buts": 1
       },
       {
@@ -3868,13 +3875,6 @@
         "poste": "Offence",
         "nationalite": "Wales",
         "naissance": "1997-07-08",
-        "buts": 0
-      },
-      {
-        "nom": "Evanilson",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1999-10-06",
         "buts": 0
       },
       {

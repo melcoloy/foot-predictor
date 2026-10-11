@@ -3,13 +3,25 @@
     "equipe": "AS Monaco FC",
     "court": "Monaco",
     "logo": "https://crests.football-data.org/548.png",
-    "j": 5,
+    "j": 6,
+    "g": 4,
+    "n": 2,
+    "p": 0,
+    "pts": 14,
+    "bp": 10,
+    "bc": 5
+  },
+  {
+    "equipe": "Lille OSC",
+    "court": "Lille",
+    "logo": "https://crests.football-data.org/521.png",
+    "j": 6,
     "g": 4,
     "n": 1,
-    "p": 0,
+    "p": 1,
     "pts": 13,
-    "bp": 8,
-    "bc": 3
+    "bp": 9,
+    "bc": 4
   },
   {
     "equipe": "Olympique Lyonnais",
@@ -27,25 +39,25 @@
     "equipe": "Paris FC",
     "court": "Paris FC",
     "logo": "https://crests.football-data.org/1045.png",
-    "j": 5,
+    "j": 6,
     "g": 3,
     "n": 2,
-    "p": 0,
+    "p": 1,
     "pts": 11,
     "bp": 8,
-    "bc": 3
+    "bc": 4
   },
   {
-    "equipe": "Lille OSC",
-    "court": "Lille",
-    "logo": "https://crests.football-data.org/521.png",
-    "j": 5,
+    "equipe": "Paris Saint-Germain FC",
+    "court": "PSG",
+    "logo": "https://crests.football-data.org/524.png",
+    "j": 6,
     "g": 3,
-    "n": 1,
+    "n": 2,
     "p": 1,
-    "pts": 10,
-    "bp": 8,
-    "bc": 4
+    "pts": 11,
+    "bp": 11,
+    "bc": 8
   },
   {
     "equipe": "Stade Rennais FC 1901",
@@ -60,16 +72,28 @@
     "bc": 9
   },
   {
-    "equipe": "Paris Saint-Germain FC",
-    "court": "PSG",
-    "logo": "https://crests.football-data.org/524.png",
-    "j": 5,
+    "equipe": "Stade Brestois 29",
+    "court": "Brest",
+    "logo": "https://crests.football-data.org/512.png",
+    "j": 6,
     "g": 2,
     "n": 2,
-    "p": 1,
+    "p": 2,
     "pts": 8,
-    "bp": 8,
-    "bc": 7
+    "bp": 12,
+    "bc": 9
+  },
+  {
+    "equipe": "FC Lorient",
+    "court": "Lorient",
+    "logo": "https://crests.football-data.org/525.png",
+    "j": 6,
+    "g": 2,
+    "n": 2,
+    "p": 2,
+    "pts": 8,
+    "bp": 6,
+    "bc": 6
   },
   {
     "equipe": "Racing Club de Lens",
@@ -84,18 +108,6 @@
     "bc": 10
   },
   {
-    "equipe": "Angers SCO",
-    "court": "Angers SCO",
-    "logo": "https://crests.football-data.org/532.png",
-    "j": 5,
-    "g": 2,
-    "n": 1,
-    "p": 2,
-    "pts": 7,
-    "bp": 6,
-    "bc": 5
-  },
-  {
     "equipe": "RC Strasbourg Alsace",
     "court": "Strasbourg",
     "logo": "https://crests.football-data.org/576.png",
@@ -108,16 +120,40 @@
     "bc": 10
   },
   {
+    "equipe": "Angers SCO",
+    "court": "Angers SCO",
+    "logo": "https://crests.football-data.org/532.png",
+    "j": 6,
+    "g": 2,
+    "n": 1,
+    "p": 3,
+    "pts": 7,
+    "bp": 7,
+    "bc": 10
+  },
+  {
     "equipe": "Le Mans FC",
     "court": "Le Mans",
     "logo": "https://crests.football-data.org/535.png",
-    "j": 5,
+    "j": 6,
     "g": 1,
     "n": 3,
-    "p": 1,
+    "p": 2,
+    "pts": 6,
+    "bp": 10,
+    "bc": 12
+  },
+  {
+    "equipe": "Toulouse FC",
+    "court": "Toulouse",
+    "logo": "https://crests.football-data.org/511.png",
+    "j": 6,
+    "g": 1,
+    "n": 3,
+    "p": 2,
     "pts": 6,
     "bp": 9,
-    "bc": 9
+    "bc": 11
   },
   {
     "equipe": "AJ Auxerre",
@@ -130,42 +166,6 @@
     "pts": 6,
     "bp": 7,
     "bc": 12
-  },
-  {
-    "equipe": "Stade Brestois 29",
-    "court": "Brest",
-    "logo": "https://crests.football-data.org/512.png",
-    "j": 5,
-    "g": 1,
-    "n": 2,
-    "p": 2,
-    "pts": 5,
-    "bp": 7,
-    "bc": 8
-  },
-  {
-    "equipe": "FC Lorient",
-    "court": "Lorient",
-    "logo": "https://crests.football-data.org/525.png",
-    "j": 5,
-    "g": 1,
-    "n": 2,
-    "p": 2,
-    "pts": 5,
-    "bp": 5,
-    "bc": 6
-  },
-  {
-    "equipe": "Toulouse FC",
-    "court": "Toulouse",
-    "logo": "https://crests.football-data.org/511.png",
-    "j": 5,
-    "g": 1,
-    "n": 2,
-    "p": 2,
-    "pts": 5,
-    "bp": 7,
-    "bc": 9
   },
   {
     "equipe": "OGC Nice",
@@ -207,12 +207,12 @@
     "equipe": "Le Havre AC",
     "court": "Le Havre",
     "logo": "https://crests.football-data.org/533.png",
-    "j": 5,
+    "j": 6,
     "g": 0,
     "n": 2,
-    "p": 3,
+    "p": 4,
     "pts": 2,
     "bp": 4,
-    "bc": 7
+    "bc": 8
   }
 ]

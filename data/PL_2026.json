@@ -752,7 +752,7 @@
   {
     "id": 560593,
     "date": "2026-10-10T11:30:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
@@ -761,13 +761,13 @@
     "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/341.png",
-    "buts_dom": 0,
-    "buts_ext": 0
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 560592,
     "date": "2026-10-10T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
@@ -776,13 +776,13 @@
     "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/397.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 560595,
     "date": "2026-10-10T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
@@ -791,13 +791,13 @@
     "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 5,
+    "buts_ext": 1
   },
   {
     "id": 560599,
     "date": "2026-10-10T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
@@ -806,13 +806,13 @@
     "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/63.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 560601,
     "date": "2026-10-10T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
@@ -821,13 +821,13 @@
     "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/402.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 2
   },
   {
     "id": 560600,
     "date": "2026-10-10T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
@@ -836,8 +836,8 @@
     "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/73.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560594,

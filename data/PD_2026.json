@@ -1052,7 +1052,7 @@
   {
     "id": 564698,
     "date": "2026-10-10T12:00:00Z",
-    "statut": "IN_PLAY",
+    "statut": "CANCELLED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
@@ -1067,7 +1067,7 @@
   {
     "id": 564699,
     "date": "2026-10-10T14:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
@@ -1076,13 +1076,13 @@
     "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/78.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 564700,
     "date": "2026-10-10T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
@@ -1091,13 +1091,13 @@
     "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/82.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 564702,
     "date": "2026-10-10T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
@@ -1106,13 +1106,13 @@
     "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/94.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 564703,
     "date": "2026-10-11T12:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Elche CF",
@@ -1121,8 +1121,8 @@
     "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/558.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 564707,

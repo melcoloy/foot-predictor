@@ -262,6 +262,13 @@
         "buts": 1
       },
       {
+        "nom": "Bambase Conte",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-07-07",
+        "buts": 1
+      },
+      {
         "nom": "Leon Avdullahu",
         "poste": "Midfield",
         "nationalite": "Kosovo",
@@ -381,13 +388,6 @@
         "buts": 0
       },
       {
-        "nom": "Bambase Conte",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2003-07-07",
-        "buts": 0
-      },
-      {
         "nom": "Luis Engelns",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -454,7 +454,7 @@
         "poste": "Offence",
         "nationalite": "Czech Republic",
         "naissance": "1996-01-24",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Christian Kofane",
@@ -478,10 +478,31 @@
         "buts": 1
       },
       {
+        "nom": "Jarell Quansah",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2003-01-29",
+        "buts": 1
+      },
+      {
+        "nom": "Robert Andrich",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1994-09-22",
+        "buts": 1
+      },
+      {
         "nom": "Ibrahim Maza",
         "poste": "Midfield",
         "nationalite": "Algeria",
         "naissance": "2005-11-24",
+        "buts": 1
+      },
+      {
+        "nom": "Moussa Diaby",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1999-07-07",
         "buts": 1
       },
       {
@@ -527,13 +548,6 @@
         "buts": 0
       },
       {
-        "nom": "Jarell Quansah",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2003-01-29",
-        "buts": 0
-      },
-      {
         "nom": "Tim Oermann",
         "poste": "Defence",
         "nationalite": "Germany",
@@ -562,13 +576,6 @@
         "buts": 0
       },
       {
-        "nom": "Robert Andrich",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "1994-09-22",
-        "buts": 0
-      },
-      {
         "nom": "Malik Tillman",
         "poste": "Midfield",
         "nationalite": "USA",
@@ -594,13 +601,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2007-05-08",
-        "buts": 0
-      },
-      {
-        "nom": "Moussa Diaby",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1999-07-07",
         "buts": 0
       },
       {
@@ -903,17 +903,17 @@
         "buts": 3
       },
       {
-        "nom": "Dayot Upamecano",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1998-10-27",
-        "buts": 1
-      },
-      {
         "nom": "Ismael Saibari",
         "poste": "Midfield",
         "nationalite": "Morocco",
         "naissance": "2001-01-28",
+        "buts": 2
+      },
+      {
+        "nom": "Dayot Upamecano",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1998-10-27",
         "buts": 1
       },
       {
@@ -1272,17 +1272,17 @@
     "entraineur": "Merlin Polzin",
     "effectif": [
       {
-        "nom": "Nicolás Capaldo",
-        "poste": "Defence",
-        "nationalite": "Argentina",
-        "naissance": "1997-09-14",
-        "buts": 1
-      },
-      {
         "nom": "Yussuf Poulsen",
         "poste": "Offence",
         "nationalite": "Denmark",
         "naissance": "1994-06-16",
+        "buts": 2
+      },
+      {
+        "nom": "Nicolás Capaldo",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1997-09-14",
         "buts": 1
       },
       {
@@ -1502,6 +1502,13 @@
         "buts": 1
       },
       {
+        "nom": "Julian Chabot",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-02-12",
+        "buts": 1
+      },
+      {
         "nom": "Grischa Prömel",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -1513,6 +1520,13 @@
         "poste": "Midfield",
         "nationalite": "Morocco",
         "naissance": "2005-05-09",
+        "buts": 1
+      },
+      {
+        "nom": "Chris Führich",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-01-09",
         "buts": 1
       },
       {
@@ -1555,13 +1569,6 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "1999-06-03",
-        "buts": 0
-      },
-      {
-        "nom": "Julian Chabot",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1998-02-12",
         "buts": 0
       },
       {
@@ -1639,13 +1646,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2009-01-08",
-        "buts": 0
-      },
-      {
-        "nom": "Chris Führich",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "1998-01-09",
         "buts": 0
       },
       {
@@ -1962,6 +1962,13 @@
         "buts": 4
       },
       {
+        "nom": "Anthony Caci",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1997-07-01",
+        "buts": 2
+      },
+      {
         "nom": "Sheraldo Becker",
         "poste": "Offence",
         "nationalite": "Suriname",
@@ -1994,6 +2001,13 @@
         "poste": "Offence",
         "nationalite": "Ghana",
         "naissance": "2001-09-13",
+        "buts": 1
+      },
+      {
+        "nom": "Benedict Hollerbach",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2001-05-17",
         "buts": 1
       },
       {
@@ -2043,13 +2057,6 @@
         "poste": "Defence",
         "nationalite": "Germany",
         "naissance": "1991-08-24",
-        "buts": 0
-      },
-      {
-        "nom": "Anthony Caci",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1997-07-01",
         "buts": 0
       },
       {
@@ -2137,13 +2144,6 @@
         "buts": 0
       },
       {
-        "nom": "Benedict Hollerbach",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2001-05-17",
-        "buts": 0
-      },
-      {
         "nom": "Alynho Haidara",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
@@ -2164,6 +2164,13 @@
     "entraineur": "Manuel Baum",
     "effectif": [
       {
+        "nom": "Robin Fellhauer",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-01-21",
+        "buts": 3
+      },
+      {
         "nom": "Michael Gregoritsch",
         "poste": "Offence",
         "nationalite": "Austria",
@@ -2171,10 +2178,10 @@
         "buts": 3
       },
       {
-        "nom": "Robin Fellhauer",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "1998-01-21",
+        "nom": "Rodrigo Ribeiro",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2005-04-28",
         "buts": 2
       },
       {
@@ -2210,13 +2217,6 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "2005-12-11",
-        "buts": 1
-      },
-      {
-        "nom": "Rodrigo Ribeiro",
-        "poste": "Offence",
-        "nationalite": "Portugal",
-        "naissance": "2005-04-28",
         "buts": 1
       },
       {
@@ -3021,6 +3021,13 @@
         "buts": 1
       },
       {
+        "nom": "Livan Burcu",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "2004-09-28",
+        "buts": 1
+      },
+      {
         "nom": "Frederik Rønnow",
         "poste": "Goalkeeper",
         "nationalite": "Denmark",
@@ -3179,13 +3186,6 @@
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "2002-02-28",
-        "buts": 0
-      },
-      {
-        "nom": "Livan Burcu",
-        "poste": "Offence",
-        "nationalite": "Turkey",
-        "naissance": "2004-09-28",
         "buts": 0
       },
       {
@@ -3669,6 +3669,20 @@
     "entraineur": "Martín Demichelis",
     "effectif": [
       {
+        "nom": "Christopher Nkunku",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1997-11-14",
+        "buts": 4
+      },
+      {
+        "nom": "Antonio Nusa",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2005-04-17",
+        "buts": 3
+      },
+      {
         "nom": "Ridle Baku",
         "poste": "Defence",
         "nationalite": "Germany",
@@ -3676,10 +3690,10 @@
         "buts": 2
       },
       {
-        "nom": "Antonio Nusa",
+        "nom": "Tidiam Gomis",
         "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "2005-04-17",
+        "nationalite": "France",
+        "naissance": "2006-08-08",
         "buts": 2
       },
       {
@@ -3697,24 +3711,10 @@
         "buts": 1
       },
       {
-        "nom": "Christopher Nkunku",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1997-11-14",
-        "buts": 1
-      },
-      {
         "nom": "Romulo Cruz",
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "2002-02-08",
-        "buts": 1
-      },
-      {
-        "nom": "Tidiam Gomis",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2006-08-08",
         "buts": 1
       },
       {

@@ -752,7 +752,7 @@
   {
     "id": 558588,
     "date": "2026-10-10T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
@@ -761,13 +761,13 @@
     "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/99.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 558582,
     "date": "2026-10-10T16:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
@@ -776,13 +776,13 @@
     "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/112.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 558586,
     "date": "2026-10-10T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
@@ -791,13 +791,13 @@
     "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/470.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 558585,
     "date": "2026-10-11T10:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
@@ -806,8 +806,8 @@
     "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/100.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 558581,

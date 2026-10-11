@@ -15,7 +15,7 @@
         "poste": "Offence",
         "nationalite": "Denmark",
         "naissance": "2000-06-01",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Thomas Jørgensen",
@@ -29,6 +29,13 @@
         "poste": "Offence",
         "nationalite": "Canada",
         "naissance": "2002-09-13",
+        "buts": 1
+      },
+      {
+        "nom": "Sion Oppong",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2007-09-25",
         "buts": 1
       },
       {
@@ -151,13 +158,6 @@
         "buts": 0
       },
       {
-        "nom": "Sion Oppong",
-        "poste": "Offence",
-        "nationalite": "Sweden",
-        "naissance": "2007-09-25",
-        "buts": 0
-      },
-      {
         "nom": "Ilyas Azizi",
         "poste": "Offence",
         "nationalite": "France",
@@ -203,13 +203,34 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1994-02-25",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Pathé Mboup",
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "2003-10-19",
+        "buts": 2
+      },
+      {
+        "nom": "Kenny Lala",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1991-10-03",
+        "buts": 1
+      },
+      {
+        "nom": "Lucas Tousart",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1997-04-29",
+        "buts": 1
+      },
+      {
+        "nom": "Mama Baldé",
+        "poste": "Offence",
+        "nationalite": "Guinea-Bissau",
+        "naissance": "1995-11-06",
         "buts": 1
       },
       {
@@ -248,13 +269,6 @@
         "buts": 0
       },
       {
-        "nom": "Kenny Lala",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1991-10-03",
-        "buts": 0
-      },
-      {
         "nom": "Bradley Locko",
         "poste": "Defence",
         "nationalite": "France",
@@ -280,13 +294,6 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2005-09-14",
-        "buts": 0
-      },
-      {
-        "nom": "Lucas Tousart",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "1997-04-29",
         "buts": 0
       },
       {
@@ -322,13 +329,6 @@
         "poste": "Midfield",
         "nationalite": "Mali",
         "naissance": "2006-07-15",
-        "buts": 0
-      },
-      {
-        "nom": "Mama Baldé",
-        "poste": "Offence",
-        "nationalite": "Guinea-Bissau",
-        "naissance": "1995-11-06",
         "buts": 0
       },
       {
@@ -798,17 +798,17 @@
         "buts": 2
       },
       {
-        "nom": "Olivier Giroud",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1986-09-30",
-        "buts": 1
-      },
-      {
         "nom": "Dilane Bakwa",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2002-08-26",
+        "buts": 2
+      },
+      {
+        "nom": "Olivier Giroud",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1986-09-30",
         "buts": 1
       },
       {
@@ -1418,10 +1418,31 @@
         "buts": 3
       },
       {
+        "nom": "Lucas Beraldo",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2003-11-24",
+        "buts": 1
+      },
+      {
         "nom": "Vitinha",
         "poste": "Midfield",
         "nationalite": "Portugal",
         "naissance": "2000-02-13",
+        "buts": 1
+      },
+      {
+        "nom": "Khvicha Kvaratskhelia",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2001-02-12",
+        "buts": 1
+      },
+      {
+        "nom": "Maghnes Akliouche",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-02-25",
         "buts": 1
       },
       {
@@ -1481,13 +1502,6 @@
         "buts": 0
       },
       {
-        "nom": "Lucas Beraldo",
-        "poste": "Defence",
-        "nationalite": "Brazil",
-        "naissance": "2003-11-24",
-        "buts": 0
-      },
-      {
         "nom": "Fabián Ruiz",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -1527,20 +1541,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1997-05-15",
-        "buts": 0
-      },
-      {
-        "nom": "Khvicha Kvaratskhelia",
-        "poste": "Offence",
-        "nationalite": "Georgia",
-        "naissance": "2001-02-12",
-        "buts": 0
-      },
-      {
-        "nom": "Maghnes Akliouche",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-02-25",
         "buts": 0
       },
       {
@@ -1589,6 +1589,13 @@
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "2005-01-05",
+        "buts": 1
+      },
+      {
+        "nom": "Gabin Bernardeau",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2006-01-24",
         "buts": 1
       },
       {
@@ -1722,13 +1729,6 @@
         "poste": "Midfield",
         "nationalite": "Cameroon",
         "naissance": "2004-12-15",
-        "buts": 0
-      },
-      {
-        "nom": "Gabin Bernardeau",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2006-01-24",
         "buts": 0
       },
       {
@@ -2170,6 +2170,13 @@
     "entraineur": "Stéphane Gilli",
     "effectif": [
       {
+        "nom": "Prosper Peter",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "2007-08-09",
+        "buts": 2
+      },
+      {
         "nom": "Carlens Arcus",
         "poste": "Defence",
         "nationalite": "Haiti",
@@ -2195,13 +2202,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2000-11-05",
-        "buts": 1
-      },
-      {
-        "nom": "Prosper Peter",
-        "poste": "Offence",
-        "nationalite": "Nigeria",
-        "naissance": "2007-08-09",
         "buts": 1
       },
       {
@@ -2532,17 +2532,17 @@
     "entraineur": "Patrick Videira",
     "effectif": [
       {
-        "nom": "Adil Bourabaa",
-        "poste": "Midfield",
-        "nationalite": "Algeria",
-        "naissance": "2005-03-09",
-        "buts": 3
-      },
-      {
         "nom": "Louis Mafouta",
         "poste": "Offence",
         "nationalite": "Central African Republic",
         "naissance": "1994-07-02",
+        "buts": 4
+      },
+      {
+        "nom": "Adil Bourabaa",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "2005-03-09",
         "buts": 3
       },
       {
@@ -2978,10 +2978,24 @@
         "buts": 1
       },
       {
+        "nom": "Edan Diop",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2004-08-28",
+        "buts": 1
+      },
+      {
         "nom": "Stanis Idumbo-Muzambo",
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "2005-06-29",
+        "buts": 1
+      },
+      {
+        "nom": "Matthis Abline",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2003-03-28",
         "buts": 1
       },
       {
@@ -3069,13 +3083,6 @@
         "buts": 0
       },
       {
-        "nom": "Edan Diop",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2004-08-28",
-        "buts": 0
-      },
-      {
         "nom": "Lamine Camara",
         "poste": "Midfield",
         "nationalite": "Senegal",
@@ -3115,13 +3122,6 @@
         "poste": "Offence",
         "nationalite": "USA",
         "naissance": "2001-07-03",
-        "buts": 0
-      },
-      {
-        "nom": "Matthis Abline",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2003-03-28",
         "buts": 0
       },
       {

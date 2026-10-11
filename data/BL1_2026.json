@@ -557,7 +557,7 @@
   {
     "id": 565812,
     "date": "2026-10-10T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
@@ -566,13 +566,13 @@
     "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/3.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 4
   },
   {
     "id": 565813,
     "date": "2026-10-10T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
@@ -581,13 +581,13 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 565817,
     "date": "2026-10-10T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Union Berlin",
@@ -596,13 +596,13 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 565818,
     "date": "2026-10-10T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
@@ -611,13 +611,13 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 3
   },
   {
     "id": 565819,
     "date": "2026-10-10T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
@@ -626,13 +626,13 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 2
   },
   {
     "id": 565815,
     "date": "2026-10-10T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
@@ -641,8 +641,8 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 6,
+    "buts_ext": 0
   },
   {
     "id": 565814,
