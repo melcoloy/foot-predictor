@@ -767,7 +767,7 @@
   {
     "id": 559670,
     "date": "2026-10-11T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
@@ -776,13 +776,13 @@
     "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/576.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 559667,
     "date": "2026-10-11T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
@@ -791,13 +791,13 @@
     "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/519.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 1
   },
   {
     "id": 559671,
     "date": "2026-10-11T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
@@ -806,8 +806,8 @@
     "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/516.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 559661,

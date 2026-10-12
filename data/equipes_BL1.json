@@ -18,6 +18,13 @@
         "buts": 2
       },
       {
+        "nom": "Said El Mala",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2006-08-26",
+        "buts": 2
+      },
+      {
         "nom": "Linton Maina",
         "poste": "Offence",
         "nationalite": "Germany",
@@ -29,13 +36,6 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1998-07-28",
-        "buts": 1
-      },
-      {
-        "nom": "Said El Mala",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2006-08-26",
         "buts": 1
       },
       {
@@ -2387,18 +2387,18 @@
         "buts": 4
       },
       {
+        "nom": "Maximilian Eggestein",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1996-12-08",
+        "buts": 3
+      },
+      {
         "nom": "Igor Matanovic",
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "2003-03-31",
         "buts": 3
-      },
-      {
-        "nom": "Maximilian Eggestein",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "1996-12-08",
-        "buts": 2
       },
       {
         "nom": "Yannik Engelhardt",
@@ -2582,18 +2582,18 @@
     "entraineur": "Eugen Polański",
     "effectif": [
       {
+        "nom": "Joseph Scally",
+        "poste": "Defence",
+        "nationalite": "USA",
+        "naissance": "2002-12-31",
+        "buts": 2
+      },
+      {
         "nom": "Hugo Bolin",
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "2003-07-24",
         "buts": 2
-      },
-      {
-        "nom": "Joseph Scally",
-        "poste": "Defence",
-        "nationalite": "USA",
-        "naissance": "2002-12-31",
-        "buts": 1
       },
       {
         "nom": "Florian Neuhaus",

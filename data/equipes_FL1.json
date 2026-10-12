@@ -387,6 +387,20 @@
         "buts": 1
       },
       {
+        "nom": "Himad Abdelli",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "1999-11-17",
+        "buts": 1
+      },
+      {
+        "nom": "Amine Harit",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "1997-06-18",
+        "buts": 1
+      },
+      {
         "nom": "Keyliane Abdallah",
         "poste": "Offence",
         "nationalite": "France",
@@ -471,24 +485,10 @@
         "buts": 0
       },
       {
-        "nom": "Himad Abdelli",
-        "poste": "Midfield",
-        "nationalite": "Algeria",
-        "naissance": "1999-11-17",
-        "buts": 0
-      },
-      {
         "nom": "Tochukwu Nadi",
         "poste": "Midfield",
         "nationalite": "Nigeria",
         "naissance": "2003-06-30",
-        "buts": 0
-      },
-      {
-        "nom": "Amine Harit",
-        "poste": "Offence",
-        "nationalite": "Morocco",
-        "naissance": "1997-06-18",
         "buts": 0
       },
       {
@@ -537,7 +537,7 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "2001-07-21",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Lamine Sy",
@@ -769,6 +769,13 @@
         "nationalite": "France",
         "naissance": "2006-03-02",
         "buts": 0
+      },
+      {
+        "nom": "Youssef Khoudda",
+        "poste": null,
+        "nationalite": "Morocco",
+        "naissance": "2007-04-20",
+        "buts": 0
       }
     ]
   },
@@ -986,6 +993,13 @@
     "entraineur": "Olivier Pantaloni",
     "effectif": [
       {
+        "nom": "Jonathan Clauss",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1992-09-25",
+        "buts": 1
+      },
+      {
         "nom": "Sepe Elye Wahi",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
@@ -1011,13 +1025,6 @@
         "poste": "Goalkeeper",
         "nationalite": "France",
         "naissance": "2001-04-09",
-        "buts": 0
-      },
-      {
-        "nom": "Jonathan Clauss",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1992-09-25",
         "buts": 0
       },
       {
@@ -1770,7 +1777,21 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2000-04-18",
-        "buts": 3
+        "buts": 4
+      },
+      {
+        "nom": "Adrien Thomasson",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1993-12-10",
+        "buts": 2
+      },
+      {
+        "nom": "Boulaye Dia",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "1996-11-16",
+        "buts": 2
       },
       {
         "nom": "Przemysław Frankowski",
@@ -1784,13 +1805,6 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1994-12-07",
-        "buts": 1
-      },
-      {
-        "nom": "Adrien Thomasson",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "1993-12-10",
         "buts": 1
       },
       {
@@ -1910,13 +1924,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1998-06-17",
-        "buts": 0
-      },
-      {
-        "nom": "Boulaye Dia",
-        "poste": "Offence",
-        "nationalite": "Senegal",
-        "naissance": "1996-11-16",
         "buts": 0
       },
       {
@@ -3173,6 +3180,13 @@
         "buts": 1
       },
       {
+        "nom": "Dario Essugo",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2005-03-14",
+        "buts": 1
+      },
+      {
         "nom": "Diogo Lobão",
         "poste": "Midfield",
         "nationalite": "Portugal",
@@ -3261,13 +3275,6 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2007-05-11",
-        "buts": 0
-      },
-      {
-        "nom": "Dario Essugo",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "2005-03-14",
         "buts": 0
       },
       {

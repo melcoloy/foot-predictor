@@ -11,18 +11,18 @@
     "entraineur": "Ruben Amorim",
     "effectif": [
       {
+        "nom": "Adrien Rabiot",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1995-04-03",
+        "buts": 3
+      },
+      {
         "nom": "Diego Moreira",
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "2004-08-06",
         "buts": 3
-      },
-      {
-        "nom": "Adrien Rabiot",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "1995-04-03",
-        "buts": 2
       },
       {
         "nom": "Alphadjo Cisse",
@@ -770,6 +770,13 @@
     "entraineur": "Domenico Tedesco",
     "effectif": [
       {
+        "nom": "Riccardo Orsolini",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1997-01-24",
+        "buts": 1
+      },
+      {
         "nom": "Federico Bernardeschi",
         "poste": "Offence",
         "nationalite": "Italy",
@@ -924,13 +931,6 @@
         "buts": 0
       },
       {
-        "nom": "Riccardo Orsolini",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "1997-01-24",
-        "buts": 0
-      },
-      {
         "nom": "Jesper Karlsson",
         "poste": "Offence",
         "nationalite": "Sweden",
@@ -976,7 +976,7 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2001-10-11",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Alessandro Romano",
@@ -3188,17 +3188,17 @@
         "buts": 3
       },
       {
-        "nom": "Josh Doig",
-        "poste": "Defence",
-        "nationalite": "Scotland",
-        "naissance": "2002-01-01",
-        "buts": 1
-      },
-      {
         "nom": "Cas Odenthal",
         "poste": "Defence",
         "nationalite": "Netherlands",
         "naissance": "2000-09-26",
+        "buts": 2
+      },
+      {
+        "nom": "Josh Doig",
+        "poste": "Defence",
+        "nationalite": "Scotland",
+        "naissance": "2002-01-01",
         "buts": 1
       },
       {

@@ -642,7 +642,7 @@
     "stade": "Emirates Stadium",
     "couleurs": "Red / White",
     "site": "http://www.arsenal.com",
-    "entraineur": null,
+    "entraineur": "Mikel Arteta",
     "effectif": [
       {
         "nom": "Martin Ødegaard",
@@ -823,7 +823,7 @@
     "stade": "Villa Park",
     "couleurs": "Claret / Sky Blue",
     "site": "http://www.avfc.co.uk",
-    "entraineur": null,
+    "entraineur": "Unai Emery",
     "effectif": [
       {
         "nom": "Emiliano Buendía",
@@ -858,6 +858,13 @@
         "poste": "Goalkeeper",
         "nationalite": "Japan",
         "naissance": "2002-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "James Wright",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2004-12-02",
         "buts": 0
       },
       {
@@ -1025,7 +1032,7 @@
     "stade": "Anfield",
     "couleurs": "Red / White",
     "site": "http://www.liverpoolfc.tv",
-    "entraineur": null,
+    "entraineur": "Andoni Iraola",
     "effectif": [
       {
         "nom": "Dominik Szoboszlai",
@@ -1161,6 +1168,13 @@
         "buts": 0
       },
       {
+        "nom": "James McConnell",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2004-09-13",
+        "buts": 0
+      },
+      {
         "nom": "Trey Nyoni",
         "poste": "Midfield",
         "nationalite": "England",
@@ -1203,6 +1217,13 @@
         "buts": 0
       },
       {
+        "nom": "Lewis Koumas",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "2005-09-19",
+        "buts": 0
+      },
+      {
         "nom": "Víctor Muñoz",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -1227,7 +1248,7 @@
     "stade": "Etihad Stadium",
     "couleurs": "Sky Blue / White",
     "site": "https://www.mancity.com",
-    "entraineur": null,
+    "entraineur": "Enzo Maresca",
     "effectif": [
       {
         "nom": "Erling Haaland",
@@ -1290,13 +1311,6 @@
         "poste": "Defence",
         "nationalite": "Croatia",
         "naissance": "2002-01-23",
-        "buts": 0
-      },
-      {
-        "nom": "Josh Wilson-Esbrand",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2002-12-26",
         "buts": 0
       },
       {
@@ -1415,7 +1429,7 @@
     "stade": "Old Trafford",
     "couleurs": "Red / White",
     "site": "http://www.manutd.com",
-    "entraineur": null,
+    "entraineur": "Michael Carrick",
     "effectif": [
       {
         "nom": "Lisandro Martínez",
@@ -1569,13 +1583,6 @@
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "2005-04-19",
-        "buts": 0
-      },
-      {
-        "nom": "Jack Fletcher",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2007-03-19",
         "buts": 0
       },
       {

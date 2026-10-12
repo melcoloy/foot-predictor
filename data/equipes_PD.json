@@ -405,7 +405,7 @@
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "1991-07-22",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Kike Barja",
@@ -559,6 +559,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2000-02-02",
+        "buts": 0
+      },
+      {
+        "nom": "Mikel Bermejo",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2009-02-16",
         "buts": 0
       }
     ]
@@ -1160,13 +1167,6 @@
     "entraineur": "Juan Funes",
     "effectif": [
       {
-        "nom": "Carlos Dotor",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2001-03-15",
-        "buts": 1
-      },
-      {
         "nom": "Chupete",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -1283,6 +1283,13 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2003-04-05",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Dotor",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-03-15",
         "buts": 0
       },
       {
@@ -1975,6 +1982,13 @@
     "entraineur": "Manuel Pellegrini",
     "effectif": [
       {
+        "nom": "Isco",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1992-04-21",
+        "buts": 2
+      },
+      {
         "nom": "Cucho Hernández",
         "poste": "Offence",
         "nationalite": "Colombia",
@@ -1986,6 +2000,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2000-04-02",
+        "buts": 2
+      },
+      {
+        "nom": "Abdessamad Ezzalzouli",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2001-12-17",
         "buts": 2
       },
       {
@@ -2007,13 +2028,6 @@
         "poste": "Offence",
         "nationalite": "Ireland",
         "naissance": "2002-02-04",
-        "buts": 1
-      },
-      {
-        "nom": "Abdessamad Ezzalzouli",
-        "poste": "Offence",
-        "nationalite": "Morocco",
-        "naissance": "2001-12-17",
         "buts": 1
       },
       {
@@ -2070,13 +2084,6 @@
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "2004-07-25",
-        "buts": 0
-      },
-      {
-        "nom": "Isco",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "1992-04-21",
         "buts": 0
       },
       {
@@ -3727,7 +3734,7 @@
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "2005-02-23",
-        "buts": 6
+        "buts": 7
       },
       {
         "nom": "Pablo García",

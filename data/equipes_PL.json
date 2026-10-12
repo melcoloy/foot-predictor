@@ -8,7 +8,7 @@
     "stade": "Emirates Stadium",
     "couleurs": "Red / White",
     "site": "http://www.arsenal.com",
-    "entraineur": null,
+    "entraineur": "Mikel Arteta",
     "effectif": [
       {
         "nom": "Bukayo Saka",
@@ -189,7 +189,7 @@
     "stade": "Villa Park",
     "couleurs": "Claret / Sky Blue",
     "site": "http://www.avfc.co.uk",
-    "entraineur": null,
+    "entraineur": "Unai Emery",
     "effectif": [
       {
         "nom": "Nicolas Jackson",
@@ -238,6 +238,13 @@
         "poste": "Goalkeeper",
         "nationalite": "Japan",
         "naissance": "2002-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "James Wright",
+        "poste": "Goalkeeper",
+        "nationalite": "England",
+        "naissance": "2004-12-02",
         "buts": 0
       },
       {
@@ -391,7 +398,7 @@
     "stade": "Stamford Bridge",
     "couleurs": "Royal Blue / White",
     "site": "http://www.chelseafc.com",
-    "entraineur": null,
+    "entraineur": "Xabi Alonso",
     "effectif": [
       {
         "nom": "João Pedro",
@@ -548,10 +555,10 @@
         "buts": 0
       },
       {
-        "nom": "Ray Paez",
+        "nom": "Mahdi Nicoll-Jazuli",
         "poste": "Midfield",
-        "nationalite": "Ecuador",
-        "naissance": "2007-05-04",
+        "nationalite": "England",
+        "naissance": "2010-01-06",
         "buts": 0
       },
       {
@@ -588,13 +595,6 @@
         "nationalite": "Brazil",
         "naissance": "2007-04-24",
         "buts": 0
-      },
-      {
-        "nom": "Mahdi Nicoll-Jazuli",
-        "poste": null,
-        "nationalite": "England",
-        "naissance": "2010-01-06",
-        "buts": 0
       }
     ]
   },
@@ -607,13 +607,20 @@
     "stade": "Goodison Park",
     "couleurs": "Blue / White",
     "site": "http://www.evertonfc.com",
-    "entraineur": null,
+    "entraineur": "David Moyes",
     "effectif": [
       {
         "nom": "Thierno Barry",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2000-01-12",
+        "buts": 3
+      },
+      {
+        "nom": "Kiernan Dewsbury Hall",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1998-09-06",
         "buts": 2
       },
       {
@@ -628,13 +635,6 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "1997-08-29",
-        "buts": 1
-      },
-      {
-        "nom": "Kiernan Dewsbury Hall",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "1998-09-06",
         "buts": 1
       },
       {
@@ -755,6 +755,13 @@
         "nationalite": "England",
         "naissance": "2006-02-17",
         "buts": 0
+      },
+      {
+        "nom": "Briaden Graham",
+        "poste": "Offence",
+        "nationalite": "Northern Ireland",
+        "naissance": "2007-11-07",
+        "buts": 0
       }
     ]
   },
@@ -767,7 +774,7 @@
     "stade": "Craven Cottage",
     "couleurs": "White / Black",
     "site": "http://www.fulhamfc.com",
-    "entraineur": null,
+    "entraineur": "Arbeloa",
     "effectif": [
       {
         "nom": "Joshua King",
@@ -868,10 +875,10 @@
         "buts": 0
       },
       {
-        "nom": "Luc De Fougerolles",
-        "poste": "Defence",
-        "nationalite": "Canada",
-        "naissance": "2005-10-12",
+        "nom": "Alex Iwobi",
+        "poste": "Midfield",
+        "nationalite": "Nigeria",
+        "naissance": "1996-05-03",
         "buts": 0
       },
       {
@@ -924,13 +931,6 @@
         "buts": 0
       },
       {
-        "nom": "Alex Iwobi",
-        "poste": "Offence",
-        "nationalite": "Nigeria",
-        "naissance": "1996-05-03",
-        "buts": 0
-      },
-      {
         "nom": "Rodrigo Muniz",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -969,7 +969,7 @@
     "stade": "Anfield",
     "couleurs": "Red / White",
     "site": "http://www.liverpoolfc.tv",
-    "entraineur": null,
+    "entraineur": "Andoni Iraola",
     "effectif": [
       {
         "nom": "Alexander Isak",
@@ -1126,6 +1126,13 @@
         "buts": 0
       },
       {
+        "nom": "James McConnell",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2004-09-13",
+        "buts": 0
+      },
+      {
         "nom": "Trey Nyoni",
         "poste": "Midfield",
         "nationalite": "England",
@@ -1154,6 +1161,13 @@
         "buts": 0
       },
       {
+        "nom": "Lewis Koumas",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "2005-09-19",
+        "buts": 0
+      },
+      {
         "nom": "Rio Ngumoha",
         "poste": "Offence",
         "nationalite": "England",
@@ -1171,21 +1185,21 @@
     "stade": "Etihad Stadium",
     "couleurs": "Sky Blue / White",
     "site": "https://www.mancity.com",
-    "entraineur": null,
+    "entraineur": "Enzo Maresca",
     "effectif": [
       {
         "nom": "Erling Haaland",
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2000-07-21",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Rayan Cherki",
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "2003-08-17",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Antoine Semenyo",
@@ -1255,13 +1269,6 @@
         "poste": "Defence",
         "nationalite": "Portugal",
         "naissance": "1998-08-27",
-        "buts": 0
-      },
-      {
-        "nom": "Josh Wilson-Esbrand",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2002-12-26",
         "buts": 0
       },
       {
@@ -1359,7 +1366,7 @@
     "stade": "Old Trafford",
     "couleurs": "Red / White",
     "site": "http://www.manutd.com",
-    "entraineur": null,
+    "entraineur": "Michael Carrick",
     "effectif": [
       {
         "nom": "Bruno Fernandes",
@@ -1523,13 +1530,6 @@
         "buts": 0
       },
       {
-        "nom": "Jack Fletcher",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2007-03-19",
-        "buts": 0
-      },
-      {
         "nom": "Tyler Fletcher",
         "poste": "Midfield",
         "nationalite": "England",
@@ -1582,7 +1582,7 @@
     "stade": "St. James' Park",
     "couleurs": "Black / White",
     "site": "http://www.nufc.co.uk",
-    "entraineur": null,
+    "entraineur": "Matthias Jaissle",
     "effectif": [
       {
         "nom": "Joe Willock",
@@ -1704,13 +1704,6 @@
         "buts": 0
       },
       {
-        "nom": "Leo Shahar",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2007-03-18",
-        "buts": 0
-      },
-      {
         "nom": "Joelinton",
         "poste": "Midfield",
         "nationalite": "Brazil",
@@ -1765,27 +1758,6 @@
         "nationalite": "Belgium",
         "naissance": "2005-02-03",
         "buts": 0
-      },
-      {
-        "nom": "Kyran Thompson",
-        "poste": null,
-        "nationalite": "England",
-        "naissance": "2009-09-06",
-        "buts": 0
-      },
-      {
-        "nom": "Michael Mills",
-        "poste": null,
-        "nationalite": "England",
-        "naissance": "2009-02-18",
-        "buts": 0
-      },
-      {
-        "nom": "Mason Miley",
-        "poste": null,
-        "nationalite": "England",
-        "naissance": "2008-09-29",
-        "buts": 0
       }
     ]
   },
@@ -1798,7 +1770,7 @@
     "stade": "Stadium of Light",
     "couleurs": "Red / White",
     "site": "http://www.safc.com",
-    "entraineur": null,
+    "entraineur": "Regis Le Bris",
     "effectif": [
       {
         "nom": "Brian Brobbey",
@@ -1934,13 +1906,6 @@
         "buts": 0
       },
       {
-        "nom": "Abdoullah Ba",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2003-07-31",
-        "buts": 0
-      },
-      {
         "nom": "Habib Diarra",
         "poste": "Midfield",
         "nationalite": "Senegal",
@@ -1969,6 +1934,13 @@
         "buts": 0
       },
       {
+        "nom": "Abdoullah Ba",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2003-07-31",
+        "buts": 0
+      },
+      {
         "nom": "Romaine Mundle",
         "poste": "Offence",
         "nationalite": "England",
@@ -1990,13 +1962,6 @@
         "buts": 0
       },
       {
-        "nom": "Juan Angulo",
-        "poste": "Offence",
-        "nationalite": "Ecuador",
-        "naissance": "2008-01-12",
-        "buts": 0
-      },
-      {
         "nom": "Jocelin Bi",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
@@ -2014,7 +1979,7 @@
     "stade": "Tottenham Hotspur Stadium",
     "couleurs": "Navy Blue / White",
     "site": "http://www.tottenhamhotspur.com",
-    "entraineur": null,
+    "entraineur": "Roberto De Zerbi",
     "effectif": [
       {
         "nom": "Jan Paul van Hecke",
@@ -2223,14 +2188,14 @@
     "stade": "Kingston Communications Stadium",
     "couleurs": "Orange / Black",
     "site": "http://www.hullcitytigers.com",
-    "entraineur": null,
+    "entraineur": "Sergej Jakirović",
     "effectif": [
       {
         "nom": "Mohamed Belloumi",
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "2002-06-01",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Semi Ajayi",
@@ -2331,24 +2296,10 @@
         "buts": 0
       },
       {
-        "nom": "Matty Crooks",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "1994-01-20",
-        "buts": 0
-      },
-      {
         "nom": "Kieran Dowell",
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "1997-10-10",
-        "buts": 0
-      },
-      {
-        "nom": "Abdülkadir Ömür",
-        "poste": "Midfield",
-        "nationalite": "Turkey",
-        "naissance": "1999-06-25",
         "buts": 0
       },
       {
@@ -2422,6 +2373,13 @@
         "buts": 0
       },
       {
+        "nom": "Abdülkadir Ömür",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "1999-06-25",
+        "buts": 0
+      },
+      {
         "nom": "Joe Gelhardt",
         "poste": "Offence",
         "nationalite": "England",
@@ -2433,13 +2391,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2004-01-19",
-        "buts": 0
-      },
-      {
-        "nom": "David Akintola",
-        "poste": "Offence",
-        "nationalite": "Nigeria",
-        "naissance": "1996-01-13",
         "buts": 0
       },
       {
@@ -2474,7 +2425,7 @@
     "stade": "Elland Road",
     "couleurs": "White / Blue",
     "site": "http://www.leedsunited.com",
-    "entraineur": null,
+    "entraineur": "Daniel Farke",
     "effectif": [
       {
         "nom": "Jayden Bogle",
@@ -2655,7 +2606,7 @@
     "stade": "Portman Road Stadium",
     "couleurs": "Blue / White",
     "site": "http://www.itfc.co.uk",
-    "entraineur": null,
+    "entraineur": "Gary O'Neil",
     "effectif": [
       {
         "nom": "Leif Davis",
@@ -2819,13 +2770,6 @@
         "buts": 0
       },
       {
-        "nom": "Kasey McAteer",
-        "poste": "Midfield",
-        "nationalite": "Ireland",
-        "naissance": "2001-11-22",
-        "buts": 0
-      },
-      {
         "nom": "Daizen Maeda",
         "poste": "Offence",
         "nationalite": "Japan",
@@ -2837,6 +2781,13 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "2002-02-08",
+        "buts": 0
+      },
+      {
+        "nom": "Kasey McAteer",
+        "poste": "Offence",
+        "nationalite": "Ireland",
+        "naissance": "2001-11-22",
         "buts": 0
       },
       {
@@ -2864,20 +2815,20 @@
     "stade": "The City Ground",
     "couleurs": "Red / White",
     "site": "http://www.nottinghamforest.co.uk",
-    "entraineur": null,
+    "entraineur": "Oliver Glasner",
     "effectif": [
-      {
-        "nom": "Morgan Gibbs-White",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2000-01-27",
-        "buts": 1
-      },
       {
         "nom": "Dan Ndoye",
         "poste": "Offence",
         "nationalite": "Switzerland",
         "naissance": "2000-10-25",
+        "buts": 2
+      },
+      {
+        "nom": "Morgan Gibbs-White",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-01-27",
         "buts": 1
       },
       {
@@ -3045,7 +2996,7 @@
     "stade": "Selhurst Park",
     "couleurs": "Red / Blue",
     "site": "http://www.cpfc.co.uk",
-    "entraineur": null,
+    "entraineur": "Pierre Sage",
     "effectif": [
       {
         "nom": "Tyrick Mitchell",
@@ -3063,7 +3014,7 @@
       },
       {
         "nom": "Anan Khalaili",
-        "poste": "Midfield",
+        "poste": "Defence",
         "nationalite": "Israel",
         "naissance": "2004-09-03",
         "buts": 1
@@ -3230,24 +3181,10 @@
         "buts": 0
       },
       {
-        "nom": "Matheus Franca",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2004-04-01",
-        "buts": 0
-      },
-      {
         "nom": "Darío Osorio",
         "poste": "Offence",
         "nationalite": "Chile",
         "naissance": "2004-01-24",
-        "buts": 0
-      },
-      {
-        "nom": "Jesurun Rak-Sakyi",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2002-10-05",
         "buts": 0
       },
       {
@@ -3268,7 +3205,7 @@
     "stade": "The American Express Community Stadium",
     "couleurs": "Blue / White",
     "site": "http://www.seagulls.co.uk",
-    "entraineur": null,
+    "entraineur": "Fabian Hürzeler",
     "effectif": [
       {
         "nom": "Pascal Groß",
@@ -3411,17 +3348,17 @@
         "buts": 0
       },
       {
-        "nom": "Femi Azeez",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2001-06-05",
-        "buts": 0
-      },
-      {
         "nom": "Diego Gómez",
         "poste": "Midfield",
         "nationalite": "Paraguay",
         "naissance": "2003-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Femi Azeez",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-06-05",
         "buts": 0
       },
       {
@@ -3479,13 +3416,6 @@
         "nationalite": "Nigeria",
         "naissance": "2007-06-29",
         "buts": 0
-      },
-      {
-        "nom": "Younes Ibrahim",
-        "poste": null,
-        "nationalite": "Australia",
-        "naissance": "2008-02-16",
-        "buts": 0
       }
     ]
   },
@@ -3498,7 +3428,7 @@
     "stade": "Griffin Park",
     "couleurs": "Red / White / Black",
     "site": "http://www.brentfordfc.co.uk",
-    "entraineur": null,
+    "entraineur": "Keith Andrews",
     "effectif": [
       {
         "nom": "Kevin Schade",
@@ -3515,17 +3445,17 @@
         "buts": 2
       },
       {
+        "nom": "Keane Lewis-Potter",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2001-02-22",
+        "buts": 1
+      },
+      {
         "nom": "Michael Kayode",
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "2004-07-10",
-        "buts": 1
-      },
-      {
-        "nom": "Keane Lewis-Potter",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2001-02-22",
         "buts": 1
       },
       {
@@ -3714,11 +3644,11 @@
     "stade": "Vitality Stadium",
     "couleurs": "Red / Black",
     "site": "http://www.afcb.co.uk",
-    "entraineur": null,
+    "entraineur": "Marco Rose",
     "effectif": [
       {
         "nom": "Marcus Tavernier",
-        "poste": "Midfield",
+        "poste": "Offence",
         "nationalite": "England",
         "naissance": "1999-03-22",
         "buts": 3
@@ -3864,13 +3794,6 @@
         "buts": 0
       },
       {
-        "nom": "Ben Winterburn",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2004-09-04",
-        "buts": 0
-      },
-      {
         "nom": "David Brooks",
         "poste": "Offence",
         "nationalite": "Wales",
@@ -3930,7 +3853,7 @@
     "stade": "Coventry Building Society Arena",
     "couleurs": "Sky Blue / White",
     "site": "http://www.ccfc.co.uk",
-    "entraineur": null,
+    "entraineur": "Frank Lampard",
     "effectif": [
       {
         "nom": "Jay Dasilva",
@@ -4098,6 +4021,13 @@
         "poste": "Offence",
         "nationalite": "USA",
         "naissance": "1998-03-27",
+        "buts": 0
+      },
+      {
+        "nom": "Yann Gboho",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2001-01-14",
         "buts": 0
       },
       {
