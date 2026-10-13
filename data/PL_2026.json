@@ -887,7 +887,7 @@
   {
     "id": 560597,
     "date": "2026-10-12T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
@@ -896,8 +896,8 @@
     "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/67.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 1
   },
   {
     "id": 560603,

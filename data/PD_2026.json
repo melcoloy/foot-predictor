@@ -1172,7 +1172,7 @@
   {
     "id": 564704,
     "date": "2026-10-12T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
@@ -1181,8 +1181,8 @@
     "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/559.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 3
   },
   {
     "id": 564716,

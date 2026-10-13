@@ -123,13 +123,13 @@
     "equipe": "Newcastle United FC",
     "court": "Newcastle",
     "logo": "https://crests.football-data.org/67.png",
-    "j": 5,
+    "j": 6,
     "g": 2,
     "n": 2,
-    "p": 1,
+    "p": 2,
     "pts": 8,
-    "bp": 9,
-    "bc": 9
+    "bp": 10,
+    "bc": 13
   },
   {
     "equipe": "Crystal Palace FC",
@@ -154,6 +154,18 @@
     "pts": 6,
     "bp": 9,
     "bc": 9
+  },
+  {
+    "equipe": "Coventry City FC",
+    "court": "Coventry City",
+    "logo": "https://crests.football-data.org/1076.png",
+    "j": 6,
+    "g": 2,
+    "n": 0,
+    "p": 4,
+    "pts": 6,
+    "bp": 5,
+    "bc": 11
   },
   {
     "equipe": "Nottingham Forest FC",
@@ -214,18 +226,6 @@
     "pts": 3,
     "bp": 3,
     "bc": 9
-  },
-  {
-    "equipe": "Coventry City FC",
-    "court": "Coventry City",
-    "logo": "https://crests.football-data.org/1076.png",
-    "j": 5,
-    "g": 1,
-    "n": 0,
-    "p": 4,
-    "pts": 3,
-    "bp": 1,
-    "bc": 10
   },
   {
     "equipe": "Fulham FC",

@@ -170,7 +170,7 @@
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 2.14,
     "lambda_ext": 0.98,
-    "p1": 0.638,
+    "p1": 0.637,
     "pN": 0.202,
     "p2": 0.161,
     "score_probable": "2-0"
@@ -380,7 +380,7 @@
     "lambda_ext": 1.49,
     "p1": 0.363,
     "pN": 0.251,
-    "p2": 0.387,
+    "p2": 0.386,
     "score_probable": "1-1"
   },
   {
@@ -620,7 +620,7 @@
     "lambda_ext": 0.99,
     "p1": 0.63,
     "pN": 0.204,
-    "p2": 0.165,
+    "p2": 0.166,
     "score_probable": "2-0"
   },
   {
@@ -780,7 +780,7 @@
     "lambda_ext": 1.06,
     "p1": 0.481,
     "pN": 0.26,
-    "p2": 0.258,
+    "p2": 0.259,
     "score_probable": "1-1"
   },
   {
@@ -1114,7 +1114,7 @@
     "logo_ext": "https://crests.football-data.org/521.png",
     "lambda_dom": 1.09,
     "lambda_ext": 1.22,
-    "p1": 0.323,
+    "p1": 0.324,
     "pN": 0.287,
     "p2": 0.389,
     "score_probable": "1-1"
@@ -1194,7 +1194,7 @@
     "logo_ext": "https://crests.football-data.org/529.png",
     "lambda_dom": 1.29,
     "lambda_ext": 2.03,
-    "p1": 0.238,
+    "p1": 0.239,
     "pN": 0.218,
     "p2": 0.544,
     "score_probable": "1-1"
@@ -1290,7 +1290,7 @@
     "logo_ext": "https://crests.football-data.org/524.png",
     "lambda_dom": 1.48,
     "lambda_ext": 1.53,
-    "p1": 0.366,
+    "p1": 0.367,
     "pN": 0.247,
     "p2": 0.386,
     "score_probable": "1-1"
@@ -1434,7 +1434,7 @@
     "logo_ext": "https://crests.football-data.org/524.png",
     "lambda_dom": 0.76,
     "lambda_ext": 1.88,
-    "p1": 0.143,
+    "p1": 0.144,
     "pN": 0.221,
     "p2": 0.636,
     "score_probable": "0-1"
@@ -1483,7 +1483,7 @@
     "lambda_dom": 1.45,
     "lambda_ext": 0.88,
     "p1": 0.502,
-    "pN": 0.272,
+    "pN": 0.271,
     "p2": 0.226,
     "score_probable": "1-0"
   },
@@ -1496,7 +1496,7 @@
     "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/512.png",
-    "lambda_dom": 2.39,
+    "lambda_dom": 2.38,
     "lambda_ext": 1.07,
     "p1": 0.662,
     "pN": 0.184,
@@ -1594,7 +1594,7 @@
     "logo_ext": "https://crests.football-data.org/519.png",
     "lambda_dom": 1.67,
     "lambda_ext": 0.9,
-    "p1": 0.554,
+    "p1": 0.553,
     "pN": 0.247,
     "p2": 0.199,
     "score_probable": "1-0"
@@ -1658,7 +1658,7 @@
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 2.46,
     "lambda_ext": 0.88,
-    "p1": 0.719,
+    "p1": 0.718,
     "pN": 0.168,
     "p2": 0.113,
     "score_probable": "2-0"
@@ -1740,7 +1740,7 @@
     "lambda_ext": 1.65,
     "p1": 0.197,
     "pN": 0.25,
-    "p2": 0.554,
+    "p2": 0.553,
     "score_probable": "0-1"
   },
   {
@@ -2155,7 +2155,7 @@
     "lambda_dom": 2.73,
     "lambda_ext": 0.8,
     "p1": 0.777,
-    "pN": 0.14,
+    "pN": 0.141,
     "p2": 0.083,
     "score_probable": "2-0"
   },
@@ -2266,7 +2266,7 @@
     "logo_ext": "https://crests.football-data.org/511.png",
     "lambda_dom": 1.89,
     "lambda_ext": 1.03,
-    "p1": 0.573,
+    "p1": 0.572,
     "pN": 0.227,
     "p2": 0.201,
     "score_probable": "1-1"
@@ -2344,7 +2344,7 @@
     "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/576.png",
-    "lambda_dom": 2.28,
+    "lambda_dom": 2.27,
     "lambda_ext": 1.31,
     "p1": 0.59,
     "pN": 0.2,
@@ -2920,7 +2920,7 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "lambda_dom": 2.12,
+    "lambda_dom": 2.11,
     "lambda_ext": 1.54,
     "p1": 0.507,
     "pN": 0.213,
@@ -3212,7 +3212,7 @@
     "lambda_ext": 1.12,
     "p1": 0.483,
     "pN": 0.253,
-    "p2": 0.263,
+    "p2": 0.264,
     "score_probable": "1-1"
   },
   {
@@ -3624,7 +3624,7 @@
     "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/535.png",
-    "lambda_dom": 2.17,
+    "lambda_dom": 2.16,
     "lambda_ext": 0.92,
     "p1": 0.656,
     "pN": 0.197,

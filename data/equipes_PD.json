@@ -1784,14 +1784,14 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2001-04-10",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Adrián de la Fuente",
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "1999-02-26",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Jon Olasagasti",
@@ -2122,6 +2122,13 @@
         "buts": 0
       },
       {
+        "nom": "Iker Losada",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2001-08-01",
+        "buts": 0
+      },
+      {
         "nom": "Nelson Deossa",
         "poste": "Midfield",
         "nationalite": "Colombia",
@@ -2147,13 +2154,6 @@
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "2000-02-24",
-        "buts": 0
-      },
-      {
-        "nom": "Iker Losada",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2001-08-01",
         "buts": 0
       }
     ]
@@ -3326,6 +3326,13 @@
     "entraineur": "Luís García",
     "effectif": [
       {
+        "nom": "Isaac",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-05-18",
+        "buts": 2
+      },
+      {
         "nom": "Miguel Ángel Sierra",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -3365,13 +3372,6 @@
         "poste": "Offence",
         "nationalite": "Belgium",
         "naissance": "2004-11-29",
-        "buts": 1
-      },
-      {
-        "nom": "Isaac",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2000-05-18",
         "buts": 1
       },
       {

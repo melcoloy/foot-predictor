@@ -108,6 +108,18 @@
     "bc": 7
   },
   {
+    "equipe": "Atalanta BC",
+    "court": "Atalanta",
+    "logo": "https://crests.football-data.org/102.png",
+    "j": 6,
+    "g": 3,
+    "n": 0,
+    "p": 3,
+    "pts": 9,
+    "bp": 8,
+    "bc": 8
+  },
+  {
     "equipe": "US Sassuolo Calcio",
     "court": "Sassuolo",
     "logo": "https://crests.football-data.org/471.png",
@@ -120,16 +132,16 @@
     "bc": 10
   },
   {
-    "equipe": "Atalanta BC",
-    "court": "Atalanta",
-    "logo": "https://crests.football-data.org/102.png",
-    "j": 5,
+    "equipe": "Torino FC",
+    "court": "Torino",
+    "logo": "https://crests.football-data.org/586.png",
+    "j": 6,
     "g": 2,
-    "n": 0,
+    "n": 1,
     "p": 3,
-    "pts": 6,
-    "bp": 5,
-    "bc": 7
+    "pts": 7,
+    "bp": 7,
+    "bc": 9
   },
   {
     "equipe": "US Lecce",
@@ -159,25 +171,13 @@
     "equipe": "Udinese Calcio",
     "court": "Udinese",
     "logo": "https://crests.football-data.org/115.png",
-    "j": 5,
+    "j": 6,
     "g": 1,
     "n": 1,
-    "p": 3,
+    "p": 4,
     "pts": 4,
-    "bp": 8,
-    "bc": 11
-  },
-  {
-    "equipe": "Torino FC",
-    "court": "Torino",
-    "logo": "https://crests.football-data.org/586.png",
-    "j": 5,
-    "g": 1,
-    "n": 1,
-    "p": 3,
-    "pts": 4,
-    "bp": 5,
-    "bc": 8
+    "bp": 9,
+    "bc": 13
   },
   {
     "equipe": "AC Monza",
@@ -231,12 +231,12 @@
     "equipe": "Venezia FC",
     "court": "Venezia FC",
     "logo": "https://crests.football-data.org/454.png",
-    "j": 5,
+    "j": 6,
     "g": 0,
     "n": 0,
-    "p": 5,
+    "p": 6,
     "pts": 0,
-    "bp": 4,
-    "bc": 13
+    "bp": 5,
+    "bc": 16
   }
 ]

@@ -589,6 +589,13 @@
     "entraineur": "Maurizio Sarri",
     "effectif": [
       {
+        "nom": "Nikola Krstović",
+        "poste": "Offence",
+        "nationalite": "Montenegro",
+        "naissance": "2000-04-05",
+        "buts": 3
+      },
+      {
         "nom": "Éderson",
         "poste": "Midfield",
         "nationalite": "Brazil",
@@ -617,13 +624,6 @@
         "buts": 1
       },
       {
-        "nom": "Nikola Krstović",
-        "poste": "Offence",
-        "nationalite": "Montenegro",
-        "naissance": "2000-04-05",
-        "buts": 1
-      },
-      {
         "nom": "Marco Sportiello",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -642,6 +642,13 @@
         "poste": "Goalkeeper",
         "nationalite": "Italy",
         "naissance": "2006-04-07",
+        "buts": 0
+      },
+      {
+        "nom": "Mattia Sonzogni",
+        "poste": "Goalkeeper",
+        "nationalite": "Italy",
+        "naissance": "2009-07-30",
         "buts": 0
       },
       {
@@ -2310,6 +2317,13 @@
         "buts": 0
       },
       {
+        "nom": "Claudio Pugliese",
+        "poste": "Goalkeeper",
+        "nationalite": "Italy",
+        "naissance": "2008-04-15",
+        "buts": 0
+      },
+      {
         "nom": "Leonardo Spinazzola",
         "poste": "Defence",
         "nationalite": "Italy",
@@ -2427,13 +2441,6 @@
         "nationalite": "Portugal",
         "naissance": "2005-01-12",
         "buts": 0
-      },
-      {
-        "nom": "Claudio Pugliese",
-        "poste": null,
-        "nationalite": "Italy",
-        "naissance": "2008-04-15",
-        "buts": 0
       }
     ]
   },
@@ -2449,17 +2456,17 @@
     "entraineur": "Kosta Runjaić",
     "effectif": [
       {
-        "nom": "Hassane Kamara",
-        "poste": "Defence",
-        "nationalite": "Ivory Coast",
-        "naissance": "1994-03-05",
-        "buts": 2
-      },
-      {
         "nom": "Jurgen Ekkelenkamp",
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "2000-04-05",
+        "buts": 3
+      },
+      {
+        "nom": "Hassane Kamara",
+        "poste": "Defence",
+        "nationalite": "Ivory Coast",
+        "naissance": "1994-03-05",
         "buts": 2
       },
       {
@@ -2665,17 +2672,17 @@
     "entraineur": "Giovanni Stroppa",
     "effectif": [
       {
-        "nom": "Richie Sagrado",
-        "poste": "Defence",
-        "nationalite": "Belgium",
-        "naissance": "2004-01-30",
-        "buts": 1
-      },
-      {
         "nom": "Antoine Hainaut",
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2002-02-18",
+        "buts": 2
+      },
+      {
+        "nom": "Richie Sagrado",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2004-01-30",
         "buts": 1
       },
       {
@@ -3439,6 +3446,13 @@
         "buts": 2
       },
       {
+        "nom": "Sandro Kulenović",
+        "poste": "Offence",
+        "nationalite": "Croatia",
+        "naissance": "1999-12-04",
+        "buts": 2
+      },
+      {
         "nom": "Pietro Comuzzo",
         "poste": "Defence",
         "nationalite": "Italy",
@@ -3450,13 +3464,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1997-06-29",
-        "buts": 1
-      },
-      {
-        "nom": "Sandro Kulenović",
-        "poste": "Offence",
-        "nationalite": "Croatia",
-        "naissance": "1999-12-04",
         "buts": 1
       },
       {
