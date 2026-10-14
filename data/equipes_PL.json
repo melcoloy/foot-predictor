@@ -177,6 +177,13 @@
         "nationalite": "England",
         "naissance": "2009-12-31",
         "buts": 0
+      },
+      {
+        "nom": "Maalik Hashi",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2008-09-03",
+        "buts": 0
       }
     ]
   },
@@ -1569,6 +1576,13 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "2007-04-14",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Armer",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2007-10-22",
         "buts": 0
       }
     ]

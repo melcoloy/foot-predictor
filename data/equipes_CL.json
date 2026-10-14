@@ -234,6 +234,13 @@
     "entraineur": "Vincent Kompany",
     "effectif": [
       {
+        "nom": "Harry Kane",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1993-07-28",
+        "buts": 3
+      },
+      {
         "nom": "Michael Olise",
         "poste": "Offence",
         "nationalite": "France",
@@ -255,10 +262,10 @@
         "buts": 1
       },
       {
-        "nom": "Harry Kane",
+        "nom": "Luis Díaz",
         "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "1993-07-28",
+        "nationalite": "Colombia",
+        "naissance": "1997-01-13",
         "buts": 1
       },
       {
@@ -385,13 +392,6 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1995-07-14",
-        "buts": 0
-      },
-      {
-        "nom": "Luis Díaz",
-        "poste": "Offence",
-        "nationalite": "Colombia",
-        "naissance": "1997-01-13",
         "buts": 0
       }
     ]
@@ -631,10 +631,31 @@
     "entraineur": "Mikel Arteta",
     "effectif": [
       {
+        "nom": "Jurrien Timber",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2001-06-17",
+        "buts": 1
+      },
+      {
+        "nom": "Eberechi Eze",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1998-06-29",
+        "buts": 1
+      },
+      {
         "nom": "Martin Ødegaard",
         "poste": "Midfield",
         "nationalite": "Norway",
         "naissance": "1998-12-17",
+        "buts": 1
+      },
+      {
+        "nom": "Bukayo Saka",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-09-05",
         "buts": 1
       },
       {
@@ -687,13 +708,6 @@
         "buts": 0
       },
       {
-        "nom": "Jurrien Timber",
-        "poste": "Defence",
-        "nationalite": "Netherlands",
-        "naissance": "2001-06-17",
-        "buts": 0
-      },
-      {
         "nom": "Piero Hincapié",
         "poste": "Defence",
         "nationalite": "Ecuador",
@@ -719,13 +733,6 @@
         "poste": "Midfield",
         "nationalite": "Brazil",
         "naissance": "1997-11-16",
-        "buts": 0
-      },
-      {
-        "nom": "Eberechi Eze",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "1998-06-29",
         "buts": 0
       },
       {
@@ -768,13 +775,6 @@
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "1998-06-04",
-        "buts": 0
-      },
-      {
-        "nom": "Bukayo Saka",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2001-09-05",
         "buts": 0
       },
       {
@@ -1641,6 +1641,20 @@
         "buts": 1
       },
       {
+        "nom": "Pablo Barrios",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2025-06-30",
+        "buts": 1
+      },
+      {
+        "nom": "Ademola Lookman",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-10-20",
+        "buts": 1
+      },
+      {
         "nom": "Jan Oblak",
         "poste": "Goalkeeper",
         "nationalite": "Slovenia",
@@ -1746,13 +1760,6 @@
         "buts": 0
       },
       {
-        "nom": "Pablo Barrios",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2025-06-30",
-        "buts": 0
-      },
-      {
         "nom": "Kang-in Lee",
         "poste": "Midfield",
         "nationalite": "South Korea",
@@ -1771,13 +1778,6 @@
         "poste": "Offence",
         "nationalite": "Canada",
         "naissance": "2000-01-14",
-        "buts": 0
-      },
-      {
-        "nom": "Ademola Lookman",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "1997-10-20",
         "buts": 0
       },
       {
@@ -1829,6 +1829,27 @@
         "buts": 2
       },
       {
+        "nom": "Karim Adeyemi",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-01-18",
+        "buts": 2
+      },
+      {
+        "nom": "João Cancelo",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1994-05-27",
+        "buts": 1
+      },
+      {
+        "nom": "Fermín López",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2003-05-11",
+        "buts": 1
+      },
+      {
         "nom": "Gabriel Jesus",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -1836,10 +1857,10 @@
         "buts": 1
       },
       {
-        "nom": "Karim Adeyemi",
+        "nom": "Anthony Gordon",
         "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2002-01-18",
+        "nationalite": "England",
+        "naissance": "2001-02-24",
         "buts": 1
       },
       {
@@ -1868,13 +1889,6 @@
         "poste": "Goalkeeper",
         "nationalite": "Spain",
         "naissance": "2001-05-04",
-        "buts": 0
-      },
-      {
-        "nom": "João Cancelo",
-        "poste": "Defence",
-        "nationalite": "Portugal",
-        "naissance": "1994-05-27",
         "buts": 0
       },
       {
@@ -1962,13 +1976,6 @@
         "buts": 0
       },
       {
-        "nom": "Fermín López",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2003-05-11",
-        "buts": 0
-      },
-      {
         "nom": "Marc Bernal",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -1980,13 +1987,6 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2006-02-09",
-        "buts": 0
-      },
-      {
-        "nom": "Anthony Gordon",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2001-02-24",
         "buts": 0
       },
       {
@@ -2418,6 +2418,20 @@
         "poste": "Defence",
         "nationalite": "Uruguay",
         "naissance": "2002-02-13",
+        "buts": 2
+      },
+      {
+        "nom": "Georges Mikautadze",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2000-10-31",
+        "buts": 1
+      },
+      {
+        "nom": "Tani Oluwaseyi",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "2000-05-15",
         "buts": 1
       },
       {
@@ -2554,13 +2568,6 @@
         "buts": 0
       },
       {
-        "nom": "Georges Mikautadze",
-        "poste": "Offence",
-        "nationalite": "Georgia",
-        "naissance": "2000-10-31",
-        "buts": 0
-      },
-      {
         "nom": "Alberto Moleiro",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -2572,13 +2579,6 @@
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "2004-04-16",
-        "buts": 0
-      },
-      {
-        "nom": "Tani Oluwaseyi",
-        "poste": "Offence",
-        "nationalite": "Canada",
-        "naissance": "2000-05-15",
         "buts": 0
       },
       {
@@ -2790,6 +2790,20 @@
     "entraineur": "Cristian Chivu",
     "effectif": [
       {
+        "nom": "Lautaro Martínez",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "1997-08-22",
+        "buts": 2
+      },
+      {
+        "nom": "Ange-Yoan Bonny",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2003-10-25",
+        "buts": 1
+      },
+      {
         "nom": "Ivan Provedel",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -2930,24 +2944,10 @@
         "buts": 0
       },
       {
-        "nom": "Lautaro Martínez",
-        "poste": "Offence",
-        "nationalite": "Argentina",
-        "naissance": "1997-08-22",
-        "buts": 0
-      },
-      {
         "nom": "Marcus Thuram-Ulien",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1997-08-06",
-        "buts": 0
-      },
-      {
-        "nom": "Ange-Yoan Bonny",
-        "poste": "Offence",
-        "nationalite": "Ivory Coast",
-        "naissance": "2003-10-25",
         "buts": 0
       },
       {
@@ -2970,6 +2970,13 @@
     "site": "http://www.sscnapoli.it",
     "entraineur": "Massimiliano Allegri",
     "effectif": [
+      {
+        "nom": "Amir Rrahmani",
+        "poste": "Defence",
+        "nationalite": "Kosovo",
+        "naissance": "1994-02-24",
+        "buts": 1
+      },
       {
         "nom": "Vanja Milinković-Savić",
         "poste": "Goalkeeper",
@@ -3017,13 +3024,6 @@
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "1993-08-04",
-        "buts": 0
-      },
-      {
-        "nom": "Amir Rrahmani",
-        "poste": "Defence",
-        "nationalite": "Kosovo",
-        "naissance": "1994-02-24",
         "buts": 0
       },
       {
@@ -3173,6 +3173,13 @@
     "entraineur": "Rui Borges",
     "effectif": [
       {
+        "nom": "Luis Suárez",
+        "poste": "Offence",
+        "nationalite": "Colombia",
+        "naissance": "1997-12-02",
+        "buts": 2
+      },
+      {
         "nom": "Rodrigo Zalazar",
         "poste": "Midfield",
         "nationalite": "Uruguay",
@@ -3180,10 +3187,10 @@
         "buts": 1
       },
       {
-        "nom": "Luis Suárez",
-        "poste": "Offence",
-        "nationalite": "Colombia",
-        "naissance": "1997-12-02",
+        "nom": "Issa Doumbia",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2003-10-16",
         "buts": 1
       },
       {
@@ -3289,13 +3296,6 @@
         "poste": "Midfield",
         "nationalite": "Greece",
         "naissance": "2001-11-26",
-        "buts": 0
-      },
-      {
-        "nom": "Issa Doumbia",
-        "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "2003-10-16",
         "buts": 0
       },
       {
@@ -4183,6 +4183,13 @@
     "entraineur": "Okan Buruk",
     "effectif": [
       {
+        "nom": "Aleksey Batrakov",
+        "poste": "Midfield",
+        "nationalite": "Russia",
+        "naissance": "2005-06-09",
+        "buts": 1
+      },
+      {
         "nom": "Uğurcan Çakır",
         "poste": "Goalkeeper",
         "nationalite": "Turkey",
@@ -4320,13 +4327,6 @@
         "poste": "Midfield",
         "nationalite": "Turkey",
         "naissance": "2004-08-02",
-        "buts": 0
-      },
-      {
-        "nom": "Aleksey Batrakov",
-        "poste": "Midfield",
-        "nationalite": "Russia",
-        "naissance": "2005-06-09",
         "buts": 0
       },
       {
@@ -5096,6 +5096,13 @@
     "entraineur": "Martín Demichelis",
     "effectif": [
       {
+        "nom": "Brajan Gruda",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-05-31",
+        "buts": 1
+      },
+      {
         "nom": "Andrija Maksimović",
         "poste": "Midfield",
         "nationalite": "Serbia",
@@ -5222,13 +5229,6 @@
         "buts": 0
       },
       {
-        "nom": "Brajan Gruda",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2004-05-31",
-        "buts": 0
-      },
-      {
         "nom": "Assan Ouédraogo",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -5312,6 +5312,13 @@
     "entraineur": "Ivan Leko",
     "effectif": [
       {
+        "nom": "Nicolo Tresoldi",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "2004-08-20",
+        "buts": 4
+      },
+      {
         "nom": "Hugo Vetlesen",
         "poste": "Midfield",
         "nationalite": "Belgium",
@@ -5319,10 +5326,10 @@
         "buts": 1
       },
       {
-        "nom": "Nicolo Tresoldi",
+        "nom": "Romeo Vermant",
         "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "2004-08-20",
+        "nationalite": "Germany",
+        "naissance": "2004-01-24",
         "buts": 1
       },
       {
@@ -5456,13 +5463,6 @@
         "poste": "Midfield",
         "nationalite": "Slovenia",
         "naissance": "2009-07-31",
-        "buts": 0
-      },
-      {
-        "nom": "Romeo Vermant",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2004-01-24",
         "buts": 0
       },
       {
@@ -6385,10 +6385,31 @@
     "entraineur": "Morten Jensen",
     "effectif": [
       {
+        "nom": "Gianni Stensness",
+        "poste": "Defence",
+        "nationalite": "Australia",
+        "naissance": "1999-02-07",
+        "buts": 1
+      },
+      {
+        "nom": "Herman Haugen",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2000-04-25",
+        "buts": 1
+      },
+      {
         "nom": "Zlatko Tripić",
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "1992-12-02",
+        "buts": 1
+      },
+      {
+        "nom": "Peter Christiansen",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "1999-12-02",
         "buts": 1
       },
       {
@@ -6434,13 +6455,6 @@
         "buts": 0
       },
       {
-        "nom": "Gianni Stensness",
-        "poste": "Defence",
-        "nationalite": "Australia",
-        "naissance": "1999-02-07",
-        "buts": 0
-      },
-      {
         "nom": "Jesper Daland",
         "poste": "Defence",
         "nationalite": "Norway",
@@ -6452,13 +6466,6 @@
         "poste": "Defence",
         "nationalite": "Norway",
         "naissance": "2003-05-08",
-        "buts": 0
-      },
-      {
-        "nom": "Herman Haugen",
-        "poste": "Defence",
-        "nationalite": "Norway",
-        "naissance": "2000-04-25",
         "buts": 0
       },
       {
@@ -6585,13 +6592,6 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2000-01-10",
-        "buts": 0
-      },
-      {
-        "nom": "Peter Christiansen",
-        "poste": "Offence",
-        "nationalite": "Denmark",
-        "naissance": "1999-12-02",
         "buts": 0
       },
       {
@@ -7087,6 +7087,13 @@
     "entraineur": "Valdas Dambrauskas",
     "effectif": [
       {
+        "nom": "Kaheem Parris",
+        "poste": "Offence",
+        "nationalite": "Jamaica",
+        "naissance": "2000-01-06",
+        "buts": 1
+      },
+      {
         "nom": "Stas Pokatilov",
         "poste": "Goalkeeper",
         "nationalite": "Kazakhstan",
@@ -7231,13 +7238,6 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1994-03-29",
-        "buts": 0
-      },
-      {
-        "nom": "Kaheem Parris",
-        "poste": "Offence",
-        "nationalite": "Jamaica",
-        "naissance": "2000-01-06",
         "buts": 0
       },
       {

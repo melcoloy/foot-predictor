@@ -236,7 +236,7 @@
     "lambda_ext": 1.64,
     "p1": 0.499,
     "pN": 0.209,
-    "p2": 0.291,
+    "p2": 0.292,
     "score_probable": "2-1"
   },
   {
@@ -586,7 +586,7 @@
     "logo_ext": "https://crests.football-data.org/533.png",
     "lambda_dom": 1.09,
     "lambda_ext": 1.09,
-    "p1": 0.351,
+    "p1": 0.352,
     "pN": 0.299,
     "p2": 0.35,
     "score_probable": "1-1"
@@ -826,7 +826,7 @@
     "logo_ext": "https://crests.football-data.org/516.png",
     "lambda_dom": 1.21,
     "lambda_ext": 1.59,
-    "p1": 0.288,
+    "p1": 0.289,
     "pN": 0.252,
     "p2": 0.46,
     "score_probable": "1-1"
@@ -890,7 +890,7 @@
     "logo_ext": "https://crests.football-data.org/532.png",
     "lambda_dom": 2.08,
     "lambda_ext": 0.83,
-    "p1": 0.66,
+    "p1": 0.659,
     "pN": 0.202,
     "p2": 0.138,
     "score_probable": "2-0"
@@ -1084,7 +1084,7 @@
     "lambda_ext": 1.05,
     "p1": 0.418,
     "pN": 0.284,
-    "p2": 0.299,
+    "p2": 0.298,
     "score_probable": "1-1"
   },
   {
@@ -1130,7 +1130,7 @@
     "logo_ext": "https://crests.football-data.org/511.png",
     "lambda_dom": 1.35,
     "lambda_ext": 1.39,
-    "p1": 0.361,
+    "p1": 0.362,
     "pN": 0.261,
     "p2": 0.378,
     "score_probable": "1-1"
@@ -1736,7 +1736,7 @@
     "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/521.png",
-    "lambda_dom": 0.87,
+    "lambda_dom": 0.88,
     "lambda_ext": 1.65,
     "p1": 0.197,
     "pN": 0.25,
@@ -1880,7 +1880,7 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "lambda_dom": 1.73,
+    "lambda_dom": 1.72,
     "lambda_ext": 1.77,
     "p1": 0.377,
     "pN": 0.226,
@@ -2218,7 +2218,7 @@
     "logo_ext": "https://crests.football-data.org/548.png",
     "lambda_dom": 1.58,
     "lambda_ext": 1.73,
-    "p1": 0.35,
+    "p1": 0.351,
     "pN": 0.233,
     "p2": 0.416,
     "score_probable": "1-1"
@@ -2252,7 +2252,7 @@
     "lambda_ext": 1.47,
     "p1": 0.506,
     "pN": 0.217,
-    "p2": 0.276,
+    "p2": 0.277,
     "score_probable": "2-1"
   },
   {
@@ -2380,7 +2380,7 @@
     "lambda_ext": 1.51,
     "p1": 0.288,
     "pN": 0.26,
-    "p2": 0.452,
+    "p2": 0.451,
     "score_probable": "1-1"
   },
   {
@@ -2682,7 +2682,7 @@
     "logo_ext": "https://crests.football-data.org/576.png",
     "lambda_dom": 2.46,
     "lambda_ext": 1.07,
-    "p1": 0.677,
+    "p1": 0.676,
     "pN": 0.178,
     "p2": 0.145,
     "score_probable": "2-1"
@@ -3385,8 +3385,8 @@
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "lambda_dom": 2.41,
-    "lambda_ext": 0.59,
-    "p1": 0.775,
+    "lambda_ext": 0.6,
+    "p1": 0.774,
     "pN": 0.154,
     "p2": 0.072,
     "score_probable": "2-0"
@@ -3578,7 +3578,7 @@
     "logo_ext": "https://crests.football-data.org/516.png",
     "lambda_dom": 1.11,
     "lambda_ext": 1.67,
-    "p1": 0.251,
+    "p1": 0.252,
     "pN": 0.247,
     "p2": 0.501,
     "score_probable": "1-1"
@@ -3642,7 +3642,7 @@
     "logo_ext": "https://crests.football-data.org/522.png",
     "lambda_dom": 2.57,
     "lambda_ext": 0.65,
-    "p1": 0.787,
+    "p1": 0.786,
     "pN": 0.143,
     "p2": 0.071,
     "score_probable": "2-0"
@@ -3674,7 +3674,7 @@
     "logo_ext": "https://crests.football-data.org/533.png",
     "lambda_dom": 1.46,
     "lambda_ext": 0.95,
-    "p1": 0.487,
+    "p1": 0.486,
     "pN": 0.27,
     "p2": 0.243,
     "score_probable": "1-0"
@@ -3802,7 +3802,7 @@
     "logo_ext": "https://crests.football-data.org/524.png",
     "lambda_dom": 0.84,
     "lambda_ext": 2.3,
-    "p1": 0.119,
+    "p1": 0.12,
     "pN": 0.18,
     "p2": 0.7,
     "score_probable": "0-2"
