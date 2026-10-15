@@ -1180,6 +1180,13 @@
         "nationalite": "England",
         "naissance": "2008-08-29",
         "buts": 0
+      },
+      {
+        "nom": "Joshua Sonni-Lambie",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2007-11-16",
+        "buts": 0
       }
     ]
   },
@@ -2920,13 +2927,6 @@
         "poste": "Defence",
         "nationalite": "Brazil",
         "naissance": "2005-03-07",
-        "buts": 0
-      },
-      {
-        "nom": "Ousmane Diomande",
-        "poste": "Defence",
-        "nationalite": "Cote d'Ivoire",
-        "naissance": "2004-11-16",
         "buts": 0
       },
       {

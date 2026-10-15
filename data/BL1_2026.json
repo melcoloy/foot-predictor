@@ -647,7 +647,7 @@
   {
     "id": 565814,
     "date": "2026-10-11T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
@@ -656,13 +656,13 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 565816,
     "date": "2026-10-11T15:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 5,
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
@@ -671,8 +671,8 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 565828,

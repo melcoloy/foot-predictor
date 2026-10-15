@@ -412,7 +412,7 @@
         "poste": "Offence",
         "nationalite": "Bosnia-Herzegovina",
         "naissance": "1998-03-25",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Fabian Bredlow",
@@ -812,6 +812,20 @@
     "entraineur": "Unai Emery",
     "effectif": [
       {
+        "nom": "Nicolas Jackson",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2001-06-20",
+        "buts": 3
+      },
+      {
+        "nom": "Ross Barkley",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1993-12-05",
+        "buts": 2
+      },
+      {
         "nom": "Emiliano Buendía",
         "poste": "Midfield",
         "nationalite": "Argentina",
@@ -826,10 +840,17 @@
         "buts": 1
       },
       {
-        "nom": "Nicolas Jackson",
+        "nom": "Johan Manzambi",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2005-10-14",
+        "buts": 1
+      },
+      {
+        "nom": "Tammy Abraham",
         "poste": "Offence",
-        "nationalite": "Senegal",
-        "naissance": "2001-06-20",
+        "nationalite": "England",
+        "naissance": "1997-10-02",
         "buts": 1
       },
       {
@@ -924,13 +945,6 @@
         "buts": 0
       },
       {
-        "nom": "Ross Barkley",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "1993-12-05",
-        "buts": 0
-      },
-      {
         "nom": "Boubacar Kamara",
         "poste": "Midfield",
         "nationalite": "France",
@@ -956,20 +970,6 @@
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "2004-01-05",
-        "buts": 0
-      },
-      {
-        "nom": "Johan Manzambi",
-        "poste": "Midfield",
-        "nationalite": "Switzerland",
-        "naissance": "2005-10-14",
-        "buts": 0
-      },
-      {
-        "nom": "Tammy Abraham",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "1997-10-02",
         "buts": 0
       },
       {
@@ -1021,6 +1021,27 @@
     "entraineur": "Andoni Iraola",
     "effectif": [
       {
+        "nom": "Bradley Barcola",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-09-02",
+        "buts": 3
+      },
+      {
+        "nom": "Ronald Araújo",
+        "poste": "Defence",
+        "nationalite": "Uruguay",
+        "naissance": "1999-03-07",
+        "buts": 1
+      },
+      {
+        "nom": "Jeremie Frimpong",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-12-10",
+        "buts": 1
+      },
+      {
         "nom": "Dominik Szoboszlai",
         "poste": "Midfield",
         "nationalite": "Hungary",
@@ -1032,6 +1053,13 @@
         "poste": "Midfield",
         "nationalite": "Argentina",
         "naissance": "1998-12-24",
+        "buts": 1
+      },
+      {
+        "nom": "Lewis Koumas",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "2005-09-19",
         "buts": 1
       },
       {
@@ -1088,20 +1116,6 @@
         "poste": "Defence",
         "nationalite": "Netherlands",
         "naissance": "1991-07-08",
-        "buts": 0
-      },
-      {
-        "nom": "Ronald Araújo",
-        "poste": "Defence",
-        "nationalite": "Uruguay",
-        "naissance": "1999-03-07",
-        "buts": 0
-      },
-      {
-        "nom": "Jeremie Frimpong",
-        "poste": "Defence",
-        "nationalite": "Netherlands",
-        "naissance": "2000-12-10",
         "buts": 0
       },
       {
@@ -1196,20 +1210,6 @@
         "buts": 0
       },
       {
-        "nom": "Bradley Barcola",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-09-02",
-        "buts": 0
-      },
-      {
-        "nom": "Lewis Koumas",
-        "poste": "Offence",
-        "nationalite": "Wales",
-        "naissance": "2005-09-19",
-        "buts": 0
-      },
-      {
         "nom": "Víctor Muñoz",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -1241,7 +1241,7 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2000-07-21",
-        "buts": 2
+        "buts": 4
       },
       {
         "nom": "Géronimo Rulli",
@@ -2024,6 +2024,20 @@
     "entraineur": "José Mourinho",
     "effectif": [
       {
+        "nom": "Kylian Mbappé",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1998-12-20",
+        "buts": 2
+      },
+      {
+        "nom": "Antonio Rüdiger",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1993-03-03",
+        "buts": 1
+      },
+      {
         "nom": "Federico Valverde",
         "poste": "Midfield",
         "nationalite": "Uruguay",
@@ -2031,10 +2045,17 @@
         "buts": 1
       },
       {
-        "nom": "Kylian Mbappé",
+        "nom": "Endrick",
         "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1998-12-20",
+        "nationalite": "Brazil",
+        "naissance": "2006-07-21",
+        "buts": 1
+      },
+      {
+        "nom": "Carlos Espí",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-07-24",
         "buts": 1
       },
       {
@@ -2056,13 +2077,6 @@
         "poste": "Defence",
         "nationalite": "Brazil",
         "naissance": "1998-01-18",
-        "buts": 0
-      },
-      {
-        "nom": "Antonio Rüdiger",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1993-03-03",
         "buts": 0
       },
       {
@@ -2192,20 +2206,6 @@
         "buts": 0
       },
       {
-        "nom": "Endrick",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2006-07-21",
-        "buts": 0
-      },
-      {
-        "nom": "Carlos Espí",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2005-07-24",
-        "buts": 0
-      },
-      {
         "nom": "Yan Diomandé",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
@@ -2237,6 +2237,13 @@
         "poste": "Offence",
         "nationalite": "Ireland",
         "naissance": "2002-02-04",
+        "buts": 1
+      },
+      {
+        "nom": "Abdessamad Ezzalzouli",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2001-12-17",
         "buts": 1
       },
       {
@@ -2391,13 +2398,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2000-04-02",
-        "buts": 0
-      },
-      {
-        "nom": "Abdessamad Ezzalzouli",
-        "poste": "Offence",
-        "nationalite": "Morocco",
-        "naissance": "2001-12-17",
         "buts": 0
       }
     ]
@@ -2602,10 +2602,24 @@
     "entraineur": "Gian Piero Gasperini",
     "effectif": [
       {
+        "nom": "Donyell Malen",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-01-19",
+        "buts": 2
+      },
+      {
         "nom": "Bryan Cristante",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1995-03-03",
+        "buts": 1
+      },
+      {
+        "nom": "Marten de Roon",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1991-03-29",
         "buts": 1
       },
       {
@@ -2714,13 +2728,6 @@
         "buts": 0
       },
       {
-        "nom": "Marten de Roon",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "1991-03-29",
-        "buts": 0
-      },
-      {
         "nom": "Manu Koné",
         "poste": "Midfield",
         "nationalite": "France",
@@ -2746,13 +2753,6 @@
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "1993-11-15",
-        "buts": 0
-      },
-      {
-        "nom": "Donyell Malen",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "1999-01-19",
         "buts": 0
       },
       {
@@ -3382,6 +3382,13 @@
     "entraineur": "Francesco Farioli",
     "effectif": [
       {
+        "nom": "Gabriel Veiga",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-05-27",
+        "buts": 1
+      },
+      {
         "nom": "Diogo Costa",
         "poste": "Goalkeeper",
         "nationalite": "Portugal",
@@ -3484,13 +3491,6 @@
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "1997-01-07",
-        "buts": 0
-      },
-      {
-        "nom": "Gabriel Veiga",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2002-05-27",
         "buts": 0
       },
       {
@@ -3793,6 +3793,13 @@
     "entraineur": "Luis Enrique",
     "effectif": [
       {
+        "nom": "Ousmane Dembélé",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1997-05-15",
+        "buts": 3
+      },
+      {
         "nom": "Ferrán Torres",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -3800,17 +3807,31 @@
         "buts": 3
       },
       {
-        "nom": "Ousmane Dembélé",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1997-05-15",
-        "buts": 2
-      },
-      {
         "nom": "Fabián Ruiz",
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "1996-04-03",
+        "buts": 1
+      },
+      {
+        "nom": "Vitinha",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2000-02-13",
+        "buts": 1
+      },
+      {
+        "nom": "Maghnes Akliouche",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-02-25",
+        "buts": 1
+      },
+      {
+        "nom": "Desire Doue",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2005-06-03",
         "buts": 1
       },
       {
@@ -3884,13 +3905,6 @@
         "buts": 0
       },
       {
-        "nom": "Vitinha",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "2000-02-13",
-        "buts": 0
-      },
-      {
         "nom": "Warren Zaïre-Emery",
         "poste": "Midfield",
         "nationalite": "France",
@@ -3923,20 +3937,6 @@
         "poste": "Offence",
         "nationalite": "Georgia",
         "naissance": "2001-02-12",
-        "buts": 0
-      },
-      {
-        "nom": "Maghnes Akliouche",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-02-25",
-        "buts": 0
-      },
-      {
-        "nom": "Desire Doue",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2005-06-03",
         "buts": 0
       },
       {
@@ -4873,6 +4873,20 @@
         "buts": 1
       },
       {
+        "nom": "Gjivai Zechiël",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2004-06-01",
+        "buts": 1
+      },
+      {
+        "nom": "Anis Moussa",
+        "poste": "Offence",
+        "nationalite": "Algeria",
+        "naissance": "2002-02-11",
+        "buts": 1
+      },
+      {
         "nom": "Liam Bossin",
         "poste": "Goalkeeper",
         "nationalite": "Ireland",
@@ -5013,13 +5027,6 @@
         "buts": 0
       },
       {
-        "nom": "Gjivai Zechiël",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "2004-06-01",
-        "buts": 0
-      },
-      {
         "nom": "Tobias van den Elshout",
         "poste": "Midfield",
         "nationalite": "Netherlands",
@@ -5045,13 +5052,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2004-10-05",
-        "buts": 0
-      },
-      {
-        "nom": "Anis Moussa",
-        "poste": "Offence",
-        "nationalite": "Algeria",
-        "naissance": "2002-02-11",
         "buts": 0
       },
       {
@@ -5734,7 +5734,7 @@
         "poste": "Offence",
         "nationalite": "Venezuela",
         "naissance": "2001-12-08",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Dmytro Riznyk",
@@ -6190,6 +6190,20 @@
     "entraineur": "Dietmar Kühbauer",
     "effectif": [
       {
+        "nom": "Florian Flecker",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1995-10-29",
+        "buts": 2
+      },
+      {
+        "nom": "Robert Ljubicic",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "1999-07-14",
+        "buts": 1
+      },
+      {
         "nom": "Tobias Schützenauer",
         "poste": "Goalkeeper",
         "nationalite": "Austria",
@@ -6292,20 +6306,6 @@
         "poste": "Midfield",
         "nationalite": "Austria",
         "naissance": "1996-08-22",
-        "buts": 0
-      },
-      {
-        "nom": "Florian Flecker",
-        "poste": "Midfield",
-        "nationalite": "Austria",
-        "naissance": "1995-10-29",
-        "buts": 0
-      },
-      {
-        "nom": "Robert Ljubicic",
-        "poste": "Midfield",
-        "nationalite": "Austria",
-        "naissance": "1999-07-14",
         "buts": 0
       },
       {
@@ -6671,6 +6671,13 @@
     "entraineur": "Kjetil Knutsen",
     "effectif": [
       {
+        "nom": "Fredrik Sjøvold",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2003-08-17",
+        "buts": 1
+      },
+      {
         "nom": "Julian Lund",
         "poste": "Goalkeeper",
         "nationalite": "Norway",
@@ -6710,13 +6717,6 @@
         "poste": "Defence",
         "nationalite": "Norway",
         "naissance": "2001-09-19",
-        "buts": 0
-      },
-      {
-        "nom": "Fredrik Sjøvold",
-        "poste": "Defence",
-        "nationalite": "Norway",
-        "naissance": "2003-08-17",
         "buts": 0
       },
       {
@@ -6873,6 +6873,20 @@
     "entraineur": "Fàbregas",
     "effectif": [
       {
+        "nom": "Anastasios Douvikas",
+        "poste": "Offence",
+        "nationalite": "Greece",
+        "naissance": "1999-08-02",
+        "buts": 2
+      },
+      {
+        "nom": "Assane Diao",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2005-09-07",
+        "buts": 2
+      },
+      {
         "nom": "Martin Baturina",
         "poste": "Midfield",
         "nationalite": "Croatia",
@@ -6884,20 +6898,6 @@
         "poste": "Midfield",
         "nationalite": "Argentina",
         "naissance": "2003-01-07",
-        "buts": 1
-      },
-      {
-        "nom": "Anastasios Douvikas",
-        "poste": "Offence",
-        "nationalite": "Greece",
-        "naissance": "1999-08-02",
-        "buts": 1
-      },
-      {
-        "nom": "Assane Diao",
-        "poste": "Offence",
-        "nationalite": "Senegal",
-        "naissance": "2005-09-07",
         "buts": 1
       },
       {
