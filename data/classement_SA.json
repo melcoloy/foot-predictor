@@ -36,6 +36,18 @@
     "bc": 3
   },
   {
+    "equipe": "Frosinone Calcio",
+    "court": "Frosinone",
+    "logo": "https://crests.football-data.org/470.png",
+    "j": 7,
+    "g": 4,
+    "n": 1,
+    "p": 2,
+    "pts": 13,
+    "bp": 13,
+    "bc": 9
+  },
+  {
     "equipe": "Cagliari Calcio",
     "court": "Cagliari",
     "logo": "https://crests.football-data.org/104.png",
@@ -96,18 +108,6 @@
     "bc": 6
   },
   {
-    "equipe": "Frosinone Calcio",
-    "court": "Frosinone",
-    "logo": "https://crests.football-data.org/470.png",
-    "j": 6,
-    "g": 3,
-    "n": 1,
-    "p": 2,
-    "pts": 10,
-    "bp": 9,
-    "bc": 7
-  },
-  {
     "equipe": "Atalanta BC",
     "court": "Atalanta",
     "logo": "https://crests.football-data.org/102.png",
@@ -123,13 +123,13 @@
     "equipe": "US Sassuolo Calcio",
     "court": "Sassuolo",
     "logo": "https://crests.football-data.org/471.png",
-    "j": 6,
+    "j": 7,
     "g": 2,
     "n": 2,
-    "p": 2,
+    "p": 3,
     "pts": 8,
-    "bp": 10,
-    "bc": 10
+    "bp": 12,
+    "bc": 14
   },
   {
     "equipe": "Torino FC",

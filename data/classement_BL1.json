@@ -1,5 +1,17 @@
 [
   {
+    "equipe": "SC Freiburg",
+    "court": "Freiburg",
+    "logo": "https://crests.football-data.org/17.png",
+    "j": 5,
+    "g": 4,
+    "n": 1,
+    "p": 0,
+    "pts": 13,
+    "bp": 14,
+    "bc": 4
+  },
+  {
     "equipe": "Borussia Dortmund",
     "court": "Dortmund",
     "logo": "https://crests.football-data.org/4.png",
@@ -22,18 +34,6 @@
     "pts": 11,
     "bp": 16,
     "bc": 4
-  },
-  {
-    "equipe": "SC Freiburg",
-    "court": "Freiburg",
-    "logo": "https://crests.football-data.org/17.png",
-    "j": 4,
-    "g": 3,
-    "n": 1,
-    "p": 0,
-    "pts": 10,
-    "bp": 12,
-    "bc": 3
   },
   {
     "equipe": "Bayer 04 Leverkusen",
@@ -84,6 +84,18 @@
     "bc": 10
   },
   {
+    "equipe": "Eintracht Frankfurt",
+    "court": "Frankfurt",
+    "logo": "https://crests.football-data.org/19.png",
+    "j": 6,
+    "g": 2,
+    "n": 2,
+    "p": 2,
+    "pts": 8,
+    "bp": 10,
+    "bc": 16
+  },
+  {
     "equipe": "1. FSV Mainz 05",
     "court": "Mainz",
     "logo": "https://crests.football-data.org/15.png",
@@ -106,6 +118,18 @@
     "pts": 7,
     "bp": 8,
     "bc": 8
+  },
+  {
+    "equipe": "1. FC Köln",
+    "court": "1. FC Köln",
+    "logo": "https://crests.football-data.org/1.png",
+    "j": 6,
+    "g": 2,
+    "n": 1,
+    "p": 3,
+    "pts": 7,
+    "bp": 8,
+    "bc": 11
   },
   {
     "equipe": "VfB Stuttgart",
@@ -135,37 +159,13 @@
     "equipe": "FC Schalke 04",
     "court": "Schalke",
     "logo": "https://crests.football-data.org/6.png",
-    "j": 4,
-    "g": 1,
-    "n": 2,
-    "p": 1,
-    "pts": 5,
-    "bp": 3,
-    "bc": 4
-  },
-  {
-    "equipe": "Eintracht Frankfurt",
-    "court": "Frankfurt",
-    "logo": "https://crests.football-data.org/19.png",
     "j": 5,
     "g": 1,
     "n": 2,
     "p": 2,
     "pts": 5,
-    "bp": 9,
-    "bc": 16
-  },
-  {
-    "equipe": "1. FC Köln",
-    "court": "1. FC Köln",
-    "logo": "https://crests.football-data.org/1.png",
-    "j": 4,
-    "g": 1,
-    "n": 1,
-    "p": 2,
-    "pts": 4,
-    "bp": 6,
-    "bc": 9
+    "bp": 4,
+    "bc": 6
   },
   {
     "equipe": "SC Paderborn 07",
@@ -207,12 +207,12 @@
     "equipe": "Borussia Mönchengladbach",
     "court": "M'gladbach",
     "logo": "https://crests.football-data.org/18.png",
-    "j": 4,
+    "j": 5,
     "g": 0,
     "n": 0,
-    "p": 4,
+    "p": 5,
     "pts": 0,
-    "bp": 6,
-    "bc": 16
+    "bp": 7,
+    "bc": 18
   }
 ]

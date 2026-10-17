@@ -72,6 +72,18 @@
     "bc": 8
   },
   {
+    "equipe": "Toulouse FC",
+    "court": "Toulouse",
+    "logo": "https://crests.football-data.org/511.png",
+    "j": 7,
+    "g": 2,
+    "n": 3,
+    "p": 2,
+    "pts": 9,
+    "bp": 12,
+    "bc": 11
+  },
+  {
     "equipe": "Stade Brestois 29",
     "court": "Brest",
     "logo": "https://crests.football-data.org/512.png",
@@ -159,25 +171,13 @@
     "equipe": "Le Mans FC",
     "court": "Le Mans",
     "logo": "https://crests.football-data.org/535.png",
-    "j": 6,
+    "j": 7,
     "g": 1,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 6,
     "bp": 10,
-    "bc": 12
-  },
-  {
-    "equipe": "Toulouse FC",
-    "court": "Toulouse",
-    "logo": "https://crests.football-data.org/511.png",
-    "j": 6,
-    "g": 1,
-    "n": 3,
-    "p": 2,
-    "pts": 6,
-    "bp": 9,
-    "bc": 11
+    "bc": 15
   },
   {
     "equipe": "AJ Auxerre",

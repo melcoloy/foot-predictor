@@ -24,18 +24,6 @@
     "bc": 8
   },
   {
-    "equipe": "Real Betis Balompié",
-    "court": "Real Betis",
-    "logo": "https://crests.football-data.org/90.png",
-    "j": 8,
-    "g": 6,
-    "n": 1,
-    "p": 1,
-    "pts": 19,
-    "bp": 14,
-    "bc": 9
-  },
-  {
     "equipe": "Real Madrid CF",
     "court": "Real Madrid",
     "logo": "https://crests.football-data.org/86.png",
@@ -48,28 +36,28 @@
     "bc": 8
   },
   {
+    "equipe": "Real Betis Balompié",
+    "court": "Real Betis",
+    "logo": "https://crests.football-data.org/90.png",
+    "j": 7,
+    "g": 5,
+    "n": 1,
+    "p": 1,
+    "pts": 16,
+    "bp": 9,
+    "bc": 7
+  },
+  {
     "equipe": "Sevilla FC",
     "court": "Sevilla FC",
     "logo": "https://crests.football-data.org/559.png",
-    "j": 8,
-    "g": 4,
-    "n": 2,
-    "p": 2,
-    "pts": 14,
-    "bp": 13,
-    "bc": 12
-  },
-  {
-    "equipe": "Real Sociedad de Fútbol",
-    "court": "Real Sociedad",
-    "logo": "https://crests.football-data.org/92.png",
-    "j": 8,
+    "j": 7,
     "g": 4,
     "n": 1,
-    "p": 3,
+    "p": 2,
     "pts": 13,
-    "bp": 12,
-    "bc": 15
+    "bp": 10,
+    "bc": 9
   },
   {
     "equipe": "Deportivo Alavés",
@@ -87,25 +75,25 @@
     "equipe": "RC Deportivo La Coruña",
     "court": "Deportivo",
     "logo": "https://crests.football-data.org/560.png",
-    "j": 8,
+    "j": 7,
     "g": 2,
     "n": 4,
-    "p": 2,
+    "p": 1,
     "pts": 10,
-    "bp": 12,
-    "bc": 11
+    "bp": 10,
+    "bc": 8
   },
   {
-    "equipe": "RC Celta de Vigo",
-    "court": "Celta",
-    "logo": "https://crests.football-data.org/558.png",
-    "j": 8,
-    "g": 1,
-    "n": 5,
-    "p": 2,
-    "pts": 8,
-    "bp": 8,
-    "bc": 6
+    "equipe": "Real Sociedad de Fútbol",
+    "court": "Real Sociedad",
+    "logo": "https://crests.football-data.org/92.png",
+    "j": 7,
+    "g": 3,
+    "n": 1,
+    "p": 3,
+    "pts": 10,
+    "bp": 9,
+    "bc": 13
   },
   {
     "equipe": "Athletic Club",
@@ -168,64 +156,64 @@
     "bc": 10
   },
   {
-    "equipe": "Real Racing Club de Santander",
-    "court": "Santander",
-    "logo": "https://crests.football-data.org/5335.png",
-    "j": 8,
-    "g": 2,
-    "n": 2,
-    "p": 4,
-    "pts": 8,
-    "bp": 13,
-    "bc": 23
-  },
-  {
     "equipe": "CA Osasuna",
     "court": "Osasuna",
     "logo": "https://crests.football-data.org/79.png",
-    "j": 8,
+    "j": 7,
     "g": 2,
     "n": 2,
-    "p": 4,
+    "p": 3,
     "pts": 8,
+    "bp": 6,
+    "bc": 13
+  },
+  {
+    "equipe": "RC Celta de Vigo",
+    "court": "Celta",
+    "logo": "https://crests.football-data.org/558.png",
+    "j": 7,
+    "g": 1,
+    "n": 4,
+    "p": 2,
+    "pts": 7,
     "bp": 8,
-    "bc": 18
+    "bc": 6
+  },
+  {
+    "equipe": "Real Racing Club de Santander",
+    "court": "Santander",
+    "logo": "https://crests.football-data.org/5335.png",
+    "j": 7,
+    "g": 2,
+    "n": 1,
+    "p": 4,
+    "pts": 7,
+    "bp": 11,
+    "bc": 21
   },
   {
     "equipe": "Levante UD",
     "court": "Levante",
     "logo": "https://crests.football-data.org/88.png",
-    "j": 7,
+    "j": 6,
     "g": 1,
-    "n": 3,
+    "n": 2,
     "p": 3,
-    "pts": 6,
-    "bp": 11,
-    "bc": 15
+    "pts": 5,
+    "bp": 8,
+    "bc": 12
   },
   {
     "equipe": "Elche CF",
     "court": "Elche",
     "logo": "https://crests.football-data.org/285.png",
-    "j": 8,
-    "g": 1,
-    "n": 3,
-    "p": 4,
-    "pts": 6,
-    "bp": 11,
-    "bc": 17
-  },
-  {
-    "equipe": "Valencia CF",
-    "court": "Valencia",
-    "logo": "https://crests.football-data.org/95.png",
-    "j": 8,
+    "j": 7,
     "g": 1,
     "n": 2,
-    "p": 5,
+    "p": 4,
     "pts": 5,
-    "bp": 6,
-    "bc": 15
+    "bp": 11,
+    "bc": 17
   },
   {
     "equipe": "Málaga CF",
@@ -235,6 +223,18 @@
     "g": 0,
     "n": 4,
     "p": 4,
+    "pts": 4,
+    "bp": 4,
+    "bc": 13
+  },
+  {
+    "equipe": "Valencia CF",
+    "court": "Valencia",
+    "logo": "https://crests.football-data.org/95.png",
+    "j": 7,
+    "g": 1,
+    "n": 1,
+    "p": 5,
     "pts": 4,
     "bp": 4,
     "bc": 13

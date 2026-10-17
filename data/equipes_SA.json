@@ -2955,7 +2955,7 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "2004-03-18",
-        "buts": 4
+        "buts": 7
       },
       {
         "nom": "Giorgi Kvernadze",
@@ -2965,17 +2965,17 @@
         "buts": 3
       },
       {
-        "nom": "Gabriele Bracaglia",
-        "poste": "Defence",
-        "nationalite": "Italy",
-        "naissance": "2003-07-19",
-        "buts": 1
-      },
-      {
         "nom": "Giacomo Calò",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1997-02-05",
+        "buts": 2
+      },
+      {
+        "nom": "Gabriele Bracaglia",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2003-07-19",
         "buts": 1
       },
       {
@@ -3202,6 +3202,13 @@
         "buts": 2
       },
       {
+        "nom": "Domenico Berardi",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1994-08-01",
+        "buts": 2
+      },
+      {
         "nom": "Josh Doig",
         "poste": "Defence",
         "nationalite": "Scotland",
@@ -3213,13 +3220,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2026-06-30",
-        "buts": 1
-      },
-      {
-        "nom": "Domenico Berardi",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "1994-08-01",
         "buts": 1
       },
       {

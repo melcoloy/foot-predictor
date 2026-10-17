@@ -812,7 +812,7 @@
   {
     "id": 559661,
     "date": "2026-10-16T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
@@ -821,8 +821,8 @@
     "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/511.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 559662,
