@@ -3,13 +3,25 @@
     "equipe": "FC Internazionale Milano",
     "court": "Inter",
     "logo": "https://crests.football-data.org/108.png",
-    "j": 6,
-    "g": 5,
+    "j": 7,
+    "g": 6,
     "n": 1,
     "p": 0,
-    "pts": 16,
-    "bp": 18,
-    "bc": 8
+    "pts": 19,
+    "bp": 21,
+    "bc": 9
+  },
+  {
+    "equipe": "AS Roma",
+    "court": "Roma",
+    "logo": "https://crests.football-data.org/100.png",
+    "j": 7,
+    "g": 5,
+    "n": 2,
+    "p": 0,
+    "pts": 17,
+    "bp": 16,
+    "bc": 3
   },
   {
     "equipe": "SS Lazio",
@@ -22,18 +34,6 @@
     "pts": 16,
     "bp": 11,
     "bc": 4
-  },
-  {
-    "equipe": "AS Roma",
-    "court": "Roma",
-    "logo": "https://crests.football-data.org/100.png",
-    "j": 6,
-    "g": 4,
-    "n": 2,
-    "p": 0,
-    "pts": 14,
-    "bp": 14,
-    "bc": 3
   },
   {
     "equipe": "Frosinone Calcio",
@@ -99,13 +99,13 @@
     "equipe": "SSC Napoli",
     "court": "Napoli",
     "logo": "https://crests.football-data.org/113.png",
-    "j": 6,
+    "j": 7,
     "g": 3,
     "n": 1,
-    "p": 2,
+    "p": 3,
     "pts": 10,
     "bp": 10,
-    "bc": 6
+    "bc": 7
   },
   {
     "equipe": "Atalanta BC",
@@ -159,13 +159,13 @@
     "equipe": "Bologna FC 1909",
     "court": "Bologna",
     "logo": "https://crests.football-data.org/103.png",
-    "j": 6,
+    "j": 7,
     "g": 1,
     "n": 2,
-    "p": 3,
+    "p": 4,
     "pts": 5,
-    "bp": 5,
-    "bc": 7
+    "bp": 6,
+    "bc": 10
   },
   {
     "equipe": "Udinese Calcio",
@@ -192,18 +192,6 @@
     "bc": 15
   },
   {
-    "equipe": "Genoa CFC",
-    "court": "Genoa",
-    "logo": "https://crests.football-data.org/107.png",
-    "j": 6,
-    "g": 1,
-    "n": 1,
-    "p": 4,
-    "pts": 4,
-    "bp": 5,
-    "bc": 11
-  },
-  {
     "equipe": "Parma Calcio 1913",
     "court": "Parma",
     "logo": "https://crests.football-data.org/112.png",
@@ -228,15 +216,27 @@
     "bc": 14
   },
   {
+    "equipe": "Genoa CFC",
+    "court": "Genoa",
+    "logo": "https://crests.football-data.org/107.png",
+    "j": 7,
+    "g": 1,
+    "n": 1,
+    "p": 5,
+    "pts": 4,
+    "bp": 5,
+    "bc": 13
+  },
+  {
     "equipe": "Venezia FC",
     "court": "Venezia FC",
     "logo": "https://crests.football-data.org/454.png",
-    "j": 6,
-    "g": 0,
+    "j": 7,
+    "g": 1,
     "n": 0,
     "p": 6,
-    "pts": 0,
-    "bp": 5,
+    "pts": 3,
+    "bp": 6,
     "bc": 16
   }
 ]

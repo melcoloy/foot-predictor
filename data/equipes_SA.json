@@ -574,6 +574,13 @@
         "nationalite": "Argentina",
         "naissance": "2004-09-18",
         "buts": 0
+      },
+      {
+        "nom": "Alessandro Di Nunzio",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2007-04-21",
+        "buts": 0
       }
     ]
   },
@@ -1418,6 +1425,13 @@
         "buts": 4
       },
       {
+        "nom": "Marcus Thuram-Ulien",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1997-08-06",
+        "buts": 4
+      },
+      {
         "nom": "Hakan Çalhanoğlu",
         "poste": "Midfield",
         "nationalite": "Turkey",
@@ -1425,11 +1439,11 @@
         "buts": 3
       },
       {
-        "nom": "Marcus Thuram-Ulien",
+        "nom": "Ange-Yoan Bonny",
         "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1997-08-06",
-        "buts": 3
+        "nationalite": "Ivory Coast",
+        "naissance": "2003-10-25",
+        "buts": 2
       },
       {
         "nom": "Francesco Esposito",
@@ -1463,13 +1477,6 @@
         "nom": "Petar Sucic",
         "poste": "Midfield",
         "nationalite": "Croatia",
-        "naissance": "2003-10-25",
-        "buts": 1
-      },
-      {
-        "nom": "Ange-Yoan Bonny",
-        "poste": "Offence",
-        "nationalite": "Ivory Coast",
         "naissance": "2003-10-25",
         "buts": 1
       },
@@ -2679,17 +2686,17 @@
         "buts": 2
       },
       {
-        "nom": "Richie Sagrado",
-        "poste": "Defence",
-        "nationalite": "Belgium",
-        "naissance": "2004-01-30",
-        "buts": 1
-      },
-      {
         "nom": "Akor Adams",
         "poste": "Offence",
         "nationalite": "Nigeria",
         "naissance": "2000-01-29",
+        "buts": 2
+      },
+      {
+        "nom": "Richie Sagrado",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2004-01-30",
         "buts": 1
       },
       {

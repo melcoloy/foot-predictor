@@ -262,13 +262,6 @@
         "buts": 1
       },
       {
-        "nom": "Bambase Conte",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2003-07-07",
-        "buts": 1
-      },
-      {
         "nom": "Leon Avdullahu",
         "poste": "Midfield",
         "nationalite": "Kosovo",
@@ -385,6 +378,13 @@
         "poste": "Midfield",
         "nationalite": "Austria",
         "naissance": "2001-05-26",
+        "buts": 0
+      },
+      {
+        "nom": "Bambase Conte",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-07-07",
         "buts": 0
       },
       {
@@ -893,20 +893,34 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2001-12-12",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Harry Kane",
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1993-07-28",
-        "buts": 3
+        "buts": 4
+      },
+      {
+        "nom": "Luis Díaz",
+        "poste": "Offence",
+        "nationalite": "Colombia",
+        "naissance": "1997-01-13",
+        "buts": 4
       },
       {
         "nom": "Ismael Saibari",
         "poste": "Midfield",
         "nationalite": "Morocco",
         "naissance": "2001-01-28",
+        "buts": 2
+      },
+      {
+        "nom": "Aleksandar Pavlović",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-05-03",
         "buts": 2
       },
       {
@@ -924,24 +938,10 @@
         "buts": 1
       },
       {
-        "nom": "Aleksandar Pavlović",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2004-05-03",
-        "buts": 1
-      },
-      {
         "nom": "Lennart Karl",
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2008-02-22",
-        "buts": 1
-      },
-      {
-        "nom": "Luis Díaz",
-        "poste": "Offence",
-        "nationalite": "Colombia",
-        "naissance": "1997-01-13",
         "buts": 1
       },
       {
@@ -1279,6 +1279,13 @@
     "entraineur": "Merlin Polzin",
     "effectif": [
       {
+        "nom": "Miro Muheim",
+        "poste": "Defence",
+        "nationalite": "Switzerland",
+        "naissance": "1998-03-24",
+        "buts": 2
+      },
+      {
         "nom": "Yussuf Poulsen",
         "poste": "Offence",
         "nationalite": "Denmark",
@@ -1332,13 +1339,6 @@
         "poste": "Defence",
         "nationalite": "Belgium",
         "naissance": "1999-03-22",
-        "buts": 0
-      },
-      {
-        "nom": "Miro Muheim",
-        "poste": "Defence",
-        "nationalite": "Switzerland",
-        "naissance": "1998-03-24",
         "buts": 0
       },
       {
@@ -1729,7 +1729,7 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1993-02-09",
-        "buts": 4
+        "buts": 6
       },
       {
         "nom": "Marco Grüll",
@@ -1966,7 +1966,7 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1997-07-09",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Anthony Caci",
@@ -2171,6 +2171,13 @@
     "entraineur": "Manuel Baum",
     "effectif": [
       {
+        "nom": "Michael Gregoritsch",
+        "poste": "Offence",
+        "nationalite": "Austria",
+        "naissance": "1994-04-18",
+        "buts": 4
+      },
+      {
         "nom": "Robin Fellhauer",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -2178,11 +2185,11 @@
         "buts": 3
       },
       {
-        "nom": "Michael Gregoritsch",
-        "poste": "Offence",
-        "nationalite": "Austria",
-        "naissance": "1994-04-18",
-        "buts": 3
+        "nom": "Fabian Rieder",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2002-02-16",
+        "buts": 2
       },
       {
         "nom": "Rodrigo Ribeiro",
@@ -2203,13 +2210,6 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1998-06-06",
-        "buts": 1
-      },
-      {
-        "nom": "Fabian Rieder",
-        "poste": "Midfield",
-        "nationalite": "Switzerland",
-        "naissance": "2002-02-16",
         "buts": 1
       },
       {
@@ -3230,24 +3230,24 @@
     "entraineur": "Ralf Kettemann",
     "effectif": [
       {
-        "nom": "Santiago Castaneda",
-        "poste": "Midfield",
-        "nationalite": "USA",
-        "naissance": "2004-11-13",
-        "buts": 1
-      },
-      {
         "nom": "Steffen Tigges",
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1998-07-31",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Stefano Marino",
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "2004-03-12",
+        "buts": 2
+      },
+      {
+        "nom": "Santiago Castaneda",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2004-11-13",
         "buts": 1
       },
       {
@@ -3474,6 +3474,13 @@
         "buts": 3
       },
       {
+        "nom": "Lukas Petkov",
+        "poste": "Offence",
+        "nationalite": "Bulgaria",
+        "naissance": "2000-11-01",
+        "buts": 2
+      },
+      {
         "nom": "David Mokwa Ntusu",
         "poste": "Offence",
         "nationalite": "France",
@@ -3485,13 +3492,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2003-06-14",
-        "buts": 1
-      },
-      {
-        "nom": "Lukas Petkov",
-        "poste": "Offence",
-        "nationalite": "Bulgaria",
-        "naissance": "2000-11-01",
         "buts": 1
       },
       {

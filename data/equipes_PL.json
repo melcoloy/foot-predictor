@@ -199,6 +199,13 @@
     "entraineur": "Unai Emery",
     "effectif": [
       {
+        "nom": "Johan Manzambi",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2005-10-14",
+        "buts": 2
+      },
+      {
         "nom": "Nicolas Jackson",
         "poste": "Offence",
         "nationalite": "Senegal",
@@ -217,13 +224,6 @@
         "poste": "Midfield",
         "nationalite": "Scotland",
         "naissance": "1994-10-18",
-        "buts": 1
-      },
-      {
-        "nom": "Johan Manzambi",
-        "poste": "Midfield",
-        "nationalite": "Switzerland",
-        "naissance": "2005-10-14",
         "buts": 1
       },
       {
@@ -422,6 +422,13 @@
         "buts": 4
       },
       {
+        "nom": "Pedro Neto",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2000-03-09",
+        "buts": 3
+      },
+      {
         "nom": "Jordan Henderson",
         "poste": "Midfield",
         "nationalite": "England",
@@ -440,13 +447,6 @@
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "2004-01-06",
-        "buts": 1
-      },
-      {
-        "nom": "Pedro Neto",
-        "poste": "Offence",
-        "nationalite": "Portugal",
-        "naissance": "2000-03-09",
         "buts": 1
       },
       {
@@ -983,7 +983,14 @@
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "1999-09-21",
-        "buts": 4
+        "buts": 5
+      },
+      {
+        "nom": "Víctor Muñoz",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2003-07-13",
+        "buts": 2
       },
       {
         "nom": "Dominik Szoboszlai",
@@ -997,13 +1004,6 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "1999-05-07",
-        "buts": 1
-      },
-      {
-        "nom": "Víctor Muñoz",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2003-07-13",
         "buts": 1
       },
       {
@@ -1206,7 +1206,7 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2000-07-21",
-        "buts": 6
+        "buts": 8
       },
       {
         "nom": "Rayan Cherki",
@@ -2637,6 +2637,13 @@
         "buts": 2
       },
       {
+        "nom": "Zian Flemming",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1998-08-01",
+        "buts": 2
+      },
+      {
         "nom": "Emersonn",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -2669,13 +2676,6 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1995-10-09",
-        "buts": 1
-      },
-      {
-        "nom": "Zian Flemming",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "1998-08-01",
         "buts": 1
       },
       {
@@ -3452,18 +3452,18 @@
         "buts": 3
       },
       {
+        "nom": "Keane Lewis-Potter",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2001-02-22",
+        "buts": 2
+      },
+      {
         "nom": "Vitaly Janelt",
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "1998-05-10",
         "buts": 2
-      },
-      {
-        "nom": "Keane Lewis-Potter",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2001-02-22",
-        "buts": 1
       },
       {
         "nom": "Michael Kayode",

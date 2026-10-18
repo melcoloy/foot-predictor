@@ -206,6 +206,13 @@
         "buts": 2
       },
       {
+        "nom": "Mama Baldé",
+        "poste": "Offence",
+        "nationalite": "Guinea-Bissau",
+        "naissance": "1995-11-06",
+        "buts": 2
+      },
+      {
         "nom": "Pathé Mboup",
         "poste": "Offence",
         "nationalite": "Senegal",
@@ -224,13 +231,6 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1997-04-29",
-        "buts": 1
-      },
-      {
-        "nom": "Mama Baldé",
-        "poste": "Offence",
-        "nationalite": "Guinea-Bissau",
-        "naissance": "1995-11-06",
         "buts": 1
       },
       {
@@ -798,6 +798,13 @@
         "buts": 2
       },
       {
+        "nom": "Olivier Giroud",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1986-09-30",
+        "buts": 2
+      },
+      {
         "nom": "Ayase Ueda",
         "poste": "Offence",
         "nationalite": "Japan",
@@ -810,13 +817,6 @@
         "nationalite": "France",
         "naissance": "2002-08-26",
         "buts": 2
-      },
-      {
-        "nom": "Olivier Giroud",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1986-09-30",
-        "buts": 1
       },
       {
         "nom": "Ethan Mbappé",
@@ -3166,6 +3166,13 @@
     "entraineur": "Hugo Oliveira",
     "effectif": [
       {
+        "nom": "Gio Reyna",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2002-11-13",
+        "buts": 2
+      },
+      {
         "nom": "Samuel Amo-Ameyaw",
         "poste": "Offence",
         "nationalite": "England",
@@ -3178,13 +3185,6 @@
         "nationalite": "France",
         "naissance": "2005-11-22",
         "buts": 2
-      },
-      {
-        "nom": "Gio Reyna",
-        "poste": "Midfield",
-        "nationalite": "USA",
-        "naissance": "2002-11-13",
-        "buts": 1
       },
       {
         "nom": "Dario Essugo",

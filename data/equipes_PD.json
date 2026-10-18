@@ -788,7 +788,7 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2007-07-13",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Fermín López",
@@ -802,7 +802,7 @@
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "1997-04-03",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Karim Adeyemi",
@@ -1982,6 +1982,13 @@
     "entraineur": "Manuel Pellegrini",
     "effectif": [
       {
+        "nom": "Abdessamad Ezzalzouli",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2001-12-17",
+        "buts": 3
+      },
+      {
         "nom": "Isco",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -2000,13 +2007,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2000-04-02",
-        "buts": 2
-      },
-      {
-        "nom": "Abdessamad Ezzalzouli",
-        "poste": "Offence",
-        "nationalite": "Morocco",
-        "naissance": "2001-12-17",
         "buts": 2
       },
       {

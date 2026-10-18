@@ -1,5 +1,29 @@
 [
   {
+    "equipe": "Paris Saint-Germain FC",
+    "court": "PSG",
+    "logo": "https://crests.football-data.org/524.png",
+    "j": 7,
+    "g": 4,
+    "n": 2,
+    "p": 1,
+    "pts": 14,
+    "bp": 14,
+    "bc": 9
+  },
+  {
+    "equipe": "Lille OSC",
+    "court": "Lille",
+    "logo": "https://crests.football-data.org/521.png",
+    "j": 7,
+    "g": 4,
+    "n": 2,
+    "p": 1,
+    "pts": 14,
+    "bp": 10,
+    "bc": 5
+  },
+  {
     "equipe": "AS Monaco FC",
     "court": "Monaco",
     "logo": "https://crests.football-data.org/548.png",
@@ -10,18 +34,6 @@
     "pts": 14,
     "bp": 10,
     "bc": 5
-  },
-  {
-    "equipe": "Lille OSC",
-    "court": "Lille",
-    "logo": "https://crests.football-data.org/521.png",
-    "j": 6,
-    "g": 4,
-    "n": 1,
-    "p": 1,
-    "pts": 13,
-    "bp": 9,
-    "bc": 4
   },
   {
     "equipe": "Stade Rennais FC 1901",
@@ -60,16 +72,28 @@
     "bc": 4
   },
   {
-    "equipe": "Paris Saint-Germain FC",
-    "court": "PSG",
-    "logo": "https://crests.football-data.org/524.png",
-    "j": 6,
+    "equipe": "Racing Club de Lens",
+    "court": "RC Lens",
+    "logo": "https://crests.football-data.org/546.png",
+    "j": 7,
     "g": 3,
-    "n": 2,
-    "p": 1,
-    "pts": 11,
-    "bp": 11,
-    "bc": 8
+    "n": 1,
+    "p": 3,
+    "pts": 10,
+    "bp": 14,
+    "bc": 11
+  },
+  {
+    "equipe": "Stade Brestois 29",
+    "court": "Brest",
+    "logo": "https://crests.football-data.org/512.png",
+    "j": 7,
+    "g": 2,
+    "n": 3,
+    "p": 2,
+    "pts": 9,
+    "bp": 13,
+    "bc": 10
   },
   {
     "equipe": "Toulouse FC",
@@ -82,18 +106,6 @@
     "pts": 9,
     "bp": 12,
     "bc": 11
-  },
-  {
-    "equipe": "Stade Brestois 29",
-    "court": "Brest",
-    "logo": "https://crests.football-data.org/512.png",
-    "j": 6,
-    "g": 2,
-    "n": 2,
-    "p": 2,
-    "pts": 8,
-    "bp": 12,
-    "bc": 9
   },
   {
     "equipe": "FC Lorient",
@@ -120,28 +132,16 @@
     "bc": 7
   },
   {
-    "equipe": "Racing Club de Lens",
-    "court": "RC Lens",
-    "logo": "https://crests.football-data.org/546.png",
-    "j": 6,
-    "g": 2,
-    "n": 1,
-    "p": 3,
-    "pts": 7,
-    "bp": 11,
-    "bc": 10
-  },
-  {
     "equipe": "RC Strasbourg Alsace",
     "court": "Strasbourg",
     "logo": "https://crests.football-data.org/576.png",
-    "j": 6,
+    "j": 7,
     "g": 2,
     "n": 1,
-    "p": 3,
+    "p": 4,
     "pts": 7,
-    "bp": 11,
-    "bc": 12
+    "bp": 12,
+    "bc": 15
   },
   {
     "equipe": "Angers SCO",
@@ -195,13 +195,13 @@
     "equipe": "ES Troyes AC",
     "court": "Troyes",
     "logo": "https://crests.football-data.org/531.png",
-    "j": 6,
+    "j": 7,
     "g": 1,
     "n": 1,
-    "p": 4,
+    "p": 5,
     "pts": 4,
-    "bp": 4,
-    "bc": 13
+    "bp": 5,
+    "bc": 16
   },
   {
     "equipe": "Le Havre AC",
