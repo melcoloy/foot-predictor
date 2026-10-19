@@ -977,7 +977,7 @@
   {
     "id": 560604,
     "date": "2026-10-18T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
@@ -986,13 +986,13 @@
     "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/71.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560605,
     "date": "2026-10-18T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
@@ -1001,13 +1001,13 @@
     "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/66.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560609,
     "date": "2026-10-18T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
@@ -1016,13 +1016,13 @@
     "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/354.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 5,
+    "buts_ext": 0
   },
   {
     "id": 560608,
     "date": "2026-10-18T15:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
@@ -1031,8 +1031,8 @@
     "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/57.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 560606,

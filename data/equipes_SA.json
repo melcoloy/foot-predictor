@@ -15,7 +15,7 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1995-04-03",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Diego Moreira",
@@ -32,17 +32,17 @@
         "buts": 2
       },
       {
-        "nom": "Christian Pulisic",
-        "poste": "Offence",
-        "nationalite": "USA",
-        "naissance": "1998-09-18",
-        "buts": 1
-      },
-      {
         "nom": "Gonçalo Ramos",
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2001-06-20",
+        "buts": 2
+      },
+      {
+        "nom": "Christian Pulisic",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "1998-09-18",
         "buts": 1
       },
       {
@@ -600,7 +600,7 @@
         "poste": "Offence",
         "nationalite": "Montenegro",
         "naissance": "2000-04-05",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Éderson",
@@ -1815,6 +1815,13 @@
         "buts": 3
       },
       {
+        "nom": "Gustav Isaksen",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2001-04-19",
+        "buts": 2
+      },
+      {
         "nom": "Tijjani Noslin",
         "poste": "Offence",
         "nationalite": "Netherlands",
@@ -2022,13 +2029,6 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "1999-05-19",
-        "buts": 0
-      },
-      {
-        "nom": "Gustav Isaksen",
-        "poste": "Offence",
-        "nationalite": "Denmark",
-        "naissance": "2001-04-19",
         "buts": 0
       },
       {
@@ -4150,6 +4150,13 @@
     "entraineur": "Fàbregas",
     "effectif": [
       {
+        "nom": "Anastasios Douvikas",
+        "poste": "Offence",
+        "nationalite": "Greece",
+        "naissance": "1999-08-02",
+        "buts": 3
+      },
+      {
         "nom": "Martin Baturina",
         "poste": "Midfield",
         "nationalite": "Croatia",
@@ -4157,10 +4164,10 @@
         "buts": 2
       },
       {
-        "nom": "Anastasios Douvikas",
-        "poste": "Offence",
-        "nationalite": "Greece",
-        "naissance": "1999-08-02",
+        "nom": "Nico Paz",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2004-09-08",
         "buts": 2
       },
       {
@@ -4175,13 +4182,6 @@
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "2005-06-06",
-        "buts": 1
-      },
-      {
-        "nom": "Nico Paz",
-        "poste": "Midfield",
-        "nationalite": "Argentina",
-        "naissance": "2004-09-08",
         "buts": 1
       },
       {

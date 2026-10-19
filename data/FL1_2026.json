@@ -872,7 +872,7 @@
   {
     "id": 559664,
     "date": "2026-10-18T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
@@ -881,13 +881,13 @@
     "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/516.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 5
   },
   {
     "id": 559657,
     "date": "2026-10-18T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
@@ -896,13 +896,13 @@
     "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/548.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 559658,
     "date": "2026-10-18T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
@@ -911,13 +911,13 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 3
   },
   {
     "id": 559663,
     "date": "2026-10-18T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
@@ -926,13 +926,13 @@
     "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/519.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 3
   },
   {
     "id": 559665,
     "date": "2026-10-18T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
@@ -941,8 +941,8 @@
     "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/522.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 559654,

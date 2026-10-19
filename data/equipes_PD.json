@@ -234,13 +234,6 @@
         "buts": 2
       },
       {
-        "nom": "Robin Le Normand",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1996-11-11",
-        "buts": 1
-      },
-      {
         "nom": "Marc Pubill",
         "poste": "Defence",
         "nationalite": "Spain",
@@ -294,6 +287,13 @@
         "poste": "Defence",
         "nationalite": "Argentina",
         "naissance": "1998-04-27",
+        "buts": 0
+      },
+      {
+        "nom": "Robin Le Normand",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1996-11-11",
         "buts": 0
       },
       {
@@ -405,7 +405,7 @@
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "1991-07-22",
-        "buts": 6
+        "buts": 7
       },
       {
         "nom": "Kike Barja",
@@ -812,13 +812,6 @@
         "buts": 2
       },
       {
-        "nom": "João Cancelo",
-        "poste": "Defence",
-        "nationalite": "Portugal",
-        "naissance": "1994-05-27",
-        "buts": 1
-      },
-      {
         "nom": "Xavi Espart",
         "poste": "Defence",
         "nationalite": "Spain",
@@ -851,6 +844,13 @@
         "poste": "Goalkeeper",
         "nationalite": "Spain",
         "naissance": "2001-05-04",
+        "buts": 0
+      },
+      {
+        "nom": "João Cancelo",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "1994-05-27",
         "buts": 0
       },
       {
@@ -1380,7 +1380,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1998-12-20",
-        "buts": 7
+        "buts": 9
       },
       {
         "nom": "Jude Bellingham",
@@ -1390,6 +1390,13 @@
         "buts": 3
       },
       {
+        "nom": "Arda Guler",
+        "poste": "Midfield",
+        "nationalite": "Turkey",
+        "naissance": "2005-02-25",
+        "buts": 2
+      },
+      {
         "nom": "Carlos Espí",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -1397,17 +1404,17 @@
         "buts": 2
       },
       {
+        "nom": "Yan Diomandé",
+        "poste": "Offence",
+        "nationalite": "Ivory Coast",
+        "naissance": "2006-11-14",
+        "buts": 2
+      },
+      {
         "nom": "Álvaro Carreras",
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "2003-03-23",
-        "buts": 1
-      },
-      {
-        "nom": "Arda Guler",
-        "poste": "Midfield",
-        "nationalite": "Turkey",
-        "naissance": "2005-02-25",
         "buts": 1
       },
       {
@@ -1555,13 +1562,6 @@
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "2006-07-21",
-        "buts": 0
-      },
-      {
-        "nom": "Yan Diomandé",
-        "poste": "Offence",
-        "nationalite": "Ivory Coast",
-        "naissance": "2006-11-14",
         "buts": 0
       }
     ]
@@ -2177,10 +2177,24 @@
         "buts": 3
       },
       {
+        "nom": "Gonçalo Guedes",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "1996-11-29",
+        "buts": 2
+      },
+      {
         "nom": "Ander Barrenetxea",
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2001-12-27",
+        "buts": 2
+      },
+      {
+        "nom": "Mikel Oyarzabal",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-04-21",
         "buts": 2
       },
       {
@@ -2310,24 +2324,10 @@
         "buts": 0
       },
       {
-        "nom": "Gonçalo Guedes",
-        "poste": "Offence",
-        "nationalite": "Portugal",
-        "naissance": "1996-11-29",
-        "buts": 0
-      },
-      {
         "nom": "Takefusa Kubo",
         "poste": "Offence",
         "nationalite": "Japan",
         "naissance": "2001-06-04",
-        "buts": 0
-      },
-      {
-        "nom": "Mikel Oyarzabal",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "1997-04-21",
         "buts": 0
       },
       {
@@ -3138,6 +3138,13 @@
     "entraineur": "Claudio",
     "effectif": [
       {
+        "nom": "Ferran Jutglà",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-02-01",
+        "buts": 2
+      },
+      {
         "nom": "Pablo Duran",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -3156,13 +3163,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1987-08-01",
-        "buts": 1
-      },
-      {
-        "nom": "Ferran Jutglà",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "1999-02-01",
         "buts": 1
       },
       {
@@ -3506,6 +3506,13 @@
         "nationalite": "Scotland",
         "naissance": "2004-02-26",
         "buts": 0
+      },
+      {
+        "nom": "Jesús Morales",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2007-06-24",
+        "buts": 0
       }
     ]
   },
@@ -3751,13 +3758,6 @@
         "buts": 1
       },
       {
-        "nom": "Maguette Gueye",
-        "poste": "Midfield",
-        "nationalite": "Senegal",
-        "naissance": "2002-12-30",
-        "buts": 1
-      },
-      {
         "nom": "Andrés Martín",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -3860,6 +3860,13 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2003-12-28",
+        "buts": 0
+      },
+      {
+        "nom": "Maguette Gueye",
+        "poste": "Midfield",
+        "nationalite": "Senegal",
+        "naissance": "2002-12-30",
         "buts": 0
       },
       {

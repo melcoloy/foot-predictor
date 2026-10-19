@@ -1383,17 +1383,17 @@
     "entraineur": "Michael Carrick",
     "effectif": [
       {
-        "nom": "Bruno Fernandes",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "1994-09-08",
-        "buts": 3
-      },
-      {
         "nom": "Bryan Mbeumo",
         "poste": "Offence",
         "nationalite": "Cameroon",
         "naissance": "1999-08-07",
+        "buts": 4
+      },
+      {
+        "nom": "Bruno Fernandes",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "1994-09-08",
         "buts": 3
       },
       {
@@ -2449,17 +2449,17 @@
     "entraineur": "Daniel Farke",
     "effectif": [
       {
-        "nom": "Jayden Bogle",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2000-07-27",
-        "buts": 2
-      },
-      {
         "nom": "Dominic Calvert-Lewin",
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1997-03-16",
+        "buts": 3
+      },
+      {
+        "nom": "Jayden Bogle",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2000-07-27",
         "buts": 2
       },
       {
@@ -3229,6 +3229,20 @@
         "buts": 3
       },
       {
+        "nom": "Jack Hinshelwood",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2005-04-11",
+        "buts": 3
+      },
+      {
+        "nom": "Charalampos Kostoulas",
+        "poste": "Offence",
+        "nationalite": "Greece",
+        "naissance": "2007-05-30",
+        "buts": 3
+      },
+      {
         "nom": "Maxim De Cuyper",
         "poste": "Defence",
         "nationalite": "Belgium",
@@ -3236,10 +3250,10 @@
         "buts": 2
       },
       {
-        "nom": "Jack Hinshelwood",
+        "nom": "Yasin Ayari",
         "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2005-04-11",
+        "nationalite": "Sweden",
+        "naissance": "2003-10-06",
         "buts": 2
       },
       {
@@ -3247,13 +3261,6 @@
         "poste": "Midfield",
         "nationalite": "Mali",
         "naissance": "2005-11-18",
-        "buts": 2
-      },
-      {
-        "nom": "Charalampos Kostoulas",
-        "poste": "Offence",
-        "nationalite": "Greece",
-        "naissance": "2007-05-30",
         "buts": 2
       },
       {
@@ -3275,13 +3282,6 @@
         "poste": "Defence",
         "nationalite": "Croatia",
         "naissance": "2007-02-24",
-        "buts": 1
-      },
-      {
-        "nom": "Yasin Ayari",
-        "poste": "Midfield",
-        "nationalite": "Sweden",
-        "naissance": "2003-10-06",
         "buts": 1
       },
       {
@@ -3665,7 +3665,14 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1999-03-22",
-        "buts": 3
+        "buts": 4
+      },
+      {
+        "nom": "Evanilson",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-10-06",
+        "buts": 2
       },
       {
         "nom": "Justin Kluivert",
@@ -3679,13 +3686,6 @@
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "2003-08-21",
-        "buts": 1
-      },
-      {
-        "nom": "Evanilson",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1999-10-06",
         "buts": 1
       },
       {

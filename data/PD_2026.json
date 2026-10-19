@@ -1262,7 +1262,7 @@
   {
     "id": 564715,
     "date": "2026-10-18T12:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
@@ -1271,13 +1271,13 @@
     "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 564712,
     "date": "2026-10-18T14:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "RC Celta de Vigo",
@@ -1286,13 +1286,13 @@
     "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/263.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 564714,
     "date": "2026-10-18T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
@@ -1301,13 +1301,13 @@
     "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/92.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 5
   },
   {
     "id": 564709,
     "date": "2026-10-18T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
@@ -1316,8 +1316,8 @@
     "court_ext": "Sevilla FC",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/559.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 1
   },
   {
     "id": 564717,

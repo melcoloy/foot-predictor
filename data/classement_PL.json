@@ -15,24 +15,24 @@
     "equipe": "Arsenal FC",
     "court": "Arsenal",
     "logo": "https://crests.football-data.org/57.png",
-    "j": 6,
-    "g": 5,
+    "j": 7,
+    "g": 6,
     "n": 0,
     "p": 1,
-    "pts": 15,
-    "bp": 10,
+    "pts": 18,
+    "bp": 11,
     "bc": 5
   },
   {
     "equipe": "Brighton & Hove Albion FC",
     "court": "Brighton Hove",
     "logo": "https://crests.football-data.org/397.png",
-    "j": 6,
-    "g": 4,
+    "j": 7,
+    "g": 5,
     "n": 1,
     "p": 1,
-    "pts": 13,
-    "bp": 18,
+    "pts": 16,
+    "bp": 23,
     "bc": 5
   },
   {
@@ -72,6 +72,18 @@
     "bc": 8
   },
   {
+    "equipe": "Leeds United FC",
+    "court": "Leeds United",
+    "logo": "https://crests.football-data.org/341.png",
+    "j": 7,
+    "g": 2,
+    "n": 4,
+    "p": 1,
+    "pts": 10,
+    "bp": 9,
+    "bc": 6
+  },
+  {
     "equipe": "Everton FC",
     "court": "Everton",
     "logo": "https://crests.football-data.org/62.png",
@@ -82,18 +94,6 @@
     "pts": 10,
     "bp": 8,
     "bc": 7
-  },
-  {
-    "equipe": "Leeds United FC",
-    "court": "Leeds United",
-    "logo": "https://crests.football-data.org/341.png",
-    "j": 6,
-    "g": 2,
-    "n": 3,
-    "p": 1,
-    "pts": 9,
-    "bp": 8,
-    "bc": 5
   },
   {
     "equipe": "Hull City AFC",
@@ -144,28 +144,40 @@
     "bc": 11
   },
   {
-    "equipe": "Crystal Palace FC",
-    "court": "Crystal Palace",
-    "logo": "https://crests.football-data.org/354.png",
-    "j": 6,
-    "g": 2,
-    "n": 1,
-    "p": 3,
-    "pts": 7,
-    "bp": 9,
-    "bc": 12
-  },
-  {
     "equipe": "Manchester United FC",
     "court": "Man United",
     "logo": "https://crests.football-data.org/66.png",
-    "j": 6,
+    "j": 7,
+    "g": 1,
+    "n": 4,
+    "p": 2,
+    "pts": 7,
+    "bp": 10,
+    "bc": 10
+  },
+  {
+    "equipe": "Crystal Palace FC",
+    "court": "Crystal Palace",
+    "logo": "https://crests.football-data.org/354.png",
+    "j": 7,
+    "g": 2,
+    "n": 1,
+    "p": 4,
+    "pts": 7,
+    "bp": 9,
+    "bc": 17
+  },
+  {
+    "equipe": "AFC Bournemouth",
+    "court": "Bournemouth",
+    "logo": "https://crests.football-data.org/bournemouth.png",
+    "j": 7,
     "g": 1,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 6,
     "bp": 9,
-    "bc": 9
+    "bc": 13
   },
   {
     "equipe": "Coventry City FC",
@@ -195,37 +207,25 @@
     "equipe": "Nottingham Forest FC",
     "court": "Nottingham",
     "logo": "https://crests.football-data.org/351.png",
-    "j": 6,
+    "j": 7,
     "g": 1,
     "n": 2,
-    "p": 3,
+    "p": 4,
     "pts": 5,
     "bp": 5,
-    "bc": 8
+    "bc": 9
   },
   {
     "equipe": "Sunderland AFC",
     "court": "Sunderland",
     "logo": "https://crests.football-data.org/71.png",
-    "j": 6,
+    "j": 7,
     "g": 1,
     "n": 1,
-    "p": 4,
+    "p": 5,
     "pts": 4,
     "bp": 6,
-    "bc": 12
-  },
-  {
-    "equipe": "AFC Bournemouth",
-    "court": "Bournemouth",
-    "logo": "https://crests.football-data.org/bournemouth.png",
-    "j": 6,
-    "g": 0,
-    "n": 3,
-    "p": 3,
-    "pts": 3,
-    "bp": 7,
-    "bc": 13
+    "bc": 14
   },
   {
     "equipe": "Tottenham Hotspur FC",

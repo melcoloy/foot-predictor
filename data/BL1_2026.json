@@ -782,7 +782,7 @@
   {
     "id": 565827,
     "date": "2026-10-18T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Bayer 04 Leverkusen",
@@ -791,13 +791,13 @@
     "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/17.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 565826,
     "date": "2026-10-18T15:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Mönchengladbach",
@@ -806,8 +806,8 @@
     "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/2.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 565833,

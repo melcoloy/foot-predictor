@@ -370,7 +370,21 @@
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "2000-02-16",
-        "buts": 4
+        "buts": 5
+      },
+      {
+        "nom": "Himad Abdelli",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "1999-11-17",
+        "buts": 2
+      },
+      {
+        "nom": "Amine Harit",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "1997-06-18",
+        "buts": 2
       },
       {
         "nom": "Angel Gomes",
@@ -384,20 +398,6 @@
         "poste": "Midfield",
         "nationalite": "Denmark",
         "naissance": "1995-08-05",
-        "buts": 1
-      },
-      {
-        "nom": "Himad Abdelli",
-        "poste": "Midfield",
-        "nationalite": "Algeria",
-        "naissance": "1999-11-17",
-        "buts": 1
-      },
-      {
-        "nom": "Amine Harit",
-        "poste": "Offence",
-        "nationalite": "Morocco",
-        "naissance": "1997-06-18",
         "buts": 1
       },
       {
@@ -540,17 +540,17 @@
         "buts": 4
       },
       {
-        "nom": "Lamine Sy",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "2002-08-10",
-        "buts": 1
-      },
-      {
         "nom": "Daniel Namaso",
         "poste": "Offence",
         "nationalite": "Cameroon",
         "naissance": "2000-08-28",
+        "buts": 3
+      },
+      {
+        "nom": "Lamine Sy",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2002-08-10",
         "buts": 1
       },
       {
@@ -993,18 +993,11 @@
     "entraineur": "Olivier Pantaloni",
     "effectif": [
       {
-        "nom": "Jonathan Clauss",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1992-09-25",
-        "buts": 1
-      },
-      {
         "nom": "Sepe Elye Wahi",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
         "naissance": "2003-01-02",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Mohammed Amoura",
@@ -1025,6 +1018,13 @@
         "poste": "Goalkeeper",
         "nationalite": "France",
         "naissance": "2001-04-09",
+        "buts": 0
+      },
+      {
+        "nom": "Jonathan Clauss",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1992-09-25",
         "buts": 0
       },
       {
@@ -1784,7 +1784,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2000-04-18",
-        "buts": 4
+        "buts": 7
       },
       {
         "nom": "Adrien Thomasson",
@@ -2184,6 +2184,13 @@
     "entraineur": "Stéphane Gilli",
     "effectif": [
       {
+        "nom": "Amine El Ouazzani",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2001-07-15",
+        "buts": 2
+      },
+      {
         "nom": "Prosper Peter",
         "poste": "Offence",
         "nationalite": "Nigeria",
@@ -2202,13 +2209,6 @@
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "1995-07-21",
-        "buts": 1
-      },
-      {
-        "nom": "Amine El Ouazzani",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2001-07-15",
         "buts": 1
       },
       {
@@ -2358,17 +2358,17 @@
         "buts": 2
       },
       {
-        "nom": "Josh Maja",
-        "poste": "Offence",
-        "nationalite": "Nigeria",
-        "naissance": "1998-12-27",
-        "buts": 1
-      },
-      {
         "nom": "Rayan Fofana",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2006-02-12",
+        "buts": 2
+      },
+      {
+        "nom": "Josh Maja",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1998-12-27",
         "buts": 1
       },
       {
@@ -3393,7 +3393,14 @@
         "poste": "Offence",
         "nationalite": "Mali",
         "naissance": "1999-12-08",
-        "buts": 4
+        "buts": 6
+      },
+      {
+        "nom": "Maxime López",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1997-12-04",
+        "buts": 2
       },
       {
         "nom": "Samir Chergui",
@@ -3484,13 +3491,6 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2006-02-27",
-        "buts": 0
-      },
-      {
-        "nom": "Maxime López",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "1997-12-04",
         "buts": 0
       },
       {

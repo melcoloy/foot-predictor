@@ -962,7 +962,7 @@
   {
     "id": 558574,
     "date": "2026-10-18T10:30:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
@@ -972,12 +972,12 @@
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
     "buts_dom": 0,
-    "buts_ext": 0
+    "buts_ext": 3
   },
   {
     "id": 558577,
     "date": "2026-10-18T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
@@ -986,13 +986,13 @@
     "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 3
   },
   {
     "id": 558569,
     "date": "2026-10-18T16:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
@@ -1001,13 +1001,13 @@
     "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/102.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 2
   },
   {
     "id": 558570,
     "date": "2026-10-18T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
@@ -1016,8 +1016,8 @@
     "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/110.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 558576,

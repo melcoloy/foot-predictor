@@ -241,6 +241,13 @@
     "entraineur": "Christian Ilzer",
     "effectif": [
       {
+        "nom": "Bambase Conte",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-07-07",
+        "buts": 2
+      },
+      {
         "nom": "Adam Hložek",
         "poste": "Offence",
         "nationalite": "Czech Republic",
@@ -381,13 +388,6 @@
         "buts": 0
       },
       {
-        "nom": "Bambase Conte",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2003-07-07",
-        "buts": 0
-      },
-      {
         "nom": "Luis Engelns",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -454,7 +454,14 @@
         "poste": "Offence",
         "nationalite": "Czech Republic",
         "naissance": "1996-01-24",
-        "buts": 5
+        "buts": 6
+      },
+      {
+        "nom": "Ibrahim Maza",
+        "poste": "Midfield",
+        "nationalite": "Algeria",
+        "naissance": "2005-11-24",
+        "buts": 2
       },
       {
         "nom": "Christian Kofane",
@@ -489,13 +496,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "1994-09-22",
-        "buts": 1
-      },
-      {
-        "nom": "Ibrahim Maza",
-        "poste": "Midfield",
-        "nationalite": "Algeria",
-        "naissance": "2005-11-24",
         "buts": 1
       },
       {
@@ -628,7 +628,7 @@
         "nom": "Eliesse Ben Seghir",
         "poste": "Offence",
         "nationalite": "France",
-        "naissance": "2025-06-30",
+        "naissance": "2005-02-16",
         "buts": 0
       },
       {
@@ -2419,7 +2419,7 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "2002-11-10",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Florian Müller",
@@ -3028,13 +3028,6 @@
         "buts": 1
       },
       {
-        "nom": "Livan Burcu",
-        "poste": "Offence",
-        "nationalite": "Turkey",
-        "naissance": "2004-09-28",
-        "buts": 1
-      },
-      {
         "nom": "Frederik Rønnow",
         "poste": "Goalkeeper",
         "nationalite": "Denmark",
@@ -3193,6 +3186,13 @@
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "2002-02-28",
+        "buts": 0
+      },
+      {
+        "nom": "Livan Burcu",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "2004-09-28",
         "buts": 0
       },
       {
