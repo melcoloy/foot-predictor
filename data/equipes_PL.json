@@ -220,13 +220,6 @@
         "buts": 1
       },
       {
-        "nom": "John McGinn",
-        "poste": "Midfield",
-        "nationalite": "Scotland",
-        "naissance": "1994-10-18",
-        "buts": 1
-      },
-      {
         "nom": "Alysson",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -336,6 +329,13 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1999-11-23",
+        "buts": 0
+      },
+      {
+        "nom": "John McGinn",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1994-10-18",
         "buts": 0
       },
       {
@@ -3870,6 +3870,13 @@
     "entraineur": "Frank Lampard",
     "effectif": [
       {
+        "nom": "Jack Rudoni",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2001-06-14",
+        "buts": 2
+      },
+      {
         "nom": "Jay Dasilva",
         "poste": "Defence",
         "nationalite": "Wales",
@@ -3993,13 +4000,6 @@
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "2000-04-06",
-        "buts": 0
-      },
-      {
-        "nom": "Jack Rudoni",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2001-06-14",
         "buts": 0
       },
       {

@@ -1322,7 +1322,7 @@
   {
     "id": 564717,
     "date": "2026-10-19T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
@@ -1331,8 +1331,8 @@
     "court_ext": "Rayo Vallecano",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/87.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 564685,

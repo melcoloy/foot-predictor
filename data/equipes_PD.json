@@ -986,6 +986,13 @@
     "entraineur": "Pepe Bordalás",
     "effectif": [
       {
+        "nom": "Martin Satriano",
+        "poste": "Offence",
+        "nationalite": "Uruguay",
+        "naissance": "2001-02-20",
+        "buts": 2
+      },
+      {
         "nom": "RamónTerrats Espacio",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -997,13 +1004,6 @@
         "poste": "Offence",
         "nationalite": "Turkey",
         "naissance": "1997-05-10",
-        "buts": 1
-      },
-      {
-        "nom": "Martin Satriano",
-        "poste": "Offence",
-        "nationalite": "Uruguay",
-        "naissance": "2001-02-20",
         "buts": 1
       },
       {
@@ -1589,7 +1589,7 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1992-10-27",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Andrei Rațiu",

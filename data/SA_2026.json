@@ -1022,7 +1022,7 @@
   {
     "id": 558576,
     "date": "2026-10-19T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
@@ -1031,13 +1031,13 @@
     "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/104.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 0
   },
   {
     "id": 558578,
     "date": "2026-10-19T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
@@ -1046,8 +1046,8 @@
     "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/586.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 558567,

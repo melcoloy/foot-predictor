@@ -180,16 +180,28 @@
     "bc": 13
   },
   {
+    "equipe": "Tottenham Hotspur FC",
+    "court": "Tottenham",
+    "logo": "https://crests.football-data.org/73.png",
+    "j": 7,
+    "g": 1,
+    "n": 3,
+    "p": 3,
+    "pts": 6,
+    "bp": 6,
+    "bc": 10
+  },
+  {
     "equipe": "Coventry City FC",
     "court": "Coventry City",
     "logo": "https://crests.football-data.org/1076.png",
-    "j": 6,
+    "j": 7,
     "g": 2,
     "n": 0,
-    "p": 4,
+    "p": 5,
     "pts": 6,
-    "bp": 5,
-    "bc": 11
+    "bp": 6,
+    "bc": 14
   },
   {
     "equipe": "Fulham FC",
@@ -226,17 +238,5 @@
     "pts": 4,
     "bp": 6,
     "bc": 14
-  },
-  {
-    "equipe": "Tottenham Hotspur FC",
-    "court": "Tottenham",
-    "logo": "https://crests.football-data.org/73.png",
-    "j": 6,
-    "g": 0,
-    "n": 3,
-    "p": 3,
-    "pts": 3,
-    "bp": 3,
-    "bc": 9
   }
 ]

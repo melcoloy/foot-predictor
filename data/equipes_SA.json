@@ -784,13 +784,6 @@
     "entraineur": "Domenico Tedesco",
     "effectif": [
       {
-        "nom": "Riccardo Orsolini",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "1997-01-24",
-        "buts": 1
-      },
-      {
         "nom": "Federico Bernardeschi",
         "poste": "Offence",
         "nationalite": "Italy",
@@ -942,6 +935,13 @@
         "poste": "Midfield",
         "nationalite": "Argentina",
         "naissance": "2005-01-06",
+        "buts": 0
+      },
+      {
+        "nom": "Riccardo Orsolini",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1997-01-24",
         "buts": 0
       },
       {
@@ -3450,6 +3450,13 @@
         "poste": "Offence",
         "nationalite": "Scotland",
         "naissance": "1996-07-13",
+        "buts": 3
+      },
+      {
+        "nom": "Giovanni Simeone",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "1995-07-05",
         "buts": 2
       },
       {
@@ -3625,13 +3632,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2008-02-16",
-        "buts": 0
-      },
-      {
-        "nom": "Giovanni Simeone",
-        "poste": "Offence",
-        "nationalite": "Argentina",
-        "naissance": "1995-07-05",
         "buts": 0
       },
       {
@@ -3924,7 +3924,14 @@
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2005-01-30",
-        "buts": 4
+        "buts": 6
+      },
+      {
+        "nom": "Jay Robinson",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2007-03-15",
+        "buts": 2
       },
       {
         "nom": "Ricardo Mangas",
@@ -3945,13 +3952,6 @@
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "2002-04-24",
-        "buts": 1
-      },
-      {
-        "nom": "Jay Robinson",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2007-03-15",
         "buts": 1
       },
       {
