@@ -542,7 +542,7 @@
   {
     "id": 575359,
     "date": "2026-10-20T16:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "Sabah FK",
@@ -551,13 +551,13 @@
     "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/10233.png",
     "logo_ext": "https://crests.football-data.org/4.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 575360,
     "date": "2026-10-20T16:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "Fenerbahçe SK",
@@ -566,13 +566,13 @@
     "court_ext": "Slavia Praha",
     "logo_dom": "https://crests.football-data.org/613.png",
     "logo_ext": "https://crests.football-data.org/930.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 2
   },
   {
     "id": 575361,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester City FC",
@@ -581,13 +581,13 @@
     "court_ext": "PAE AEK",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/1899.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 5,
+    "buts_ext": 1
   },
   {
     "id": 575362,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "VfB Stuttgart",
@@ -596,13 +596,13 @@
     "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/78.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 575363,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "Liverpool FC",
@@ -611,13 +611,13 @@
     "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/94.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 3
   },
   {
     "id": 575364,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "AS Roma",
@@ -626,13 +626,13 @@
     "court_ext": "Sl. Bratislava",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/7509.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 0
   },
   {
     "id": 575365,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "FC Porto",
@@ -641,13 +641,13 @@
     "court_ext": "PSV",
     "logo_dom": "https://crests.football-data.org/503.png",
     "logo_ext": "https://crests.football-data.org/674.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 575366,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "SSC Napoli",
@@ -656,13 +656,13 @@
     "court_ext": "Bodø/Glimt",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/5721.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 3
   },
   {
     "id": 575367,
     "date": "2026-10-20T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 3,
     "phase": "LEAGUE_STAGE",
     "dom": "Paris Saint-Germain FC",
@@ -671,8 +671,8 @@
     "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/81.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 2
   },
   {
     "id": 575368,

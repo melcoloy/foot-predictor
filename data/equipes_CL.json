@@ -15,7 +15,7 @@
         "poste": "Offence",
         "nationalite": "Guinea",
         "naissance": "1996-03-12",
-        "buts": 2
+        "buts": 4
       },
       {
         "nom": "Gregor Kobel",
@@ -1021,6 +1021,13 @@
     "entraineur": "Andoni Iraola",
     "effectif": [
       {
+        "nom": "Alexis Mac Allister",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "1998-12-24",
+        "buts": 3
+      },
+      {
         "nom": "Bradley Barcola",
         "poste": "Offence",
         "nationalite": "France",
@@ -1032,7 +1039,7 @@
         "poste": "Defence",
         "nationalite": "Uruguay",
         "naissance": "1999-03-07",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Jeremie Frimpong",
@@ -1046,13 +1053,6 @@
         "poste": "Midfield",
         "nationalite": "Hungary",
         "naissance": "2000-10-25",
-        "buts": 1
-      },
-      {
-        "nom": "Alexis Mac Allister",
-        "poste": "Midfield",
-        "nationalite": "Argentina",
-        "naissance": "1998-12-24",
         "buts": 1
       },
       {
@@ -1244,6 +1244,13 @@
         "buts": 4
       },
       {
+        "nom": "Phil Foden",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-05-28",
+        "buts": 3
+      },
+      {
         "nom": "Géronimo Rulli",
         "poste": "Goalkeeper",
         "nationalite": "Argentina",
@@ -1332,13 +1339,6 @@
         "poste": "Midfield",
         "nationalite": "Croatia",
         "naissance": "1994-05-06",
-        "buts": 0
-      },
-      {
-        "nom": "Phil Foden",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2000-05-28",
         "buts": 0
       },
       {
@@ -1836,6 +1836,13 @@
         "buts": 2
       },
       {
+        "nom": "Lamine Yamal",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2007-07-13",
+        "buts": 2
+      },
+      {
         "nom": "João Cancelo",
         "poste": "Defence",
         "nationalite": "Portugal",
@@ -1861,13 +1868,6 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "2001-02-24",
-        "buts": 1
-      },
-      {
-        "nom": "Lamine Yamal",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2007-07-13",
         "buts": 1
       },
       {
@@ -2240,13 +2240,6 @@
         "buts": 1
       },
       {
-        "nom": "Abdessamad Ezzalzouli",
-        "poste": "Offence",
-        "nationalite": "Morocco",
-        "naissance": "2001-12-17",
-        "buts": 1
-      },
-      {
         "nom": "Álvaro Vallés Rosa",
         "poste": "Goalkeeper",
         "nationalite": "Spain",
@@ -2399,6 +2392,13 @@
         "nationalite": "Spain",
         "naissance": "2000-04-02",
         "buts": 0
+      },
+      {
+        "nom": "Abdessamad Ezzalzouli",
+        "poste": "Offence",
+        "nationalite": "Morocco",
+        "naissance": "2001-12-17",
+        "buts": 0
       }
     ]
   },
@@ -2425,14 +2425,14 @@
         "poste": "Offence",
         "nationalite": "Georgia",
         "naissance": "2000-10-31",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Tani Oluwaseyi",
         "poste": "Offence",
         "nationalite": "Canada",
         "naissance": "2000-05-15",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Péter Gulácsi",
@@ -2606,7 +2606,7 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "1999-01-19",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Bryan Cristante",
@@ -2971,6 +2971,13 @@
     "entraineur": "Massimiliano Allegri",
     "effectif": [
       {
+        "nom": "Scott McTominay",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1996-12-08",
+        "buts": 2
+      },
+      {
         "nom": "Amir Rrahmani",
         "poste": "Defence",
         "nationalite": "Kosovo",
@@ -3073,13 +3080,6 @@
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "1991-06-28",
-        "buts": 0
-      },
-      {
-        "nom": "Scott McTominay",
-        "poste": "Midfield",
-        "nationalite": "Scotland",
-        "naissance": "1996-12-08",
         "buts": 0
       },
       {
@@ -3382,13 +3382,6 @@
     "entraineur": "Francesco Farioli",
     "effectif": [
       {
-        "nom": "Gabriel Veiga",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2002-05-27",
-        "buts": 1
-      },
-      {
         "nom": "Diogo Costa",
         "poste": "Goalkeeper",
         "nationalite": "Portugal",
@@ -3491,6 +3484,13 @@
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "1997-01-07",
+        "buts": 0
+      },
+      {
+        "nom": "Gabriel Veiga",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-05-27",
         "buts": 0
       },
       {
@@ -3811,27 +3811,27 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "1996-04-03",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Vitinha",
         "poste": "Midfield",
         "nationalite": "Portugal",
         "naissance": "2000-02-13",
-        "buts": 1
-      },
-      {
-        "nom": "Maghnes Akliouche",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-02-25",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Desire Doue",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2005-06-03",
+        "buts": 2
+      },
+      {
+        "nom": "Maghnes Akliouche",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-02-25",
         "buts": 1
       },
       {
