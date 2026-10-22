@@ -11,6 +11,13 @@
     "entraineur": "Edin Terzić",
     "effectif": [
       {
+        "nom": "Álex Berenguer",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1995-07-04",
+        "buts": 2
+      },
+      {
         "nom": "Roberto Navarro",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -29,13 +36,6 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2000-04-25",
-        "buts": 1
-      },
-      {
-        "nom": "Álex Berenguer",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "1995-07-04",
         "buts": 1
       },
       {
@@ -343,13 +343,6 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2005-03-15",
-        "buts": 0
-      },
-      {
-        "nom": "Pablo Barrios",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2025-06-30",
         "buts": 0
       },
       {
@@ -663,13 +656,6 @@
         "poste": "Defence",
         "nationalite": "Netherlands",
         "naissance": "2001-11-14",
-        "buts": 0
-      },
-      {
-        "nom": "Omar El Hilali",
-        "poste": "Defence",
-        "nationalite": "Morocco",
-        "naissance": "2025-06-30",
         "buts": 0
       },
       {
@@ -1087,7 +1073,7 @@
         "nom": "Davinchi",
         "poste": "Defence",
         "nationalite": "Spain",
-        "naissance": null,
+        "naissance": "2007-10-16",
         "buts": 0
       },
       {
@@ -1223,10 +1209,10 @@
         "buts": 0
       },
       {
-        "nom": "Angel Recio",
+        "nom": "Ángel Recio",
         "poste": "Defence",
         "nationalite": "Spain",
-        "naissance": null,
+        "naissance": "2003-01-05",
         "buts": 0
       },
       {
@@ -3020,13 +3006,6 @@
         "buts": 0
       },
       {
-        "nom": "Rubén Sánchez",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "2024-06-30",
-        "buts": 0
-      },
-      {
         "nom": "Matia Barzic",
         "poste": "Defence",
         "nationalite": "Croatia",
@@ -3129,6 +3108,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2005-10-13",
+        "buts": 0
+      },
+      {
+        "nom": "Ruben Sanchez",
+        "poste": "null",
+        "nationalite": "Spain",
+        "naissance": "2001-02-04",
         "buts": 0
       }
     ]

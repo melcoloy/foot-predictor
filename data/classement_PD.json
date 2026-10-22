@@ -120,16 +120,16 @@
     "bc": 18
   },
   {
-    "equipe": "Athletic Club",
-    "court": "Athletic",
-    "logo": "https://crests.football-data.org/77.png",
-    "j": 7,
+    "equipe": "Levante UD",
+    "court": "Levante",
+    "logo": "https://crests.football-data.org/88.png",
+    "j": 9,
     "g": 2,
-    "n": 3,
-    "p": 2,
-    "pts": 9,
-    "bp": 7,
-    "bc": 6
+    "n": 4,
+    "p": 3,
+    "pts": 10,
+    "bp": 15,
+    "bc": 17
   },
   {
     "equipe": "Villarreal CF",
@@ -142,6 +142,18 @@
     "pts": 9,
     "bp": 13,
     "bc": 13
+  },
+  {
+    "equipe": "Athletic Club",
+    "court": "Athletic",
+    "logo": "https://crests.football-data.org/77.png",
+    "j": 8,
+    "g": 2,
+    "n": 3,
+    "p": 3,
+    "pts": 9,
+    "bp": 8,
+    "bc": 9
   },
   {
     "equipe": "Rayo Vallecano de Madrid",
@@ -190,18 +202,6 @@
     "pts": 8,
     "bp": 13,
     "bc": 25
-  },
-  {
-    "equipe": "Levante UD",
-    "court": "Levante",
-    "logo": "https://crests.football-data.org/88.png",
-    "j": 8,
-    "g": 1,
-    "n": 4,
-    "p": 3,
-    "pts": 7,
-    "bp": 12,
-    "bc": 16
   },
   {
     "equipe": "Elche CF",

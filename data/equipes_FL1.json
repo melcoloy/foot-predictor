@@ -318,6 +318,13 @@
         "buts": 0
       },
       {
+        "nom": "Axel Camblan",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-08-30",
+        "buts": 0
+      },
+      {
         "nom": "Joseph Nonge",
         "poste": "Midfield",
         "nationalite": "Belgium",
@@ -329,13 +336,6 @@
         "poste": "Midfield",
         "nationalite": "Mali",
         "naissance": "2006-07-15",
-        "buts": 0
-      },
-      {
-        "nom": "Axel Camblan",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2025-06-30",
         "buts": 0
       },
       {
@@ -1938,13 +1938,6 @@
         "poste": "Offence",
         "nationalite": "Jordan",
         "naissance": "1997-06-10",
-        "buts": 0
-      },
-      {
-        "nom": "Issa Soumaré",
-        "poste": "Offence",
-        "nationalite": "Senegal",
-        "naissance": "2022-06-30",
         "buts": 0
       },
       {

@@ -1337,7 +1337,7 @@
   {
     "id": 564685,
     "date": "2026-10-21T18:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 6,
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
@@ -1346,8 +1346,8 @@
     "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/77.png",
-    "buts_dom": 0,
-    "buts_ext": 0
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 564719,
