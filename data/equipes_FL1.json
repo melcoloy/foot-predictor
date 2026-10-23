@@ -518,6 +518,13 @@
         "nationalite": "France",
         "naissance": "2007-03-03",
         "buts": 0
+      },
+      {
+        "nom": "Ibrahim Gomis",
+        "poste": null,
+        "nationalite": "Morocco",
+        "naissance": "2005-03-20",
+        "buts": 0
       }
     ]
   },
@@ -1395,6 +1402,13 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2008-02-29",
+        "buts": 0
+      },
+      {
+        "nom": "Ángel García",
+        "poste": null,
+        "nationalite": "France",
+        "naissance": "2008-02-03",
         "buts": 0
       }
     ]

@@ -181,7 +181,7 @@
     "logo_ext": "https://crests.football-data.org/64.png",
     "lambda_dom": 1.28,
     "lambda_ext": 2.61,
-    "p1": 0.166,
+    "p1": 0.167,
     "pN": 0.176,
     "p2": 0.657,
     "score_probable": "1-2"
@@ -536,7 +536,7 @@
     "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/100.png",
-    "lambda_dom": 2.33,
+    "lambda_dom": 2.32,
     "lambda_ext": 1.13,
     "p1": 0.637,
     "pN": 0.193,
@@ -727,7 +727,7 @@
     "lambda_ext": 1.08,
     "p1": 0.534,
     "pN": 0.24,
-    "p2": 0.226,
+    "p2": 0.225,
     "score_probable": "1-1"
   },
   {
@@ -740,10 +740,10 @@
     "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/721.png",
-    "lambda_dom": 2.29,
+    "lambda_dom": 2.28,
     "lambda_ext": 1.38,
     "p1": 0.575,
-    "pN": 0.202,
+    "pN": 0.203,
     "p2": 0.223,
     "score_probable": "2-1"
   },
@@ -982,7 +982,7 @@
     "lambda_ext": 1.56,
     "p1": 0.533,
     "pN": 0.206,
-    "p2": 0.262,
+    "p2": 0.261,
     "score_probable": "2-1"
   },
   {
@@ -1065,7 +1065,7 @@
     "logo_ext": "https://crests.football-data.org/7509.png",
     "lambda_dom": 2.84,
     "lambda_ext": 0.85,
-    "p1": 0.782,
+    "p1": 0.781,
     "pN": 0.137,
     "p2": 0.082,
     "score_probable": "2-0"
@@ -1133,7 +1133,7 @@
     "logo_ext": "https://crests.football-data.org/81.png",
     "lambda_dom": 1.71,
     "lambda_ext": 2.25,
-    "p1": 0.294,
+    "p1": 0.293,
     "pN": 0.206,
     "p2": 0.5,
     "score_probable": "1-2"
@@ -1253,7 +1253,7 @@
     "lambda_dom": 2.29,
     "lambda_ext": 1.11,
     "p1": 0.635,
-    "pN": 0.196,
+    "pN": 0.195,
     "p2": 0.169,
     "score_probable": "2-1"
   },
@@ -1286,7 +1286,7 @@
     "logo_ext": "https://crests.football-data.org/7397.png",
     "lambda_dom": 3.19,
     "lambda_ext": 1.35,
-    "p1": 0.734,
+    "p1": 0.733,
     "pN": 0.14,
     "p2": 0.126,
     "score_probable": "3-1"
@@ -1301,7 +1301,7 @@
     "court_ext": "Fenerbahçe",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/613.png",
-    "lambda_dom": 3.32,
+    "lambda_dom": 3.31,
     "lambda_ext": 0.92,
     "p1": 0.826,
     "pN": 0.109,
@@ -1424,7 +1424,7 @@
     "lambda_ext": 2.05,
     "p1": 0.223,
     "pN": 0.218,
-    "p2": 0.559,
+    "p2": 0.558,
     "score_probable": "1-1"
   },
   {
@@ -1475,7 +1475,7 @@
     "lambda_ext": 1.73,
     "p1": 0.478,
     "pN": 0.211,
-    "p2": 0.312,
+    "p2": 0.311,
     "score_probable": "2-1"
   },
   {
