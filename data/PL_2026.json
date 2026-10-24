@@ -1052,7 +1052,7 @@
   {
     "id": 560620,
     "date": "2026-10-23T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
@@ -1061,8 +1061,8 @@
     "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/351.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560614,

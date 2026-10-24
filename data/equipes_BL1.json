@@ -1481,6 +1481,13 @@
     "entraineur": "Sebastian Hoeneß",
     "effectif": [
       {
+        "nom": "Ermedin Demirovic",
+        "poste": "Offence",
+        "nationalite": "Bosnia-Herzegovina",
+        "naissance": "1998-03-25",
+        "buts": 3
+      },
+      {
         "nom": "Josha Vagnoman",
         "poste": "Defence",
         "nationalite": "Germany",
@@ -1513,20 +1520,6 @@
         "poste": "Midfield",
         "nationalite": "Morocco",
         "naissance": "2005-05-09",
-        "buts": 1
-      },
-      {
-        "nom": "Chris Führich",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "1998-01-09",
-        "buts": 1
-      },
-      {
-        "nom": "Ermedin Demirovic",
-        "poste": "Offence",
-        "nationalite": "Bosnia-Herzegovina",
-        "naissance": "1998-03-25",
         "buts": 1
       },
       {
@@ -1639,6 +1632,13 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2009-01-08",
+        "buts": 0
+      },
+      {
+        "nom": "Chris Führich",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1998-01-09",
         "buts": 0
       },
       {
@@ -2565,6 +2565,13 @@
         "poste": "Defence",
         "nationalite": "USA",
         "naissance": "2002-12-31",
+        "buts": 3
+      },
+      {
+        "nom": "Wael Mohya",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2008-12-31",
         "buts": 2
       },
       {
@@ -2572,6 +2579,13 @@
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "2003-07-24",
+        "buts": 2
+      },
+      {
+        "nom": "Shuto Machino",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "2002-12-14",
         "buts": 2
       },
       {
@@ -2586,13 +2600,6 @@
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "1998-09-08",
-        "buts": 1
-      },
-      {
-        "nom": "Shuto Machino",
-        "poste": "Offence",
-        "nationalite": "Japan",
-        "naissance": "2002-12-14",
         "buts": 1
       },
       {
@@ -2719,13 +2726,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2007-05-30",
-        "buts": 0
-      },
-      {
-        "nom": "Wael Mohya",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2008-12-31",
         "buts": 0
       },
       {

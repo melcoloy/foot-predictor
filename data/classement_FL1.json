@@ -84,6 +84,18 @@
     "bc": 6
   },
   {
+    "equipe": "OGC Nice",
+    "court": "Nice",
+    "logo": "https://crests.football-data.org/522.png",
+    "j": 8,
+    "g": 3,
+    "n": 2,
+    "p": 3,
+    "pts": 11,
+    "bp": 8,
+    "bc": 10
+  },
+  {
     "equipe": "Racing Club de Lens",
     "court": "RC Lens",
     "logo": "https://crests.football-data.org/546.png",
@@ -111,13 +123,13 @@
     "equipe": "Stade Brestois 29",
     "court": "Brest",
     "logo": "https://crests.football-data.org/512.png",
-    "j": 7,
+    "j": 8,
     "g": 2,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 9,
-    "bp": 13,
-    "bc": 10
+    "bp": 14,
+    "bc": 12
   },
   {
     "equipe": "Toulouse FC",
@@ -142,18 +154,6 @@
     "pts": 9,
     "bp": 11,
     "bc": 17
-  },
-  {
-    "equipe": "OGC Nice",
-    "court": "Nice",
-    "logo": "https://crests.football-data.org/522.png",
-    "j": 7,
-    "g": 2,
-    "n": 2,
-    "p": 3,
-    "pts": 8,
-    "bp": 6,
-    "bc": 9
   },
   {
     "equipe": "RC Strasbourg Alsace",

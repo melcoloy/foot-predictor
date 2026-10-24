@@ -1352,7 +1352,7 @@
   {
     "id": 564719,
     "date": "2026-10-23T19:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
@@ -1361,8 +1361,8 @@
     "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/84.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 564718,

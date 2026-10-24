@@ -72,6 +72,18 @@
     "bc": 9
   },
   {
+    "equipe": "Torino FC",
+    "court": "Torino",
+    "logo": "https://crests.football-data.org/586.png",
+    "j": 8,
+    "g": 4,
+    "n": 1,
+    "p": 3,
+    "pts": 13,
+    "bp": 13,
+    "bc": 11
+  },
+  {
     "equipe": "Cagliari Calcio",
     "court": "Cagliari",
     "logo": "https://crests.football-data.org/104.png",
@@ -106,18 +118,6 @@
     "pts": 10,
     "bp": 10,
     "bc": 7
-  },
-  {
-    "equipe": "Torino FC",
-    "court": "Torino",
-    "logo": "https://crests.football-data.org/586.png",
-    "j": 7,
-    "g": 3,
-    "n": 1,
-    "p": 3,
-    "pts": 10,
-    "bp": 10,
-    "bc": 9
   },
   {
     "equipe": "Atalanta BC",
@@ -159,13 +159,13 @@
     "equipe": "AC Monza",
     "court": "Monza",
     "logo": "https://crests.football-data.org/5911.png",
-    "j": 7,
+    "j": 8,
     "g": 2,
     "n": 1,
-    "p": 4,
+    "p": 5,
     "pts": 7,
-    "bp": 13,
-    "bc": 15
+    "bp": 15,
+    "bc": 18
   },
   {
     "equipe": "Bologna FC 1909",

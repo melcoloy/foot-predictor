@@ -144,18 +144,6 @@
     "bc": 11
   },
   {
-    "equipe": "VfB Stuttgart",
-    "court": "Stuttgart",
-    "logo": "https://crests.football-data.org/10.png",
-    "j": 6,
-    "g": 2,
-    "n": 0,
-    "p": 4,
-    "pts": 6,
-    "bp": 8,
-    "bc": 10
-  },
-  {
     "equipe": "TSG 1899 Hoffenheim",
     "court": "Hoffenheim",
     "logo": "https://crests.football-data.org/2.png",
@@ -166,6 +154,18 @@
     "pts": 6,
     "bp": 11,
     "bc": 14
+  },
+  {
+    "equipe": "VfB Stuttgart",
+    "court": "Stuttgart",
+    "logo": "https://crests.football-data.org/10.png",
+    "j": 7,
+    "g": 2,
+    "n": 0,
+    "p": 5,
+    "pts": 6,
+    "bp": 10,
+    "bc": 13
   },
   {
     "equipe": "FC Schalke 04",
@@ -207,12 +207,12 @@
     "equipe": "Borussia Mönchengladbach",
     "court": "M'gladbach",
     "logo": "https://crests.football-data.org/18.png",
-    "j": 6,
-    "g": 0,
+    "j": 7,
+    "g": 1,
     "n": 0,
     "p": 6,
-    "pts": 0,
-    "bp": 8,
-    "bc": 20
+    "pts": 3,
+    "bp": 11,
+    "bc": 22
   }
 ]

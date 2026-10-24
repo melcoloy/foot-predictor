@@ -96,6 +96,18 @@
     "bc": 7
   },
   {
+    "equipe": "Ipswich Town FC",
+    "court": "Ipswich Town",
+    "logo": "https://crests.football-data.org/349.png",
+    "j": 8,
+    "g": 3,
+    "n": 1,
+    "p": 4,
+    "pts": 10,
+    "bp": 12,
+    "bc": 16
+  },
+  {
     "equipe": "Hull City AFC",
     "court": "Hull City",
     "logo": "https://crests.football-data.org/322.png",
@@ -106,18 +118,6 @@
     "pts": 9,
     "bp": 8,
     "bc": 7
-  },
-  {
-    "equipe": "Ipswich Town FC",
-    "court": "Ipswich Town",
-    "logo": "https://crests.football-data.org/349.png",
-    "j": 7,
-    "g": 3,
-    "n": 0,
-    "p": 4,
-    "pts": 9,
-    "bp": 11,
-    "bc": 15
   },
   {
     "equipe": "Newcastle United FC",
@@ -180,6 +180,18 @@
     "bc": 13
   },
   {
+    "equipe": "Nottingham Forest FC",
+    "court": "Nottingham",
+    "logo": "https://crests.football-data.org/351.png",
+    "j": 8,
+    "g": 1,
+    "n": 3,
+    "p": 4,
+    "pts": 6,
+    "bp": 6,
+    "bc": 10
+  },
+  {
     "equipe": "Tottenham Hotspur FC",
     "court": "Tottenham",
     "logo": "https://crests.football-data.org/73.png",
@@ -214,18 +226,6 @@
     "pts": 5,
     "bp": 7,
     "bc": 10
-  },
-  {
-    "equipe": "Nottingham Forest FC",
-    "court": "Nottingham",
-    "logo": "https://crests.football-data.org/351.png",
-    "j": 7,
-    "g": 1,
-    "n": 2,
-    "p": 4,
-    "pts": 5,
-    "bp": 5,
-    "bc": 9
   },
   {
     "equipe": "Sunderland AFC",

@@ -75,13 +75,13 @@
     "equipe": "Deportivo Alavés",
     "court": "Alavés",
     "logo": "https://crests.football-data.org/263.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
-    "n": 2,
+    "n": 3,
     "p": 4,
-    "pts": 11,
-    "bp": 13,
-    "bc": 10
+    "pts": 12,
+    "bp": 14,
+    "bc": 11
   },
   {
     "equipe": "RC Celta de Vigo",
@@ -231,12 +231,12 @@
     "equipe": "Málaga CF",
     "court": "Málaga",
     "logo": "https://crests.football-data.org/84.png",
-    "j": 9,
+    "j": 10,
     "g": 0,
-    "n": 4,
+    "n": 5,
     "p": 5,
-    "pts": 4,
-    "bp": 6,
-    "bc": 18
+    "pts": 5,
+    "bp": 7,
+    "bc": 19
   }
 ]

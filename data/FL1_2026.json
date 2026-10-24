@@ -947,7 +947,7 @@
   {
     "id": 559654,
     "date": "2026-10-23T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
@@ -956,8 +956,8 @@
     "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/522.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 559652,
@@ -1066,7 +1066,7 @@
   },
   {
     "id": 559648,
-    "date": "2026-10-25T19:45:00Z",
+    "date": "2026-10-26T19:30:00Z",
     "statut": "TIMED",
     "journee": 8,
     "phase": "REGULAR_SEASON",

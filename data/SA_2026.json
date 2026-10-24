@@ -1052,7 +1052,7 @@
   {
     "id": 558567,
     "date": "2026-10-23T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
@@ -1061,8 +1061,8 @@
     "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 2
   },
   {
     "id": 558560,
