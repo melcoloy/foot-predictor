@@ -680,6 +680,13 @@
         "buts": 2
       },
       {
+        "nom": "Maximilian Beier",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-10-17",
+        "buts": 2
+      },
+      {
         "nom": "Nico Schlotterbeck",
         "poste": "Defence",
         "nationalite": "Germany",
@@ -691,13 +698,6 @@
         "poste": "Defence",
         "nationalite": "Sweden",
         "naissance": "2002-02-12",
-        "buts": 1
-      },
-      {
-        "nom": "Maximilian Beier",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2002-10-17",
         "buts": 1
       },
       {
@@ -1708,7 +1708,14 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1993-02-09",
-        "buts": 6
+        "buts": 8
+      },
+      {
+        "nom": "Ludovit Reis",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2000-06-01",
+        "buts": 2
       },
       {
         "nom": "Marco Grüll",
@@ -1722,13 +1729,6 @@
         "poste": "Defence",
         "nationalite": "Germany",
         "naissance": "1994-04-21",
-        "buts": 1
-      },
-      {
-        "nom": "Ludovit Reis",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "2000-06-01",
         "buts": 1
       },
       {
@@ -1945,7 +1945,7 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "1997-07-01",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Sheraldo Becker",
@@ -3662,17 +3662,24 @@
         "buts": 3
       },
       {
-        "nom": "Ridle Baku",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1998-04-08",
-        "buts": 2
+        "nom": "Romulo Cruz",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2002-02-08",
+        "buts": 3
       },
       {
         "nom": "Tidiam Gomis",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2006-08-08",
+        "buts": 3
+      },
+      {
+        "nom": "Ridle Baku",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-04-08",
         "buts": 2
       },
       {
@@ -3687,13 +3694,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2002-05-29",
-        "buts": 1
-      },
-      {
-        "nom": "Romulo Cruz",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2002-02-08",
         "buts": 1
       },
       {

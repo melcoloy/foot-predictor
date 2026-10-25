@@ -2766,7 +2766,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1993-01-26",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Matthieu Udol",
@@ -3561,6 +3561,13 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2006-08-18",
+        "buts": 0
+      },
+      {
+        "nom": "Ibrahim Meïté",
+        "poste": null,
+        "nationalite": "France",
+        "naissance": "2004-07-26",
         "buts": 0
       }
     ]

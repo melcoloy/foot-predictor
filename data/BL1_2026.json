@@ -857,7 +857,7 @@
   {
     "id": 565832,
     "date": "2026-10-24T13:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "RB Leipzig",
@@ -902,7 +902,7 @@
   {
     "id": 565837,
     "date": "2026-10-24T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 7,
     "phase": "REGULAR_SEASON",
     "dom": "Borussia Dortmund",

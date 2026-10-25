@@ -408,6 +408,20 @@
         "buts": 6
       },
       {
+        "nom": "Matias Soule",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2003-04-15",
+        "buts": 3
+      },
+      {
+        "nom": "Leonardo Balerdi",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1999-01-26",
+        "buts": 2
+      },
+      {
         "nom": "Manu Koné",
         "poste": "Midfield",
         "nationalite": "France",
@@ -419,13 +433,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2004-09-23",
-        "buts": 2
-      },
-      {
-        "nom": "Matias Soule",
-        "poste": "Offence",
-        "nationalite": "Argentina",
-        "naissance": "2003-04-15",
         "buts": 2
       },
       {
@@ -489,13 +496,6 @@
         "poste": "Defence",
         "nationalite": "Argentina",
         "naissance": "1998-04-06",
-        "buts": 0
-      },
-      {
-        "nom": "Leonardo Balerdi",
-        "poste": "Defence",
-        "nationalite": "Argentina",
-        "naissance": "1999-01-26",
         "buts": 0
       },
       {
@@ -788,7 +788,7 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "1994-02-16",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Artem Dovbyk",
@@ -1467,13 +1467,6 @@
         "buts": 1
       },
       {
-        "nom": "Petar Sucic",
-        "poste": "Midfield",
-        "nationalite": "Croatia",
-        "naissance": "2003-10-25",
-        "buts": 1
-      },
-      {
         "nom": "Ivan Provedel",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -1562,6 +1555,13 @@
         "poste": "Midfield",
         "nationalite": "Brazil",
         "naissance": "2001-12-14",
+        "buts": 0
+      },
+      {
+        "nom": "Petar Sucic",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "2003-10-25",
         "buts": 0
       },
       {
@@ -2052,17 +2052,17 @@
         "buts": 2
       },
       {
-        "nom": "Pontus Almqvist",
-        "poste": "Offence",
-        "nationalite": "Sweden",
-        "naissance": "1999-07-10",
-        "buts": 1
-      },
-      {
         "nom": "Simone Lontani",
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "2008-01-18",
+        "buts": 2
+      },
+      {
+        "nom": "Pontus Almqvist",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "1999-07-10",
         "buts": 1
       },
       {
@@ -2254,6 +2254,13 @@
         "buts": 3
       },
       {
+        "nom": "Scott McTominay",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1996-12-08",
+        "buts": 2
+      },
+      {
         "nom": "Rasmus Højlund",
         "poste": "Offence",
         "nationalite": "Denmark",
@@ -2286,13 +2293,6 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "1993-08-03",
-        "buts": 1
-      },
-      {
-        "nom": "Noa Lang",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "1999-06-17",
         "buts": 1
       },
       {
@@ -2394,17 +2394,17 @@
         "buts": 0
       },
       {
-        "nom": "Scott McTominay",
-        "poste": "Midfield",
-        "nationalite": "Scotland",
-        "naissance": "1996-12-08",
-        "buts": 0
-      },
-      {
         "nom": "André Zambo Anguissa",
         "poste": "Midfield",
         "nationalite": "Cameroon",
         "naissance": "1995-11-16",
+        "buts": 0
+      },
+      {
+        "nom": "Noa Lang",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-06-17",
         "buts": 0
       },
       {
@@ -4140,7 +4140,7 @@
         "poste": "Offence",
         "nationalite": "Greece",
         "naissance": "1999-08-02",
-        "buts": 3
+        "buts": 5
       },
       {
         "nom": "Martin Baturina",

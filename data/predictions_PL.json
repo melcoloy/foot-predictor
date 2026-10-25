@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-10-24T11:30:00Z",
-    "journee": 8,
-    "dom": "Aston Villa FC",
-    "ext": "Manchester City FC",
-    "court_dom": "Aston Villa",
-    "court_ext": "Man City",
-    "logo_dom": "https://crests.football-data.org/58.png",
-    "logo_ext": "https://crests.football-data.org/65.png",
-    "lambda_dom": 1.12,
-    "lambda_ext": 1.8,
-    "p1": 0.222,
-    "pN": 0.259,
-    "p2": 0.519,
-    "score_probable": "1-1"
-  },
-  {
     "date": "2026-10-24T14:00:00Z",
     "journee": 8,
     "dom": "Arsenal FC",
@@ -106,7 +90,7 @@
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
     "lambda_dom": 1.99,
     "lambda_ext": 1.27,
-    "p1": 0.53,
+    "p1": 0.529,
     "pN": 0.242,
     "p2": 0.229,
     "score_probable": "1-1"
@@ -236,7 +220,7 @@
     "lambda_ext": 1.01,
     "p1": 0.49,
     "pN": 0.282,
-    "p2": 0.227,
+    "p2": 0.228,
     "score_probable": "1-1"
   },
   {
@@ -424,7 +408,7 @@
     "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
-    "lambda_dom": 1.5,
+    "lambda_dom": 1.49,
     "lambda_ext": 1.64,
     "p1": 0.337,
     "pN": 0.264,
@@ -857,7 +841,7 @@
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/341.png",
     "lambda_dom": 2.11,
-    "lambda_ext": 0.84,
+    "lambda_ext": 0.85,
     "p1": 0.653,
     "pN": 0.22,
     "p2": 0.128,
@@ -1115,7 +1099,7 @@
     "lambda_dom": 1.64,
     "lambda_ext": 1.55,
     "p1": 0.389,
-    "pN": 0.261,
+    "pN": 0.262,
     "p2": 0.35,
     "score_probable": "1-1"
   },
@@ -1516,7 +1500,7 @@
     "lambda_ext": 1.41,
     "p1": 0.311,
     "pN": 0.292,
-    "p2": 0.396,
+    "p2": 0.397,
     "score_probable": "1-1"
   },
   {
@@ -1612,7 +1596,7 @@
     "lambda_ext": 1.67,
     "p1": 0.225,
     "pN": 0.273,
-    "p2": 0.503,
+    "p2": 0.502,
     "score_probable": "1-1"
   },
   {
@@ -2299,7 +2283,7 @@
     "lambda_dom": 2.2,
     "lambda_ext": 0.71,
     "p1": 0.705,
-    "pN": 0.2,
+    "pN": 0.201,
     "p2": 0.094,
     "score_probable": "2-0"
   },
@@ -2652,7 +2636,7 @@
     "lambda_ext": 1.76,
     "p1": 0.18,
     "pN": 0.262,
-    "p2": 0.558,
+    "p2": 0.557,
     "score_probable": "1-1"
   },
   {
@@ -3227,7 +3211,7 @@
     "lambda_dom": 2.08,
     "lambda_ext": 0.78,
     "p1": 0.665,
-    "pN": 0.218,
+    "pN": 0.219,
     "p2": 0.117,
     "score_probable": "2-0"
   },
@@ -4044,7 +4028,7 @@
     "lambda_ext": 1.02,
     "p1": 0.626,
     "pN": 0.219,
-    "p2": 0.154,
+    "p2": 0.155,
     "score_probable": "1-1"
   },
   {
@@ -4089,7 +4073,7 @@
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/349.png",
     "lambda_dom": 1.91,
-    "lambda_ext": 1.33,
+    "lambda_ext": 1.32,
     "p1": 0.499,
     "pN": 0.248,
     "p2": 0.253,
@@ -4392,7 +4376,7 @@
     "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
-    "lambda_dom": 1.85,
+    "lambda_dom": 1.84,
     "lambda_ext": 1.15,
     "p1": 0.523,
     "pN": 0.255,
@@ -4412,7 +4396,7 @@
     "lambda_ext": 0.82,
     "p1": 0.623,
     "pN": 0.238,
-    "p2": 0.138,
+    "p2": 0.139,
     "score_probable": "2-0"
   },
   {
@@ -4474,7 +4458,7 @@
     "logo_ext": "https://crests.football-data.org/63.png",
     "lambda_dom": 1.23,
     "lambda_ext": 1.04,
-    "p1": 0.388,
+    "p1": 0.387,
     "pN": 0.319,
     "p2": 0.294,
     "score_probable": "1-1"
@@ -4682,7 +4666,7 @@
     "logo_ext": "https://crests.football-data.org/71.png",
     "lambda_dom": 1.46,
     "lambda_ext": 0.93,
-    "p1": 0.48,
+    "p1": 0.479,
     "pN": 0.297,
     "p2": 0.224,
     "score_probable": "1-1"

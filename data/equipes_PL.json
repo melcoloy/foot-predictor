@@ -199,17 +199,17 @@
     "entraineur": "Unai Emery",
     "effectif": [
       {
-        "nom": "Johan Manzambi",
-        "poste": "Midfield",
-        "nationalite": "Switzerland",
-        "naissance": "2005-10-14",
-        "buts": 2
-      },
-      {
         "nom": "Nicolas Jackson",
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "2001-06-20",
+        "buts": 4
+      },
+      {
+        "nom": "Johan Manzambi",
+        "poste": "Midfield",
+        "nationalite": "Switzerland",
+        "naissance": "2005-10-14",
         "buts": 2
       },
       {
@@ -1206,7 +1206,7 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2000-07-21",
-        "buts": 8
+        "buts": 9
       },
       {
         "nom": "Rayan Cherki",

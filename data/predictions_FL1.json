@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-10-24T18:45:00Z",
-    "journee": 8,
-    "dom": "Racing Club de Lens",
-    "ext": "Paris FC",
-    "court_dom": "RC Lens",
-    "court_ext": "Paris FC",
-    "logo_dom": "https://crests.football-data.org/546.png",
-    "logo_ext": "https://crests.football-data.org/1045.png",
-    "lambda_dom": 1.94,
-    "lambda_ext": 1.12,
-    "p1": 0.565,
-    "pN": 0.222,
-    "p2": 0.213,
-    "score_probable": "1-1"
-  },
-  {
     "date": "2026-10-25T14:00:00Z",
     "journee": 8,
     "dom": "AS Monaco FC",
@@ -201,7 +185,7 @@
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/512.png",
     "lambda_dom": 1.62,
-    "lambda_ext": 1.14,
+    "lambda_ext": 1.15,
     "p1": 0.483,
     "pN": 0.25,
     "p2": 0.267,
@@ -315,7 +299,7 @@
     "lambda_dom": 3.02,
     "lambda_ext": 0.66,
     "p1": 0.84,
-    "pN": 0.108,
+    "pN": 0.109,
     "p2": 0.051,
     "score_probable": "3-0"
   },
@@ -618,9 +602,9 @@
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 1.6,
     "lambda_ext": 1.05,
-    "p1": 0.502,
+    "p1": 0.501,
     "pN": 0.253,
-    "p2": 0.245,
+    "p2": 0.246,
     "score_probable": "1-1"
   },
   {
@@ -1020,7 +1004,7 @@
     "lambda_ext": 2.18,
     "p1": 0.224,
     "pN": 0.206,
-    "p2": 0.57,
+    "p2": 0.569,
     "score_probable": "1-2"
   },
   {
@@ -1370,7 +1354,7 @@
     "logo_ext": "https://crests.football-data.org/522.png",
     "lambda_dom": 1.85,
     "lambda_ext": 0.98,
-    "p1": 0.575,
+    "p1": 0.574,
     "pN": 0.229,
     "p2": 0.196,
     "score_probable": "1-1"
@@ -1546,7 +1530,7 @@
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 2.64,
     "lambda_ext": 0.91,
-    "p1": 0.742,
+    "p1": 0.741,
     "pN": 0.154,
     "p2": 0.104,
     "score_probable": "2-0"
@@ -1962,7 +1946,7 @@
     "logo_ext": "https://crests.football-data.org/535.png",
     "lambda_dom": 2.35,
     "lambda_ext": 1.07,
-    "p1": 0.658,
+    "p1": 0.657,
     "pN": 0.186,
     "p2": 0.156,
     "score_probable": "2-1"
@@ -1996,7 +1980,7 @@
     "lambda_ext": 0.81,
     "p1": 0.784,
     "pN": 0.136,
-    "p2": 0.08,
+    "p2": 0.081,
     "score_probable": "2-0"
   },
   {
@@ -2172,7 +2156,7 @@
     "lambda_ext": 1.14,
     "p1": 0.677,
     "pN": 0.174,
-    "p2": 0.149,
+    "p2": 0.15,
     "score_probable": "2-1"
   },
   {
@@ -2184,7 +2168,7 @@
     "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/576.png",
-    "lambda_dom": 2.3,
+    "lambda_dom": 2.29,
     "lambda_ext": 1.32,
     "p1": 0.593,
     "pN": 0.198,
@@ -2268,7 +2252,7 @@
     "lambda_ext": 1.15,
     "p1": 0.527,
     "pN": 0.234,
-    "p2": 0.239,
+    "p2": 0.24,
     "score_probable": "1-1"
   },
   {
@@ -2427,7 +2411,7 @@
     "lambda_dom": 2.36,
     "lambda_ext": 0.76,
     "p1": 0.73,
-    "pN": 0.169,
+    "pN": 0.17,
     "p2": 0.101,
     "score_probable": "2-0"
   },
@@ -2777,7 +2761,7 @@
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "lambda_dom": 1.33,
-    "lambda_ext": 1.19,
+    "lambda_ext": 1.18,
     "p1": 0.398,
     "pN": 0.273,
     "p2": 0.33,
@@ -3164,7 +3148,7 @@
     "lambda_ext": 1.38,
     "p1": 0.37,
     "pN": 0.259,
-    "p2": 0.371,
+    "p2": 0.37,
     "score_probable": "1-1"
   },
   {
@@ -3481,7 +3465,7 @@
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "lambda_dom": 2.5,
-    "lambda_ext": 0.67,
+    "lambda_ext": 0.68,
     "p1": 0.771,
     "pN": 0.15,
     "p2": 0.078,
@@ -3577,10 +3561,10 @@
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 2.53,
-    "lambda_ext": 1.03,
+    "lambda_ext": 1.04,
     "p1": 0.696,
     "pN": 0.17,
-    "p2": 0.133,
+    "p2": 0.134,
     "score_probable": "2-1"
   },
   {
@@ -3644,7 +3628,7 @@
     "lambda_ext": 2.44,
     "p1": 0.105,
     "pN": 0.166,
-    "p2": 0.73,
+    "p2": 0.729,
     "score_probable": "0-2"
   },
   {

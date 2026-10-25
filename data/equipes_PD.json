@@ -2351,6 +2351,13 @@
         "buts": 3
       },
       {
+        "nom": "Georges Mikautadze",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2000-10-31",
+        "buts": 3
+      },
+      {
         "nom": "Nicolas Pépé",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
@@ -2362,13 +2369,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1992-04-07",
-        "buts": 2
-      },
-      {
-        "nom": "Georges Mikautadze",
-        "poste": "Offence",
-        "nationalite": "Georgia",
-        "naissance": "2000-10-31",
         "buts": 2
       },
       {
@@ -2922,6 +2922,13 @@
     "entraineur": "Martin Anselmi",
     "effectif": [
       {
+        "nom": "Germán Valera",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-03-16",
+        "buts": 2
+      },
+      {
         "nom": "Buba",
         "poste": "Defence",
         "nationalite": "Spain",
@@ -2947,13 +2954,6 @@
         "poste": "Midfield",
         "nationalite": "Argentina",
         "naissance": "2004-12-23",
-        "buts": 1
-      },
-      {
-        "nom": "Abiel Osorio",
-        "poste": "Offence",
-        "nationalite": "Argentina",
-        "naissance": "2002-06-13",
         "buts": 1
       },
       {
@@ -3069,13 +3069,6 @@
         "buts": 0
       },
       {
-        "nom": "Germán Valera",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2002-03-16",
-        "buts": 0
-      },
-      {
         "nom": "Fernando Niño",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -3087,6 +3080,13 @@
         "poste": "Offence",
         "nationalite": "Chile",
         "naissance": "2002-10-31",
+        "buts": 0
+      },
+      {
+        "nom": "Abiel Osorio",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2002-06-13",
         "buts": 0
       },
       {
@@ -3734,7 +3734,7 @@
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "2005-02-23",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Pablo García",
