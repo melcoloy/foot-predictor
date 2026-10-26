@@ -377,13 +377,20 @@
         "poste": "Midfield",
         "nationalite": "Algeria",
         "naissance": "1999-11-17",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Amine Harit",
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "1997-06-18",
+        "buts": 2
+      },
+      {
+        "nom": "Igor Paixão",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2000-06-28",
         "buts": 2
       },
       {
@@ -499,13 +506,6 @@
         "buts": 0
       },
       {
-        "nom": "Igor Paixão",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2000-06-28",
-        "buts": 0
-      },
-      {
         "nom": "Faris Moumbagna",
         "poste": "Offence",
         "nationalite": "Cameroon",
@@ -544,7 +544,7 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "2001-07-21",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Daniel Namaso",
@@ -830,7 +830,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2006-12-29",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Arnaud Bodart",
@@ -1801,17 +1801,24 @@
         "buts": 7
       },
       {
-        "nom": "Adrien Thomasson",
+        "nom": "Sebastian Szymański",
         "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "1993-12-10",
-        "buts": 2
+        "nationalite": "Poland",
+        "naissance": "1999-05-10",
+        "buts": 3
       },
       {
         "nom": "Boulaye Dia",
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "1996-11-16",
+        "buts": 3
+      },
+      {
+        "nom": "Adrien Thomasson",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1993-12-10",
         "buts": 2
       },
       {
@@ -1826,13 +1833,6 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1994-12-07",
-        "buts": 1
-      },
-      {
-        "nom": "Sebastian Szymański",
-        "poste": "Midfield",
-        "nationalite": "Poland",
-        "naissance": "1999-05-10",
         "buts": 1
       },
       {
@@ -2358,6 +2358,13 @@
     "entraineur": "Didier Digard",
     "effectif": [
       {
+        "nom": "Josh Maja",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1998-12-27",
+        "buts": 3
+      },
+      {
         "nom": "Mbwana Samatta",
         "poste": "Offence",
         "nationalite": "Tanzania",
@@ -2370,13 +2377,6 @@
         "nationalite": "France",
         "naissance": "2006-02-12",
         "buts": 2
-      },
-      {
-        "nom": "Josh Maja",
-        "poste": "Offence",
-        "nationalite": "Nigeria",
-        "naissance": "1998-12-27",
-        "buts": 1
       },
       {
         "nom": "Gauthier Gallon",
@@ -2747,6 +2747,13 @@
         "nationalite": "France",
         "naissance": "1999-12-30",
         "buts": 0
+      },
+      {
+        "nom": "Lenny Videira",
+        "poste": null,
+        "nationalite": "France",
+        "naissance": "2006-07-05",
+        "buts": 0
       }
     ]
   },
@@ -2985,6 +2992,13 @@
         "buts": 4
       },
       {
+        "nom": "Edan Diop",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2004-08-28",
+        "buts": 2
+      },
+      {
         "nom": "Eric Dier",
         "poste": "Defence",
         "nationalite": "England",
@@ -2996,13 +3010,6 @@
         "poste": "Defence",
         "nationalite": "Portugal",
         "naissance": "2003-07-20",
-        "buts": 1
-      },
-      {
-        "nom": "Edan Diop",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2004-08-28",
         "buts": 1
       },
       {
@@ -3194,13 +3201,6 @@
         "buts": 2
       },
       {
-        "nom": "Dario Essugo",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "2005-03-14",
-        "buts": 1
-      },
-      {
         "nom": "Diogo Lobão",
         "poste": "Midfield",
         "nationalite": "Portugal",
@@ -3289,6 +3289,13 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2007-05-11",
+        "buts": 0
+      },
+      {
+        "nom": "Dario Essugo",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2005-03-14",
         "buts": 0
       },
       {

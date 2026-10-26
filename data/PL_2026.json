@@ -1067,7 +1067,7 @@
   {
     "id": 560614,
     "date": "2026-10-24T11:30:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
@@ -1076,13 +1076,13 @@
     "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/65.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 560616,
     "date": "2026-10-24T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
@@ -1091,13 +1091,13 @@
     "court_ext": "Everton",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/62.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560618,
     "date": "2026-10-24T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
@@ -1106,13 +1106,13 @@
     "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/63.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 560617,
     "date": "2026-10-24T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
@@ -1121,13 +1121,13 @@
     "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/73.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 560612,
     "date": "2026-10-25T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
@@ -1136,13 +1136,13 @@
     "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/397.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560613,
     "date": "2026-10-25T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
@@ -1151,13 +1151,13 @@
     "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/67.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 560615,
     "date": "2026-10-25T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
@@ -1166,13 +1166,13 @@
     "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 560619,
     "date": "2026-10-25T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
@@ -1181,13 +1181,13 @@
     "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/402.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560621,
     "date": "2026-10-25T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
@@ -1196,8 +1196,8 @@
     "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/341.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 560626,

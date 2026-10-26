@@ -241,6 +241,13 @@
     "entraineur": "Christian Ilzer",
     "effectif": [
       {
+        "nom": "Alexander Prass",
+        "poste": "Midfield",
+        "nationalite": "Austria",
+        "naissance": "2001-05-26",
+        "buts": 2
+      },
+      {
         "nom": "Bambase Conte",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -378,13 +385,6 @@
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "2001-02-16",
-        "buts": 0
-      },
-      {
-        "nom": "Alexander Prass",
-        "poste": "Midfield",
-        "nationalite": "Austria",
-        "naissance": "2001-05-26",
         "buts": 0
       },
       {
@@ -879,7 +879,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2001-12-12",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Harry Kane",
@@ -896,6 +896,13 @@
         "buts": 4
       },
       {
+        "nom": "Dayot Upamecano",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1998-10-27",
+        "buts": 2
+      },
+      {
         "nom": "Ismael Saibari",
         "poste": "Midfield",
         "nationalite": "Morocco",
@@ -908,13 +915,6 @@
         "nationalite": "Germany",
         "naissance": "2004-05-03",
         "buts": 2
-      },
-      {
-        "nom": "Dayot Upamecano",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1998-10-27",
-        "buts": 1
       },
       {
         "nom": "Jamal Musiala",
@@ -1502,13 +1502,6 @@
         "buts": 1
       },
       {
-        "nom": "Julian Chabot",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1998-02-12",
-        "buts": 1
-      },
-      {
         "nom": "Grischa Prömel",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -1555,6 +1548,13 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "1999-06-03",
+        "buts": 0
+      },
+      {
+        "nom": "Julian Chabot",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-02-12",
         "buts": 0
       },
       {

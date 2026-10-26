@@ -983,7 +983,7 @@
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "1999-09-21",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Víctor Muñoz",
@@ -1613,6 +1613,13 @@
         "buts": 2
       },
       {
+        "nom": "Harvey Barnes",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-12-09",
+        "buts": 2
+      },
+      {
         "nom": "Anthony Elanga",
         "poste": "Offence",
         "nationalite": "Sweden",
@@ -1638,13 +1645,6 @@
         "poste": "Offence",
         "nationalite": "Congo DR",
         "naissance": "1996-09-03",
-        "buts": 1
-      },
-      {
-        "nom": "Harvey Barnes",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "1997-12-09",
         "buts": 1
       },
       {
@@ -3665,14 +3665,14 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1999-03-22",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Evanilson",
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "1999-10-06",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Justin Kluivert",

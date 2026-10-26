@@ -32,18 +32,18 @@
         "buts": 2
       },
       {
+        "nom": "Christian Pulisic",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "1998-09-18",
+        "buts": 2
+      },
+      {
         "nom": "Gonçalo Ramos",
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2001-06-20",
         "buts": 2
-      },
-      {
-        "nom": "Christian Pulisic",
-        "poste": "Offence",
-        "nationalite": "USA",
-        "naissance": "1998-09-18",
-        "buts": 1
       },
       {
         "nom": "Pietro Terracciano",
@@ -198,6 +198,34 @@
         "nationalite": "Italy",
         "naissance": "2008-03-10",
         "buts": 0
+      },
+      {
+        "nom": "Lorenzo Ossola",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2007-02-13",
+        "buts": 0
+      },
+      {
+        "nom": "El Hadji Cissé",
+        "poste": null,
+        "nationalite": "Senegal",
+        "naissance": "2008-01-05",
+        "buts": 0
+      },
+      {
+        "nom": "Luca Menon",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2009-03-07",
+        "buts": 0
+      },
+      {
+        "nom": "Nirash Perera",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2007-01-02",
+        "buts": 0
       }
     ]
   },
@@ -220,18 +248,18 @@
         "buts": 3
       },
       {
+        "nom": "Álex Jiménez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-05-08",
+        "buts": 2
+      },
+      {
         "nom": "Mateo Pellegrino",
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "2001-10-22",
         "buts": 2
-      },
-      {
-        "nom": "Álex Jiménez",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "2005-05-08",
-        "buts": 1
       },
       {
         "nom": "Luca Lezzerini",
@@ -600,14 +628,14 @@
         "poste": "Offence",
         "nationalite": "Montenegro",
         "naissance": "2000-04-05",
-        "buts": 4
+        "buts": 6
       },
       {
         "nom": "Éderson",
         "poste": "Midfield",
         "nationalite": "Brazil",
         "naissance": "1989-03-13",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Lazar Samardzic",
@@ -1223,13 +1251,6 @@
         "buts": 1
       },
       {
-        "nom": "Junior Messias",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1991-05-13",
-        "buts": 1
-      },
-      {
         "nom": "Justin Bijlow",
         "poste": "Goalkeeper",
         "nationalite": "Netherlands",
@@ -1370,6 +1391,13 @@
         "buts": 0
       },
       {
+        "nom": "Junior Messias",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1991-05-13",
+        "buts": 0
+      },
+      {
         "nom": "Lorenzo Colombo",
         "poste": "Offence",
         "nationalite": "Italy",
@@ -1411,17 +1439,17 @@
     "entraineur": "Cristian Chivu",
     "effectif": [
       {
-        "nom": "Lautaro Martínez",
-        "poste": "Offence",
-        "nationalite": "Argentina",
-        "naissance": "1997-08-22",
-        "buts": 4
-      },
-      {
         "nom": "Marcus Thuram-Ulien",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1997-08-06",
+        "buts": 5
+      },
+      {
+        "nom": "Lautaro Martínez",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "1997-08-22",
         "buts": 4
       },
       {
@@ -1430,6 +1458,13 @@
         "nationalite": "Turkey",
         "naissance": "1994-02-08",
         "buts": 3
+      },
+      {
+        "nom": "Piotr Zieliński",
+        "poste": "Midfield",
+        "nationalite": "Poland",
+        "naissance": "1994-05-20",
+        "buts": 2
       },
       {
         "nom": "Ange-Yoan Bonny",
@@ -1457,13 +1492,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1997-02-07",
-        "buts": 1
-      },
-      {
-        "nom": "Piotr Zieliński",
-        "poste": "Midfield",
-        "nationalite": "Poland",
-        "naissance": "1994-05-20",
         "buts": 1
       },
       {
@@ -2958,6 +2986,13 @@
         "buts": 7
       },
       {
+        "nom": "Giacomo Calò",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "1997-02-05",
+        "buts": 3
+      },
+      {
         "nom": "Giorgi Kvernadze",
         "poste": "Offence",
         "nationalite": "Georgia",
@@ -2965,10 +3000,10 @@
         "buts": 3
       },
       {
-        "nom": "Giacomo Calò",
+        "nom": "Romano Schmid",
         "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "1997-02-05",
+        "nationalite": "Austria",
+        "naissance": "2000-01-27",
         "buts": 2
       },
       {
@@ -3088,13 +3123,6 @@
         "poste": "Midfield",
         "nationalite": "Ivory Coast",
         "naissance": "2000-03-14",
-        "buts": 0
-      },
-      {
-        "nom": "Romano Schmid",
-        "poste": "Midfield",
-        "nationalite": "Austria",
-        "naissance": "2000-01-27",
         "buts": 0
       },
       {

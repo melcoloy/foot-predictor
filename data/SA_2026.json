@@ -1067,7 +1067,7 @@
   {
     "id": 558560,
     "date": "2026-10-24T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
@@ -1076,13 +1076,13 @@
     "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/103.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 558561,
     "date": "2026-10-24T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
@@ -1091,13 +1091,13 @@
     "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/471.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 558564,
     "date": "2026-10-24T16:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
@@ -1106,13 +1106,13 @@
     "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/100.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 3
   },
   {
     "id": 558565,
     "date": "2026-10-24T18:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
@@ -1121,13 +1121,13 @@
     "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/112.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 558563,
     "date": "2026-10-25T11:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
@@ -1136,13 +1136,13 @@
     "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/99.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 558562,
     "date": "2026-10-25T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
@@ -1151,13 +1151,13 @@
     "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/470.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 4
   },
   {
     "id": 558568,
     "date": "2026-10-25T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
@@ -1166,13 +1166,13 @@
     "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/454.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 558566,
     "date": "2026-10-25T17:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
@@ -1181,13 +1181,13 @@
     "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/109.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 558559,
     "date": "2026-10-25T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
@@ -1196,8 +1196,8 @@
     "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/98.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 558556,
