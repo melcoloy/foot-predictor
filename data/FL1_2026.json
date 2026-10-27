@@ -1067,7 +1067,7 @@
   {
     "id": 559648,
     "date": "2026-10-26T19:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
@@ -1076,8 +1076,8 @@
     "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/523.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 559644,

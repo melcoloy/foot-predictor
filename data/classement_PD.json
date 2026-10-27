@@ -63,12 +63,12 @@
     "equipe": "Sevilla FC",
     "court": "Sevilla FC",
     "logo": "https://crests.football-data.org/559.png",
-    "j": 9,
-    "g": 4,
+    "j": 10,
+    "g": 5,
     "n": 2,
     "p": 3,
-    "pts": 14,
-    "bp": 14,
+    "pts": 17,
+    "bp": 16,
     "bc": 16
   },
   {
@@ -135,13 +135,13 @@
     "equipe": "CA Osasuna",
     "court": "Osasuna",
     "logo": "https://crests.football-data.org/79.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
     "n": 2,
-    "p": 4,
+    "p": 5,
     "pts": 11,
     "bp": 10,
-    "bc": 18
+    "bc": 20
   },
   {
     "equipe": "Real Racing Club de Santander",

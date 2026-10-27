@@ -2546,13 +2546,6 @@
         "buts": 1
       },
       {
-        "nom": "Luis Rioja",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "1993-10-16",
-        "buts": 1
-      },
-      {
         "nom": "Cristian",
         "poste": "Goalkeeper",
         "nationalite": "Spain",
@@ -2711,6 +2704,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1995-10-29",
+        "buts": 0
+      },
+      {
+        "nom": "Luis Rioja",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1993-10-16",
         "buts": 0
       },
       {
@@ -3337,6 +3337,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2000-05-18",
+        "buts": 3
+      },
+      {
+        "nom": "Félix Correia",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2001-01-22",
         "buts": 2
       },
       {
@@ -3498,13 +3505,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1999-05-04",
-        "buts": 0
-      },
-      {
-        "nom": "Félix Correia",
-        "poste": "Offence",
-        "nationalite": "Portugal",
-        "naissance": "2001-01-22",
         "buts": 0
       },
       {
