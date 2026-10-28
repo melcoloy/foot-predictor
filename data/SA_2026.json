@@ -1202,7 +1202,7 @@
   {
     "id": 558556,
     "date": "2026-10-27T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
@@ -1211,13 +1211,13 @@
     "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/110.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 6
   },
   {
     "id": 558555,
     "date": "2026-10-27T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
@@ -1226,13 +1226,13 @@
     "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/104.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 2
   },
   {
     "id": 558557,
     "date": "2026-10-27T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
@@ -1241,8 +1241,8 @@
     "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 3
   },
   {
     "id": 558549,

@@ -16,6 +16,22 @@
     "score_probable": "0-1"
   },
   {
+    "date": "2026-10-30T18:00:00Z",
+    "journee": 9,
+    "dom": "OGC Nice",
+    "ext": "Stade Rennais FC 1901",
+    "court_dom": "Nice",
+    "court_ext": "Stade Rennais",
+    "logo_dom": "https://crests.football-data.org/522.png",
+    "logo_ext": "https://crests.football-data.org/529.png",
+    "lambda_dom": 1.31,
+    "lambda_ext": 1.84,
+    "p1": 0.268,
+    "pN": 0.239,
+    "p2": 0.493,
+    "score_probable": "1-1"
+  },
+  {
     "date": "2026-10-30T20:05:00Z",
     "journee": 9,
     "dom": "Lille OSC",
@@ -32,54 +48,6 @@
     "score_probable": "1-1"
   },
   {
-    "date": "2026-10-31T16:15:00Z",
-    "journee": 9,
-    "dom": "OGC Nice",
-    "ext": "Stade Rennais FC 1901",
-    "court_dom": "Nice",
-    "court_ext": "Stade Rennais",
-    "logo_dom": "https://crests.football-data.org/522.png",
-    "logo_ext": "https://crests.football-data.org/529.png",
-    "lambda_dom": 1.31,
-    "lambda_ext": 1.84,
-    "p1": 0.268,
-    "pN": 0.239,
-    "p2": 0.493,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-10-31T19:45:00Z",
-    "journee": 9,
-    "dom": "Olympique Lyonnais",
-    "ext": "Angers SCO",
-    "court_dom": "Olympique Lyon",
-    "court_ext": "Angers SCO",
-    "logo_dom": "https://crests.football-data.org/523.png",
-    "logo_ext": "https://crests.football-data.org/532.png",
-    "lambda_dom": 1.91,
-    "lambda_ext": 0.69,
-    "p1": 0.659,
-    "pN": 0.22,
-    "p2": 0.121,
-    "score_probable": "1-0"
-  },
-  {
-    "date": "2026-10-31T19:45:00Z",
-    "journee": 9,
-    "dom": "FC Lorient",
-    "ext": "Stade Brestois 29",
-    "court_dom": "Lorient",
-    "court_ext": "Brest",
-    "logo_dom": "https://crests.football-data.org/525.png",
-    "logo_ext": "https://crests.football-data.org/512.png",
-    "lambda_dom": 1.59,
-    "lambda_ext": 1.11,
-    "p1": 0.477,
-    "pN": 0.262,
-    "p2": 0.261,
-    "score_probable": "1-1"
-  },
-  {
     "date": "2026-10-31T19:45:00Z",
     "journee": 9,
     "dom": "ES Troyes AC",
@@ -92,7 +60,7 @@
     "lambda_ext": 1.37,
     "p1": 0.372,
     "pN": 0.268,
-    "p2": 0.361,
+    "p2": 0.36,
     "score_probable": "1-1"
   },
   {
@@ -110,6 +78,22 @@
     "pN": 0.228,
     "p2": 0.219,
     "score_probable": "1-1"
+  },
+  {
+    "date": "2026-11-01T16:15:00Z",
+    "journee": 9,
+    "dom": "Olympique Lyonnais",
+    "ext": "Angers SCO",
+    "court_dom": "Olympique Lyon",
+    "court_ext": "Angers SCO",
+    "logo_dom": "https://crests.football-data.org/523.png",
+    "logo_ext": "https://crests.football-data.org/532.png",
+    "lambda_dom": 1.91,
+    "lambda_ext": 0.69,
+    "p1": 0.659,
+    "pN": 0.22,
+    "p2": 0.121,
+    "score_probable": "1-0"
   },
   {
     "date": "2026-11-01T16:15:00Z",
@@ -144,6 +128,22 @@
     "score_probable": "1-1"
   },
   {
+    "date": "2026-11-02T19:45:00Z",
+    "journee": 9,
+    "dom": "FC Lorient",
+    "ext": "Stade Brestois 29",
+    "court_dom": "Lorient",
+    "court_ext": "Brest",
+    "logo_dom": "https://crests.football-data.org/525.png",
+    "logo_ext": "https://crests.football-data.org/512.png",
+    "lambda_dom": 1.59,
+    "lambda_ext": 1.11,
+    "p1": 0.477,
+    "pN": 0.262,
+    "p2": 0.261,
+    "score_probable": "1-1"
+  },
+  {
     "date": "2026-11-06T19:45:00Z",
     "journee": 10,
     "dom": "Toulouse FC",
@@ -172,7 +172,7 @@
     "lambda_ext": 1.38,
     "p1": 0.327,
     "pN": 0.275,
-    "p2": 0.398,
+    "p2": 0.397,
     "score_probable": "1-1"
   },
   {
@@ -298,7 +298,7 @@
     "logo_ext": "https://crests.football-data.org/533.png",
     "lambda_dom": 1.14,
     "lambda_ext": 1.13,
-    "p1": 0.352,
+    "p1": 0.353,
     "pN": 0.299,
     "p2": 0.348,
     "score_probable": "1-1"
@@ -315,7 +315,7 @@
     "lambda_dom": 0.81,
     "lambda_ext": 2.03,
     "p1": 0.135,
-    "pN": 0.212,
+    "pN": 0.213,
     "p2": 0.652,
     "score_probable": "0-2"
   },
@@ -348,7 +348,7 @@
     "lambda_ext": 1.1,
     "p1": 0.598,
     "pN": 0.216,
-    "p2": 0.186,
+    "p2": 0.187,
     "score_probable": "1-1"
   },
   {
@@ -459,7 +459,7 @@
     "lambda_dom": 0.92,
     "lambda_ext": 1.86,
     "p1": 0.177,
-    "pN": 0.234,
+    "pN": 0.235,
     "p2": 0.588,
     "score_probable": "1-1"
   },
@@ -732,7 +732,7 @@
     "lambda_ext": 1.36,
     "p1": 0.352,
     "pN": 0.273,
-    "p2": 0.376,
+    "p2": 0.375,
     "score_probable": "1-1"
   },
   {
@@ -908,7 +908,7 @@
     "lambda_ext": 0.85,
     "p1": 0.58,
     "pN": 0.245,
-    "p2": 0.174,
+    "p2": 0.175,
     "score_probable": "1-0"
   },
   {
@@ -1208,7 +1208,7 @@
     "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/519.png",
-    "lambda_dom": 2.43,
+    "lambda_dom": 2.42,
     "lambda_ext": 0.71,
     "p1": 0.749,
     "pN": 0.165,
@@ -1580,7 +1580,7 @@
     "lambda_ext": 1.11,
     "p1": 0.635,
     "pN": 0.198,
-    "p2": 0.166,
+    "p2": 0.167,
     "score_probable": "2-1"
   },
   {
@@ -2156,7 +2156,7 @@
     "lambda_ext": 1.19,
     "p1": 0.458,
     "pN": 0.261,
-    "p2": 0.28,
+    "p2": 0.281,
     "score_probable": "1-1"
   },
   {
@@ -2267,7 +2267,7 @@
     "lambda_dom": 1.99,
     "lambda_ext": 1.5,
     "p1": 0.486,
-    "pN": 0.226,
+    "pN": 0.227,
     "p2": 0.287,
     "score_probable": "1-1"
   },
@@ -2348,7 +2348,7 @@
     "lambda_ext": 1.32,
     "p1": 0.333,
     "pN": 0.281,
-    "p2": 0.386,
+    "p2": 0.385,
     "score_probable": "1-1"
   },
   {
@@ -2648,7 +2648,7 @@
     "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/532.png",
-    "lambda_dom": 1.24,
+    "lambda_dom": 1.25,
     "lambda_ext": 1.07,
     "p1": 0.395,
     "pN": 0.295,
@@ -2825,7 +2825,7 @@
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 2.57,
-    "lambda_ext": 0.98,
+    "lambda_ext": 0.99,
     "p1": 0.712,
     "pN": 0.169,
     "p2": 0.119,
@@ -3306,7 +3306,7 @@
     "logo_ext": "https://crests.football-data.org/524.png",
     "lambda_dom": 1.17,
     "lambda_ext": 1.46,
-    "p1": 0.295,
+    "p1": 0.296,
     "pN": 0.272,
     "p2": 0.433,
     "score_probable": "1-1"
@@ -3336,7 +3336,7 @@
     "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/535.png",
-    "lambda_dom": 2.14,
+    "lambda_dom": 2.13,
     "lambda_ext": 0.88,
     "p1": 0.657,
     "pN": 0.204,
@@ -3564,7 +3564,7 @@
     "lambda_ext": 1.26,
     "p1": 0.233,
     "pN": 0.305,
-    "p2": 0.463,
+    "p2": 0.462,
     "score_probable": "0-1"
   },
   {
@@ -3708,7 +3708,7 @@
     "lambda_ext": 1.04,
     "p1": 0.504,
     "pN": 0.26,
-    "p2": 0.236,
+    "p2": 0.237,
     "score_probable": "1-1"
   },
   {
