@@ -18,18 +18,18 @@
         "buts": 4
       },
       {
+        "nom": "Alphadjo Cisse",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2006-10-22",
+        "buts": 4
+      },
+      {
         "nom": "Diego Moreira",
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "2004-08-06",
         "buts": 3
-      },
-      {
-        "nom": "Alphadjo Cisse",
-        "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "2006-10-22",
-        "buts": 2
       },
       {
         "nom": "Christian Pulisic",
@@ -812,6 +812,13 @@
     "entraineur": "Domenico Tedesco",
     "effectif": [
       {
+        "nom": "Samuel Mbangula",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2004-01-16",
+        "buts": 3
+      },
+      {
         "nom": "Federico Bernardeschi",
         "poste": "Offence",
         "nationalite": "Italy",
@@ -984,13 +991,6 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "2003-03-11",
-        "buts": 0
-      },
-      {
-        "nom": "Samuel Mbangula",
-        "poste": "Offence",
-        "nationalite": "Belgium",
-        "naissance": "2004-01-16",
         "buts": 0
       }
     ]
@@ -2279,6 +2279,13 @@
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "1991-06-28",
+        "buts": 4
+      },
+      {
+        "nom": "Rasmus Højlund",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2003-02-04",
         "buts": 3
       },
       {
@@ -2289,10 +2296,10 @@
         "buts": 2
       },
       {
-        "nom": "Rasmus Højlund",
+        "nom": "Matteo Politano",
         "poste": "Offence",
-        "nationalite": "Denmark",
-        "naissance": "2003-02-04",
+        "nationalite": "Italy",
+        "naissance": "1993-08-03",
         "buts": 2
       },
       {
@@ -2307,13 +2314,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2003-01-16",
-        "buts": 1
-      },
-      {
-        "nom": "Matteo Politano",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "1993-08-03",
         "buts": 1
       },
       {
@@ -2519,13 +2519,6 @@
         "buts": 1
       },
       {
-        "nom": "Idrissa Guèye",
-        "poste": "Offence",
-        "nationalite": "Senegal",
-        "naissance": "2006-09-16",
-        "buts": 1
-      },
-      {
         "nom": "Daniele Padelli",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -2677,6 +2670,13 @@
         "poste": "Offence",
         "nationalite": "Serbia",
         "naissance": "2006-11-30",
+        "buts": 0
+      },
+      {
+        "nom": "Idrissa Guèye",
+        "poste": "Offence",
+        "nationalite": "Senegal",
+        "naissance": "2006-09-16",
         "buts": 0
       },
       {
@@ -3938,7 +3938,7 @@
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2005-01-30",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Jay Robinson",

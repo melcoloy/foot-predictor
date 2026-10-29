@@ -1,5 +1,17 @@
 [
   {
+    "equipe": "FC Internazionale Milano",
+    "court": "Inter",
+    "logo": "https://crests.football-data.org/108.png",
+    "j": 9,
+    "g": 8,
+    "n": 1,
+    "p": 0,
+    "pts": 25,
+    "bp": 25,
+    "bc": 10
+  },
+  {
     "equipe": "SS Lazio",
     "court": "Lazio",
     "logo": "https://crests.football-data.org/110.png",
@@ -10,18 +22,6 @@
     "pts": 25,
     "bp": 22,
     "bc": 7
-  },
-  {
-    "equipe": "FC Internazionale Milano",
-    "court": "Inter",
-    "logo": "https://crests.football-data.org/108.png",
-    "j": 8,
-    "g": 7,
-    "n": 1,
-    "p": 0,
-    "pts": 22,
-    "bp": 23,
-    "bc": 10
   },
   {
     "equipe": "AS Roma",
@@ -51,13 +51,25 @@
     "equipe": "AC Milan",
     "court": "Milan",
     "logo": "https://crests.football-data.org/98.png",
-    "j": 8,
+    "j": 9,
     "g": 5,
     "n": 3,
-    "p": 0,
+    "p": 1,
     "pts": 18,
-    "bp": 16,
-    "bc": 7
+    "bp": 18,
+    "bc": 11
+  },
+  {
+    "equipe": "SSC Napoli",
+    "court": "Napoli",
+    "logo": "https://crests.football-data.org/113.png",
+    "j": 9,
+    "g": 4,
+    "n": 2,
+    "p": 3,
+    "pts": 14,
+    "bp": 17,
+    "bc": 11
   },
   {
     "equipe": "Frosinone Calcio",
@@ -75,13 +87,13 @@
     "equipe": "Juventus FC",
     "court": "Juventus",
     "logo": "https://crests.football-data.org/109.png",
-    "j": 8,
+    "j": 9,
     "g": 4,
     "n": 2,
-    "p": 2,
+    "p": 3,
     "pts": 14,
     "bp": 11,
-    "bc": 8
+    "bc": 10
   },
   {
     "equipe": "Torino FC",
@@ -108,16 +120,16 @@
     "bc": 13
   },
   {
-    "equipe": "SSC Napoli",
-    "court": "Napoli",
-    "logo": "https://crests.football-data.org/113.png",
-    "j": 8,
+    "equipe": "Bologna FC 1909",
+    "court": "Bologna",
+    "logo": "https://crests.football-data.org/103.png",
+    "j": 9,
     "g": 3,
     "n": 2,
-    "p": 3,
+    "p": 4,
     "pts": 11,
-    "bp": 13,
-    "bc": 10
+    "bp": 12,
+    "bc": 12
   },
   {
     "equipe": "Atalanta BC",
@@ -132,6 +144,18 @@
     "bc": 15
   },
   {
+    "equipe": "Genoa CFC",
+    "court": "Genoa",
+    "logo": "https://crests.football-data.org/107.png",
+    "j": 9,
+    "g": 3,
+    "n": 1,
+    "p": 5,
+    "pts": 10,
+    "bp": 8,
+    "bc": 13
+  },
+  {
     "equipe": "US Lecce",
     "court": "Lecce",
     "logo": "https://crests.football-data.org/5890.png",
@@ -142,18 +166,6 @@
     "pts": 9,
     "bp": 9,
     "bc": 14
-  },
-  {
-    "equipe": "Bologna FC 1909",
-    "court": "Bologna",
-    "logo": "https://crests.football-data.org/103.png",
-    "j": 8,
-    "g": 2,
-    "n": 2,
-    "p": 4,
-    "pts": 8,
-    "bp": 8,
-    "bc": 10
   },
   {
     "equipe": "US Sassuolo Calcio",
@@ -171,37 +183,37 @@
     "equipe": "AC Monza",
     "court": "Monza",
     "logo": "https://crests.football-data.org/5911.png",
-    "j": 8,
+    "j": 9,
     "g": 2,
     "n": 1,
-    "p": 5,
+    "p": 6,
     "pts": 7,
-    "bp": 15,
-    "bc": 18
-  },
-  {
-    "equipe": "Genoa CFC",
-    "court": "Genoa",
-    "logo": "https://crests.football-data.org/107.png",
-    "j": 8,
-    "g": 2,
-    "n": 1,
-    "p": 5,
-    "pts": 7,
-    "bp": 6,
-    "bc": 13
+    "bp": 16,
+    "bc": 22
   },
   {
     "equipe": "Udinese Calcio",
     "court": "Udinese",
     "logo": "https://crests.football-data.org/115.png",
-    "j": 8,
+    "j": 9,
     "g": 1,
-    "n": 1,
+    "n": 2,
     "p": 6,
-    "pts": 4,
+    "pts": 5,
     "bp": 9,
     "bc": 18
+  },
+  {
+    "equipe": "Parma Calcio 1913",
+    "court": "Parma",
+    "logo": "https://crests.football-data.org/112.png",
+    "j": 9,
+    "g": 1,
+    "n": 2,
+    "p": 6,
+    "pts": 5,
+    "bp": 5,
+    "bc": 15
   },
   {
     "equipe": "ACF Fiorentina",
@@ -216,27 +228,15 @@
     "bc": 19
   },
   {
-    "equipe": "Parma Calcio 1913",
-    "court": "Parma",
-    "logo": "https://crests.football-data.org/112.png",
-    "j": 8,
-    "g": 1,
-    "n": 1,
-    "p": 6,
-    "pts": 4,
-    "bp": 5,
-    "bc": 15
-  },
-  {
     "equipe": "Venezia FC",
     "court": "Venezia FC",
     "logo": "https://crests.football-data.org/454.png",
-    "j": 8,
+    "j": 9,
     "g": 1,
     "n": 0,
-    "p": 7,
+    "p": 8,
     "pts": 3,
     "bp": 6,
-    "bc": 17
+    "bc": 19
   }
 ]

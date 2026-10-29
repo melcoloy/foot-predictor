@@ -1247,7 +1247,7 @@
   {
     "id": 558549,
     "date": "2026-10-28T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
@@ -1256,13 +1256,13 @@
     "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/103.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 4
   },
   {
     "id": 558550,
     "date": "2026-10-28T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
@@ -1271,13 +1271,13 @@
     "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/108.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 558553,
     "date": "2026-10-28T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
@@ -1286,13 +1286,13 @@
     "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/115.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 558552,
     "date": "2026-10-28T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
@@ -1301,13 +1301,13 @@
     "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/109.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 558554,
     "date": "2026-10-28T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
@@ -1316,8 +1316,8 @@
     "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/113.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 4
   },
   {
     "id": 558558,
