@@ -60,6 +60,18 @@
     "bc": 11
   },
   {
+    "equipe": "Frosinone Calcio",
+    "court": "Frosinone",
+    "logo": "https://crests.football-data.org/470.png",
+    "j": 9,
+    "g": 5,
+    "n": 2,
+    "p": 2,
+    "pts": 17,
+    "bp": 22,
+    "bc": 14
+  },
+  {
     "equipe": "SSC Napoli",
     "court": "Napoli",
     "logo": "https://crests.football-data.org/113.png",
@@ -70,18 +82,6 @@
     "pts": 14,
     "bp": 17,
     "bc": 11
-  },
-  {
-    "equipe": "Frosinone Calcio",
-    "court": "Frosinone",
-    "logo": "https://crests.football-data.org/470.png",
-    "j": 8,
-    "g": 4,
-    "n": 2,
-    "p": 2,
-    "pts": 14,
-    "bp": 17,
-    "bc": 13
   },
   {
     "equipe": "Juventus FC",
@@ -135,13 +135,13 @@
     "equipe": "Atalanta BC",
     "court": "Atalanta",
     "logo": "https://crests.football-data.org/102.png",
-    "j": 8,
+    "j": 9,
     "g": 3,
-    "n": 1,
+    "n": 2,
     "p": 4,
-    "pts": 10,
-    "bp": 14,
-    "bc": 15
+    "pts": 11,
+    "bp": 16,
+    "bc": 17
   },
   {
     "equipe": "Genoa CFC",
@@ -159,13 +159,13 @@
     "equipe": "US Lecce",
     "court": "Lecce",
     "logo": "https://crests.football-data.org/5890.png",
-    "j": 8,
+    "j": 9,
     "g": 3,
     "n": 0,
-    "p": 5,
+    "p": 6,
     "pts": 9,
-    "bp": 9,
-    "bc": 14
+    "bp": 10,
+    "bc": 19
   },
   {
     "equipe": "US Sassuolo Calcio",
@@ -204,6 +204,18 @@
     "bc": 18
   },
   {
+    "equipe": "ACF Fiorentina",
+    "court": "Fiorentina",
+    "logo": "https://crests.football-data.org/99.png",
+    "j": 9,
+    "g": 1,
+    "n": 2,
+    "p": 6,
+    "pts": 5,
+    "bp": 11,
+    "bc": 21
+  },
+  {
     "equipe": "Parma Calcio 1913",
     "court": "Parma",
     "logo": "https://crests.football-data.org/112.png",
@@ -214,18 +226,6 @@
     "pts": 5,
     "bp": 5,
     "bc": 15
-  },
-  {
-    "equipe": "ACF Fiorentina",
-    "court": "Fiorentina",
-    "logo": "https://crests.football-data.org/99.png",
-    "j": 8,
-    "g": 1,
-    "n": 1,
-    "p": 6,
-    "pts": 4,
-    "bp": 9,
-    "bc": 19
   },
   {
     "equipe": "Venezia FC",

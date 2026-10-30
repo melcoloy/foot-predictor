@@ -414,6 +414,13 @@
         "nationalite": "Sweden",
         "naissance": "2005-05-14",
         "buts": 0
+      },
+      {
+        "nom": "Dennis Beldenti",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2010-05-18",
+        "buts": 0
       }
     ]
   },
@@ -1488,13 +1495,6 @@
         "buts": 1
       },
       {
-        "nom": "Nicolò Barella",
-        "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "1997-02-07",
-        "buts": 1
-      },
-      {
         "nom": "Ivan Provedel",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -1562,6 +1562,13 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2000-08-09",
+        "buts": 0
+      },
+      {
+        "nom": "Nicolò Barella",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "1997-02-07",
         "buts": 0
       },
       {
@@ -2983,14 +2990,14 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "2004-03-18",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Giacomo Calò",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1997-02-05",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Giorgi Kvernadze",
@@ -3004,6 +3011,13 @@
         "poste": "Midfield",
         "nationalite": "Austria",
         "naissance": "2000-01-27",
+        "buts": 2
+      },
+      {
+        "nom": "Daniel Birligea",
+        "poste": "Offence",
+        "nationalite": "Romania",
+        "naissance": "2000-04-19",
         "buts": 2
       },
       {
@@ -3172,13 +3186,6 @@
         "poste": "Offence",
         "nationalite": "Slovakia",
         "naissance": "2001-09-08",
-        "buts": 0
-      },
-      {
-        "nom": "Daniel Birligea",
-        "poste": "Offence",
-        "nationalite": "Romania",
-        "naissance": "2000-04-19",
         "buts": 0
       },
       {
