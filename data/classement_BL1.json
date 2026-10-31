@@ -48,6 +48,18 @@
     "bc": 12
   },
   {
+    "equipe": "SV 07 Elversberg",
+    "court": "Elversberg",
+    "logo": "https://crests.football-data.org/719.png",
+    "j": 8,
+    "g": 4,
+    "n": 1,
+    "p": 3,
+    "pts": 13,
+    "bp": 16,
+    "bc": 16
+  },
+  {
     "equipe": "RB Leipzig",
     "court": "RB Leipzig",
     "logo": "https://crests.football-data.org/721.png",
@@ -75,25 +87,13 @@
     "equipe": "1. FSV Mainz 05",
     "court": "Mainz",
     "logo": "https://crests.football-data.org/15.png",
-    "j": 7,
+    "j": 8,
     "g": 3,
     "n": 1,
-    "p": 3,
+    "p": 4,
     "pts": 10,
-    "bp": 16,
-    "bc": 13
-  },
-  {
-    "equipe": "SV 07 Elversberg",
-    "court": "Elversberg",
-    "logo": "https://crests.football-data.org/719.png",
-    "j": 7,
-    "g": 3,
-    "n": 1,
-    "p": 3,
-    "pts": 10,
-    "bp": 12,
-    "bc": 15
+    "bp": 17,
+    "bc": 17
   },
   {
     "equipe": "FC Augsburg",

@@ -111,13 +111,13 @@
     "equipe": "Villarreal CF",
     "court": "Villarreal",
     "logo": "https://crests.football-data.org/94.png",
-    "j": 10,
+    "j": 11,
     "g": 3,
     "n": 3,
-    "p": 4,
+    "p": 5,
     "pts": 12,
     "bp": 15,
-    "bc": 14
+    "bc": 15
   },
   {
     "equipe": "RC Deportivo La Coruña",
@@ -130,6 +130,18 @@
     "pts": 11,
     "bp": 13,
     "bc": 13
+  },
+  {
+    "equipe": "RCD Espanyol de Barcelona",
+    "court": "Espanyol",
+    "logo": "https://crests.football-data.org/80.png",
+    "j": 11,
+    "g": 3,
+    "n": 2,
+    "p": 6,
+    "pts": 11,
+    "bp": 13,
+    "bc": 14
   },
   {
     "equipe": "CA Osasuna",
@@ -202,18 +214,6 @@
     "pts": 9,
     "bp": 5,
     "bc": 15
-  },
-  {
-    "equipe": "RCD Espanyol de Barcelona",
-    "court": "Espanyol",
-    "logo": "https://crests.football-data.org/80.png",
-    "j": 10,
-    "g": 2,
-    "n": 2,
-    "p": 6,
-    "pts": 8,
-    "bp": 12,
-    "bc": 14
   },
   {
     "equipe": "Valencia CF",

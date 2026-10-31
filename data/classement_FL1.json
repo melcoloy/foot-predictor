@@ -3,37 +3,37 @@
     "equipe": "Paris Saint-Germain FC",
     "court": "PSG",
     "logo": "https://crests.football-data.org/524.png",
-    "j": 8,
-    "g": 5,
+    "j": 9,
+    "g": 6,
     "n": 2,
     "p": 1,
-    "pts": 17,
-    "bp": 16,
-    "bc": 9
-  },
-  {
-    "equipe": "Stade Rennais FC 1901",
-    "court": "Stade Rennais",
-    "logo": "https://crests.football-data.org/529.png",
-    "j": 8,
-    "g": 5,
-    "n": 1,
-    "p": 2,
-    "pts": 16,
-    "bp": 18,
-    "bc": 14
+    "pts": 20,
+    "bp": 21,
+    "bc": 10
   },
   {
     "equipe": "Lille OSC",
     "court": "Lille",
     "logo": "https://crests.football-data.org/521.png",
-    "j": 8,
-    "g": 4,
+    "j": 9,
+    "g": 5,
     "n": 3,
     "p": 1,
-    "pts": 15,
-    "bp": 11,
+    "pts": 18,
+    "bp": 12,
     "bc": 6
+  },
+  {
+    "equipe": "Stade Rennais FC 1901",
+    "court": "Stade Rennais",
+    "logo": "https://crests.football-data.org/529.png",
+    "j": 9,
+    "g": 5,
+    "n": 1,
+    "p": 3,
+    "pts": 16,
+    "bp": 20,
+    "bc": 19
   },
   {
     "equipe": "AS Monaco FC",
@@ -72,16 +72,28 @@
     "bc": 9
   },
   {
+    "equipe": "OGC Nice",
+    "court": "Nice",
+    "logo": "https://crests.football-data.org/522.png",
+    "j": 9,
+    "g": 4,
+    "n": 2,
+    "p": 3,
+    "pts": 14,
+    "bp": 13,
+    "bc": 12
+  },
+  {
     "equipe": "Racing Club de Lens",
     "court": "RC Lens",
     "logo": "https://crests.football-data.org/546.png",
-    "j": 8,
+    "j": 9,
     "g": 4,
     "n": 1,
-    "p": 3,
+    "p": 4,
     "pts": 13,
     "bp": 16,
-    "bc": 12
+    "bc": 13
   },
   {
     "equipe": "Olympique de Marseille",
@@ -106,18 +118,6 @@
     "pts": 12,
     "bp": 7,
     "bc": 6
-  },
-  {
-    "equipe": "OGC Nice",
-    "court": "Nice",
-    "logo": "https://crests.football-data.org/522.png",
-    "j": 8,
-    "g": 3,
-    "n": 2,
-    "p": 3,
-    "pts": 11,
-    "bp": 8,
-    "bc": 10
   },
   {
     "equipe": "Toulouse FC",
@@ -207,12 +207,12 @@
     "equipe": "Le Havre AC",
     "court": "Le Havre",
     "logo": "https://crests.football-data.org/533.png",
-    "j": 8,
+    "j": 9,
     "g": 0,
     "n": 2,
-    "p": 6,
+    "p": 7,
     "pts": 2,
-    "bp": 8,
-    "bc": 15
+    "bp": 9,
+    "bc": 20
   }
 ]

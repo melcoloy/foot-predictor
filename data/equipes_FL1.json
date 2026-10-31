@@ -32,13 +32,6 @@
         "buts": 2
       },
       {
-        "nom": "Sion Oppong",
-        "poste": "Offence",
-        "nationalite": "Sweden",
-        "naissance": "2007-09-25",
-        "buts": 1
-      },
-      {
         "nom": "Guillaume Restes",
         "poste": "Goalkeeper",
         "nationalite": "France",
@@ -155,6 +148,13 @@
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "2005-02-17",
+        "buts": 0
+      },
+      {
+        "nom": "Sion Oppong",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "2007-09-25",
         "buts": 0
       },
       {
@@ -798,17 +798,17 @@
     "entraineur": "Davide Ancelotti",
     "effectif": [
       {
-        "nom": "Tiago Santos",
-        "poste": "Defence",
-        "nationalite": "Portugal",
-        "naissance": "2002-07-23",
-        "buts": 2
-      },
-      {
         "nom": "Olivier Giroud",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1986-09-30",
+        "buts": 3
+      },
+      {
+        "nom": "Tiago Santos",
+        "poste": "Defence",
+        "nationalite": "Portugal",
+        "naissance": "2002-07-23",
         "buts": 2
       },
       {
@@ -1004,14 +1004,21 @@
         "poste": "Offence",
         "nationalite": "Ivory Coast",
         "naissance": "2003-01-02",
-        "buts": 3
+        "buts": 6
+      },
+      {
+        "nom": "Jonathan Clauss",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1992-09-25",
+        "buts": 2
       },
       {
         "nom": "Mohammed Amoura",
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "2000-05-09",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Yehvann Diouf",
@@ -1025,13 +1032,6 @@
         "poste": "Goalkeeper",
         "nationalite": "France",
         "naissance": "2001-04-09",
-        "buts": 0
-      },
-      {
-        "nom": "Jonathan Clauss",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1992-09-25",
         "buts": 0
       },
       {
@@ -1432,11 +1432,32 @@
         "buts": 4
       },
       {
+        "nom": "Achraf Hakimi",
+        "poste": "Defence",
+        "nationalite": "Morocco",
+        "naissance": "1998-11-04",
+        "buts": 3
+      },
+      {
         "nom": "Marquinhos",
         "poste": "Defence",
         "nationalite": "Brazil",
         "naissance": "1994-05-14",
         "buts": 3
+      },
+      {
+        "nom": "Senny Mayulu",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2006-05-17",
+        "buts": 2
+      },
+      {
+        "nom": "Mika Godts",
+        "poste": "Offence",
+        "nationalite": "Belgium",
+        "naissance": "2005-06-07",
+        "buts": 2
       },
       {
         "nom": "Lucas Beraldo",
@@ -1453,20 +1474,6 @@
         "buts": 1
       },
       {
-        "nom": "Khvicha Kvaratskhelia",
-        "poste": "Offence",
-        "nationalite": "Georgia",
-        "naissance": "2001-02-12",
-        "buts": 1
-      },
-      {
-        "nom": "Maghnes Akliouche",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-02-25",
-        "buts": 1
-      },
-      {
         "nom": "Matvei Safonov",
         "poste": "Goalkeeper",
         "nationalite": "Russia",
@@ -1478,13 +1485,6 @@
         "poste": "Goalkeeper",
         "nationalite": "France",
         "naissance": "2001-11-06",
-        "buts": 0
-      },
-      {
-        "nom": "Achraf Hakimi",
-        "poste": "Defence",
-        "nationalite": "Morocco",
-        "naissance": "1998-11-04",
         "buts": 0
       },
       {
@@ -1544,13 +1544,6 @@
         "buts": 0
       },
       {
-        "nom": "Senny Mayulu",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2006-05-17",
-        "buts": 0
-      },
-      {
         "nom": "Pedro Fernández",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -1565,17 +1558,24 @@
         "buts": 0
       },
       {
+        "nom": "Khvicha Kvaratskhelia",
+        "poste": "Offence",
+        "nationalite": "Georgia",
+        "naissance": "2001-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Maghnes Akliouche",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-02-25",
+        "buts": 0
+      },
+      {
         "nom": "Desire Doue",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2005-06-03",
-        "buts": 0
-      },
-      {
-        "nom": "Mika Godts",
-        "poste": "Offence",
-        "nationalite": "Belgium",
-        "naissance": "2005-06-07",
         "buts": 0
       },
       {
@@ -1805,14 +1805,14 @@
         "poste": "Midfield",
         "nationalite": "Poland",
         "naissance": "1999-05-10",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Boulaye Dia",
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "1996-11-16",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Adrien Thomasson",
@@ -2362,7 +2362,7 @@
         "poste": "Offence",
         "nationalite": "Nigeria",
         "naissance": "1998-12-27",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Mbwana Samatta",
@@ -3020,13 +3020,6 @@
         "buts": 1
       },
       {
-        "nom": "Matthis Abline",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2003-03-28",
-        "buts": 1
-      },
-      {
         "nom": "Lukáš Hrádecký",
         "poste": "Goalkeeper",
         "nationalite": "Finland",
@@ -3150,6 +3143,13 @@
         "poste": "Offence",
         "nationalite": "USA",
         "naissance": "2001-07-03",
+        "buts": 0
+      },
+      {
+        "nom": "Matthis Abline",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2003-03-28",
         "buts": 0
       },
       {

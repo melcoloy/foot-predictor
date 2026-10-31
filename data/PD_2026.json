@@ -1050,21 +1050,6 @@
     "buts_ext": 1
   },
   {
-    "id": 564698,
-    "date": "2026-10-10T12:00:00Z",
-    "statut": "CANCELLED",
-    "journee": 8,
-    "phase": "REGULAR_SEASON",
-    "dom": "Rayo Vallecano de Madrid",
-    "ext": "Athletic Club",
-    "court_dom": "Rayo Vallecano",
-    "court_ext": "Athletic",
-    "logo_dom": "https://crests.football-data.org/87.png",
-    "logo_ext": "https://crests.football-data.org/77.png",
-    "buts_dom": 0,
-    "buts_ext": 0
-  },
-  {
     "id": 564699,
     "date": "2026-10-10T14:15:00Z",
     "statut": "FINISHED",
@@ -1502,7 +1487,7 @@
   {
     "id": 564737,
     "date": "2026-10-30T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Villarreal CF",
@@ -1511,8 +1496,8 @@
     "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/80.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 564730,
@@ -2248,6 +2233,21 @@
     "logo_ext": "https://crests.football-data.org/88.png",
     "buts_dom": null,
     "buts_ext": null
+  },
+  {
+    "id": 564698,
+    "date": "2026-12-09T19:00:00Z",
+    "statut": "CANCELLED",
+    "journee": 8,
+    "phase": "REGULAR_SEASON",
+    "dom": "Rayo Vallecano de Madrid",
+    "ext": "Athletic Club",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Athletic",
+    "logo_dom": "https://crests.football-data.org/87.png",
+    "logo_ext": "https://crests.football-data.org/77.png",
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 564778,

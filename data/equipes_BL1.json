@@ -1955,6 +1955,13 @@
         "buts": 2
       },
       {
+        "nom": "Benedict Hollerbach",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2001-05-17",
+        "buts": 2
+      },
+      {
         "nom": "Philipp Mwene",
         "poste": "Defence",
         "nationalite": "Austria",
@@ -1980,13 +1987,6 @@
         "poste": "Offence",
         "nationalite": "Ghana",
         "naissance": "2001-09-13",
-        "buts": 1
-      },
-      {
-        "nom": "Benedict Hollerbach",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2001-05-17",
         "buts": 1
       },
       {
@@ -3443,7 +3443,14 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "2005-08-11",
-        "buts": 3
+        "buts": 4
+      },
+      {
+        "nom": "Felix Keidel",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-06-14",
+        "buts": 2
       },
       {
         "nom": "Lukas Petkov",
@@ -3460,18 +3467,11 @@
         "buts": 2
       },
       {
-        "nom": "Felix Keidel",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2003-06-14",
-        "buts": 1
-      },
-      {
         "nom": "Cole Campbell",
         "poste": "Offence",
         "nationalite": "USA",
         "naissance": "2006-02-20",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Tim Boss",

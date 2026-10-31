@@ -947,7 +947,7 @@
   {
     "id": 565846,
     "date": "2026-10-30T19:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "SV 07 Elversberg",
@@ -956,8 +956,8 @@
     "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/15.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 1
   },
   {
     "id": 565839,

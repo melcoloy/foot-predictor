@@ -1082,7 +1082,7 @@
   {
     "id": 559644,
     "date": "2026-10-30T18:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
@@ -1091,13 +1091,13 @@
     "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/524.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 5
   },
   {
     "id": 559646,
     "date": "2026-10-30T18:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "OGC Nice",
@@ -1106,13 +1106,13 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/522.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 5,
+    "buts_ext": 2
   },
   {
     "id": 559639,
     "date": "2026-10-30T20:05:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Lille OSC",
@@ -1121,8 +1121,8 @@
     "court_ext": "RC Lens",
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/546.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 559643,
