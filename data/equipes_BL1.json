@@ -454,14 +454,14 @@
         "poste": "Offence",
         "nationalite": "Czech Republic",
         "naissance": "1996-01-24",
-        "buts": 6
+        "buts": 7
       },
       {
         "nom": "Ibrahim Maza",
         "poste": "Midfield",
         "nationalite": "Algeria",
         "naissance": "2005-11-24",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Christian Kofane",
@@ -644,6 +644,13 @@
         "nationalite": "Mali",
         "naissance": "2008-03-12",
         "buts": 0
+      },
+      {
+        "nom": "Dustin Buck",
+        "poste": null,
+        "nationalite": "Germany",
+        "naissance": "2008-04-23",
+        "buts": 0
       }
     ]
   },
@@ -659,24 +666,24 @@
     "entraineur": "Niko Kovać",
     "effectif": [
       {
-        "nom": "Felix Kalu Nmecha",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2000-10-10",
-        "buts": 2
-      },
-      {
         "nom": "Sehrou Guirassy",
         "poste": "Offence",
         "nationalite": "Guinea",
         "naissance": "1996-03-12",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Fábio Silva",
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2002-07-19",
+        "buts": 3
+      },
+      {
+        "nom": "Felix Kalu Nmecha",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2000-10-10",
         "buts": 2
       },
       {
@@ -900,7 +907,7 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "1998-10-27",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Ismael Saibari",
@@ -1485,13 +1492,20 @@
         "poste": "Offence",
         "nationalite": "Bosnia-Herzegovina",
         "naissance": "1998-03-25",
-        "buts": 3
+        "buts": 5
       },
       {
         "nom": "Josha Vagnoman",
         "poste": "Defence",
         "nationalite": "Germany",
         "naissance": "2000-12-11",
+        "buts": 2
+      },
+      {
+        "nom": "Bilal El Khannouss",
+        "poste": "Midfield",
+        "nationalite": "Morocco",
+        "naissance": "2005-05-09",
         "buts": 2
       },
       {
@@ -1506,13 +1520,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "1995-01-09",
-        "buts": 1
-      },
-      {
-        "nom": "Bilal El Khannouss",
-        "poste": "Midfield",
-        "nationalite": "Morocco",
-        "naissance": "2005-05-09",
         "buts": 1
       },
       {
@@ -1708,7 +1715,7 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1993-02-09",
-        "buts": 8
+        "buts": 9
       },
       {
         "nom": "Ludovit Reis",
@@ -1725,6 +1732,13 @@
         "buts": 2
       },
       {
+        "nom": "Eren Dinkci",
+        "poste": "Offence",
+        "nationalite": "Turkey",
+        "naissance": "2001-12-13",
+        "buts": 2
+      },
+      {
         "nom": "Mitchell Weiser",
         "poste": "Defence",
         "nationalite": "Germany",
@@ -1736,13 +1750,6 @@
         "poste": "Midfield",
         "nationalite": "Poland",
         "naissance": "2005-12-08",
-        "buts": 1
-      },
-      {
-        "nom": "Eren Dinkci",
-        "poste": "Offence",
-        "nationalite": "Turkey",
-        "naissance": "2001-12-13",
         "buts": 1
       },
       {
@@ -2147,7 +2154,7 @@
         "poste": "Offence",
         "nationalite": "Austria",
         "naissance": "1994-04-18",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Robin Fellhauer",
@@ -2366,17 +2373,17 @@
         "buts": 4
       },
       {
-        "nom": "Maximilian Eggestein",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "1996-12-08",
-        "buts": 3
-      },
-      {
         "nom": "Igor Matanovic",
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "2003-03-31",
+        "buts": 4
+      },
+      {
+        "nom": "Maximilian Eggestein",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1996-12-08",
         "buts": 3
       },
       {
@@ -3659,14 +3666,14 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2005-04-17",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Romulo Cruz",
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "2002-02-08",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Tidiam Gomis",

@@ -3,49 +3,73 @@
     "equipe": "FC Bayern München",
     "court": "Bayern",
     "logo": "https://crests.football-data.org/5.png",
-    "j": 7,
+    "j": 8,
     "g": 5,
-    "n": 2,
+    "n": 3,
     "p": 0,
-    "pts": 17,
-    "bp": 25,
-    "bc": 6
+    "pts": 18,
+    "bp": 27,
+    "bc": 8
   },
   {
     "equipe": "Borussia Dortmund",
     "court": "Dortmund",
     "logo": "https://crests.football-data.org/4.png",
-    "j": 7,
+    "j": 8,
     "g": 5,
-    "n": 2,
+    "n": 3,
     "p": 0,
-    "pts": 17,
-    "bp": 12,
-    "bc": 4
+    "pts": 18,
+    "bp": 14,
+    "bc": 6
   },
   {
     "equipe": "SC Freiburg",
     "court": "Freiburg",
     "logo": "https://crests.football-data.org/17.png",
-    "j": 7,
-    "g": 4,
+    "j": 8,
+    "g": 5,
     "n": 1,
     "p": 2,
-    "pts": 13,
-    "bp": 16,
-    "bc": 9
+    "pts": 16,
+    "bp": 18,
+    "bc": 10
+  },
+  {
+    "equipe": "RB Leipzig",
+    "court": "RB Leipzig",
+    "logo": "https://crests.football-data.org/721.png",
+    "j": 8,
+    "g": 5,
+    "n": 0,
+    "p": 3,
+    "pts": 15,
+    "bp": 22,
+    "bc": 11
+  },
+  {
+    "equipe": "SV Werder Bremen",
+    "court": "Bremen",
+    "logo": "https://crests.football-data.org/12.png",
+    "j": 8,
+    "g": 4,
+    "n": 3,
+    "p": 1,
+    "pts": 15,
+    "bp": 17,
+    "bc": 14
   },
   {
     "equipe": "Bayer 04 Leverkusen",
     "court": "Leverkusen",
     "logo": "https://crests.football-data.org/3.png",
-    "j": 7,
+    "j": 8,
     "g": 4,
     "n": 1,
-    "p": 2,
+    "p": 3,
     "pts": 13,
-    "bp": 16,
-    "bc": 12
+    "bp": 18,
+    "bc": 16
   },
   {
     "equipe": "SV 07 Elversberg",
@@ -58,30 +82,6 @@
     "pts": 13,
     "bp": 16,
     "bc": 16
-  },
-  {
-    "equipe": "RB Leipzig",
-    "court": "RB Leipzig",
-    "logo": "https://crests.football-data.org/721.png",
-    "j": 7,
-    "g": 4,
-    "n": 0,
-    "p": 3,
-    "pts": 12,
-    "bp": 20,
-    "bc": 11
-  },
-  {
-    "equipe": "SV Werder Bremen",
-    "court": "Bremen",
-    "logo": "https://crests.football-data.org/12.png",
-    "j": 7,
-    "g": 3,
-    "n": 3,
-    "p": 1,
-    "pts": 12,
-    "bp": 15,
-    "bc": 14
   },
   {
     "equipe": "1. FSV Mainz 05",
@@ -99,25 +99,49 @@
     "equipe": "FC Augsburg",
     "court": "Augsburg",
     "logo": "https://crests.football-data.org/16.png",
-    "j": 7,
+    "j": 8,
     "g": 2,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 9,
-    "bp": 17,
-    "bc": 13
+    "bp": 18,
+    "bc": 15
+  },
+  {
+    "equipe": "VfB Stuttgart",
+    "court": "Stuttgart",
+    "logo": "https://crests.football-data.org/10.png",
+    "j": 8,
+    "g": 3,
+    "n": 0,
+    "p": 5,
+    "pts": 9,
+    "bp": 14,
+    "bc": 15
   },
   {
     "equipe": "TSG 1899 Hoffenheim",
     "court": "Hoffenheim",
     "logo": "https://crests.football-data.org/2.png",
-    "j": 7,
+    "j": 8,
     "g": 3,
     "n": 0,
-    "p": 4,
+    "p": 5,
     "pts": 9,
     "bp": 14,
-    "bc": 14
+    "bc": 16
+  },
+  {
+    "equipe": "SC Paderborn 07",
+    "court": "SC Paderborn",
+    "logo": "https://crests.football-data.org/29.png",
+    "j": 8,
+    "g": 2,
+    "n": 3,
+    "p": 3,
+    "pts": 9,
+    "bp": 6,
+    "bc": 9
   },
   {
     "equipe": "Hamburger SV",
@@ -144,18 +168,6 @@
     "bc": 11
   },
   {
-    "equipe": "SC Paderborn 07",
-    "court": "SC Paderborn",
-    "logo": "https://crests.football-data.org/29.png",
-    "j": 7,
-    "g": 2,
-    "n": 2,
-    "p": 3,
-    "pts": 8,
-    "bp": 6,
-    "bc": 9
-  },
-  {
     "equipe": "Eintracht Frankfurt",
     "court": "Frankfurt",
     "logo": "https://crests.football-data.org/19.png",
@@ -168,28 +180,16 @@
     "bc": 17
   },
   {
-    "equipe": "VfB Stuttgart",
-    "court": "Stuttgart",
-    "logo": "https://crests.football-data.org/10.png",
-    "j": 7,
-    "g": 2,
-    "n": 0,
-    "p": 5,
-    "pts": 6,
-    "bp": 10,
-    "bc": 13
-  },
-  {
     "equipe": "FC Schalke 04",
     "court": "Schalke",
     "logo": "https://crests.football-data.org/6.png",
-    "j": 7,
+    "j": 8,
     "g": 1,
     "n": 3,
-    "p": 3,
+    "p": 4,
     "pts": 6,
     "bp": 4,
-    "bc": 7
+    "bc": 9
   },
   {
     "equipe": "1. FC Union Berlin",
@@ -207,11 +207,11 @@
     "equipe": "Borussia Mönchengladbach",
     "court": "M'gladbach",
     "logo": "https://crests.football-data.org/18.png",
-    "j": 7,
+    "j": 8,
     "g": 1,
-    "n": 0,
+    "n": 1,
     "p": 6,
-    "pts": 3,
+    "pts": 4,
     "bp": 11,
     "bc": 22
   }

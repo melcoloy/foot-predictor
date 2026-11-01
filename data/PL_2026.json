@@ -1202,7 +1202,7 @@
   {
     "id": 560626,
     "date": "2026-10-31T12:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Chelsea FC",
@@ -1211,13 +1211,13 @@
     "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/61.png",
     "logo_ext": "https://crests.football-data.org/66.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560623,
     "date": "2026-10-31T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
@@ -1226,13 +1226,13 @@
     "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/397.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 560624,
     "date": "2026-10-31T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "AFC Bournemouth",
@@ -1241,13 +1241,13 @@
     "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/bournemouth.png",
     "logo_ext": "https://crests.football-data.org/341.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560625,
     "date": "2026-10-31T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Coventry City FC",
@@ -1256,13 +1256,13 @@
     "court_ext": "Sunderland",
     "logo_dom": "https://crests.football-data.org/1076.png",
     "logo_ext": "https://crests.football-data.org/71.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 560629,
     "date": "2026-10-31T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
@@ -1271,13 +1271,13 @@
     "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/349.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 2
   },
   {
     "id": 560630,
     "date": "2026-10-31T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Brentford FC",
@@ -1286,13 +1286,13 @@
     "court_ext": "Nottingham",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/351.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560627,
     "date": "2026-10-31T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Tottenham Hotspur FC",
@@ -1301,13 +1301,13 @@
     "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/73.png",
     "logo_ext": "https://crests.football-data.org/354.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560628,
     "date": "2026-10-31T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Aston Villa FC",
@@ -1316,8 +1316,8 @@
     "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/63.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560631,

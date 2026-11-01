@@ -1502,7 +1502,7 @@
   {
     "id": 564730,
     "date": "2026-10-31T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Levante UD",
@@ -1511,13 +1511,13 @@
     "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/88.png",
     "logo_ext": "https://crests.football-data.org/78.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 564735,
     "date": "2026-10-31T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
@@ -1526,13 +1526,13 @@
     "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/558.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 564736,
     "date": "2026-10-31T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Real Betis Balompié",
@@ -1541,13 +1541,13 @@
     "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/90.png",
     "logo_ext": "https://crests.football-data.org/84.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 564732,
     "date": "2026-10-31T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
@@ -1556,8 +1556,8 @@
     "court_ext": "Alavés",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/263.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 6,
+    "buts_ext": 1
   },
   {
     "id": 564733,

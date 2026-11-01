@@ -1352,7 +1352,7 @@
   {
     "id": 558539,
     "date": "2026-10-31T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
@@ -1361,13 +1361,13 @@
     "court_ext": "Monza",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/5911.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 558542,
     "date": "2026-10-31T17:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Udinese Calcio",
@@ -1376,13 +1376,13 @@
     "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/115.png",
     "logo_ext": "https://crests.football-data.org/100.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 5
   },
   {
     "id": 558548,
     "date": "2026-10-31T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
@@ -1391,13 +1391,13 @@
     "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/108.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 558543,
     "date": "2026-11-01T11:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
@@ -1406,8 +1406,8 @@
     "court_ext": "Venezia FC",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/454.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 558544,

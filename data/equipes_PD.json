@@ -210,7 +210,7 @@
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "1995-09-20",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Jonathan David",
@@ -220,17 +220,17 @@
         "buts": 3
       },
       {
-        "nom": "Kang-in Lee",
-        "poste": "Midfield",
-        "nationalite": "South Korea",
-        "naissance": "2001-02-19",
-        "buts": 2
-      },
-      {
         "nom": "Giuliano Simeone",
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "2002-12-18",
+        "buts": 3
+      },
+      {
+        "nom": "Kang-in Lee",
+        "poste": "Midfield",
+        "nationalite": "South Korea",
+        "naissance": "2001-02-19",
         "buts": 2
       },
       {
@@ -746,21 +746,21 @@
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "1996-12-14",
-        "buts": 13
+        "buts": 15
       },
       {
         "nom": "Lamine Yamal",
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2007-07-13",
-        "buts": 8
+        "buts": 10
       },
       {
         "nom": "Fermín López",
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2003-05-11",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Gabriel Jesus",
@@ -768,6 +768,13 @@
         "nationalite": "Brazil",
         "naissance": "1997-04-03",
         "buts": 3
+      },
+      {
+        "nom": "Anthony Gordon",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-02-24",
+        "buts": 2
       },
       {
         "nom": "Karim Adeyemi",
@@ -903,13 +910,6 @@
         "buts": 0
       },
       {
-        "nom": "Anthony Gordon",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2001-02-24",
-        "buts": 0
-      },
-      {
         "nom": "Roony Bardghji",
         "poste": "Offence",
         "nationalite": "Sweden",
@@ -928,6 +928,13 @@
         "poste": "Offence",
         "nationalite": "Belgium",
         "naissance": "2008-01-22",
+        "buts": 0
+      },
+      {
+        "nom": "Ebrima Tunkara",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2010-03-10",
         "buts": 0
       },
       {
@@ -1130,6 +1137,13 @@
         "poste": "Offence",
         "nationalite": "Nigeria",
         "naissance": "2003-05-19",
+        "buts": 0
+      },
+      {
+        "nom": "Ibra Danfakha",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2008-12-11",
         "buts": 0
       }
     ]
@@ -1578,6 +1592,13 @@
         "buts": 3
       },
       {
+        "nom": "Jorge de Frutos",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1997-02-20",
+        "buts": 2
+      },
+      {
         "nom": "Andrei Rațiu",
         "poste": "Defence",
         "nationalite": "Romania",
@@ -1729,13 +1750,6 @@
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "1998-04-01",
-        "buts": 0
-      },
-      {
-        "nom": "Jorge de Frutos",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "1997-02-20",
         "buts": 0
       },
       {
@@ -1975,6 +1989,13 @@
         "buts": 3
       },
       {
+        "nom": "Bartra",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1991-01-15",
+        "buts": 2
+      },
+      {
         "nom": "Isco",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -1994,20 +2015,6 @@
         "nationalite": "Spain",
         "naissance": "2000-04-02",
         "buts": 2
-      },
-      {
-        "nom": "Bartra",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "1991-01-15",
-        "buts": 1
-      },
-      {
-        "nom": "Natan",
-        "poste": "Defence",
-        "nationalite": "Brazil",
-        "naissance": "2001-02-06",
-        "buts": 1
       },
       {
         "nom": "Troy Parrott",
@@ -2056,6 +2063,13 @@
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "1999-08-14",
+        "buts": 0
+      },
+      {
+        "nom": "Natan",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2001-02-06",
         "buts": 0
       },
       {
@@ -2738,7 +2752,7 @@
         "poste": "Offence",
         "nationalite": "Dominican Republic",
         "naissance": "1993-08-01",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Nahuel Tenaglia",

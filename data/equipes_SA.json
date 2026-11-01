@@ -15,6 +15,13 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1995-04-03",
+        "buts": 5
+      },
+      {
+        "nom": "Diego Moreira",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2004-08-06",
         "buts": 4
       },
       {
@@ -25,18 +32,11 @@
         "buts": 4
       },
       {
-        "nom": "Diego Moreira",
-        "poste": "Midfield",
-        "nationalite": "Belgium",
-        "naissance": "2004-08-06",
-        "buts": 3
-      },
-      {
         "nom": "Christian Pulisic",
         "poste": "Offence",
         "nationalite": "USA",
         "naissance": "1998-09-18",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Gonçalo Ramos",
@@ -440,13 +440,20 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "1999-01-19",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Niccolo Pisilli",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2004-09-23",
+        "buts": 3
+      },
+      {
+        "nom": "Rodrigo Mora",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2007-05-05",
         "buts": 3
       },
       {
@@ -475,13 +482,6 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "2001-05-17",
-        "buts": 2
-      },
-      {
-        "nom": "Rodrigo Mora",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "2007-05-05",
         "buts": 2
       },
       {
@@ -819,6 +819,13 @@
     "entraineur": "Domenico Tedesco",
     "effectif": [
       {
+        "nom": "Federico Bernardeschi",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1994-02-16",
+        "buts": 3
+      },
+      {
         "nom": "Samuel Mbangula",
         "poste": "Offence",
         "nationalite": "Belgium",
@@ -826,10 +833,10 @@
         "buts": 3
       },
       {
-        "nom": "Federico Bernardeschi",
-        "poste": "Offence",
+        "nom": "Tommaso Pobega",
+        "poste": "Midfield",
         "nationalite": "Italy",
-        "naissance": "1994-02-16",
+        "naissance": "1999-07-15",
         "buts": 2
       },
       {
@@ -956,13 +963,6 @@
         "poste": "Midfield",
         "nationalite": "Scotland",
         "naissance": "1999-08-24",
-        "buts": 0
-      },
-      {
-        "nom": "Tommaso Pobega",
-        "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "1999-07-15",
         "buts": 0
       },
       {
@@ -2505,13 +2505,6 @@
         "buts": 2
       },
       {
-        "nom": "James Abankwah",
-        "poste": "Defence",
-        "nationalite": "Ireland",
-        "naissance": "2004-01-16",
-        "buts": 1
-      },
-      {
         "nom": "Jesper Karlström",
         "poste": "Midfield",
         "nationalite": "Sweden",
@@ -2593,6 +2586,13 @@
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "2003-03-23",
+        "buts": 0
+      },
+      {
+        "nom": "James Abankwah",
+        "poste": "Defence",
+        "nationalite": "Ireland",
+        "naissance": "2004-01-16",
         "buts": 0
       },
       {
@@ -3945,7 +3945,7 @@
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2005-01-30",
-        "buts": 8
+        "buts": 9
       },
       {
         "nom": "Jay Robinson",

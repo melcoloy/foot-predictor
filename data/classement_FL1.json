@@ -168,15 +168,15 @@
     "bc": 15
   },
   {
-    "equipe": "Le Mans FC",
-    "court": "Le Mans",
-    "logo": "https://crests.football-data.org/535.png",
-    "j": 8,
-    "g": 1,
-    "n": 4,
-    "p": 3,
-    "pts": 7,
-    "bp": 11,
+    "equipe": "ES Troyes AC",
+    "court": "Troyes",
+    "logo": "https://crests.football-data.org/531.png",
+    "j": 9,
+    "g": 2,
+    "n": 2,
+    "p": 5,
+    "pts": 8,
+    "bp": 7,
     "bc": 16
   },
   {
@@ -192,16 +192,16 @@
     "bc": 18
   },
   {
-    "equipe": "ES Troyes AC",
-    "court": "Troyes",
-    "logo": "https://crests.football-data.org/531.png",
-    "j": 8,
+    "equipe": "Le Mans FC",
+    "court": "Le Mans",
+    "logo": "https://crests.football-data.org/535.png",
+    "j": 9,
     "g": 1,
-    "n": 2,
-    "p": 5,
-    "pts": 5,
-    "bp": 5,
-    "bc": 16
+    "n": 4,
+    "p": 4,
+    "pts": 7,
+    "bp": 11,
+    "bc": 18
   },
   {
     "equipe": "Le Havre AC",
