@@ -1142,7 +1142,7 @@
   {
     "id": 559647,
     "date": "2026-11-01T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "RC Strasbourg Alsace",
@@ -1151,13 +1151,13 @@
     "court_ext": "Auxerre",
     "logo_dom": "https://crests.football-data.org/576.png",
     "logo_ext": "https://crests.football-data.org/519.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 5,
+    "buts_ext": 1
   },
   {
     "id": 559640,
     "date": "2026-11-01T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Olympique Lyonnais",
@@ -1166,13 +1166,13 @@
     "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/523.png",
     "logo_ext": "https://crests.football-data.org/532.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 559642,
     "date": "2026-11-01T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
@@ -1181,13 +1181,13 @@
     "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/548.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 559645,
     "date": "2026-11-01T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
@@ -1196,8 +1196,8 @@
     "court_ext": "Toulouse",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/511.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 559641,

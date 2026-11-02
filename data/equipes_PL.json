@@ -11,6 +11,13 @@
     "entraineur": "Mikel Arteta",
     "effectif": [
       {
+        "nom": "Kai Havertz",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "1999-06-11",
+        "buts": 3
+      },
+      {
         "nom": "Bukayo Saka",
         "poste": "Offence",
         "nationalite": "England",
@@ -29,13 +36,6 @@
         "poste": "Midfield",
         "nationalite": "Norway",
         "naissance": "1998-12-17",
-        "buts": 2
-      },
-      {
-        "nom": "Kai Havertz",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "1999-06-11",
         "buts": 2
       },
       {

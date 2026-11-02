@@ -1,5 +1,17 @@
 [
   {
+    "equipe": "Arsenal FC",
+    "court": "Arsenal",
+    "logo": "https://crests.football-data.org/57.png",
+    "j": 9,
+    "g": 8,
+    "n": 0,
+    "p": 1,
+    "pts": 24,
+    "bp": 14,
+    "bc": 5
+  },
+  {
     "equipe": "Manchester City FC",
     "court": "Man City",
     "logo": "https://crests.football-data.org/65.png",
@@ -10,18 +22,6 @@
     "pts": 21,
     "bp": 20,
     "bc": 10
-  },
-  {
-    "equipe": "Arsenal FC",
-    "court": "Arsenal",
-    "logo": "https://crests.football-data.org/57.png",
-    "j": 8,
-    "g": 7,
-    "n": 0,
-    "p": 1,
-    "pts": 21,
-    "bp": 13,
-    "bc": 5
   },
   {
     "equipe": "Brighton & Hove Albion FC",
@@ -51,13 +51,13 @@
     "equipe": "Liverpool FC",
     "court": "Liverpool",
     "logo": "https://crests.football-data.org/64.png",
-    "j": 8,
+    "j": 9,
     "g": 4,
     "n": 3,
-    "p": 1,
+    "p": 2,
     "pts": 15,
     "bp": 11,
-    "bc": 8
+    "bc": 9
   },
   {
     "equipe": "Brentford FC",

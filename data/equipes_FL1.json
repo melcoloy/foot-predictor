@@ -370,7 +370,7 @@
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "2000-02-16",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Himad Abdelli",
@@ -384,7 +384,7 @@
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "1997-06-18",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Igor Paixão",
@@ -544,7 +544,7 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "2001-07-21",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Daniel Namaso",
@@ -1213,7 +1213,7 @@
         "poste": "Offence",
         "nationalite": "Ghana",
         "naissance": "2003-11-01",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Zachary Athekame",
@@ -1223,17 +1223,17 @@
         "buts": 2
       },
       {
-        "nom": "Felix Bacher",
-        "poste": "Defence",
-        "nationalite": "Austria",
-        "naissance": "2000-10-25",
-        "buts": 1
-      },
-      {
         "nom": "Corentin Tolisso",
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1994-08-03",
+        "buts": 2
+      },
+      {
+        "nom": "Felix Bacher",
+        "poste": "Defence",
+        "nationalite": "Austria",
+        "naissance": "2000-10-25",
         "buts": 1
       },
       {
@@ -1405,6 +1405,13 @@
         "buts": 0
       },
       {
+        "nom": "Cluver Sambi Mbungu",
+        "poste": null,
+        "nationalite": "DR Congo",
+        "naissance": "2008-11-08",
+        "buts": 0
+      },
+      {
         "nom": "Ángel García",
         "poste": null,
         "nationalite": "France",
@@ -1460,13 +1467,6 @@
         "buts": 2
       },
       {
-        "nom": "Lucas Beraldo",
-        "poste": "Defence",
-        "nationalite": "Brazil",
-        "naissance": "2003-11-24",
-        "buts": 1
-      },
-      {
         "nom": "Vitinha",
         "poste": "Midfield",
         "nationalite": "Portugal",
@@ -1520,6 +1520,13 @@
         "poste": "Defence",
         "nationalite": "Portugal",
         "naissance": "2002-06-19",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Beraldo",
+        "poste": "Defence",
+        "nationalite": "Brazil",
+        "naissance": "2003-11-24",
         "buts": 0
       },
       {
@@ -3180,10 +3187,31 @@
     "entraineur": "Hugo Oliveira",
     "effectif": [
       {
+        "nom": "Gessime Yassine",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2005-11-22",
+        "buts": 4
+      },
+      {
         "nom": "Gio Reyna",
         "poste": "Midfield",
         "nationalite": "USA",
         "naissance": "2002-11-13",
+        "buts": 2
+      },
+      {
+        "nom": "Dario Essugo",
+        "poste": "Midfield",
+        "nationalite": "Portugal",
+        "naissance": "2005-03-14",
+        "buts": 2
+      },
+      {
+        "nom": "Conrad Harder",
+        "poste": "Offence",
+        "nationalite": "Denmark",
+        "naissance": "2005-04-07",
         "buts": 2
       },
       {
@@ -3194,24 +3222,10 @@
         "buts": 2
       },
       {
-        "nom": "Gessime Yassine",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2005-11-22",
-        "buts": 2
-      },
-      {
         "nom": "Diogo Lobão",
         "poste": "Midfield",
         "nationalite": "Portugal",
         "naissance": "2006-01-20",
-        "buts": 1
-      },
-      {
-        "nom": "Conrad Harder",
-        "poste": "Offence",
-        "nationalite": "Denmark",
-        "naissance": "2005-04-07",
         "buts": 1
       },
       {
@@ -3289,13 +3303,6 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2007-05-11",
-        "buts": 0
-      },
-      {
-        "nom": "Dario Essugo",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "2005-03-14",
         "buts": 0
       },
       {
@@ -3407,13 +3414,20 @@
         "poste": "Offence",
         "nationalite": "Mali",
         "naissance": "1999-12-08",
-        "buts": 6
+        "buts": 8
       },
       {
         "nom": "Maxime López",
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1997-12-04",
+        "buts": 2
+      },
+      {
+        "nom": "Pablo Pagis",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-12-29",
         "buts": 2
       },
       {
@@ -3435,13 +3449,6 @@
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "1998-07-10",
-        "buts": 1
-      },
-      {
-        "nom": "Pablo Pagis",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-12-29",
         "buts": 1
       },
       {

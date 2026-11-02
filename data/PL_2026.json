@@ -1322,7 +1322,7 @@
   {
     "id": 560631,
     "date": "2026-11-01T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
@@ -1331,8 +1331,8 @@
     "court_ext": "Arsenal",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/57.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 560622,

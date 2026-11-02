@@ -1397,7 +1397,7 @@
   {
     "id": 558543,
     "date": "2026-11-01T11:30:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
@@ -1412,7 +1412,7 @@
   {
     "id": 558544,
     "date": "2026-11-01T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
@@ -1421,13 +1421,13 @@
     "court_ext": "Torino",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/586.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 558546,
     "date": "2026-11-01T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
@@ -1436,13 +1436,13 @@
     "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/104.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 558540,
     "date": "2026-11-01T17:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "US Lecce",
@@ -1451,13 +1451,13 @@
     "court_ext": "Genoa",
     "logo_dom": "https://crests.football-data.org/5890.png",
     "logo_ext": "https://crests.football-data.org/107.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 558547,
     "date": "2026-11-01T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Juventus FC",
@@ -1466,8 +1466,8 @@
     "court_ext": "Napoli",
     "logo_dom": "https://crests.football-data.org/109.png",
     "logo_ext": "https://crests.football-data.org/113.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 558541,

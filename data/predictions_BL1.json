@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-11-01T14:30:00Z",
-    "journee": 8,
-    "dom": "1. FC Union Berlin",
-    "ext": "1. FC Köln",
-    "court_dom": "Union Berlin",
-    "court_ext": "1. FC Köln",
-    "logo_dom": "https://crests.football-data.org/28.png",
-    "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.54,
-    "lambda_ext": 1.27,
-    "p1": 0.433,
-    "pN": 0.256,
-    "p2": 0.311,
-    "score_probable": "1-1"
-  },
-  {
-    "date": "2026-11-01T16:30:00Z",
-    "journee": 8,
-    "dom": "Eintracht Frankfurt",
-    "ext": "Hamburger SV",
-    "court_dom": "Frankfurt",
-    "court_ext": "HSV",
-    "logo_dom": "https://crests.football-data.org/19.png",
-    "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.95,
-    "lambda_ext": 1.22,
-    "p1": 0.541,
-    "pN": 0.225,
-    "p2": 0.234,
-    "score_probable": "1-1"
-  },
-  {
     "date": "2026-11-06T19:30:00Z",
     "journee": 9,
     "dom": "Hamburger SV",
@@ -40,11 +8,11 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "lambda_dom": 1.47,
-    "lambda_ext": 1.17,
-    "p1": 0.437,
-    "pN": 0.265,
-    "p2": 0.298,
+    "lambda_dom": 1.46,
+    "lambda_ext": 1.19,
+    "p1": 0.429,
+    "pN": 0.267,
+    "p2": 0.304,
     "score_probable": "1-1"
   },
   {
@@ -57,10 +25,10 @@
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 2.55,
-    "lambda_ext": 1.16,
-    "p1": 0.674,
-    "pN": 0.175,
-    "p2": 0.151,
+    "lambda_ext": 1.15,
+    "p1": 0.673,
+    "pN": 0.177,
+    "p2": 0.15,
     "score_probable": "2-1"
   },
   {
@@ -75,8 +43,8 @@
     "lambda_dom": 2.38,
     "lambda_ext": 0.8,
     "p1": 0.723,
-    "pN": 0.172,
-    "p2": 0.105,
+    "pN": 0.173,
+    "p2": 0.104,
     "score_probable": "2-0"
   },
   {
@@ -89,10 +57,10 @@
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "lambda_dom": 1.24,
-    "lambda_ext": 3.14,
+    "lambda_ext": 3.13,
     "p1": 0.116,
-    "pN": 0.138,
-    "p2": 0.746,
+    "pN": 0.14,
+    "p2": 0.745,
     "score_probable": "1-3"
   },
   {
@@ -105,10 +73,10 @@
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 1.54,
-    "lambda_ext": 1.34,
-    "p1": 0.418,
-    "pN": 0.254,
-    "p2": 0.328,
+    "lambda_ext": 1.37,
+    "p1": 0.41,
+    "pN": 0.255,
+    "p2": 0.335,
     "score_probable": "1-1"
   },
   {
@@ -123,8 +91,8 @@
     "lambda_dom": 2.4,
     "lambda_ext": 1.11,
     "p1": 0.656,
-    "pN": 0.186,
-    "p2": 0.158,
+    "pN": 0.187,
+    "p2": 0.157,
     "score_probable": "2-1"
   },
   {
@@ -136,11 +104,11 @@
     "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/3.png",
-    "lambda_dom": 1.44,
-    "lambda_ext": 1.9,
-    "p1": 0.291,
-    "pN": 0.228,
-    "p2": 0.481,
+    "lambda_dom": 1.43,
+    "lambda_ext": 1.88,
+    "p1": 0.292,
+    "pN": 0.232,
+    "p2": 0.476,
     "score_probable": "1-1"
   },
   {
@@ -152,12 +120,12 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 2.09,
-    "lambda_ext": 1.01,
-    "p1": 0.619,
-    "pN": 0.21,
-    "p2": 0.171,
-    "score_probable": "2-1"
+    "lambda_dom": 2.07,
+    "lambda_ext": 0.99,
+    "p1": 0.62,
+    "pN": 0.212,
+    "p2": 0.168,
+    "score_probable": "2-0"
   },
   {
     "date": "2026-11-08T18:30:00Z",
@@ -168,11 +136,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.88,
+    "lambda_dom": 1.89,
     "lambda_ext": 0.95,
     "p1": 0.59,
-    "pN": 0.228,
-    "p2": 0.182,
+    "pN": 0.229,
+    "p2": 0.181,
     "score_probable": "1-1"
   },
   {
@@ -184,11 +152,11 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 4.23,
+    "lambda_dom": 4.19,
     "lambda_ext": 0.83,
-    "p1": 0.911,
-    "pN": 0.059,
-    "p2": 0.029,
+    "p1": 0.909,
+    "pN": 0.061,
+    "p2": 0.03,
     "score_probable": "4-0"
   },
   {
@@ -200,11 +168,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 2.11,
+    "lambda_dom": 2.12,
     "lambda_ext": 0.93,
-    "p1": 0.643,
-    "pN": 0.204,
-    "p2": 0.152,
+    "p1": 0.644,
+    "pN": 0.205,
+    "p2": 0.151,
     "score_probable": "2-0"
   },
   {
@@ -216,10 +184,10 @@
     "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/721.png",
-    "lambda_dom": 1.2,
-    "lambda_ext": 1.97,
-    "p1": 0.227,
-    "pN": 0.224,
+    "lambda_dom": 1.18,
+    "lambda_ext": 1.95,
+    "p1": 0.225,
+    "pN": 0.227,
     "p2": 0.549,
     "score_probable": "1-1"
   },
@@ -234,8 +202,8 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.66,
     "lambda_ext": 1.61,
-    "p1": 0.392,
-    "pN": 0.237,
+    "p1": 0.391,
+    "pN": 0.239,
     "p2": 0.371,
     "score_probable": "1-1"
   },
@@ -251,8 +219,8 @@
     "lambda_dom": 0.89,
     "lambda_ext": 1.8,
     "p1": 0.179,
-    "pN": 0.235,
-    "p2": 0.586,
+    "pN": 0.237,
+    "p2": 0.584,
     "score_probable": "0-1"
   },
   {
@@ -264,11 +232,11 @@
     "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/2.png",
-    "lambda_dom": 1.96,
-    "lambda_ext": 1.9,
-    "p1": 0.405,
+    "lambda_dom": 2.01,
+    "lambda_ext": 1.89,
+    "p1": 0.416,
     "pN": 0.215,
-    "p2": 0.38,
+    "p2": 0.369,
     "score_probable": "1-1"
   },
   {
@@ -283,8 +251,8 @@
     "lambda_dom": 1.11,
     "lambda_ext": 1.58,
     "p1": 0.262,
-    "pN": 0.257,
-    "p2": 0.48,
+    "pN": 0.259,
+    "p2": 0.479,
     "score_probable": "1-1"
   },
   {
@@ -297,10 +265,10 @@
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "lambda_dom": 1.9,
-    "lambda_ext": 1.43,
+    "lambda_ext": 1.42,
     "p1": 0.484,
-    "pN": 0.229,
-    "p2": 0.288,
+    "pN": 0.23,
+    "p2": 0.286,
     "score_probable": "1-1"
   },
   {
@@ -312,11 +280,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.62,
-    "lambda_ext": 1.06,
-    "p1": 0.501,
-    "pN": 0.254,
-    "p2": 0.245,
+    "lambda_dom": 1.66,
+    "lambda_ext": 1.05,
+    "p1": 0.51,
+    "pN": 0.253,
+    "p2": 0.237,
     "score_probable": "1-1"
   },
   {
@@ -330,9 +298,9 @@
     "logo_ext": "https://crests.football-data.org/18.png",
     "lambda_dom": 1.73,
     "lambda_ext": 1.18,
-    "p1": 0.499,
-    "pN": 0.244,
-    "p2": 0.258,
+    "p1": 0.498,
+    "pN": 0.245,
+    "p2": 0.256,
     "score_probable": "1-1"
   },
   {
@@ -344,11 +312,11 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 1.69,
-    "lambda_ext": 1.48,
-    "p1": 0.426,
-    "pN": 0.24,
-    "p2": 0.334,
+    "lambda_dom": 1.68,
+    "lambda_ext": 1.46,
+    "p1": 0.427,
+    "pN": 0.243,
+    "p2": 0.33,
     "score_probable": "1-1"
   },
   {
@@ -360,11 +328,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.89,
-    "lambda_ext": 1.14,
-    "p1": 0.546,
-    "pN": 0.229,
-    "p2": 0.224,
+    "lambda_dom": 1.88,
+    "lambda_ext": 1.12,
+    "p1": 0.547,
+    "pN": 0.232,
+    "p2": 0.221,
     "score_probable": "1-1"
   },
   {
@@ -376,11 +344,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.16,
+    "lambda_dom": 1.17,
     "lambda_ext": 0.85,
     "p1": 0.427,
-    "pN": 0.31,
-    "p2": 0.263,
+    "pN": 0.311,
+    "p2": 0.262,
     "score_probable": "1-0"
   },
   {
@@ -392,11 +360,11 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "lambda_dom": 0.96,
-    "lambda_ext": 3.02,
-    "p1": 0.085,
-    "pN": 0.13,
-    "p2": 0.785,
+    "lambda_dom": 0.95,
+    "lambda_ext": 3.08,
+    "p1": 0.081,
+    "pN": 0.127,
+    "p2": 0.792,
     "score_probable": "0-3"
   },
   {
@@ -409,10 +377,10 @@
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 2.75,
-    "lambda_ext": 1.33,
-    "p1": 0.671,
-    "pN": 0.168,
-    "p2": 0.161,
+    "lambda_ext": 1.36,
+    "p1": 0.664,
+    "pN": 0.17,
+    "p2": 0.166,
     "score_probable": "2-1"
   },
   {
@@ -425,10 +393,10 @@
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.63,
-    "lambda_ext": 1.7,
+    "lambda_ext": 1.69,
     "p1": 0.369,
-    "pN": 0.235,
-    "p2": 0.396,
+    "pN": 0.236,
+    "p2": 0.394,
     "score_probable": "1-1"
   },
   {
@@ -441,10 +409,10 @@
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 2.25,
-    "lambda_ext": 1.41,
-    "p1": 0.563,
-    "pN": 0.205,
-    "p2": 0.232,
+    "lambda_ext": 1.4,
+    "p1": 0.562,
+    "pN": 0.206,
+    "p2": 0.231,
     "score_probable": "2-1"
   },
   {
@@ -459,8 +427,8 @@
     "lambda_dom": 2.03,
     "lambda_ext": 1.03,
     "p1": 0.602,
-    "pN": 0.215,
-    "p2": 0.183,
+    "pN": 0.217,
+    "p2": 0.181,
     "score_probable": "1-1"
   },
   {
@@ -472,11 +440,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.45,
-    "lambda_ext": 1.11,
-    "p1": 0.444,
-    "pN": 0.269,
-    "p2": 0.287,
+    "lambda_dom": 1.46,
+    "lambda_ext": 1.1,
+    "p1": 0.449,
+    "pN": 0.271,
+    "p2": 0.281,
     "score_probable": "1-1"
   },
   {
@@ -490,9 +458,9 @@
     "logo_ext": "https://crests.football-data.org/4.png",
     "lambda_dom": 0.71,
     "lambda_ext": 1.48,
-    "p1": 0.177,
-    "pN": 0.271,
-    "p2": 0.552,
+    "p1": 0.176,
+    "pN": 0.273,
+    "p2": 0.551,
     "score_probable": "0-1"
   },
   {
@@ -504,11 +472,11 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "lambda_dom": 2.49,
+    "lambda_dom": 2.5,
     "lambda_ext": 1.07,
     "p1": 0.681,
-    "pN": 0.177,
-    "p2": 0.142,
+    "pN": 0.178,
+    "p2": 0.141,
     "score_probable": "2-1"
   },
   {
@@ -520,11 +488,11 @@
     "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/12.png",
-    "lambda_dom": 1.97,
+    "lambda_dom": 2.01,
     "lambda_ext": 1.43,
-    "p1": 0.498,
-    "pN": 0.224,
-    "p2": 0.278,
+    "p1": 0.508,
+    "pN": 0.222,
+    "p2": 0.269,
     "score_probable": "1-1"
   },
   {
@@ -539,8 +507,8 @@
     "lambda_dom": 2.53,
     "lambda_ext": 1.13,
     "p1": 0.675,
-    "pN": 0.176,
-    "p2": 0.149,
+    "pN": 0.177,
+    "p2": 0.148,
     "score_probable": "2-1"
   },
   {
@@ -554,9 +522,9 @@
     "logo_ext": "https://crests.football-data.org/10.png",
     "lambda_dom": 1.63,
     "lambda_ext": 1.94,
-    "p1": 0.326,
-    "pN": 0.223,
-    "p2": 0.451,
+    "p1": 0.325,
+    "pN": 0.224,
+    "p2": 0.45,
     "score_probable": "1-1"
   },
   {
@@ -569,10 +537,10 @@
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "lambda_dom": 1.99,
-    "lambda_ext": 1.5,
-    "p1": 0.489,
-    "pN": 0.222,
-    "p2": 0.289,
+    "lambda_ext": 1.49,
+    "p1": 0.49,
+    "pN": 0.224,
+    "p2": 0.287,
     "score_probable": "1-1"
   },
   {
@@ -584,9 +552,9 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 3.59,
+    "lambda_dom": 3.6,
     "lambda_ext": 0.7,
-    "p1": 0.884,
+    "p1": 0.885,
     "pN": 0.079,
     "p2": 0.036,
     "score_probable": "3-0"
@@ -600,10 +568,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.95,
-    "lambda_ext": 1.26,
-    "p1": 0.533,
-    "pN": 0.225,
+    "lambda_dom": 1.93,
+    "lambda_ext": 1.24,
+    "p1": 0.531,
+    "pN": 0.229,
     "p2": 0.241,
     "score_probable": "1-1"
   },
@@ -619,8 +587,8 @@
     "lambda_dom": 1.43,
     "lambda_ext": 1.25,
     "p1": 0.408,
-    "pN": 0.265,
-    "p2": 0.327,
+    "pN": 0.267,
+    "p2": 0.325,
     "score_probable": "1-1"
   },
   {
@@ -635,8 +603,8 @@
     "lambda_dom": 1.49,
     "lambda_ext": 1.8,
     "p1": 0.317,
-    "pN": 0.234,
-    "p2": 0.449,
+    "pN": 0.235,
+    "p2": 0.448,
     "score_probable": "1-1"
   },
   {
@@ -648,11 +616,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 2.51,
-    "lambda_ext": 0.99,
-    "p1": 0.702,
-    "pN": 0.171,
-    "p2": 0.126,
+    "lambda_dom": 2.5,
+    "lambda_ext": 0.97,
+    "p1": 0.703,
+    "pN": 0.173,
+    "p2": 0.124,
     "score_probable": "2-0"
   },
   {
@@ -666,9 +634,9 @@
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 2.32,
     "lambda_ext": 0.81,
-    "p1": 0.711,
-    "pN": 0.178,
-    "p2": 0.111,
+    "p1": 0.71,
+    "pN": 0.179,
+    "p2": 0.11,
     "score_probable": "2-0"
   },
   {
@@ -681,11 +649,11 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/6.png",
     "lambda_dom": 1.21,
-    "lambda_ext": 0.94,
-    "p1": 0.418,
-    "pN": 0.3,
-    "p2": 0.282,
-    "score_probable": "1-0"
+    "lambda_ext": 0.96,
+    "p1": 0.412,
+    "pN": 0.301,
+    "p2": 0.287,
+    "score_probable": "1-1"
   },
   {
     "date": "2026-12-12T00:00:00Z",
@@ -697,10 +665,10 @@
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.63,
-    "lambda_ext": 1.56,
-    "p1": 0.397,
-    "pN": 0.24,
-    "p2": 0.363,
+    "lambda_ext": 1.55,
+    "p1": 0.396,
+    "pN": 0.242,
+    "p2": 0.362,
     "score_probable": "1-1"
   },
   {
@@ -712,11 +680,11 @@
     "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/721.png",
-    "lambda_dom": 1.31,
-    "lambda_ext": 1.98,
-    "p1": 0.248,
-    "pN": 0.223,
-    "p2": 0.529,
+    "lambda_dom": 1.3,
+    "lambda_ext": 1.95,
+    "p1": 0.249,
+    "pN": 0.227,
+    "p2": 0.524,
     "score_probable": "1-1"
   },
   {
@@ -731,8 +699,8 @@
     "lambda_dom": 1.49,
     "lambda_ext": 3.05,
     "p1": 0.159,
-    "pN": 0.155,
-    "p2": 0.687,
+    "pN": 0.156,
+    "p2": 0.686,
     "score_probable": "1-3"
   },
   {
@@ -745,10 +713,10 @@
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 1.78,
-    "lambda_ext": 1.58,
-    "p1": 0.425,
-    "pN": 0.232,
-    "p2": 0.342,
+    "lambda_ext": 1.61,
+    "p1": 0.418,
+    "pN": 0.233,
+    "p2": 0.349,
     "score_probable": "1-1"
   },
   {
@@ -760,11 +728,11 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "lambda_dom": 1.31,
-    "lambda_ext": 1.02,
+    "lambda_dom": 1.32,
+    "lambda_ext": 1.03,
     "p1": 0.428,
-    "pN": 0.285,
-    "p2": 0.287,
+    "pN": 0.286,
+    "p2": 0.286,
     "score_probable": "1-1"
   },
   {
@@ -776,10 +744,10 @@
     "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/12.png",
-    "lambda_dom": 4.01,
+    "lambda_dom": 4.02,
     "lambda_ext": 0.86,
-    "p1": 0.894,
-    "pN": 0.069,
+    "p1": 0.895,
+    "pN": 0.07,
     "p2": 0.036,
     "score_probable": "4-0"
   },
@@ -792,11 +760,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.82,
-    "lambda_ext": 1.13,
-    "p1": 0.532,
-    "pN": 0.236,
-    "p2": 0.232,
+    "lambda_dom": 1.85,
+    "lambda_ext": 1.12,
+    "p1": 0.541,
+    "pN": 0.235,
+    "p2": 0.225,
     "score_probable": "1-1"
   },
   {
@@ -808,11 +776,11 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "lambda_dom": 2.72,
-    "lambda_ext": 1.36,
-    "p1": 0.659,
-    "pN": 0.171,
-    "p2": 0.17,
+    "lambda_dom": 2.71,
+    "lambda_ext": 1.39,
+    "p1": 0.652,
+    "pN": 0.174,
+    "p2": 0.174,
     "score_probable": "2-1"
   },
   {
@@ -827,8 +795,8 @@
     "lambda_dom": 1.77,
     "lambda_ext": 1.65,
     "p1": 0.409,
-    "pN": 0.231,
-    "p2": 0.36,
+    "pN": 0.232,
+    "p2": 0.358,
     "score_probable": "1-1"
   },
   {
@@ -843,8 +811,8 @@
     "lambda_dom": 1.41,
     "lambda_ext": 1.4,
     "p1": 0.373,
-    "pN": 0.259,
-    "p2": 0.368,
+    "pN": 0.261,
+    "p2": 0.366,
     "score_probable": "1-1"
   },
   {
@@ -856,10 +824,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.91,
-    "lambda_ext": 1.24,
-    "p1": 0.526,
-    "pN": 0.229,
+    "lambda_dom": 1.89,
+    "lambda_ext": 1.23,
+    "p1": 0.523,
+    "pN": 0.232,
     "p2": 0.245,
     "score_probable": "1-1"
   },
@@ -872,11 +840,11 @@
     "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/2.png",
-    "lambda_dom": 1.46,
-    "lambda_ext": 1.73,
-    "p1": 0.322,
-    "pN": 0.238,
-    "p2": 0.44,
+    "lambda_dom": 1.44,
+    "lambda_ext": 1.72,
+    "p1": 0.319,
+    "pN": 0.241,
+    "p2": 0.439,
     "score_probable": "1-1"
   },
   {
@@ -888,11 +856,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 1.65,
+    "lambda_dom": 1.66,
     "lambda_ext": 1.06,
-    "p1": 0.509,
-    "pN": 0.251,
-    "p2": 0.24,
+    "p1": 0.51,
+    "pN": 0.253,
+    "p2": 0.238,
     "score_probable": "1-1"
   },
   {
@@ -906,9 +874,9 @@
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 2.48,
     "lambda_ext": 1.25,
-    "p1": 0.641,
-    "pN": 0.184,
-    "p2": 0.175,
+    "p1": 0.64,
+    "pN": 0.186,
+    "p2": 0.174,
     "score_probable": "2-1"
   },
   {
@@ -921,10 +889,10 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 1.26,
-    "lambda_ext": 1.78,
-    "p1": 0.269,
+    "lambda_ext": 1.82,
+    "p1": 0.262,
     "pN": 0.238,
-    "p2": 0.493,
+    "p2": 0.501,
     "score_probable": "1-1"
   },
   {
@@ -936,11 +904,11 @@
     "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/17.png",
-    "lambda_dom": 1.44,
-    "lambda_ext": 1.6,
-    "p1": 0.341,
-    "pN": 0.247,
-    "p2": 0.412,
+    "lambda_dom": 1.43,
+    "lambda_ext": 1.58,
+    "p1": 0.342,
+    "pN": 0.25,
+    "p2": 0.408,
     "score_probable": "1-1"
   },
   {
@@ -952,11 +920,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.71,
+    "lambda_dom": 1.75,
     "lambda_ext": 1.09,
-    "p1": 0.515,
-    "pN": 0.246,
-    "p2": 0.239,
+    "p1": 0.525,
+    "pN": 0.244,
+    "p2": 0.231,
     "score_probable": "1-1"
   },
   {
@@ -969,10 +937,10 @@
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 2.31,
-    "lambda_ext": 1.4,
+    "lambda_ext": 1.39,
     "p1": 0.577,
-    "pN": 0.201,
-    "p2": 0.222,
+    "pN": 0.202,
+    "p2": 0.221,
     "score_probable": "2-1"
   },
   {
@@ -987,8 +955,8 @@
     "lambda_dom": 1.07,
     "lambda_ext": 3.22,
     "p1": 0.087,
-    "pN": 0.123,
-    "p2": 0.789,
+    "pN": 0.124,
+    "p2": 0.788,
     "score_probable": "1-3"
   },
   {
@@ -1003,8 +971,8 @@
     "lambda_dom": 2.3,
     "lambda_ext": 0.79,
     "p1": 0.711,
-    "pN": 0.179,
-    "p2": 0.11,
+    "pN": 0.18,
+    "p2": 0.109,
     "score_probable": "2-0"
   },
   {
@@ -1016,11 +984,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.72,
-    "lambda_ext": 1.11,
-    "p1": 0.512,
-    "pN": 0.245,
-    "p2": 0.243,
+    "lambda_dom": 1.71,
+    "lambda_ext": 1.1,
+    "p1": 0.513,
+    "pN": 0.248,
+    "p2": 0.24,
     "score_probable": "1-1"
   },
   {
@@ -1034,9 +1002,9 @@
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.1,
     "lambda_ext": 1.68,
-    "p1": 0.246,
-    "pN": 0.248,
-    "p2": 0.505,
+    "p1": 0.245,
+    "pN": 0.251,
+    "p2": 0.504,
     "score_probable": "1-1"
   },
   {
@@ -1049,10 +1017,10 @@
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "lambda_dom": 1.8,
-    "lambda_ext": 1.7,
+    "lambda_ext": 1.69,
     "p1": 0.408,
-    "pN": 0.228,
-    "p2": 0.364,
+    "pN": 0.229,
+    "p2": 0.362,
     "score_probable": "1-1"
   },
   {
@@ -1064,12 +1032,12 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.97,
-    "lambda_ext": 0.96,
-    "p1": 0.606,
-    "pN": 0.219,
-    "p2": 0.175,
-    "score_probable": "1-1"
+    "lambda_dom": 2.01,
+    "lambda_ext": 0.95,
+    "p1": 0.616,
+    "pN": 0.217,
+    "p2": 0.168,
+    "score_probable": "2-0"
   },
   {
     "date": "2027-01-13T00:00:00Z",
@@ -1083,8 +1051,8 @@
     "lambda_dom": 1.25,
     "lambda_ext": 1.08,
     "p1": 0.396,
-    "pN": 0.288,
-    "p2": 0.316,
+    "pN": 0.29,
+    "p2": 0.315,
     "score_probable": "1-1"
   },
   {
@@ -1097,10 +1065,10 @@
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "lambda_dom": 2.19,
-    "lambda_ext": 1.5,
+    "lambda_ext": 1.49,
     "p1": 0.532,
-    "pN": 0.209,
-    "p2": 0.259,
+    "pN": 0.211,
+    "p2": 0.258,
     "score_probable": "2-1"
   },
   {
@@ -1112,10 +1080,10 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 1.31,
-    "lambda_ext": 1.07,
-    "p1": 0.415,
-    "pN": 0.283,
+    "lambda_dom": 1.29,
+    "lambda_ext": 1.06,
+    "p1": 0.412,
+    "pN": 0.287,
     "p2": 0.301,
     "score_probable": "1-1"
   },
@@ -1128,11 +1096,11 @@
     "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/3.png",
-    "lambda_dom": 3.64,
+    "lambda_dom": 3.65,
     "lambda_ext": 1.24,
     "p1": 0.808,
     "pN": 0.109,
-    "p2": 0.084,
+    "p2": 0.083,
     "score_probable": "3-1"
   },
   {
@@ -1147,8 +1115,8 @@
     "lambda_dom": 1.95,
     "lambda_ext": 1.22,
     "p1": 0.54,
-    "pN": 0.225,
-    "p2": 0.234,
+    "pN": 0.227,
+    "p2": 0.233,
     "score_probable": "1-1"
   },
   {
@@ -1161,10 +1129,10 @@
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 2.11,
-    "lambda_ext": 1.6,
-    "p1": 0.495,
-    "pN": 0.214,
-    "p2": 0.291,
+    "lambda_ext": 1.63,
+    "p1": 0.486,
+    "pN": 0.215,
+    "p2": 0.298,
     "score_probable": "2-1"
   },
   {
@@ -1176,11 +1144,11 @@
     "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/4.png",
-    "lambda_dom": 0.91,
-    "lambda_ext": 1.8,
-    "p1": 0.184,
-    "pN": 0.235,
-    "p2": 0.58,
+    "lambda_dom": 0.9,
+    "lambda_ext": 1.78,
+    "p1": 0.185,
+    "pN": 0.24,
+    "p2": 0.575,
     "score_probable": "0-1"
   },
   {
@@ -1192,11 +1160,11 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 1.74,
+    "lambda_dom": 1.75,
     "lambda_ext": 1.4,
-    "p1": 0.454,
-    "pN": 0.239,
-    "p2": 0.307,
+    "p1": 0.455,
+    "pN": 0.241,
+    "p2": 0.305,
     "score_probable": "1-1"
   },
   {
@@ -1208,11 +1176,11 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "lambda_dom": 1.35,
-    "lambda_ext": 3.51,
-    "p1": 0.104,
-    "pN": 0.122,
-    "p2": 0.774,
+    "lambda_dom": 1.39,
+    "lambda_ext": 3.5,
+    "p1": 0.109,
+    "pN": 0.124,
+    "p2": 0.767,
     "score_probable": "1-3"
   },
   {
@@ -1224,11 +1192,11 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.42,
+    "lambda_dom": 1.4,
     "lambda_ext": 1.08,
-    "p1": 0.442,
-    "pN": 0.273,
-    "p2": 0.285,
+    "p1": 0.439,
+    "pN": 0.276,
+    "p2": 0.284,
     "score_probable": "1-1"
   },
   {
@@ -1243,8 +1211,8 @@
     "lambda_dom": 1.78,
     "lambda_ext": 1.87,
     "p1": 0.37,
-    "pN": 0.222,
-    "p2": 0.407,
+    "pN": 0.224,
+    "p2": 0.406,
     "score_probable": "1-1"
   },
   {
@@ -1256,11 +1224,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 2.05,
+    "lambda_dom": 2.06,
     "lambda_ext": 0.86,
     "p1": 0.647,
     "pN": 0.208,
-    "p2": 0.146,
+    "p2": 0.144,
     "score_probable": "2-0"
   },
   {
@@ -1274,9 +1242,9 @@
     "logo_ext": "https://crests.football-data.org/15.png",
     "lambda_dom": 2.46,
     "lambda_ext": 1.22,
-    "p1": 0.642,
-    "pN": 0.185,
-    "p2": 0.172,
+    "p1": 0.643,
+    "pN": 0.186,
+    "p2": 0.171,
     "score_probable": "2-1"
   },
   {
@@ -1289,10 +1257,10 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 1.44,
-    "lambda_ext": 1.4,
-    "p1": 0.382,
-    "pN": 0.258,
-    "p2": 0.361,
+    "lambda_ext": 1.42,
+    "p1": 0.374,
+    "pN": 0.259,
+    "p2": 0.367,
     "score_probable": "1-1"
   },
   {
@@ -1305,10 +1273,10 @@
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/28.png",
     "lambda_dom": 1.62,
-    "lambda_ext": 1.17,
-    "p1": 0.475,
-    "pN": 0.252,
-    "p2": 0.273,
+    "lambda_ext": 1.16,
+    "p1": 0.477,
+    "pN": 0.255,
+    "p2": 0.268,
     "score_probable": "1-1"
   },
   {
@@ -1322,9 +1290,9 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 2.02,
     "lambda_ext": 0.87,
-    "p1": 0.64,
-    "pN": 0.211,
-    "p2": 0.15,
+    "p1": 0.639,
+    "pN": 0.212,
+    "p2": 0.149,
     "score_probable": "2-0"
   },
   {
@@ -1337,10 +1305,10 @@
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.48,
-    "lambda_ext": 1.52,
-    "p1": 0.368,
-    "pN": 0.249,
-    "p2": 0.383,
+    "lambda_ext": 1.51,
+    "p1": 0.367,
+    "pN": 0.251,
+    "p2": 0.381,
     "score_probable": "1-1"
   },
   {
@@ -1352,11 +1320,11 @@
     "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/4.png",
-    "lambda_dom": 0.8,
-    "lambda_ext": 1.69,
-    "p1": 0.172,
-    "pN": 0.246,
-    "p2": 0.583,
+    "lambda_dom": 0.79,
+    "lambda_ext": 1.72,
+    "p1": 0.166,
+    "pN": 0.244,
+    "p2": 0.59,
     "score_probable": "0-1"
   },
   {
@@ -1371,8 +1339,8 @@
     "lambda_dom": 1.38,
     "lambda_ext": 1.23,
     "p1": 0.399,
-    "pN": 0.27,
-    "p2": 0.331,
+    "pN": 0.272,
+    "p2": 0.33,
     "score_probable": "1-1"
   },
   {
@@ -1386,9 +1354,9 @@
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 1.29,
     "lambda_ext": 1.22,
-    "p1": 0.378,
-    "pN": 0.276,
-    "p2": 0.346,
+    "p1": 0.377,
+    "pN": 0.278,
+    "p2": 0.344,
     "score_probable": "1-1"
   },
   {
@@ -1400,10 +1368,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 2.29,
-    "lambda_ext": 1.21,
-    "p1": 0.614,
-    "pN": 0.198,
+    "lambda_dom": 2.26,
+    "lambda_ext": 1.2,
+    "p1": 0.61,
+    "pN": 0.201,
     "p2": 0.188,
     "score_probable": "2-1"
   },
@@ -1417,10 +1385,10 @@
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "lambda_dom": 1.65,
-    "lambda_ext": 2.72,
-    "p1": 0.219,
-    "pN": 0.179,
-    "p2": 0.602,
+    "lambda_ext": 2.71,
+    "p1": 0.22,
+    "pN": 0.18,
+    "p2": 0.6,
     "score_probable": "1-2"
   },
   {
@@ -1435,8 +1403,8 @@
     "lambda_dom": 1.27,
     "lambda_ext": 1.98,
     "p1": 0.241,
-    "pN": 0.223,
-    "p2": 0.536,
+    "pN": 0.225,
+    "p2": 0.534,
     "score_probable": "1-1"
   },
   {
@@ -1448,11 +1416,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 2.06,
-    "lambda_ext": 1.28,
-    "p1": 0.552,
-    "pN": 0.217,
-    "p2": 0.231,
+    "lambda_dom": 2.1,
+    "lambda_ext": 1.26,
+    "p1": 0.564,
+    "pN": 0.216,
+    "p2": 0.221,
     "score_probable": "2-1"
   },
   {
@@ -1464,11 +1432,11 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 2.51,
+    "lambda_dom": 2.52,
     "lambda_ext": 1.27,
     "p1": 0.643,
     "pN": 0.183,
-    "p2": 0.175,
+    "p2": 0.173,
     "score_probable": "2-1"
   },
   {
@@ -1482,9 +1450,9 @@
     "logo_ext": "https://crests.football-data.org/18.png",
     "lambda_dom": 1.94,
     "lambda_ext": 1.26,
-    "p1": 0.53,
-    "pN": 0.227,
-    "p2": 0.244,
+    "p1": 0.529,
+    "pN": 0.228,
+    "p2": 0.243,
     "score_probable": "1-1"
   },
   {
@@ -1496,11 +1464,11 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "lambda_dom": 2.13,
-    "lambda_ext": 1.55,
-    "p1": 0.506,
-    "pN": 0.213,
-    "p2": 0.28,
+    "lambda_dom": 2.12,
+    "lambda_ext": 1.58,
+    "p1": 0.499,
+    "pN": 0.215,
+    "p2": 0.286,
     "score_probable": "2-1"
   },
   {
@@ -1512,11 +1480,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.79,
-    "lambda_ext": 1.09,
-    "p1": 0.535,
-    "pN": 0.239,
-    "p2": 0.227,
+    "lambda_dom": 1.82,
+    "lambda_ext": 1.08,
+    "p1": 0.544,
+    "pN": 0.237,
+    "p2": 0.219,
     "score_probable": "1-1"
   },
   {
@@ -1528,11 +1496,11 @@
     "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/12.png",
-    "lambda_dom": 2.46,
-    "lambda_ext": 1.03,
+    "lambda_dom": 2.47,
+    "lambda_ext": 1.02,
     "p1": 0.687,
-    "pN": 0.177,
-    "p2": 0.137,
+    "pN": 0.178,
+    "p2": 0.135,
     "score_probable": "2-1"
   },
   {
@@ -1544,11 +1512,11 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "lambda_dom": 1.41,
-    "lambda_ext": 1.93,
-    "p1": 0.28,
-    "pN": 0.227,
-    "p2": 0.493,
+    "lambda_dom": 1.4,
+    "lambda_ext": 1.9,
+    "p1": 0.281,
+    "pN": 0.23,
+    "p2": 0.489,
     "score_probable": "1-1"
   },
   {
@@ -1560,10 +1528,10 @@
     "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/3.png",
-    "lambda_dom": 1.33,
-    "lambda_ext": 1.89,
-    "p1": 0.267,
-    "pN": 0.23,
+    "lambda_dom": 1.31,
+    "lambda_ext": 1.87,
+    "p1": 0.264,
+    "pN": 0.233,
     "p2": 0.503,
     "score_probable": "1-1"
   },
@@ -1577,10 +1545,10 @@
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "lambda_dom": 1.78,
-    "lambda_ext": 0.93,
-    "p1": 0.572,
-    "pN": 0.238,
-    "p2": 0.19,
+    "lambda_ext": 0.92,
+    "p1": 0.573,
+    "pN": 0.239,
+    "p2": 0.188,
     "score_probable": "1-0"
   },
   {
@@ -1593,10 +1561,10 @@
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "lambda_dom": 2.23,
-    "lambda_ext": 0.95,
-    "p1": 0.662,
-    "pN": 0.194,
-    "p2": 0.144,
+    "lambda_ext": 0.94,
+    "p1": 0.663,
+    "pN": 0.195,
+    "p2": 0.143,
     "score_probable": "2-0"
   },
   {
@@ -1608,9 +1576,9 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 3.48,
+    "lambda_dom": 3.49,
     "lambda_ext": 0.65,
-    "p1": 0.883,
+    "p1": 0.884,
     "pN": 0.081,
     "p2": 0.035,
     "score_probable": "3-0"
@@ -1624,11 +1592,11 @@
     "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/15.png",
-    "lambda_dom": 2.02,
-    "lambda_ext": 1.58,
-    "p1": 0.478,
-    "pN": 0.219,
-    "p2": 0.302,
+    "lambda_dom": 2.07,
+    "lambda_ext": 1.57,
+    "p1": 0.489,
+    "pN": 0.218,
+    "p2": 0.293,
     "score_probable": "1-1"
   },
   {
@@ -1642,9 +1610,9 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.4,
     "lambda_ext": 1.6,
-    "p1": 0.333,
-    "pN": 0.248,
-    "p2": 0.419,
+    "p1": 0.332,
+    "pN": 0.25,
+    "p2": 0.418,
     "score_probable": "1-1"
   },
   {
@@ -1656,11 +1624,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.31,
-    "lambda_ext": 0.97,
-    "p1": 0.44,
-    "pN": 0.288,
-    "p2": 0.272,
+    "lambda_dom": 1.3,
+    "lambda_ext": 0.95,
+    "p1": 0.441,
+    "pN": 0.291,
+    "p2": 0.268,
     "score_probable": "1-1"
   },
   {
@@ -1673,10 +1641,10 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.14,
-    "lambda_ext": 1.86,
-    "p1": 0.229,
-    "pN": 0.233,
-    "p2": 0.538,
+    "lambda_ext": 1.89,
+    "p1": 0.223,
+    "pN": 0.231,
+    "p2": 0.546,
     "score_probable": "1-1"
   },
   {
@@ -1691,8 +1659,8 @@
     "lambda_dom": 2.45,
     "lambda_ext": 1.28,
     "p1": 0.629,
-    "pN": 0.188,
-    "p2": 0.183,
+    "pN": 0.189,
+    "p2": 0.182,
     "score_probable": "2-1"
   },
   {
@@ -1704,11 +1672,11 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.73,
-    "lambda_ext": 1.21,
-    "p1": 0.492,
-    "pN": 0.243,
-    "p2": 0.265,
+    "lambda_dom": 1.71,
+    "lambda_ext": 1.2,
+    "p1": 0.489,
+    "pN": 0.247,
+    "p2": 0.264,
     "score_probable": "1-1"
   },
   {
@@ -1723,8 +1691,8 @@
     "lambda_dom": 2.39,
     "lambda_ext": 1.47,
     "p1": 0.578,
-    "pN": 0.196,
-    "p2": 0.226,
+    "pN": 0.197,
+    "p2": 0.225,
     "score_probable": "2-1"
   },
   {
@@ -1736,7 +1704,7 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 4.26,
+    "lambda_dom": 4.28,
     "lambda_ext": 0.96,
     "p1": 0.899,
     "pN": 0.065,
@@ -1753,10 +1721,10 @@
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "lambda_dom": 0.77,
-    "lambda_ext": 1.53,
-    "p1": 0.185,
-    "pN": 0.265,
-    "p2": 0.55,
+    "lambda_ext": 1.52,
+    "p1": 0.184,
+    "pN": 0.268,
+    "p2": 0.548,
     "score_probable": "0-1"
   },
   {
@@ -1768,11 +1736,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.57,
-    "lambda_ext": 1.12,
-    "p1": 0.475,
+    "lambda_dom": 1.59,
+    "lambda_ext": 1.1,
+    "p1": 0.484,
     "pN": 0.258,
-    "p2": 0.267,
+    "p2": 0.258,
     "score_probable": "1-1"
   },
   {
@@ -1786,9 +1754,9 @@
     "logo_ext": "https://crests.football-data.org/18.png",
     "lambda_dom": 1.91,
     "lambda_ext": 1.21,
-    "p1": 0.533,
-    "pN": 0.229,
-    "p2": 0.238,
+    "p1": 0.532,
+    "pN": 0.23,
+    "p2": 0.237,
     "score_probable": "1-1"
   },
   {
@@ -1800,12 +1768,12 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "lambda_dom": 1.0,
-    "lambda_ext": 3.2,
-    "p1": 0.081,
-    "pN": 0.121,
-    "p2": 0.798,
-    "score_probable": "1-3"
+    "lambda_dom": 0.99,
+    "lambda_ext": 3.18,
+    "p1": 0.08,
+    "pN": 0.123,
+    "p2": 0.797,
+    "score_probable": "0-3"
   },
   {
     "date": "2027-02-13T00:00:00Z",
@@ -1816,11 +1784,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.59,
+    "lambda_dom": 1.6,
     "lambda_ext": 1.01,
     "p1": 0.506,
-    "pN": 0.257,
-    "p2": 0.237,
+    "pN": 0.259,
+    "p2": 0.235,
     "score_probable": "1-1"
   },
   {
@@ -1833,10 +1801,10 @@
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "lambda_dom": 1.99,
-    "lambda_ext": 1.05,
+    "lambda_ext": 1.04,
     "p1": 0.59,
-    "pN": 0.22,
-    "p2": 0.191,
+    "pN": 0.221,
+    "p2": 0.189,
     "score_probable": "1-1"
   },
   {
@@ -1851,8 +1819,8 @@
     "lambda_dom": 1.94,
     "lambda_ext": 1.02,
     "p1": 0.585,
-    "pN": 0.224,
-    "p2": 0.191,
+    "pN": 0.225,
+    "p2": 0.19,
     "score_probable": "1-1"
   },
   {
@@ -1864,11 +1832,11 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "lambda_dom": 2.29,
-    "lambda_ext": 1.36,
-    "p1": 0.581,
-    "pN": 0.201,
-    "p2": 0.217,
+    "lambda_dom": 2.28,
+    "lambda_ext": 1.38,
+    "p1": 0.574,
+    "pN": 0.203,
+    "p2": 0.222,
     "score_probable": "2-1"
   },
   {
@@ -1883,8 +1851,8 @@
     "lambda_dom": 1.85,
     "lambda_ext": 1.29,
     "p1": 0.502,
-    "pN": 0.233,
-    "p2": 0.265,
+    "pN": 0.235,
+    "p2": 0.263,
     "score_probable": "1-1"
   },
   {
@@ -1898,9 +1866,9 @@
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 2.24,
     "lambda_ext": 1.48,
-    "p1": 0.545,
-    "pN": 0.206,
-    "p2": 0.248,
+    "p1": 0.546,
+    "pN": 0.208,
+    "p2": 0.247,
     "score_probable": "2-1"
   },
   {
@@ -1914,9 +1882,9 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.13,
     "lambda_ext": 1.32,
-    "p1": 0.315,
-    "pN": 0.28,
-    "p2": 0.406,
+    "p1": 0.314,
+    "pN": 0.282,
+    "p2": 0.404,
     "score_probable": "1-1"
   },
   {
@@ -1928,11 +1896,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 2.14,
+    "lambda_dom": 2.15,
     "lambda_ext": 0.91,
     "p1": 0.654,
-    "pN": 0.2,
-    "p2": 0.146,
+    "pN": 0.202,
+    "p2": 0.144,
     "score_probable": "2-0"
   },
   {
@@ -1944,11 +1912,11 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.63,
-    "lambda_ext": 1.28,
-    "p1": 0.454,
-    "pN": 0.249,
-    "p2": 0.296,
+    "lambda_dom": 1.62,
+    "lambda_ext": 1.27,
+    "p1": 0.452,
+    "pN": 0.253,
+    "p2": 0.295,
     "score_probable": "1-1"
   },
   {
@@ -1961,11 +1929,11 @@
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "lambda_dom": 0.94,
-    "lambda_ext": 1.71,
+    "lambda_ext": 1.7,
     "p1": 0.203,
-    "pN": 0.246,
-    "p2": 0.551,
-    "score_probable": "0-1"
+    "pN": 0.248,
+    "p2": 0.549,
+    "score_probable": "1-1"
   },
   {
     "date": "2027-02-20T00:00:00Z",
@@ -1976,11 +1944,11 @@
     "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/2.png",
-    "lambda_dom": 1.39,
-    "lambda_ext": 1.64,
-    "p1": 0.323,
+    "lambda_dom": 1.38,
+    "lambda_ext": 1.66,
+    "p1": 0.316,
     "pN": 0.246,
-    "p2": 0.431,
+    "p2": 0.438,
     "score_probable": "1-1"
   },
   {
@@ -1995,8 +1963,8 @@
     "lambda_dom": 2.43,
     "lambda_ext": 1.25,
     "p1": 0.631,
-    "pN": 0.189,
-    "p2": 0.181,
+    "pN": 0.19,
+    "p2": 0.179,
     "score_probable": "2-1"
   },
   {
@@ -2008,11 +1976,11 @@
     "court_ext": "RB Leipzig",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/721.png",
-    "lambda_dom": 1.62,
-    "lambda_ext": 2.16,
-    "p1": 0.288,
-    "pN": 0.211,
-    "p2": 0.501,
+    "lambda_dom": 1.65,
+    "lambda_ext": 2.15,
+    "p1": 0.296,
+    "pN": 0.213,
+    "p2": 0.491,
     "score_probable": "1-2"
   },
   {
@@ -2024,11 +1992,11 @@
     "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/16.png",
-    "lambda_dom": 4.15,
+    "lambda_dom": 4.16,
     "lambda_ext": 0.97,
     "p1": 0.891,
     "pN": 0.07,
-    "p2": 0.04,
+    "p2": 0.039,
     "score_probable": "4-0"
   },
   {
@@ -2040,11 +2008,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.92,
-    "lambda_ext": 1.18,
-    "p1": 0.543,
-    "pN": 0.227,
-    "p2": 0.229,
+    "lambda_dom": 1.91,
+    "lambda_ext": 1.17,
+    "p1": 0.544,
+    "pN": 0.23,
+    "p2": 0.226,
     "score_probable": "1-1"
   },
   {
@@ -2056,11 +2024,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 2.37,
+    "lambda_dom": 2.42,
     "lambda_ext": 0.94,
-    "p1": 0.689,
-    "pN": 0.181,
-    "p2": 0.131,
+    "p1": 0.698,
+    "pN": 0.178,
+    "p2": 0.125,
     "score_probable": "2-0"
   },
   {
@@ -2072,11 +2040,11 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "lambda_dom": 1.83,
-    "lambda_ext": 1.58,
-    "p1": 0.436,
-    "pN": 0.23,
-    "p2": 0.334,
+    "lambda_dom": 1.81,
+    "lambda_ext": 1.6,
+    "p1": 0.428,
+    "pN": 0.232,
+    "p2": 0.34,
     "score_probable": "1-1"
   },
   {
@@ -2091,8 +2059,8 @@
     "lambda_dom": 1.81,
     "lambda_ext": 1.63,
     "p1": 0.422,
-    "pN": 0.23,
-    "p2": 0.348,
+    "pN": 0.231,
+    "p2": 0.346,
     "score_probable": "1-1"
   },
   {
@@ -2106,9 +2074,9 @@
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 1.97,
     "lambda_ext": 1.45,
-    "p1": 0.494,
-    "pN": 0.224,
-    "p2": 0.282,
+    "p1": 0.495,
+    "pN": 0.225,
+    "p2": 0.28,
     "score_probable": "1-1"
   },
   {
@@ -2123,8 +2091,8 @@
     "lambda_dom": 1.57,
     "lambda_ext": 0.97,
     "p1": 0.508,
-    "pN": 0.26,
-    "p2": 0.231,
+    "pN": 0.262,
+    "p2": 0.23,
     "score_probable": "1-1"
   },
   {
@@ -2139,7 +2107,7 @@
     "lambda_dom": 2.29,
     "lambda_ext": 1.18,
     "p1": 0.62,
-    "pN": 0.197,
+    "pN": 0.198,
     "p2": 0.182,
     "score_probable": "2-1"
   },
@@ -2155,8 +2123,8 @@
     "lambda_dom": 1.34,
     "lambda_ext": 1.12,
     "p1": 0.415,
-    "pN": 0.278,
-    "p2": 0.307,
+    "pN": 0.28,
+    "p2": 0.306,
     "score_probable": "1-1"
   },
   {
@@ -2169,10 +2137,10 @@
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "lambda_dom": 1.7,
-    "lambda_ext": 2.51,
+    "lambda_ext": 2.5,
     "p1": 0.254,
-    "pN": 0.192,
-    "p2": 0.554,
+    "pN": 0.193,
+    "p2": 0.553,
     "score_probable": "1-2"
   },
   {
@@ -2184,11 +2152,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 2.35,
-    "lambda_ext": 0.64,
-    "p1": 0.755,
-    "pN": 0.164,
-    "p2": 0.081,
+    "lambda_dom": 2.33,
+    "lambda_ext": 0.63,
+    "p1": 0.754,
+    "pN": 0.166,
+    "p2": 0.08,
     "score_probable": "2-0"
   },
   {
@@ -2200,11 +2168,11 @@
     "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/4.png",
-    "lambda_dom": 1.13,
-    "lambda_ext": 1.96,
-    "p1": 0.212,
-    "pN": 0.224,
-    "p2": 0.564,
+    "lambda_dom": 1.15,
+    "lambda_ext": 1.95,
+    "p1": 0.218,
+    "pN": 0.226,
+    "p2": 0.556,
     "score_probable": "1-1"
   },
   {
@@ -2216,11 +2184,11 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.31,
-    "lambda_ext": 1.05,
-    "p1": 0.422,
-    "pN": 0.283,
-    "p2": 0.294,
+    "lambda_dom": 1.3,
+    "lambda_ext": 1.04,
+    "p1": 0.42,
+    "pN": 0.287,
+    "p2": 0.293,
     "score_probable": "1-1"
   },
   {
@@ -2235,8 +2203,8 @@
     "lambda_dom": 2.36,
     "lambda_ext": 1.5,
     "p1": 0.565,
-    "pN": 0.199,
-    "p2": 0.237,
+    "pN": 0.2,
+    "p2": 0.235,
     "score_probable": "2-1"
   },
   {
@@ -2265,10 +2233,10 @@
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "lambda_dom": 1.68,
-    "lambda_ext": 1.38,
+    "lambda_ext": 1.37,
     "p1": 0.444,
-    "pN": 0.244,
-    "p2": 0.312,
+    "pN": 0.245,
+    "p2": 0.31,
     "score_probable": "1-1"
   },
   {
@@ -2280,10 +2248,10 @@
     "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/16.png",
-    "lambda_dom": 1.51,
-    "lambda_ext": 1.48,
-    "p1": 0.383,
-    "pN": 0.25,
+    "lambda_dom": 1.49,
+    "lambda_ext": 1.47,
+    "p1": 0.379,
+    "pN": 0.253,
     "p2": 0.367,
     "score_probable": "1-1"
   },
@@ -2298,9 +2266,9 @@
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.51,
     "lambda_ext": 2.0,
-    "p1": 0.29,
-    "pN": 0.221,
-    "p2": 0.489,
+    "p1": 0.289,
+    "pN": 0.223,
+    "p2": 0.488,
     "score_probable": "1-1"
   },
   {
@@ -2315,8 +2283,8 @@
     "lambda_dom": 1.38,
     "lambda_ext": 1.92,
     "p1": 0.272,
-    "pN": 0.227,
-    "p2": 0.501,
+    "pN": 0.229,
+    "p2": 0.499,
     "score_probable": "1-1"
   },
   {
@@ -2329,10 +2297,10 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "lambda_dom": 1.24,
-    "lambda_ext": 1.01,
-    "p1": 0.412,
-    "pN": 0.292,
-    "p2": 0.296,
+    "lambda_ext": 1.03,
+    "p1": 0.406,
+    "pN": 0.293,
+    "p2": 0.301,
     "score_probable": "1-1"
   },
   {
@@ -2347,8 +2315,8 @@
     "lambda_dom": 1.54,
     "lambda_ext": 1.75,
     "p1": 0.338,
-    "pN": 0.235,
-    "p2": 0.427,
+    "pN": 0.237,
+    "p2": 0.425,
     "score_probable": "1-1"
   },
   {
@@ -2363,9 +2331,9 @@
     "lambda_dom": 2.06,
     "lambda_ext": 1.27,
     "p1": 0.553,
-    "pN": 0.217,
-    "p2": 0.23,
-    "score_probable": "2-1"
+    "pN": 0.218,
+    "p2": 0.229,
+    "score_probable": "1-1"
   },
   {
     "date": "2027-03-06T00:00:00Z",
@@ -2376,11 +2344,11 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 1.92,
-    "lambda_ext": 1.44,
-    "p1": 0.487,
-    "pN": 0.227,
-    "p2": 0.286,
+    "lambda_dom": 1.93,
+    "lambda_ext": 1.43,
+    "p1": 0.488,
+    "pN": 0.228,
+    "p2": 0.284,
     "score_probable": "1-1"
   },
   {
@@ -2392,11 +2360,11 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "lambda_dom": 1.6,
-    "lambda_ext": 1.48,
-    "p1": 0.402,
+    "lambda_dom": 1.59,
+    "lambda_ext": 1.54,
+    "p1": 0.387,
     "pN": 0.245,
-    "p2": 0.353,
+    "p2": 0.368,
     "score_probable": "1-1"
   },
   {
@@ -2410,9 +2378,9 @@
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 2.18,
     "lambda_ext": 1.6,
-    "p1": 0.507,
-    "pN": 0.21,
-    "p2": 0.282,
+    "p1": 0.508,
+    "pN": 0.212,
+    "p2": 0.281,
     "score_probable": "2-1"
   },
   {
@@ -2426,9 +2394,9 @@
     "logo_ext": "https://crests.football-data.org/6.png",
     "lambda_dom": 2.14,
     "lambda_ext": 0.78,
-    "p1": 0.684,
+    "p1": 0.685,
     "pN": 0.195,
-    "p2": 0.121,
+    "p2": 0.12,
     "score_probable": "2-0"
   },
   {
@@ -2442,9 +2410,9 @@
     "logo_ext": "https://crests.football-data.org/18.png",
     "lambda_dom": 1.42,
     "lambda_ext": 1.06,
-    "p1": 0.449,
-    "pN": 0.274,
-    "p2": 0.277,
+    "p1": 0.448,
+    "pN": 0.276,
+    "p2": 0.276,
     "score_probable": "1-1"
   },
   {
@@ -2456,11 +2424,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.67,
-    "lambda_ext": 1.17,
+    "lambda_dom": 1.65,
+    "lambda_ext": 1.14,
     "p1": 0.486,
-    "pN": 0.249,
-    "p2": 0.266,
+    "pN": 0.253,
+    "p2": 0.261,
     "score_probable": "1-1"
   },
   {
@@ -2473,10 +2441,10 @@
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "lambda_dom": 2.17,
-    "lambda_ext": 1.25,
+    "lambda_ext": 1.24,
     "p1": 0.582,
-    "pN": 0.208,
-    "p2": 0.21,
+    "pN": 0.21,
+    "p2": 0.209,
     "score_probable": "2-1"
   },
   {
@@ -2488,10 +2456,10 @@
     "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/17.png",
-    "lambda_dom": 1.32,
-    "lambda_ext": 1.59,
-    "p1": 0.315,
-    "pN": 0.251,
+    "lambda_dom": 1.3,
+    "lambda_ext": 1.58,
+    "p1": 0.312,
+    "pN": 0.255,
     "p2": 0.434,
     "score_probable": "1-1"
   },
@@ -2506,9 +2474,9 @@
     "logo_ext": "https://crests.football-data.org/4.png",
     "lambda_dom": 1.05,
     "lambda_ext": 1.81,
-    "p1": 0.215,
-    "pN": 0.236,
-    "p2": 0.549,
+    "p1": 0.214,
+    "pN": 0.238,
+    "p2": 0.548,
     "score_probable": "1-1"
   },
   {
@@ -2520,11 +2488,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 1.76,
-    "lambda_ext": 1.18,
-    "p1": 0.508,
-    "pN": 0.241,
-    "p2": 0.251,
+    "lambda_dom": 1.8,
+    "lambda_ext": 1.17,
+    "p1": 0.518,
+    "pN": 0.239,
+    "p2": 0.243,
     "score_probable": "1-1"
   },
   {
@@ -2537,10 +2505,10 @@
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.52,
-    "lambda_ext": 1.95,
+    "lambda_ext": 1.94,
     "p1": 0.3,
-    "pN": 0.224,
-    "p2": 0.475,
+    "pN": 0.226,
+    "p2": 0.473,
     "score_probable": "1-1"
   },
   {
@@ -2552,11 +2520,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.53,
-    "lambda_ext": 1.12,
-    "p1": 0.465,
-    "pN": 0.261,
-    "p2": 0.274,
+    "lambda_dom": 1.57,
+    "lambda_ext": 1.11,
+    "p1": 0.474,
+    "pN": 0.26,
+    "p2": 0.265,
     "score_probable": "1-1"
   },
   {
@@ -2569,10 +2537,10 @@
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/10.png",
     "lambda_dom": 1.46,
-    "lambda_ext": 1.83,
+    "lambda_ext": 1.82,
     "p1": 0.306,
-    "pN": 0.233,
-    "p2": 0.461,
+    "pN": 0.235,
+    "p2": 0.46,
     "score_probable": "1-1"
   },
   {
@@ -2584,11 +2552,11 @@
     "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/2.png",
-    "lambda_dom": 1.24,
+    "lambda_dom": 1.25,
     "lambda_ext": 1.43,
     "p1": 0.323,
-    "pN": 0.265,
-    "p2": 0.412,
+    "pN": 0.267,
+    "p2": 0.41,
     "score_probable": "1-1"
   },
   {
@@ -2616,10 +2584,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 2.49,
-    "lambda_ext": 1.1,
-    "p1": 0.675,
-    "pN": 0.178,
+    "lambda_dom": 2.47,
+    "lambda_ext": 1.09,
+    "p1": 0.672,
+    "pN": 0.181,
     "p2": 0.147,
     "score_probable": "2-1"
   },
@@ -2633,10 +2601,10 @@
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "lambda_dom": 1.09,
-    "lambda_ext": 3.22,
-    "p1": 0.091,
-    "pN": 0.125,
-    "p2": 0.784,
+    "lambda_ext": 3.18,
+    "p1": 0.092,
+    "pN": 0.128,
+    "p2": 0.78,
     "score_probable": "1-3"
   },
   {
@@ -2649,10 +2617,10 @@
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 2.49,
-    "lambda_ext": 1.5,
-    "p1": 0.591,
-    "pN": 0.19,
-    "p2": 0.219,
+    "lambda_ext": 1.53,
+    "p1": 0.584,
+    "pN": 0.192,
+    "p2": 0.225,
     "score_probable": "2-1"
   },
   {
@@ -2667,7 +2635,7 @@
     "lambda_dom": 2.36,
     "lambda_ext": 0.68,
     "p1": 0.748,
-    "pN": 0.166,
+    "pN": 0.167,
     "p2": 0.086,
     "score_probable": "2-0"
   },
@@ -2681,10 +2649,10 @@
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 1.87,
-    "lambda_ext": 1.45,
+    "lambda_ext": 1.44,
     "p1": 0.474,
-    "pN": 0.23,
-    "p2": 0.296,
+    "pN": 0.232,
+    "p2": 0.295,
     "score_probable": "1-1"
   },
   {
@@ -2696,11 +2664,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 2.08,
+    "lambda_dom": 2.09,
     "lambda_ext": 0.84,
     "p1": 0.657,
-    "pN": 0.204,
-    "p2": 0.139,
+    "pN": 0.205,
+    "p2": 0.138,
     "score_probable": "2-0"
   },
   {
@@ -2712,11 +2680,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 2.58,
-    "lambda_ext": 0.91,
+    "lambda_dom": 2.57,
+    "lambda_ext": 0.9,
     "p1": 0.731,
-    "pN": 0.161,
-    "p2": 0.108,
+    "pN": 0.163,
+    "p2": 0.107,
     "score_probable": "2-0"
   },
   {
@@ -2729,10 +2697,10 @@
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 2.12,
-    "lambda_ext": 1.27,
+    "lambda_ext": 1.26,
     "p1": 0.567,
-    "pN": 0.213,
-    "p2": 0.221,
+    "pN": 0.214,
+    "p2": 0.219,
     "score_probable": "2-1"
   },
   {
@@ -2745,10 +2713,10 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/12.png",
     "lambda_dom": 1.39,
-    "lambda_ext": 1.24,
-    "p1": 0.402,
-    "pN": 0.268,
-    "p2": 0.329,
+    "lambda_ext": 1.26,
+    "p1": 0.395,
+    "pN": 0.27,
+    "p2": 0.335,
     "score_probable": "1-1"
   },
   {
@@ -2762,9 +2730,9 @@
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 1.22,
     "lambda_ext": 1.61,
-    "p1": 0.286,
-    "pN": 0.252,
-    "p2": 0.462,
+    "p1": 0.285,
+    "pN": 0.254,
+    "p2": 0.46,
     "score_probable": "1-1"
   },
   {
@@ -2777,10 +2745,10 @@
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 2.23,
-    "lambda_ext": 1.25,
+    "lambda_ext": 1.24,
     "p1": 0.594,
-    "pN": 0.204,
-    "p2": 0.203,
+    "pN": 0.205,
+    "p2": 0.201,
     "score_probable": "2-1"
   },
   {
@@ -2792,10 +2760,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 1.94,
-    "lambda_ext": 1.29,
-    "p1": 0.522,
-    "pN": 0.227,
+    "lambda_dom": 1.92,
+    "lambda_ext": 1.28,
+    "p1": 0.519,
+    "pN": 0.23,
     "p2": 0.251,
     "score_probable": "1-1"
   },
@@ -2808,12 +2776,12 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 3.97,
+    "lambda_dom": 4.05,
     "lambda_ext": 0.73,
-    "p1": 0.908,
-    "pN": 0.064,
-    "p2": 0.029,
-    "score_probable": "3-0"
+    "p1": 0.913,
+    "pN": 0.06,
+    "p2": 0.027,
+    "score_probable": "4-0"
   },
   {
     "date": "2027-04-03T00:00:00Z",
@@ -2826,9 +2794,9 @@
     "logo_ext": "https://crests.football-data.org/2.png",
     "lambda_dom": 1.85,
     "lambda_ext": 1.71,
-    "p1": 0.414,
-    "pN": 0.225,
-    "p2": 0.36,
+    "p1": 0.415,
+    "pN": 0.227,
+    "p2": 0.358,
     "score_probable": "1-1"
   },
   {
@@ -2843,8 +2811,8 @@
     "lambda_dom": 1.55,
     "lambda_ext": 1.32,
     "p1": 0.425,
-    "pN": 0.254,
-    "p2": 0.321,
+    "pN": 0.256,
+    "p2": 0.319,
     "score_probable": "1-1"
   },
   {
@@ -2856,11 +2824,11 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "lambda_dom": 1.75,
-    "lambda_ext": 2.1,
-    "p1": 0.325,
-    "pN": 0.213,
-    "p2": 0.461,
+    "lambda_dom": 1.79,
+    "lambda_ext": 2.09,
+    "p1": 0.334,
+    "pN": 0.214,
+    "p2": 0.451,
     "score_probable": "1-2"
   },
   {
@@ -2872,11 +2840,11 @@
     "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/15.png",
-    "lambda_dom": 1.5,
-    "lambda_ext": 1.44,
-    "p1": 0.386,
-    "pN": 0.252,
-    "p2": 0.362,
+    "lambda_dom": 1.48,
+    "lambda_ext": 1.43,
+    "p1": 0.383,
+    "pN": 0.256,
+    "p2": 0.361,
     "score_probable": "1-1"
   },
   {
@@ -2891,8 +2859,8 @@
     "lambda_dom": 1.35,
     "lambda_ext": 1.55,
     "p1": 0.33,
-    "pN": 0.253,
-    "p2": 0.417,
+    "pN": 0.255,
+    "p2": 0.415,
     "score_probable": "1-1"
   },
   {
@@ -2904,11 +2872,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 1.11,
+    "lambda_dom": 1.12,
     "lambda_ext": 0.89,
     "p1": 0.403,
-    "pN": 0.313,
-    "p2": 0.284,
+    "pN": 0.315,
+    "p2": 0.282,
     "score_probable": "1-0"
   },
   {
@@ -2922,9 +2890,9 @@
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 2.55,
     "lambda_ext": 1.24,
-    "p1": 0.654,
-    "pN": 0.179,
-    "p2": 0.166,
+    "p1": 0.655,
+    "pN": 0.18,
+    "p2": 0.165,
     "score_probable": "2-1"
   },
   {
@@ -2939,7 +2907,7 @@
     "lambda_dom": 0.92,
     "lambda_ext": 2.73,
     "p1": 0.099,
-    "pN": 0.149,
+    "pN": 0.151,
     "p2": 0.751,
     "score_probable": "0-2"
   },
@@ -2954,9 +2922,9 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 1.96,
     "lambda_ext": 1.51,
-    "p1": 0.48,
-    "pN": 0.224,
-    "p2": 0.296,
+    "p1": 0.479,
+    "pN": 0.225,
+    "p2": 0.295,
     "score_probable": "1-1"
   },
   {
@@ -2969,10 +2937,10 @@
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.48,
-    "lambda_ext": 1.93,
-    "p1": 0.296,
-    "pN": 0.226,
-    "p2": 0.478,
+    "lambda_ext": 1.92,
+    "p1": 0.295,
+    "pN": 0.228,
+    "p2": 0.477,
     "score_probable": "1-1"
   },
   {
@@ -2985,10 +2953,10 @@
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 1.88,
-    "lambda_ext": 1.5,
-    "p1": 0.465,
-    "pN": 0.228,
-    "p2": 0.307,
+    "lambda_ext": 1.53,
+    "p1": 0.457,
+    "pN": 0.23,
+    "p2": 0.313,
     "score_probable": "1-1"
   },
   {
@@ -3000,11 +2968,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.94,
+    "lambda_dom": 1.95,
     "lambda_ext": 0.54,
     "p1": 0.706,
-    "pN": 0.202,
-    "p2": 0.092,
+    "pN": 0.203,
+    "p2": 0.091,
     "score_probable": "1-0"
   },
   {
@@ -3016,11 +2984,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.46,
-    "lambda_ext": 1.1,
-    "p1": 0.45,
-    "pN": 0.268,
-    "p2": 0.282,
+    "lambda_dom": 1.44,
+    "lambda_ext": 1.11,
+    "p1": 0.444,
+    "pN": 0.272,
+    "p2": 0.285,
     "score_probable": "1-1"
   },
   {
@@ -3035,8 +3003,8 @@
     "lambda_dom": 1.41,
     "lambda_ext": 1.9,
     "p1": 0.283,
-    "pN": 0.229,
-    "p2": 0.488,
+    "pN": 0.23,
+    "p2": 0.487,
     "score_probable": "1-1"
   },
   {
@@ -3048,11 +3016,11 @@
     "court_ext": "Augsburg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/16.png",
-    "lambda_dom": 1.65,
-    "lambda_ext": 1.49,
+    "lambda_dom": 1.64,
+    "lambda_ext": 1.47,
     "p1": 0.414,
-    "pN": 0.242,
-    "p2": 0.344,
+    "pN": 0.245,
+    "p2": 0.341,
     "score_probable": "1-1"
   },
   {
@@ -3064,11 +3032,11 @@
     "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/12.png",
-    "lambda_dom": 2.36,
+    "lambda_dom": 2.37,
     "lambda_ext": 1.13,
     "p1": 0.645,
-    "pN": 0.19,
-    "p2": 0.166,
+    "pN": 0.191,
+    "p2": 0.164,
     "score_probable": "2-1"
   },
   {
@@ -3080,11 +3048,11 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "lambda_dom": 2.08,
-    "lambda_ext": 1.36,
-    "p1": 0.538,
-    "pN": 0.217,
-    "p2": 0.246,
+    "lambda_dom": 2.12,
+    "lambda_ext": 1.35,
+    "p1": 0.548,
+    "pN": 0.215,
+    "p2": 0.237,
     "score_probable": "2-1"
   },
   {
@@ -3096,10 +3064,10 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "lambda_dom": 1.3,
-    "lambda_ext": 1.91,
-    "p1": 0.256,
-    "pN": 0.228,
+    "lambda_dom": 1.28,
+    "lambda_ext": 1.9,
+    "p1": 0.254,
+    "pN": 0.231,
     "p2": 0.515,
     "score_probable": "1-1"
   },
@@ -3112,12 +3080,12 @@
     "court_ext": "Hoffenheim",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/2.png",
-    "lambda_dom": 4.0,
+    "lambda_dom": 4.01,
     "lambda_ext": 1.14,
-    "p1": 0.857,
+    "p1": 0.858,
     "pN": 0.085,
-    "p2": 0.058,
-    "score_probable": "3-1"
+    "p2": 0.057,
+    "score_probable": "4-1"
   },
   {
     "date": "2027-04-17T00:00:00Z",
@@ -3128,11 +3096,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.23,
+    "lambda_dom": 1.26,
     "lambda_ext": 0.92,
-    "p1": 0.43,
-    "pN": 0.298,
-    "p2": 0.272,
+    "p1": 0.438,
+    "pN": 0.297,
+    "p2": 0.265,
     "score_probable": "1-0"
   },
   {
@@ -3144,11 +3112,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/719.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 1.64,
+    "lambda_dom": 1.65,
     "lambda_ext": 1.09,
     "p1": 0.499,
-    "pN": 0.252,
-    "p2": 0.249,
+    "pN": 0.254,
+    "p2": 0.247,
     "score_probable": "1-1"
   },
   {
@@ -3161,10 +3129,10 @@
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/4.png",
     "lambda_dom": 1.06,
-    "lambda_ext": 1.77,
+    "lambda_ext": 1.76,
     "p1": 0.223,
-    "pN": 0.24,
-    "p2": 0.537,
+    "pN": 0.243,
+    "p2": 0.534,
     "score_probable": "1-1"
   },
   {
@@ -3177,10 +3145,10 @@
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/15.png",
     "lambda_dom": 2.04,
-    "lambda_ext": 1.25,
-    "p1": 0.555,
-    "pN": 0.218,
-    "p2": 0.227,
+    "lambda_ext": 1.24,
+    "p1": 0.556,
+    "pN": 0.22,
+    "p2": 0.225,
     "score_probable": "1-1"
   },
   {
@@ -3192,10 +3160,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 2.6,
-    "lambda_ext": 1.0,
-    "p1": 0.716,
-    "pN": 0.164,
+    "lambda_dom": 2.57,
+    "lambda_ext": 0.99,
+    "p1": 0.713,
+    "pN": 0.167,
     "p2": 0.12,
     "score_probable": "2-0"
   },
@@ -3209,10 +3177,10 @@
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/5.png",
     "lambda_dom": 1.13,
-    "lambda_ext": 3.06,
+    "lambda_ext": 3.05,
     "p1": 0.106,
-    "pN": 0.138,
-    "p2": 0.757,
+    "pN": 0.139,
+    "p2": 0.756,
     "score_probable": "1-3"
   },
   {
@@ -3224,11 +3192,11 @@
     "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/15.png",
-    "lambda_dom": 1.63,
-    "lambda_ext": 1.45,
+    "lambda_dom": 1.62,
+    "lambda_ext": 1.43,
     "p1": 0.417,
-    "pN": 0.244,
-    "p2": 0.339,
+    "pN": 0.247,
+    "p2": 0.335,
     "score_probable": "1-1"
   },
   {
@@ -3241,10 +3209,10 @@
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/719.png",
     "lambda_dom": 1.48,
-    "lambda_ext": 1.38,
-    "p1": 0.394,
-    "pN": 0.256,
-    "p2": 0.35,
+    "lambda_ext": 1.41,
+    "p1": 0.387,
+    "pN": 0.257,
+    "p2": 0.356,
     "score_probable": "1-1"
   },
   {
@@ -3257,10 +3225,10 @@
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.84,
-    "lambda_ext": 1.08,
+    "lambda_ext": 1.07,
     "p1": 0.549,
-    "pN": 0.234,
-    "p2": 0.217,
+    "pN": 0.236,
+    "p2": 0.215,
     "score_probable": "1-1"
   },
   {
@@ -3272,11 +3240,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 2.27,
-    "lambda_ext": 1.11,
+    "lambda_dom": 2.26,
+    "lambda_ext": 1.09,
     "p1": 0.633,
-    "pN": 0.196,
-    "p2": 0.171,
+    "pN": 0.198,
+    "p2": 0.169,
     "score_probable": "2-1"
   },
   {
@@ -3290,9 +3258,9 @@
     "logo_ext": "https://crests.football-data.org/16.png",
     "lambda_dom": 1.39,
     "lambda_ext": 1.26,
-    "p1": 0.397,
-    "pN": 0.267,
-    "p2": 0.336,
+    "p1": 0.396,
+    "pN": 0.269,
+    "p2": 0.335,
     "score_probable": "1-1"
   },
   {
@@ -3306,9 +3274,9 @@
     "logo_ext": "https://crests.football-data.org/17.png",
     "lambda_dom": 2.17,
     "lambda_ext": 1.35,
-    "p1": 0.559,
-    "pN": 0.21,
-    "p2": 0.231,
+    "p1": 0.558,
+    "pN": 0.211,
+    "p2": 0.23,
     "score_probable": "2-1"
   },
   {
@@ -3320,11 +3288,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/18.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.34,
+    "lambda_dom": 1.35,
     "lambda_ext": 1.0,
-    "p1": 0.442,
-    "pN": 0.283,
-    "p2": 0.275,
+    "p1": 0.443,
+    "pN": 0.284,
+    "p2": 0.273,
     "score_probable": "1-1"
   },
   {
@@ -3336,12 +3304,12 @@
     "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/3.png",
-    "lambda_dom": 1.79,
-    "lambda_ext": 2.07,
-    "p1": 0.338,
-    "pN": 0.214,
-    "p2": 0.448,
-    "score_probable": "1-2"
+    "lambda_dom": 1.83,
+    "lambda_ext": 2.06,
+    "p1": 0.347,
+    "pN": 0.215,
+    "p2": 0.438,
+    "score_probable": "1-1"
   },
   {
     "date": "2027-05-08T00:00:00Z",
@@ -3353,10 +3321,10 @@
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/19.png",
     "lambda_dom": 1.43,
-    "lambda_ext": 1.3,
-    "p1": 0.398,
+    "lambda_ext": 1.33,
+    "p1": 0.391,
     "pN": 0.263,
-    "p2": 0.339,
+    "p2": 0.345,
     "score_probable": "1-1"
   },
   {
@@ -3368,11 +3336,11 @@
     "court_ext": "SC Paderborn",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/29.png",
-    "lambda_dom": 2.2,
+    "lambda_dom": 2.21,
     "lambda_ext": 0.84,
-    "p1": 0.682,
-    "pN": 0.191,
-    "p2": 0.127,
+    "p1": 0.683,
+    "pN": 0.192,
+    "p2": 0.125,
     "score_probable": "2-0"
   },
   {
@@ -3384,10 +3352,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 2.1,
-    "lambda_ext": 1.1,
-    "p1": 0.601,
-    "pN": 0.211,
+    "lambda_dom": 2.08,
+    "lambda_ext": 1.09,
+    "p1": 0.598,
+    "pN": 0.214,
     "p2": 0.188,
     "score_probable": "2-1"
   },
@@ -3400,11 +3368,11 @@
     "court_ext": "Dortmund",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/4.png",
-    "lambda_dom": 1.04,
+    "lambda_dom": 1.03,
     "lambda_ext": 1.75,
-    "p1": 0.22,
-    "pN": 0.242,
-    "p2": 0.538,
+    "p1": 0.219,
+    "pN": 0.244,
+    "p2": 0.536,
     "score_probable": "1-1"
   },
   {
@@ -3416,11 +3384,11 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "lambda_dom": 1.64,
+    "lambda_dom": 1.65,
     "lambda_ext": 1.89,
     "p1": 0.337,
-    "pN": 0.225,
-    "p2": 0.438,
+    "pN": 0.227,
+    "p2": 0.436,
     "score_probable": "1-1"
   },
   {
@@ -3432,10 +3400,10 @@
     "court_ext": "Bremen",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/12.png",
-    "lambda_dom": 1.46,
-    "lambda_ext": 1.31,
-    "p1": 0.404,
-    "pN": 0.26,
+    "lambda_dom": 1.44,
+    "lambda_ext": 1.3,
+    "p1": 0.401,
+    "pN": 0.264,
     "p2": 0.335,
     "score_probable": "1-1"
   },
@@ -3451,8 +3419,8 @@
     "lambda_dom": 1.83,
     "lambda_ext": 1.76,
     "p1": 0.403,
-    "pN": 0.225,
-    "p2": 0.373,
+    "pN": 0.226,
+    "p2": 0.371,
     "score_probable": "1-1"
   },
   {
@@ -3464,11 +3432,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/3.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 2.34,
+    "lambda_dom": 2.39,
     "lambda_ext": 0.96,
-    "p1": 0.678,
-    "pN": 0.185,
-    "p2": 0.137,
+    "p1": 0.688,
+    "pN": 0.181,
+    "p2": 0.131,
     "score_probable": "2-0"
   },
   {
@@ -3480,9 +3448,9 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "lambda_dom": 4.23,
+    "lambda_dom": 4.24,
     "lambda_ext": 0.81,
-    "p1": 0.913,
+    "p1": 0.914,
     "pN": 0.058,
     "p2": 0.028,
     "score_probable": "4-0"
@@ -3496,11 +3464,11 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/19.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "lambda_dom": 2.09,
-    "lambda_ext": 1.61,
-    "p1": 0.489,
-    "pN": 0.215,
-    "p2": 0.296,
+    "lambda_dom": 2.14,
+    "lambda_ext": 1.6,
+    "p1": 0.5,
+    "pN": 0.214,
+    "p2": 0.286,
     "score_probable": "2-1"
   },
   {
@@ -3512,11 +3480,11 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "lambda_dom": 1.41,
-    "lambda_ext": 1.0,
+    "lambda_dom": 1.4,
+    "lambda_ext": 0.98,
     "p1": 0.461,
-    "pN": 0.276,
-    "p2": 0.263,
+    "pN": 0.28,
+    "p2": 0.259,
     "score_probable": "1-1"
   },
   {
@@ -3529,10 +3497,10 @@
     "logo_dom": "https://crests.football-data.org/10.png",
     "logo_ext": "https://crests.football-data.org/721.png",
     "lambda_dom": 1.97,
-    "lambda_ext": 1.67,
+    "lambda_ext": 1.66,
     "p1": 0.449,
-    "pN": 0.221,
-    "p2": 0.33,
+    "pN": 0.222,
+    "p2": 0.328,
     "score_probable": "1-1"
   },
   {
@@ -3544,10 +3512,10 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/4.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 2.36,
+    "lambda_dom": 2.34,
     "lambda_ext": 0.69,
-    "p1": 0.744,
-    "pN": 0.167,
+    "p1": 0.741,
+    "pN": 0.17,
     "p2": 0.089,
     "score_probable": "2-0"
   },
@@ -3560,11 +3528,11 @@
     "court_ext": "Freiburg",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/17.png",
-    "lambda_dom": 1.26,
-    "lambda_ext": 1.5,
-    "p1": 0.315,
+    "lambda_dom": 1.25,
+    "lambda_ext": 1.53,
+    "p1": 0.308,
     "pN": 0.26,
-    "p2": 0.425,
+    "p2": 0.432,
     "score_probable": "1-1"
   },
   {
@@ -3579,8 +3547,8 @@
     "lambda_dom": 1.63,
     "lambda_ext": 2.77,
     "p1": 0.209,
-    "pN": 0.175,
-    "p2": 0.616,
+    "pN": 0.176,
+    "p2": 0.615,
     "score_probable": "1-2"
   },
   {
@@ -3592,11 +3560,11 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "lambda_dom": 1.42,
+    "lambda_dom": 1.43,
     "lambda_ext": 0.95,
     "p1": 0.476,
-    "pN": 0.276,
-    "p2": 0.248,
+    "pN": 0.278,
+    "p2": 0.246,
     "score_probable": "1-1"
   },
   {
@@ -3611,8 +3579,8 @@
     "lambda_dom": 1.61,
     "lambda_ext": 1.49,
     "p1": 0.404,
-    "pN": 0.245,
-    "p2": 0.352,
+    "pN": 0.246,
+    "p2": 0.35,
     "score_probable": "1-1"
   },
   {
@@ -3627,8 +3595,8 @@
     "lambda_dom": 2.23,
     "lambda_ext": 1.37,
     "p1": 0.565,
-    "pN": 0.206,
-    "p2": 0.229,
+    "pN": 0.207,
+    "p2": 0.227,
     "score_probable": "2-1"
   },
   {
@@ -3641,10 +3609,10 @@
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "lambda_dom": 2.46,
-    "lambda_ext": 1.36,
-    "p1": 0.614,
-    "pN": 0.189,
-    "p2": 0.197,
+    "lambda_ext": 1.35,
+    "p1": 0.615,
+    "pN": 0.19,
+    "p2": 0.195,
     "score_probable": "2-1"
   },
   {
@@ -3656,10 +3624,10 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/28.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "lambda_dom": 1.54,
-    "lambda_ext": 1.24,
-    "p1": 0.44,
-    "pN": 0.257,
+    "lambda_dom": 1.52,
+    "lambda_ext": 1.23,
+    "p1": 0.436,
+    "pN": 0.261,
     "p2": 0.303,
     "score_probable": "1-1"
   },
@@ -3675,8 +3643,8 @@
     "lambda_dom": 1.61,
     "lambda_ext": 1.87,
     "p1": 0.332,
-    "pN": 0.227,
-    "p2": 0.441,
+    "pN": 0.229,
+    "p2": 0.44,
     "score_probable": "1-1"
   },
   {
@@ -3690,9 +3658,9 @@
     "logo_ext": "https://crests.football-data.org/3.png",
     "lambda_dom": 1.13,
     "lambda_ext": 1.56,
-    "p1": 0.272,
-    "pN": 0.258,
-    "p2": 0.47,
+    "p1": 0.271,
+    "pN": 0.26,
+    "p2": 0.468,
     "score_probable": "1-1"
   },
   {
@@ -3707,8 +3675,8 @@
     "lambda_dom": 1.84,
     "lambda_ext": 1.33,
     "p1": 0.491,
-    "pN": 0.234,
-    "p2": 0.275,
+    "pN": 0.235,
+    "p2": 0.274,
     "score_probable": "1-1"
   },
   {
@@ -3720,11 +3688,11 @@
     "court_ext": "Frankfurt",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/19.png",
-    "lambda_dom": 4.61,
-    "lambda_ext": 1.03,
-    "p1": 0.911,
-    "pN": 0.056,
-    "p2": 0.032,
+    "lambda_dom": 4.6,
+    "lambda_ext": 1.05,
+    "p1": 0.909,
+    "pN": 0.058,
+    "p2": 0.034,
     "score_probable": "4-1"
   },
   {
@@ -3736,11 +3704,11 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.83,
-    "lambda_ext": 1.1,
-    "p1": 0.542,
-    "pN": 0.235,
-    "p2": 0.223,
+    "lambda_dom": 1.87,
+    "lambda_ext": 1.09,
+    "p1": 0.551,
+    "pN": 0.233,
+    "p2": 0.216,
     "score_probable": "1-1"
   },
   {
@@ -3754,9 +3722,9 @@
     "logo_ext": "https://crests.football-data.org/4.png",
     "lambda_dom": 1.14,
     "lambda_ext": 1.54,
-    "p1": 0.278,
-    "pN": 0.26,
-    "p2": 0.463,
+    "p1": 0.277,
+    "pN": 0.262,
+    "p2": 0.46,
     "score_probable": "1-1"
   },
   {
@@ -3769,10 +3737,10 @@
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/29.png",
     "lambda_dom": 1.42,
-    "lambda_ext": 1.08,
+    "lambda_ext": 1.07,
     "p1": 0.445,
-    "pN": 0.272,
-    "p2": 0.282,
+    "pN": 0.276,
+    "p2": 0.279,
     "score_probable": "1-1"
   }
 ]

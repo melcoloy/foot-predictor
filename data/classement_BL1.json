@@ -84,6 +84,18 @@
     "bc": 16
   },
   {
+    "equipe": "Eintracht Frankfurt",
+    "court": "Frankfurt",
+    "logo": "https://crests.football-data.org/19.png",
+    "j": 8,
+    "g": 3,
+    "n": 2,
+    "p": 3,
+    "pts": 11,
+    "bp": 13,
+    "bc": 18
+  },
+  {
     "equipe": "1. FSV Mainz 05",
     "court": "Mainz",
     "logo": "https://crests.football-data.org/15.png",
@@ -132,6 +144,18 @@
     "bc": 16
   },
   {
+    "equipe": "1. FC Köln",
+    "court": "1. FC Köln",
+    "logo": "https://crests.football-data.org/1.png",
+    "j": 8,
+    "g": 2,
+    "n": 3,
+    "p": 3,
+    "pts": 9,
+    "bp": 9,
+    "bc": 12
+  },
+  {
     "equipe": "SC Paderborn 07",
     "court": "SC Paderborn",
     "logo": "https://crests.football-data.org/29.png",
@@ -147,37 +171,25 @@
     "equipe": "Hamburger SV",
     "court": "HSV",
     "logo": "https://crests.football-data.org/7.png",
-    "j": 7,
+    "j": 8,
     "g": 3,
     "n": 0,
-    "p": 4,
+    "p": 5,
     "pts": 9,
-    "bp": 6,
-    "bc": 16
+    "bp": 7,
+    "bc": 19
   },
   {
-    "equipe": "1. FC Köln",
-    "court": "1. FC Köln",
-    "logo": "https://crests.football-data.org/1.png",
-    "j": 7,
-    "g": 2,
-    "n": 2,
+    "equipe": "1. FC Union Berlin",
+    "court": "Union Berlin",
+    "logo": "https://crests.football-data.org/28.png",
+    "j": 8,
+    "g": 1,
+    "n": 4,
     "p": 3,
-    "pts": 8,
-    "bp": 8,
-    "bc": 11
-  },
-  {
-    "equipe": "Eintracht Frankfurt",
-    "court": "Frankfurt",
-    "logo": "https://crests.football-data.org/19.png",
-    "j": 7,
-    "g": 2,
-    "n": 2,
-    "p": 3,
-    "pts": 8,
-    "bp": 10,
-    "bc": 17
+    "pts": 7,
+    "bp": 7,
+    "bc": 19
   },
   {
     "equipe": "FC Schalke 04",
@@ -190,18 +202,6 @@
     "pts": 6,
     "bp": 4,
     "bc": 9
-  },
-  {
-    "equipe": "1. FC Union Berlin",
-    "court": "Union Berlin",
-    "logo": "https://crests.football-data.org/28.png",
-    "j": 7,
-    "g": 1,
-    "n": 3,
-    "p": 3,
-    "pts": 6,
-    "bp": 6,
-    "bc": 18
   },
   {
     "equipe": "Borussia Mönchengladbach",
