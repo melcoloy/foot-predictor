@@ -1202,7 +1202,7 @@
   {
     "id": 559641,
     "date": "2026-11-02T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
@@ -1211,8 +1211,8 @@
     "court_ext": "Brest",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/512.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 559638,

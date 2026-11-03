@@ -84,6 +84,18 @@
     "bc": 10
   },
   {
+    "equipe": "RC Deportivo La Coruña",
+    "court": "Deportivo",
+    "logo": "https://crests.football-data.org/560.png",
+    "j": 11,
+    "g": 3,
+    "n": 5,
+    "p": 3,
+    "pts": 14,
+    "bp": 15,
+    "bc": 14
+  },
+  {
     "equipe": "Villarreal CF",
     "court": "Villarreal",
     "logo": "https://crests.football-data.org/94.png",
@@ -144,18 +156,6 @@
     "bc": 16
   },
   {
-    "equipe": "RC Deportivo La Coruña",
-    "court": "Deportivo",
-    "logo": "https://crests.football-data.org/560.png",
-    "j": 10,
-    "g": 2,
-    "n": 5,
-    "p": 3,
-    "pts": 11,
-    "bp": 13,
-    "bc": 13
-  },
-  {
     "equipe": "RCD Espanyol de Barcelona",
     "court": "Espanyol",
     "logo": "https://crests.football-data.org/80.png",
@@ -171,13 +171,13 @@
     "equipe": "CA Osasuna",
     "court": "Osasuna",
     "logo": "https://crests.football-data.org/79.png",
-    "j": 10,
+    "j": 11,
     "g": 3,
     "n": 2,
-    "p": 5,
+    "p": 6,
     "pts": 11,
-    "bp": 10,
-    "bc": 20
+    "bp": 11,
+    "bc": 22
   },
   {
     "equipe": "Real Racing Club de Santander",

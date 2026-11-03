@@ -1622,7 +1622,7 @@
   {
     "id": 564731,
     "date": "2026-11-02T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "RC Deportivo La Coruña",
@@ -1631,8 +1631,8 @@
     "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/560.png",
     "logo_ext": "https://crests.football-data.org/79.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 564740,

@@ -108,16 +108,28 @@
     "bc": 13
   },
   {
+    "equipe": "Stade Brestois 29",
+    "court": "Brest",
+    "logo": "https://crests.football-data.org/512.png",
+    "j": 9,
+    "g": 3,
+    "n": 3,
+    "p": 3,
+    "pts": 12,
+    "bp": 16,
+    "bc": 12
+  },
+  {
     "equipe": "FC Lorient",
     "court": "Lorient",
     "logo": "https://crests.football-data.org/525.png",
-    "j": 8,
+    "j": 9,
     "g": 3,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 12,
     "bp": 7,
-    "bc": 6
+    "bc": 8
   },
   {
     "equipe": "Toulouse FC",
@@ -154,18 +166,6 @@
     "pts": 10,
     "bp": 13,
     "bc": 23
-  },
-  {
-    "equipe": "Stade Brestois 29",
-    "court": "Brest",
-    "logo": "https://crests.football-data.org/512.png",
-    "j": 8,
-    "g": 2,
-    "n": 3,
-    "p": 3,
-    "pts": 9,
-    "bp": 14,
-    "bc": 12
   },
   {
     "equipe": "Angers SCO",

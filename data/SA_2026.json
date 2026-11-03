@@ -1472,7 +1472,7 @@
   {
     "id": 558541,
     "date": "2026-11-02T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
@@ -1481,13 +1481,13 @@
     "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/99.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 4
   },
   {
     "id": 558545,
     "date": "2026-11-02T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
@@ -1496,8 +1496,8 @@
     "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/112.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 558537,

@@ -147,13 +147,13 @@
     "equipe": "Atalanta BC",
     "court": "Atalanta",
     "logo": "https://crests.football-data.org/102.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
     "n": 2,
-    "p": 4,
+    "p": 5,
     "pts": 11,
     "bp": 16,
-    "bc": 17
+    "bc": 20
   },
   {
     "equipe": "US Lecce",
@@ -168,16 +168,40 @@
     "bc": 21
   },
   {
+    "equipe": "Parma Calcio 1913",
+    "court": "Parma",
+    "logo": "https://crests.football-data.org/112.png",
+    "j": 10,
+    "g": 2,
+    "n": 2,
+    "p": 6,
+    "pts": 8,
+    "bp": 8,
+    "bc": 15
+  },
+  {
+    "equipe": "ACF Fiorentina",
+    "court": "Fiorentina",
+    "logo": "https://crests.football-data.org/99.png",
+    "j": 10,
+    "g": 2,
+    "n": 2,
+    "p": 6,
+    "pts": 8,
+    "bp": 15,
+    "bc": 23
+  },
+  {
     "equipe": "US Sassuolo Calcio",
     "court": "Sassuolo",
     "logo": "https://crests.football-data.org/471.png",
-    "j": 9,
+    "j": 10,
     "g": 2,
     "n": 2,
-    "p": 5,
+    "p": 6,
     "pts": 8,
-    "bp": 14,
-    "bc": 22
+    "bp": 16,
+    "bc": 26
   },
   {
     "equipe": "AC Monza",
@@ -190,30 +214,6 @@
     "pts": 7,
     "bp": 17,
     "bc": 24
-  },
-  {
-    "equipe": "ACF Fiorentina",
-    "court": "Fiorentina",
-    "logo": "https://crests.football-data.org/99.png",
-    "j": 9,
-    "g": 1,
-    "n": 2,
-    "p": 6,
-    "pts": 5,
-    "bp": 11,
-    "bc": 21
-  },
-  {
-    "equipe": "Parma Calcio 1913",
-    "court": "Parma",
-    "logo": "https://crests.football-data.org/112.png",
-    "j": 9,
-    "g": 1,
-    "n": 2,
-    "p": 6,
-    "pts": 5,
-    "bp": 5,
-    "bc": 15
   },
   {
     "equipe": "Udinese Calcio",
