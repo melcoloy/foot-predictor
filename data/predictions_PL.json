@@ -138,7 +138,7 @@
     "logo_ext": "https://crests.football-data.org/402.png",
     "lambda_dom": 1.76,
     "lambda_ext": 1.08,
-    "p1": 0.521,
+    "p1": 0.52,
     "pN": 0.259,
     "p2": 0.221,
     "score_probable": "1-1"
@@ -172,7 +172,7 @@
     "lambda_ext": 0.76,
     "p1": 0.659,
     "pN": 0.221,
-    "p2": 0.12,
+    "p2": 0.121,
     "score_probable": "2-0"
   },
   {
@@ -458,9 +458,9 @@
     "logo_ext": "https://crests.football-data.org/322.png",
     "lambda_dom": 1.26,
     "lambda_ext": 1.24,
-    "p1": 0.357,
+    "p1": 0.358,
     "pN": 0.298,
-    "p2": 0.345,
+    "p2": 0.344,
     "score_probable": "1-1"
   },
   {
@@ -508,7 +508,7 @@
     "lambda_ext": 0.9,
     "p1": 0.568,
     "pN": 0.255,
-    "p2": 0.176,
+    "p2": 0.177,
     "score_probable": "1-1"
   },
   {
@@ -586,7 +586,7 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.91,
     "lambda_ext": 1.45,
-    "p1": 0.223,
+    "p1": 0.224,
     "pN": 0.294,
     "p2": 0.483,
     "score_probable": "1-1"
@@ -938,7 +938,7 @@
     "logo_ext": "https://crests.football-data.org/66.png",
     "lambda_dom": 1.25,
     "lambda_ext": 1.71,
-    "p1": 0.266,
+    "p1": 0.267,
     "pN": 0.262,
     "p2": 0.472,
     "score_probable": "1-1"
@@ -1244,7 +1244,7 @@
     "lambda_ext": 1.77,
     "p1": 0.282,
     "pN": 0.255,
-    "p2": 0.463,
+    "p2": 0.462,
     "score_probable": "1-1"
   },
   {
@@ -1274,7 +1274,7 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.67,
     "lambda_ext": 1.83,
-    "p1": 0.118,
+    "p1": 0.119,
     "pN": 0.24,
     "p2": 0.642,
     "score_probable": "0-1"
@@ -1482,7 +1482,7 @@
     "logo_ext": "https://crests.football-data.org/354.png",
     "lambda_dom": 2.0,
     "lambda_ext": 0.94,
-    "p1": 0.611,
+    "p1": 0.61,
     "pN": 0.231,
     "p2": 0.158,
     "score_probable": "1-1"
@@ -1512,7 +1512,7 @@
     "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/322.png",
-    "lambda_dom": 1.23,
+    "lambda_dom": 1.24,
     "lambda_ext": 1.07,
     "p1": 0.385,
     "pN": 0.311,
@@ -1596,7 +1596,7 @@
     "lambda_ext": 0.8,
     "p1": 0.687,
     "pN": 0.201,
-    "p2": 0.111,
+    "p2": 0.112,
     "score_probable": "2-0"
   },
   {
@@ -1722,7 +1722,7 @@
     "logo_ext": "https://crests.football-data.org/1076.png",
     "lambda_dom": 1.73,
     "lambda_ext": 1.29,
-    "p1": 0.467,
+    "p1": 0.466,
     "pN": 0.26,
     "p2": 0.274,
     "score_probable": "1-1"
@@ -1740,7 +1740,7 @@
     "lambda_ext": 1.63,
     "p1": 0.225,
     "pN": 0.272,
-    "p2": 0.503,
+    "p2": 0.502,
     "score_probable": "1-1"
   },
   {
@@ -2346,7 +2346,7 @@
     "logo_ext": "https://crests.football-data.org/65.png",
     "lambda_dom": 0.95,
     "lambda_ext": 1.64,
-    "p1": 0.204,
+    "p1": 0.205,
     "pN": 0.272,
     "p2": 0.524,
     "score_probable": "1-1"
@@ -2652,7 +2652,7 @@
     "lambda_ext": 0.56,
     "p1": 0.661,
     "pN": 0.24,
-    "p2": 0.099,
+    "p2": 0.1,
     "score_probable": "1-0"
   },
   {
@@ -3212,7 +3212,7 @@
     "lambda_ext": 1.3,
     "p1": 0.454,
     "pN": 0.263,
-    "p2": 0.283,
+    "p2": 0.284,
     "score_probable": "1-1"
   },
   {
@@ -3372,7 +3372,7 @@
     "lambda_ext": 1.21,
     "p1": 0.433,
     "pN": 0.278,
-    "p2": 0.289,
+    "p2": 0.288,
     "score_probable": "1-1"
   },
   {
@@ -3532,7 +3532,7 @@
     "lambda_ext": 1.18,
     "p1": 0.555,
     "pN": 0.236,
-    "p2": 0.209,
+    "p2": 0.21,
     "score_probable": "1-1"
   },
   {
@@ -3640,7 +3640,7 @@
     "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/354.png",
-    "lambda_dom": 2.59,
+    "lambda_dom": 2.58,
     "lambda_ext": 0.74,
     "p1": 0.763,
     "pN": 0.161,
@@ -4316,7 +4316,7 @@
     "lambda_ext": 0.56,
     "p1": 0.67,
     "pN": 0.233,
-    "p2": 0.096,
+    "p2": 0.097,
     "score_probable": "1-0"
   },
   {
@@ -4458,7 +4458,7 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.71,
     "lambda_ext": 1.39,
-    "p1": 0.178,
+    "p1": 0.179,
     "pN": 0.303,
     "p2": 0.519,
     "score_probable": "0-1"
@@ -4508,7 +4508,7 @@
     "lambda_ext": 0.82,
     "p1": 0.525,
     "pN": 0.286,
-    "p2": 0.189,
+    "p2": 0.19,
     "score_probable": "1-0"
   },
   {

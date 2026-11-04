@@ -1404,24 +1404,24 @@
     "entraineur": "Michael Carrick",
     "effectif": [
       {
-        "nom": "Lisandro Martínez",
-        "poste": "Defence",
-        "nationalite": "Argentina",
-        "naissance": "1998-01-18",
-        "buts": 1
+        "nom": "Matheus Cunha",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-05-27",
+        "buts": 3
       },
       {
         "nom": "Bruno Fernandes",
         "poste": "Midfield",
         "nationalite": "Portugal",
         "naissance": "1994-09-08",
-        "buts": 1
+        "buts": 2
       },
       {
-        "nom": "Matheus Cunha",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1999-05-27",
+        "nom": "Lisandro Martínez",
+        "poste": "Defence",
+        "nationalite": "Argentina",
+        "naissance": "1998-01-18",
         "buts": 1
       },
       {
@@ -1805,20 +1805,20 @@
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "1996-12-14",
-        "buts": 2
-      },
-      {
-        "nom": "Karim Adeyemi",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2002-01-18",
-        "buts": 2
+        "buts": 4
       },
       {
         "nom": "Lamine Yamal",
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2007-07-13",
+        "buts": 3
+      },
+      {
+        "nom": "Karim Adeyemi",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-01-18",
         "buts": 2
       },
       {
@@ -2585,7 +2585,7 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "1999-01-19",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Bryan Cristante",
@@ -3159,17 +3159,17 @@
         "buts": 4
       },
       {
-        "nom": "Rodrigo Zalazar",
-        "poste": "Midfield",
-        "nationalite": "Uruguay",
-        "naissance": "1999-08-12",
-        "buts": 1
-      },
-      {
         "nom": "Issa Doumbia",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2003-10-16",
+        "buts": 2
+      },
+      {
+        "nom": "Rodrigo Zalazar",
+        "poste": "Midfield",
+        "nationalite": "Uruguay",
+        "naissance": "1999-08-12",
         "buts": 1
       },
       {
@@ -3772,6 +3772,13 @@
     "entraineur": "Luis Enrique",
     "effectif": [
       {
+        "nom": "Fabián Ruiz",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "1996-04-03",
+        "buts": 4
+      },
+      {
         "nom": "Ousmane Dembélé",
         "poste": "Offence",
         "nationalite": "France",
@@ -3786,11 +3793,11 @@
         "buts": 3
       },
       {
-        "nom": "Fabián Ruiz",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "1996-04-03",
-        "buts": 2
+        "nom": "Desire Doue",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2005-06-03",
+        "buts": 3
       },
       {
         "nom": "Vitinha",
@@ -3798,20 +3805,6 @@
         "nationalite": "Portugal",
         "naissance": "2000-02-13",
         "buts": 2
-      },
-      {
-        "nom": "Desire Doue",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2005-06-03",
-        "buts": 2
-      },
-      {
-        "nom": "Maghnes Akliouche",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2002-02-25",
-        "buts": 1
       },
       {
         "nom": "Matvei Safonov",
@@ -3916,6 +3909,13 @@
         "poste": "Offence",
         "nationalite": "Georgia",
         "naissance": "2001-02-12",
+        "buts": 0
+      },
+      {
+        "nom": "Maghnes Akliouche",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2002-02-25",
         "buts": 0
       },
       {
@@ -4166,7 +4166,7 @@
         "poste": "Midfield",
         "nationalite": "Russia",
         "naissance": "2005-06-09",
-        "buts": 2
+        "buts": 4
       },
       {
         "nom": "Uğurcan Çakır",
@@ -6180,7 +6180,7 @@
         "poste": "Midfield",
         "nationalite": "Austria",
         "naissance": "1999-07-14",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Tobias Schützenauer",

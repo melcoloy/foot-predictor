@@ -812,7 +812,7 @@
   {
     "id": 575377,
     "date": "2026-11-03T17:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "FK Shakhtar Donetsk",
@@ -821,13 +821,13 @@
     "court_ext": "Sporting CP",
     "logo_dom": "https://crests.football-data.org/1887.png",
     "logo_ext": "https://crests.football-data.org/498.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 575378,
     "date": "2026-11-03T17:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "Galatasaray SK",
@@ -836,13 +836,13 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/610.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 575379,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "Feyenoord Rotterdam",
@@ -851,13 +851,13 @@
     "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/675.png",
     "logo_ext": "https://crests.football-data.org/108.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 575380,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "FC Barcelona",
@@ -866,13 +866,13 @@
     "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/58.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 575381,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "Club Atlético de Madrid",
@@ -881,13 +881,13 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 575382,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "Villarreal CF",
@@ -896,13 +896,13 @@
     "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/524.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 6
   },
   {
     "id": 575383,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "Manchester United FC",
@@ -911,13 +911,13 @@
     "court_ext": "Roma",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/100.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 2
   },
   {
     "id": 575384,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "FK Bodø/Glimt",
@@ -926,13 +926,13 @@
     "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/5721.png",
     "logo_ext": "https://crests.football-data.org/521.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 575385,
     "date": "2026-11-03T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 4,
     "phase": "LEAGUE_STAGE",
     "dom": "LASK Linz",
@@ -941,8 +941,8 @@
     "court_ext": "Sl. Bratislava",
     "logo_dom": "https://crests.football-data.org/2016.png",
     "logo_ext": "https://crests.football-data.org/7509.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 0
   },
   {
     "id": 575386,
