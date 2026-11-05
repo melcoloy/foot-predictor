@@ -76,7 +76,7 @@
     "lambda_ext": 1.78,
     "p1": 0.174,
     "pN": 0.241,
-    "p2": 0.585,
+    "p2": 0.584,
     "score_probable": "0-1"
   },
   {
@@ -476,7 +476,7 @@
     "lambda_ext": 1.31,
     "p1": 0.324,
     "pN": 0.284,
-    "p2": 0.392,
+    "p2": 0.391,
     "score_probable": "1-1"
   },
   {
@@ -762,9 +762,9 @@
     "logo_ext": "https://crests.football-data.org/5335.png",
     "lambda_dom": 2.76,
     "lambda_ext": 0.97,
-    "p1": 0.745,
+    "p1": 0.744,
     "pN": 0.153,
-    "p2": 0.102,
+    "p2": 0.103,
     "score_probable": "2-0"
   },
   {
@@ -794,7 +794,7 @@
     "logo_ext": "https://crests.football-data.org/95.png",
     "lambda_dom": 1.99,
     "lambda_ext": 0.72,
-    "p1": 0.668,
+    "p1": 0.667,
     "pN": 0.212,
     "p2": 0.121,
     "score_probable": "2-0"
@@ -1115,7 +1115,7 @@
     "lambda_dom": 1.12,
     "lambda_ext": 1.39,
     "p1": 0.295,
-    "pN": 0.28,
+    "pN": 0.279,
     "p2": 0.425,
     "score_probable": "1-1"
   },
@@ -1161,7 +1161,7 @@
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "lambda_dom": 2.84,
-    "lambda_ext": 0.76,
+    "lambda_ext": 0.77,
     "p1": 0.797,
     "pN": 0.133,
     "p2": 0.07,
@@ -1469,7 +1469,7 @@
     "p1": 0.419,
     "pN": 0.33,
     "p2": 0.251,
-    "score_probable": "0-0"
+    "score_probable": "1-0"
   },
   {
     "date": "2027-01-24T00:00:00Z",
@@ -1866,7 +1866,7 @@
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 1.73,
     "lambda_ext": 0.93,
-    "p1": 0.557,
+    "p1": 0.556,
     "pN": 0.249,
     "p2": 0.195,
     "score_probable": "1-1"
@@ -2124,7 +2124,7 @@
     "lambda_ext": 0.87,
     "p1": 0.63,
     "pN": 0.219,
-    "p2": 0.15,
+    "p2": 0.151,
     "score_probable": "2-0"
   },
   {
@@ -2345,7 +2345,7 @@
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "lambda_dom": 1.12,
-    "lambda_ext": 2.39,
+    "lambda_ext": 2.38,
     "p1": 0.159,
     "pN": 0.191,
     "p2": 0.65,
@@ -2649,7 +2649,7 @@
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/78.png",
     "lambda_dom": 1.12,
-    "lambda_ext": 2.14,
+    "lambda_ext": 2.13,
     "p1": 0.186,
     "pN": 0.213,
     "p2": 0.602,
@@ -3292,7 +3292,7 @@
     "lambda_ext": 1.13,
     "p1": 0.373,
     "pN": 0.295,
-    "p2": 0.332,
+    "p2": 0.333,
     "score_probable": "1-1"
   },
   {
@@ -3465,7 +3465,7 @@
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 1.79,
-    "lambda_ext": 1.29,
+    "lambda_ext": 1.28,
     "p1": 0.488,
     "pN": 0.242,
     "p2": 0.269,
@@ -3610,7 +3610,7 @@
     "logo_ext": "https://crests.football-data.org/82.png",
     "lambda_dom": 0.95,
     "lambda_ext": 0.88,
-    "p1": 0.35,
+    "p1": 0.351,
     "pN": 0.339,
     "p2": 0.31,
     "score_probable": "0-0"
@@ -3708,7 +3708,7 @@
     "lambda_ext": 1.58,
     "p1": 0.384,
     "pN": 0.245,
-    "p2": 0.371,
+    "p2": 0.37,
     "score_probable": "1-1"
   },
   {
@@ -4120,7 +4120,7 @@
     "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/84.png",
-    "lambda_dom": 4.17,
+    "lambda_dom": 4.16,
     "lambda_ext": 0.66,
     "p1": 0.926,
     "pN": 0.053,

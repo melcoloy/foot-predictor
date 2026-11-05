@@ -1227,7 +1227,7 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2000-07-21",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Phil Foden",
@@ -2007,35 +2007,14 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1998-12-20",
-        "buts": 3
-      },
-      {
-        "nom": "Antonio Rüdiger",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1993-03-03",
-        "buts": 1
+        "buts": 4
       },
       {
         "nom": "Federico Valverde",
         "poste": "Midfield",
         "nationalite": "Uruguay",
         "naissance": "1998-07-22",
-        "buts": 1
-      },
-      {
-        "nom": "Endrick",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2006-07-21",
-        "buts": 1
-      },
-      {
-        "nom": "Carlos Espí",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2005-07-24",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Thibaut Courtois",
@@ -2056,6 +2035,13 @@
         "poste": "Defence",
         "nationalite": "Brazil",
         "naissance": "1998-01-18",
+        "buts": 0
+      },
+      {
+        "nom": "Antonio Rüdiger",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1993-03-03",
         "buts": 0
       },
       {
@@ -2182,6 +2168,20 @@
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "1999-08-03",
+        "buts": 0
+      },
+      {
+        "nom": "Endrick",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2006-07-21",
+        "buts": 0
+      },
+      {
+        "nom": "Carlos Espí",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-07-24",
         "buts": 0
       },
       {
@@ -2595,13 +2595,6 @@
         "buts": 1
       },
       {
-        "nom": "Marten de Roon",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "1991-03-29",
-        "buts": 1
-      },
-      {
         "nom": "Pierluigi Gollini",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -2704,6 +2697,13 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1996-06-19",
+        "buts": 0
+      },
+      {
+        "nom": "Marten de Roon",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1991-03-29",
         "buts": 0
       },
       {
@@ -2954,7 +2954,7 @@
         "poste": "Midfield",
         "nationalite": "Scotland",
         "naissance": "1996-12-08",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Amir Rrahmani",
@@ -3361,6 +3361,20 @@
     "entraineur": "Francesco Farioli",
     "effectif": [
       {
+        "nom": "Gabriel Veiga",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2002-05-27",
+        "buts": 2
+      },
+      {
+        "nom": "Samu Aghehowa",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2004-05-05",
+        "buts": 2
+      },
+      {
         "nom": "Diogo Costa",
         "poste": "Goalkeeper",
         "nationalite": "Portugal",
@@ -3466,13 +3480,6 @@
         "buts": 0
       },
       {
-        "nom": "Gabriel Veiga",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2002-05-27",
-        "buts": 0
-      },
-      {
         "nom": "Alan Varela",
         "poste": "Midfield",
         "nationalite": "Argentina",
@@ -3533,13 +3540,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2001-02-01",
-        "buts": 0
-      },
-      {
-        "nom": "Samu Aghehowa",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2004-05-05",
         "buts": 0
       },
       {
@@ -3950,7 +3950,7 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "1993-04-26",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Florian Thauvin",
@@ -4396,7 +4396,14 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2002-05-28",
-        "buts": 1
+        "buts": 2
+      },
+      {
+        "nom": "Mason Greenwood",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2001-10-01",
+        "buts": 2
       },
       {
         "nom": "Ederson",
@@ -4550,13 +4557,6 @@
         "poste": "Offence",
         "nationalite": "Kosovo",
         "naissance": "1994-04-24",
-        "buts": 0
-      },
-      {
-        "nom": "Mason Greenwood",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2001-10-01",
         "buts": 0
       },
       {
@@ -4852,20 +4852,6 @@
         "buts": 1
       },
       {
-        "nom": "Gjivai Zechiël",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "2004-06-01",
-        "buts": 1
-      },
-      {
-        "nom": "Anis Moussa",
-        "poste": "Offence",
-        "nationalite": "Algeria",
-        "naissance": "2002-02-11",
-        "buts": 1
-      },
-      {
         "nom": "Liam Bossin",
         "poste": "Goalkeeper",
         "nationalite": "Ireland",
@@ -5006,6 +4992,13 @@
         "buts": 0
       },
       {
+        "nom": "Gjivai Zechiël",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "2004-06-01",
+        "buts": 0
+      },
+      {
         "nom": "Tobias van den Elshout",
         "poste": "Midfield",
         "nationalite": "Netherlands",
@@ -5031,6 +5024,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2004-10-05",
+        "buts": 0
+      },
+      {
+        "nom": "Anis Moussa",
+        "poste": "Offence",
+        "nationalite": "Algeria",
+        "naissance": "2002-02-11",
         "buts": 0
       },
       {
@@ -5295,7 +5295,14 @@
         "poste": "Offence",
         "nationalite": "Italy",
         "naissance": "2004-08-20",
-        "buts": 4
+        "buts": 5
+      },
+      {
+        "nom": "Carlos Forbs",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2004-03-19",
+        "buts": 2
       },
       {
         "nom": "Hugo Vetlesen",
@@ -5449,13 +5456,6 @@
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "2005-09-22",
-        "buts": 0
-      },
-      {
-        "nom": "Carlos Forbs",
-        "poste": "Offence",
-        "nationalite": "Portugal",
-        "naissance": "2004-03-19",
         "buts": 0
       },
       {
@@ -5946,6 +5946,13 @@
     "entraineur": null,
     "effectif": [
       {
+        "nom": "Stavros Pilios",
+        "poste": "Defence",
+        "nationalite": "Albania",
+        "naissance": "2000-12-10",
+        "buts": 2
+      },
+      {
         "nom": "Răzvan Marin",
         "poste": "Midfield",
         "nationalite": "Romania",
@@ -5992,13 +5999,6 @@
         "poste": "Defence",
         "nationalite": "Croatia",
         "naissance": "1989-04-29",
-        "buts": 0
-      },
-      {
-        "nom": "Stavros Pilios",
-        "poste": "Defence",
-        "nationalite": "Albania",
-        "naissance": "2000-12-10",
         "buts": 0
       },
       {
@@ -6364,6 +6364,20 @@
     "entraineur": "Morten Jensen",
     "effectif": [
       {
+        "nom": "Erik Botheim",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2000-01-10",
+        "buts": 2
+      },
+      {
+        "nom": "Zlatko Tripić",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "1992-12-02",
+        "buts": 2
+      },
+      {
         "nom": "Peter Christiansen",
         "poste": "Offence",
         "nationalite": "Denmark",
@@ -6382,13 +6396,6 @@
         "poste": "Defence",
         "nationalite": "Norway",
         "naissance": "2000-04-25",
-        "buts": 1
-      },
-      {
-        "nom": "Zlatko Tripić",
-        "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "1992-12-02",
         "buts": 1
       },
       {
@@ -6564,13 +6571,6 @@
         "poste": "Midfield",
         "nationalite": "Norway",
         "naissance": "2008-07-23",
-        "buts": 0
-      },
-      {
-        "nom": "Erik Botheim",
-        "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "2000-01-10",
         "buts": 0
       },
       {
@@ -6856,13 +6856,20 @@
         "poste": "Offence",
         "nationalite": "Greece",
         "naissance": "1999-08-02",
-        "buts": 3
+        "buts": 6
       },
       {
         "nom": "Nico Paz",
         "poste": "Midfield",
         "nationalite": "Argentina",
         "naissance": "2004-09-08",
+        "buts": 3
+      },
+      {
+        "nom": "Martin Baturina",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "2003-02-16",
         "buts": 2
       },
       {
@@ -6871,13 +6878,6 @@
         "nationalite": "Senegal",
         "naissance": "2005-09-07",
         "buts": 2
-      },
-      {
-        "nom": "Martin Baturina",
-        "poste": "Midfield",
-        "nationalite": "Croatia",
-        "naissance": "2003-02-16",
-        "buts": 1
       },
       {
         "nom": "Maximo Perrone",

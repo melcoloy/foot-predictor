@@ -2280,21 +2280,6 @@
     "buts_ext": null
   },
   {
-    "id": 560694,
-    "date": "2026-12-19T15:00:00Z",
-    "statut": "TIMED",
-    "journee": 16,
-    "phase": "REGULAR_SEASON",
-    "dom": "Nottingham Forest FC",
-    "ext": "Everton FC",
-    "court_dom": "Nottingham",
-    "court_ext": "Everton",
-    "logo_dom": "https://crests.football-data.org/351.png",
-    "logo_ext": "https://crests.football-data.org/62.png",
-    "buts_dom": null,
-    "buts_ext": null
-  },
-  {
     "id": 560696,
     "date": "2026-12-19T15:00:00Z",
     "statut": "TIMED",
@@ -2351,6 +2336,21 @@
     "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/349.png",
+    "buts_dom": null,
+    "buts_ext": null
+  },
+  {
+    "id": 560694,
+    "date": "2026-12-20T14:00:00Z",
+    "statut": "TIMED",
+    "journee": 16,
+    "phase": "REGULAR_SEASON",
+    "dom": "Nottingham Forest FC",
+    "ext": "Everton FC",
+    "court_dom": "Nottingham",
+    "court_ext": "Everton",
+    "logo_dom": "https://crests.football-data.org/351.png",
+    "logo_ext": "https://crests.football-data.org/62.png",
     "buts_dom": null,
     "buts_ext": null
   },
