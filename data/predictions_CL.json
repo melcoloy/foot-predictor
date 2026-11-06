@@ -111,7 +111,7 @@
     "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/7509.png",
     "logo_ext": "https://crests.football-data.org/90.png",
-    "lambda_dom": 1.28,
+    "lambda_dom": 1.29,
     "lambda_ext": 2.4,
     "p1": 0.19,
     "pN": 0.192,
@@ -213,7 +213,7 @@
     "court_ext": "Viking",
     "logo_dom": "https://crests.football-data.org/78.png",
     "logo_ext": "https://crests.football-data.org/5720.png",
-    "lambda_dom": 2.68,
+    "lambda_dom": 2.67,
     "lambda_ext": 1.24,
     "p1": 0.677,
     "pN": 0.17,
@@ -351,7 +351,7 @@
     "logo_ext": "https://crests.football-data.org/65.png",
     "lambda_dom": 2.85,
     "lambda_ext": 1.75,
-    "p1": 0.604,
+    "p1": 0.605,
     "pN": 0.174,
     "p2": 0.221,
     "score_probable": "2-1"
@@ -370,7 +370,7 @@
     "lambda_ext": 2.14,
     "p1": 0.28,
     "pN": 0.213,
-    "p2": 0.506,
+    "p2": 0.507,
     "score_probable": "1-2"
   },
   {
@@ -486,10 +486,10 @@
     "logo_dom": "https://crests.football-data.org/7509.png",
     "logo_ext": "https://crests.football-data.org/1887.png",
     "lambda_dom": 1.15,
-    "lambda_ext": 1.7,
+    "lambda_ext": 1.69,
     "p1": 0.254,
     "pN": 0.248,
-    "p2": 0.499,
+    "p2": 0.498,
     "score_probable": "1-1"
   },
   {
@@ -863,7 +863,7 @@
     "lambda_ext": 1.97,
     "p1": 0.193,
     "pN": 0.222,
-    "p2": 0.586,
+    "p2": 0.585,
     "score_probable": "1-1"
   },
   {
@@ -876,8 +876,8 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "lambda_dom": 1.63,
-    "lambda_ext": 2.62,
+    "lambda_dom": 1.62,
+    "lambda_ext": 2.63,
     "p1": 0.226,
     "pN": 0.185,
     "p2": 0.59,
@@ -1046,7 +1046,7 @@
     "court_ext": "Sabah FK",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/10233.png",
-    "lambda_dom": 3.22,
+    "lambda_dom": 3.21,
     "lambda_ext": 0.56,
     "p1": 0.876,
     "pN": 0.09,
@@ -1117,7 +1117,7 @@
     "lambda_dom": 1.24,
     "lambda_ext": 2.01,
     "p1": 0.228,
-    "pN": 0.221,
+    "pN": 0.222,
     "p2": 0.55,
     "score_probable": "1-1"
   },

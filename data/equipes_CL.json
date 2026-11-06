@@ -6476,6 +6476,13 @@
         "buts": 0
       },
       {
+        "nom": "Rasmus Gjelsvik Steigen",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2009-02-04",
+        "buts": 0
+      },
+      {
         "nom": "Jonathan Debes",
         "poste": "Defence",
         "nationalite": "Norway",
@@ -6609,13 +6616,6 @@
         "buts": 0
       },
       {
-        "nom": "Rasmus Gjelsvik Steigen",
-        "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "2009-02-04",
-        "buts": 0
-      },
-      {
         "nom": "Sondre Tveiten",
         "poste": "Offence",
         "nationalite": "Norway",
@@ -6661,6 +6661,13 @@
         "poste": "Goalkeeper",
         "nationalite": "Russia",
         "naissance": "1995-07-11",
+        "buts": 0
+      },
+      {
+        "nom": "Martin Lund Andersen",
+        "poste": "Goalkeeper",
+        "nationalite": "Norway",
+        "naissance": "2008-09-20",
         "buts": 0
       },
       {
@@ -6727,6 +6734,20 @@
         "buts": 0
       },
       {
+        "nom": "Matias Bobo Høgsæt Jaiteh",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2008-01-10",
+        "buts": 0
+      },
+      {
+        "nom": "Tobias Solbakken",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2009-05-15",
+        "buts": 0
+      },
+      {
         "nom": "Patrick Berg",
         "poste": "Midfield",
         "nationalite": "Norway",
@@ -6773,6 +6794,34 @@
         "poste": "Midfield",
         "nationalite": "Norway",
         "naissance": "2007-05-30",
+        "buts": 0
+      },
+      {
+        "nom": "Erling Eliassen",
+        "poste": "Midfield",
+        "nationalite": "Norway",
+        "naissance": "2009-01-13",
+        "buts": 0
+      },
+      {
+        "nom": "Levi Monsen Yeboah",
+        "poste": "Midfield",
+        "nationalite": "Norway",
+        "naissance": "2010-03-25",
+        "buts": 0
+      },
+      {
+        "nom": "Milton Käld",
+        "poste": "Midfield",
+        "nationalite": "Finland",
+        "naissance": "2010-04-06",
+        "buts": 0
+      },
+      {
+        "nom": "Jesper Rabben Nygård",
+        "poste": "Midfield",
+        "nationalite": "Norway",
+        "naissance": "2009-07-06",
         "buts": 0
       },
       {
@@ -6836,6 +6885,13 @@
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2008-06-18",
+        "buts": 0
+      },
+      {
+        "nom": "Jakob Strand",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2009-10-11",
         "buts": 0
       }
     ]
