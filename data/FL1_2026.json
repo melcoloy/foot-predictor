@@ -1217,7 +1217,7 @@
   {
     "id": 559638,
     "date": "2026-11-06T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Toulouse FC",
@@ -1226,8 +1226,8 @@
     "court_ext": "Strasbourg",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/576.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 559637,

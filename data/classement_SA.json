@@ -216,27 +216,27 @@
     "bc": 24
   },
   {
-    "equipe": "Udinese Calcio",
-    "court": "Udinese",
-    "logo": "https://crests.football-data.org/115.png",
-    "j": 10,
-    "g": 1,
-    "n": 2,
-    "p": 7,
-    "pts": 5,
-    "bp": 11,
-    "bc": 23
-  },
-  {
     "equipe": "Venezia FC",
     "court": "Venezia FC",
     "logo": "https://crests.football-data.org/454.png",
-    "j": 10,
-    "g": 1,
+    "j": 11,
+    "g": 2,
     "n": 0,
     "p": 9,
-    "pts": 3,
-    "bp": 6,
-    "bc": 20
+    "pts": 6,
+    "bp": 8,
+    "bc": 21
+  },
+  {
+    "equipe": "Udinese Calcio",
+    "court": "Udinese",
+    "logo": "https://crests.football-data.org/115.png",
+    "j": 11,
+    "g": 1,
+    "n": 2,
+    "p": 8,
+    "pts": 5,
+    "bp": 12,
+    "bc": 25
   }
 ]

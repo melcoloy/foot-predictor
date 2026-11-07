@@ -84,6 +84,18 @@
     "bc": 16
   },
   {
+    "equipe": "Hamburger SV",
+    "court": "HSV",
+    "logo": "https://crests.football-data.org/7.png",
+    "j": 9,
+    "g": 4,
+    "n": 0,
+    "p": 5,
+    "pts": 12,
+    "bp": 10,
+    "bc": 20
+  },
+  {
     "equipe": "Eintracht Frankfurt",
     "court": "Frankfurt",
     "logo": "https://crests.football-data.org/19.png",
@@ -168,18 +180,6 @@
     "bc": 9
   },
   {
-    "equipe": "Hamburger SV",
-    "court": "HSV",
-    "logo": "https://crests.football-data.org/7.png",
-    "j": 8,
-    "g": 3,
-    "n": 0,
-    "p": 5,
-    "pts": 9,
-    "bp": 7,
-    "bc": 19
-  },
-  {
     "equipe": "1. FC Union Berlin",
     "court": "Union Berlin",
     "logo": "https://crests.football-data.org/28.png",
@@ -207,12 +207,12 @@
     "equipe": "Borussia Mönchengladbach",
     "court": "M'gladbach",
     "logo": "https://crests.football-data.org/18.png",
-    "j": 8,
+    "j": 9,
     "g": 1,
     "n": 1,
-    "p": 6,
+    "p": 7,
     "pts": 4,
-    "bp": 11,
-    "bc": 22
+    "bp": 12,
+    "bc": 25
   }
 ]

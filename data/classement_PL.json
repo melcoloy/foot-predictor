@@ -48,6 +48,18 @@
     "bc": 15
   },
   {
+    "equipe": "Everton FC",
+    "court": "Everton",
+    "logo": "https://crests.football-data.org/62.png",
+    "j": 10,
+    "g": 4,
+    "n": 4,
+    "p": 2,
+    "pts": 16,
+    "bp": 12,
+    "bc": 10
+  },
+  {
     "equipe": "Liverpool FC",
     "court": "Liverpool",
     "logo": "https://crests.football-data.org/64.png",
@@ -69,18 +81,6 @@
     "p": 1,
     "pts": 14,
     "bp": 16,
-    "bc": 9
-  },
-  {
-    "equipe": "Everton FC",
-    "court": "Everton",
-    "logo": "https://crests.football-data.org/62.png",
-    "j": 9,
-    "g": 3,
-    "n": 4,
-    "p": 2,
-    "pts": 13,
-    "bp": 9,
     "bc": 9
   },
   {
@@ -183,13 +183,13 @@
     "equipe": "Coventry City FC",
     "court": "Coventry City",
     "logo": "https://crests.football-data.org/1076.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
     "n": 0,
-    "p": 6,
+    "p": 7,
     "pts": 9,
-    "bp": 9,
-    "bc": 16
+    "bp": 10,
+    "bc": 19
   },
   {
     "equipe": "Manchester United FC",

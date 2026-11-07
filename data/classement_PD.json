@@ -63,11 +63,11 @@
     "equipe": "Sevilla FC",
     "court": "Sevilla FC",
     "logo": "https://crests.football-data.org/559.png",
-    "j": 11,
+    "j": 12,
     "g": 5,
-    "n": 2,
+    "n": 3,
     "p": 4,
-    "pts": 17,
+    "pts": 18,
     "bp": 17,
     "bc": 19
   },
@@ -96,6 +96,18 @@
     "bc": 14
   },
   {
+    "equipe": "Deportivo Alavés",
+    "court": "Alavés",
+    "logo": "https://crests.football-data.org/263.png",
+    "j": 12,
+    "g": 3,
+    "n": 4,
+    "p": 5,
+    "pts": 13,
+    "bp": 15,
+    "bc": 17
+  },
+  {
     "equipe": "Villarreal CF",
     "court": "Villarreal",
     "logo": "https://crests.football-data.org/94.png",
@@ -118,18 +130,6 @@
     "pts": 12,
     "bp": 10,
     "bc": 10
-  },
-  {
-    "equipe": "Deportivo Alavés",
-    "court": "Alavés",
-    "logo": "https://crests.football-data.org/263.png",
-    "j": 11,
-    "g": 3,
-    "n": 3,
-    "p": 5,
-    "pts": 12,
-    "bp": 15,
-    "bc": 17
   },
   {
     "equipe": "Rayo Vallecano de Madrid",

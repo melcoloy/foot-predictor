@@ -1082,7 +1082,7 @@
   {
     "id": 565852,
     "date": "2026-11-06T19:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
@@ -1091,8 +1091,8 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 565848,
