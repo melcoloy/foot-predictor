@@ -1367,7 +1367,7 @@
   {
     "id": 560632,
     "date": "2026-11-07T12:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
@@ -1376,13 +1376,13 @@
     "court_ext": "Tottenham",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/73.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 560640,
     "date": "2026-11-07T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Arsenal FC",
@@ -1391,13 +1391,13 @@
     "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/322.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 560633,
     "date": "2026-11-07T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Fulham FC",
@@ -1406,13 +1406,13 @@
     "court_ext": "Newcastle",
     "logo_dom": "https://crests.football-data.org/63.png",
     "logo_ext": "https://crests.football-data.org/67.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560641,
     "date": "2026-11-07T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
@@ -1421,8 +1421,8 @@
     "court_ext": "Man City",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/65.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 560635,

@@ -3,12 +3,24 @@
     "equipe": "Paris Saint-Germain FC",
     "court": "PSG",
     "logo": "https://crests.football-data.org/524.png",
-    "j": 9,
-    "g": 6,
+    "j": 10,
+    "g": 7,
     "n": 2,
     "p": 1,
+    "pts": 23,
+    "bp": 22,
+    "bc": 10
+  },
+  {
+    "equipe": "Paris FC",
+    "court": "Paris FC",
+    "logo": "https://crests.football-data.org/1045.png",
+    "j": 10,
+    "g": 6,
+    "n": 2,
+    "p": 2,
     "pts": 20,
-    "bp": 21,
+    "bp": 17,
     "bc": 10
   },
   {
@@ -34,18 +46,6 @@
     "pts": 17,
     "bp": 15,
     "bc": 7
-  },
-  {
-    "equipe": "Paris FC",
-    "court": "Paris FC",
-    "logo": "https://crests.football-data.org/1045.png",
-    "j": 9,
-    "g": 5,
-    "n": 2,
-    "p": 2,
-    "pts": 17,
-    "bp": 16,
-    "bc": 10
   },
   {
     "equipe": "Stade Rennais FC 1901",
@@ -159,13 +159,13 @@
     "equipe": "AJ Auxerre",
     "court": "Auxerre",
     "logo": "https://crests.football-data.org/519.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
     "n": 1,
-    "p": 5,
+    "p": 6,
     "pts": 10,
     "bp": 13,
-    "bc": 23
+    "bc": 24
   },
   {
     "equipe": "Angers SCO",
@@ -183,13 +183,13 @@
     "equipe": "ES Troyes AC",
     "court": "Troyes",
     "logo": "https://crests.football-data.org/531.png",
-    "j": 9,
+    "j": 10,
     "g": 2,
     "n": 2,
-    "p": 5,
+    "p": 6,
     "pts": 8,
     "bp": 7,
-    "bc": 16
+    "bc": 17
   },
   {
     "equipe": "Le Mans FC",

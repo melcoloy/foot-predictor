@@ -1652,7 +1652,7 @@
   {
     "id": 564744,
     "date": "2026-11-07T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Málaga CF",
@@ -1661,13 +1661,13 @@
     "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 564745,
     "date": "2026-11-07T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "RCD Espanyol de Barcelona",
@@ -1676,13 +1676,13 @@
     "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/560.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 564739,
     "date": "2026-11-07T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
@@ -1691,13 +1691,13 @@
     "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/77.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 564741,
     "date": "2026-11-07T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Valencia CF",
@@ -1706,8 +1706,8 @@
     "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/86.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 564738,
@@ -2081,6 +2081,36 @@
     "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/82.png",
+    "buts_dom": null,
+    "buts_ext": null
+  },
+  {
+    "id": 564855,
+    "date": "2026-12-02T18:00:00Z",
+    "statut": "TIMED",
+    "journee": 23,
+    "phase": "REGULAR_SEASON",
+    "dom": "Real Sociedad de Fútbol",
+    "ext": "Real Madrid CF",
+    "court_dom": "Real Sociedad",
+    "court_ext": "Real Madrid",
+    "logo_dom": "https://crests.football-data.org/92.png",
+    "logo_ext": "https://crests.football-data.org/86.png",
+    "buts_dom": null,
+    "buts_ext": null
+  },
+  {
+    "id": 564857,
+    "date": "2026-12-02T20:30:00Z",
+    "statut": "TIMED",
+    "journee": 23,
+    "phase": "REGULAR_SEASON",
+    "dom": "FC Barcelona",
+    "ext": "Club Atlético de Madrid",
+    "court_dom": "Barça",
+    "court_ext": "Atleti",
+    "logo_dom": "https://crests.football-data.org/81.png",
+    "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
     "buts_ext": null
   },
@@ -3405,21 +3435,6 @@
     "buts_ext": null
   },
   {
-    "id": 564855,
-    "date": "2027-02-07T00:00:00Z",
-    "statut": "SCHEDULED",
-    "journee": 23,
-    "phase": "REGULAR_SEASON",
-    "dom": "Real Sociedad de Fútbol",
-    "ext": "Real Madrid CF",
-    "court_dom": "Real Sociedad",
-    "court_ext": "Real Madrid",
-    "logo_dom": "https://crests.football-data.org/92.png",
-    "logo_ext": "https://crests.football-data.org/86.png",
-    "buts_dom": null,
-    "buts_ext": null
-  },
-  {
     "id": 564856,
     "date": "2027-02-07T00:00:00Z",
     "statut": "SCHEDULED",
@@ -3431,21 +3446,6 @@
     "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
-    "buts_dom": null,
-    "buts_ext": null
-  },
-  {
-    "id": 564857,
-    "date": "2027-02-07T00:00:00Z",
-    "statut": "SCHEDULED",
-    "journee": 23,
-    "phase": "REGULAR_SEASON",
-    "dom": "FC Barcelona",
-    "ext": "Club Atlético de Madrid",
-    "court_dom": "Barça",
-    "court_ext": "Atleti",
-    "logo_dom": "https://crests.football-data.org/81.png",
-    "logo_ext": "https://crests.football-data.org/78.png",
     "buts_dom": null,
     "buts_ext": null
   },

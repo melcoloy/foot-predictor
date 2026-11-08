@@ -1517,7 +1517,7 @@
   {
     "id": 558532,
     "date": "2026-11-07T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Torino FC",
@@ -1526,13 +1526,13 @@
     "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/586.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 558534,
     "date": "2026-11-07T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Cagliari Calcio",
@@ -1541,13 +1541,13 @@
     "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/104.png",
     "logo_ext": "https://crests.football-data.org/470.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 558535,
     "date": "2026-11-07T17:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Parma Calcio 1913",
@@ -1556,13 +1556,13 @@
     "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/112.png",
     "logo_ext": "https://crests.football-data.org/103.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 558531,
     "date": "2026-11-07T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "AS Roma",
@@ -1571,13 +1571,13 @@
     "court_ext": "Sassuolo",
     "logo_dom": "https://crests.football-data.org/100.png",
     "logo_ext": "https://crests.football-data.org/471.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 558533,
     "date": "2026-11-08T11:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
@@ -1586,8 +1586,8 @@
     "court_ext": "Lazio",
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/110.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 558536,

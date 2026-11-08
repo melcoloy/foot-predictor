@@ -1232,7 +1232,7 @@
   {
     "id": 559637,
     "date": "2026-11-07T18:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "AJ Auxerre",
@@ -1241,13 +1241,13 @@
     "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 559635,
     "date": "2026-11-07T20:05:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Paris Saint-Germain FC",
@@ -1256,8 +1256,8 @@
     "court_ext": "Troyes",
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/531.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 559636,

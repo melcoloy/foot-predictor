@@ -1460,6 +1460,13 @@
         "buts": 3
       },
       {
+        "nom": "Illia Zabarnyi",
+        "poste": "Defence",
+        "nationalite": "Ukraine",
+        "naissance": "2002-09-01",
+        "buts": 2
+      },
+      {
         "nom": "Senny Mayulu",
         "poste": "Midfield",
         "nationalite": "France",
@@ -1513,13 +1520,6 @@
         "poste": "Defence",
         "nationalite": "Ecuador",
         "naissance": "2001-10-16",
-        "buts": 0
-      },
-      {
-        "nom": "Illia Zabarnyi",
-        "poste": "Defence",
-        "nationalite": "Ukraine",
-        "naissance": "2002-09-01",
         "buts": 0
       },
       {
@@ -1600,6 +1600,13 @@
         "buts": 0
       },
       {
+        "nom": "Younes Idder",
+        "poste": null,
+        "nationalite": "Morocco",
+        "naissance": "2008-01-18",
+        "buts": 0
+      },
+      {
         "nom": "Arthur Bar",
         "poste": null,
         "nationalite": "France",
@@ -1638,13 +1645,6 @@
         "poste": "Midfield",
         "nationalite": "Belgium",
         "naissance": "2005-01-05",
-        "buts": 1
-      },
-      {
-        "nom": "Gabin Bernardeau",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2006-01-24",
         "buts": 1
       },
       {
@@ -1778,6 +1778,13 @@
         "poste": "Midfield",
         "nationalite": "Cameroon",
         "naissance": "2004-12-15",
+        "buts": 0
+      },
+      {
+        "nom": "Gabin Bernardeau",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2006-01-24",
         "buts": 0
       },
       {
@@ -3428,7 +3435,7 @@
         "poste": "Offence",
         "nationalite": "Mali",
         "naissance": "1999-12-08",
-        "buts": 8
+        "buts": 9
       },
       {
         "nom": "Maxime López",
