@@ -1577,7 +1577,7 @@
   {
     "id": 558533,
     "date": "2026-11-08T11:30:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "SSC Napoli",
@@ -1592,7 +1592,7 @@
   {
     "id": 558536,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Genoa CFC",
@@ -1601,13 +1601,13 @@
     "court_ext": "Milan",
     "logo_dom": "https://crests.football-data.org/107.png",
     "logo_ext": "https://crests.football-data.org/98.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 558538,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
@@ -1616,13 +1616,13 @@
     "court_ext": "Atalanta",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/102.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 558530,
     "date": "2026-11-08T17:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "FC Internazionale Milano",
@@ -1631,13 +1631,13 @@
     "court_ext": "Como 1907",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/7397.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 558529,
     "date": "2026-11-08T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "ACF Fiorentina",
@@ -1646,8 +1646,8 @@
     "court_ext": "Juventus",
     "logo_dom": "https://crests.football-data.org/99.png",
     "logo_ext": "https://crests.football-data.org/109.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 2
   },
   {
     "id": 558525,

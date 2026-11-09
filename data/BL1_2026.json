@@ -1172,7 +1172,7 @@
   {
     "id": 565855,
     "date": "2026-11-08T14:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
@@ -1181,13 +1181,13 @@
     "court_ext": "Leverkusen",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/3.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 565854,
     "date": "2026-11-08T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "SC Freiburg",
@@ -1196,13 +1196,13 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/17.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 565856,
     "date": "2026-11-08T18:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 9,
     "phase": "REGULAR_SEASON",
     "dom": "TSG 1899 Hoffenheim",
@@ -1211,8 +1211,8 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/2.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 565859,

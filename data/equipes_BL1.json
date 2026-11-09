@@ -11,17 +11,17 @@
     "entraineur": "René Wagner",
     "effectif": [
       {
-        "nom": "Thijs Dallinga",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "2000-08-03",
-        "buts": 2
-      },
-      {
         "nom": "Said El Mala",
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "2006-08-26",
+        "buts": 3
+      },
+      {
+        "nom": "Thijs Dallinga",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-08-03",
         "buts": 2
       },
       {
@@ -262,6 +262,13 @@
         "buts": 2
       },
       {
+        "nom": "Tim Lemperle",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-02-05",
+        "buts": 2
+      },
+      {
         "nom": "Adam Daghim",
         "poste": "Offence",
         "nationalite": "Denmark",
@@ -280,13 +287,6 @@
         "poste": "Midfield",
         "nationalite": "Kosovo",
         "naissance": "1991-03-20",
-        "buts": 1
-      },
-      {
-        "nom": "Tim Lemperle",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2002-02-05",
         "buts": 1
       },
       {
@@ -454,7 +454,7 @@
         "poste": "Offence",
         "nationalite": "Czech Republic",
         "naissance": "1996-01-24",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Ibrahim Maza",
@@ -2370,7 +2370,7 @@
         "poste": "Offence",
         "nationalite": "Japan",
         "naissance": "2001-10-25",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Igor Matanovic",

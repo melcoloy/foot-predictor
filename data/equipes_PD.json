@@ -213,17 +213,17 @@
         "buts": 4
       },
       {
-        "nom": "Jonathan David",
-        "poste": "Offence",
-        "nationalite": "Canada",
-        "naissance": "2000-01-14",
-        "buts": 3
-      },
-      {
         "nom": "Giuliano Simeone",
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "2002-12-18",
+        "buts": 4
+      },
+      {
+        "nom": "Jonathan David",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "2000-01-14",
         "buts": 3
       },
       {
@@ -767,7 +767,7 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2003-05-11",
-        "buts": 5
+        "buts": 7
       },
       {
         "nom": "Gabriel Jesus",
@@ -1989,18 +1989,25 @@
     "entraineur": "Manuel Pellegrini",
     "effectif": [
       {
+        "nom": "Bartra",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1991-01-15",
+        "buts": 3
+      },
+      {
+        "nom": "Rodrigo Riquelme",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2000-04-02",
+        "buts": 3
+      },
+      {
         "nom": "Abdessamad Ezzalzouli",
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "2001-12-17",
         "buts": 3
-      },
-      {
-        "nom": "Bartra",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "1991-01-15",
-        "buts": 2
       },
       {
         "nom": "Isco",
@@ -2014,13 +2021,6 @@
         "poste": "Offence",
         "nationalite": "Colombia",
         "naissance": "1999-04-20",
-        "buts": 2
-      },
-      {
-        "nom": "Rodrigo Riquelme",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2000-04-02",
         "buts": 2
       },
       {

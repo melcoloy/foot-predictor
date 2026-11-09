@@ -1427,7 +1427,7 @@
   {
     "id": 560635,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Crystal Palace FC",
@@ -1436,13 +1436,13 @@
     "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/354.png",
     "logo_ext": "https://crests.football-data.org/64.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 3
   },
   {
     "id": 560636,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Sunderland AFC",
@@ -1451,13 +1451,13 @@
     "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/61.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 560637,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Ipswich Town FC",
@@ -1466,13 +1466,13 @@
     "court_ext": "Bournemouth",
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/bournemouth.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 560638,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Brighton & Hove Albion FC",
@@ -1481,13 +1481,13 @@
     "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/402.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 560639,
     "date": "2026-11-08T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
@@ -1496,8 +1496,8 @@
     "court_ext": "Aston Villa",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/58.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 4
   },
   {
     "id": 560643,

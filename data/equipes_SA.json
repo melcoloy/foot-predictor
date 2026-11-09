@@ -18,6 +18,13 @@
         "buts": 5
       },
       {
+        "nom": "Alphadjo Cisse",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2006-10-22",
+        "buts": 5
+      },
+      {
         "nom": "Diego Moreira",
         "poste": "Midfield",
         "nationalite": "Belgium",
@@ -25,18 +32,11 @@
         "buts": 4
       },
       {
-        "nom": "Alphadjo Cisse",
-        "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "2006-10-22",
-        "buts": 4
-      },
-      {
         "nom": "Christian Pulisic",
         "poste": "Offence",
         "nationalite": "USA",
         "naissance": "1998-09-18",
-        "buts": 3
+        "buts": 4
       },
       {
         "nom": "Gonçalo Ramos",
@@ -241,6 +241,13 @@
     "entraineur": "Fabio Grosso",
     "effectif": [
       {
+        "nom": "Mateo Pellegrino",
+        "poste": "Offence",
+        "nationalite": "Argentina",
+        "naissance": "2001-10-22",
+        "buts": 4
+      },
+      {
         "nom": "Franco Mastantuono",
         "poste": "Offence",
         "nationalite": "Argentina",
@@ -248,10 +255,10 @@
         "buts": 4
       },
       {
-        "nom": "Mateo Pellegrino",
+        "nom": "Alieu Njie",
         "poste": "Offence",
-        "nationalite": "Argentina",
-        "naissance": "2001-10-22",
+        "nationalite": "Sweden",
+        "naissance": "2005-05-14",
         "buts": 3
       },
       {
@@ -259,13 +266,6 @@
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "2005-05-08",
-        "buts": 2
-      },
-      {
-        "nom": "Alieu Njie",
-        "poste": "Offence",
-        "nationalite": "Sweden",
-        "naissance": "2005-05-14",
         "buts": 2
       },
       {
@@ -635,7 +635,7 @@
         "poste": "Offence",
         "nationalite": "Montenegro",
         "naissance": "2000-04-05",
-        "buts": 6
+        "buts": 7
       },
       {
         "nom": "Éderson",
@@ -1251,6 +1251,13 @@
         "buts": 4
       },
       {
+        "nom": "Mikael Egill Ellertsson",
+        "poste": "Midfield",
+        "nationalite": "Iceland",
+        "naissance": "2002-03-11",
+        "buts": 2
+      },
+      {
         "nom": "Junior Messias",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -1370,13 +1377,6 @@
         "buts": 0
       },
       {
-        "nom": "Mikael Egill Ellertsson",
-        "poste": "Midfield",
-        "nationalite": "Iceland",
-        "naissance": "2002-03-11",
-        "buts": 0
-      },
-      {
         "nom": "Alexsandro Amorim",
         "poste": "Midfield",
         "nationalite": "Brazil",
@@ -1450,7 +1450,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1997-08-06",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Lautaro Martínez",
@@ -1467,6 +1467,13 @@
         "buts": 3
       },
       {
+        "nom": "Francesco Esposito",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "2005-06-28",
+        "buts": 3
+      },
+      {
         "nom": "Piotr Zieliński",
         "poste": "Midfield",
         "nationalite": "Poland",
@@ -1478,13 +1485,6 @@
         "poste": "Offence",
         "nationalite": "Ivory Coast",
         "naissance": "2003-10-25",
-        "buts": 2
-      },
-      {
-        "nom": "Francesco Esposito",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "2005-06-28",
         "buts": 2
       },
       {
@@ -1631,7 +1631,7 @@
         "poste": "Defence",
         "nationalite": "Brazil",
         "naissance": "1997-03-18",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Edon Zhegrova",
@@ -1885,13 +1885,6 @@
         "buts": 1
       },
       {
-        "nom": "Matteo Cancellieri",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "2002-02-12",
-        "buts": 1
-      },
-      {
         "nom": "Christos Mandas",
         "poste": "Goalkeeper",
         "nationalite": "Greece",
@@ -2057,6 +2050,13 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2007-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Matteo Cancellieri",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "2002-02-12",
         "buts": 0
       },
       {

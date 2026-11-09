@@ -12,6 +12,18 @@
     "bc": 5
   },
   {
+    "equipe": "Brighton & Hove Albion FC",
+    "court": "Brighton Hove",
+    "logo": "https://crests.football-data.org/397.png",
+    "j": 10,
+    "g": 7,
+    "n": 1,
+    "p": 2,
+    "pts": 22,
+    "bp": 26,
+    "bc": 7
+  },
+  {
     "equipe": "Manchester City FC",
     "court": "Man City",
     "logo": "https://crests.football-data.org/65.png",
@@ -24,28 +36,28 @@
     "bc": 13
   },
   {
-    "equipe": "Brighton & Hove Albion FC",
-    "court": "Brighton Hove",
-    "logo": "https://crests.football-data.org/397.png",
-    "j": 9,
-    "g": 6,
-    "n": 1,
+    "equipe": "Liverpool FC",
+    "court": "Liverpool",
+    "logo": "https://crests.football-data.org/64.png",
+    "j": 10,
+    "g": 5,
+    "n": 3,
     "p": 2,
-    "pts": 19,
-    "bp": 24,
-    "bc": 7
+    "pts": 18,
+    "bp": 14,
+    "bc": 10
   },
   {
     "equipe": "Chelsea FC",
     "court": "Chelsea",
     "logo": "https://crests.football-data.org/61.png",
-    "j": 9,
+    "j": 10,
     "g": 5,
     "n": 1,
-    "p": 3,
+    "p": 4,
     "pts": 16,
     "bp": 19,
-    "bc": 15
+    "bc": 16
   },
   {
     "equipe": "Everton FC",
@@ -60,28 +72,28 @@
     "bc": 10
   },
   {
-    "equipe": "Liverpool FC",
-    "court": "Liverpool",
-    "logo": "https://crests.football-data.org/64.png",
-    "j": 9,
+    "equipe": "AFC Bournemouth",
+    "court": "Bournemouth",
+    "logo": "https://crests.football-data.org/bournemouth.png",
+    "j": 10,
     "g": 4,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 15,
-    "bp": 11,
-    "bc": 9
+    "bp": 16,
+    "bc": 14
   },
   {
     "equipe": "Brentford FC",
     "court": "Brentford",
     "logo": "https://crests.football-data.org/402.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
     "n": 5,
-    "p": 1,
+    "p": 2,
     "pts": 14,
     "bp": 16,
-    "bc": 9
+    "bc": 11
   },
   {
     "equipe": "Leeds United FC",
@@ -96,16 +108,16 @@
     "bc": 8
   },
   {
-    "equipe": "AFC Bournemouth",
-    "court": "Bournemouth",
-    "logo": "https://crests.football-data.org/bournemouth.png",
-    "j": 9,
+    "equipe": "Aston Villa FC",
+    "court": "Aston Villa",
+    "logo": "https://crests.football-data.org/58.png",
+    "j": 10,
     "g": 3,
-    "n": 3,
+    "n": 4,
     "p": 3,
-    "pts": 12,
+    "pts": 13,
     "bp": 14,
-    "bc": 13
+    "bc": 17
   },
   {
     "equipe": "Tottenham Hotspur FC",
@@ -132,18 +144,6 @@
     "bc": 16
   },
   {
-    "equipe": "Aston Villa FC",
-    "court": "Aston Villa",
-    "logo": "https://crests.football-data.org/58.png",
-    "j": 9,
-    "g": 3,
-    "n": 3,
-    "p": 3,
-    "pts": 12,
-    "bp": 10,
-    "bc": 13
-  },
-  {
     "equipe": "Hull City AFC",
     "court": "Hull City",
     "logo": "https://crests.football-data.org/322.png",
@@ -159,13 +159,13 @@
     "equipe": "Ipswich Town FC",
     "court": "Ipswich Town",
     "logo": "https://crests.football-data.org/349.png",
-    "j": 9,
+    "j": 10,
     "g": 3,
     "n": 2,
-    "p": 4,
+    "p": 5,
     "pts": 11,
-    "bp": 14,
-    "bc": 18
+    "bp": 15,
+    "bc": 20
   },
   {
     "equipe": "Fulham FC",
@@ -207,36 +207,36 @@
     "equipe": "Manchester United FC",
     "court": "Man United",
     "logo": "https://crests.football-data.org/66.png",
-    "j": 9,
+    "j": 10,
     "g": 1,
-    "n": 4,
+    "n": 5,
     "p": 4,
-    "pts": 7,
-    "bp": 10,
-    "bc": 15
-  },
-  {
-    "equipe": "Crystal Palace FC",
-    "court": "Crystal Palace",
-    "logo": "https://crests.football-data.org/354.png",
-    "j": 9,
-    "g": 2,
-    "n": 1,
-    "p": 6,
-    "pts": 7,
-    "bp": 9,
-    "bc": 21
+    "pts": 8,
+    "bp": 14,
+    "bc": 19
   },
   {
     "equipe": "Sunderland AFC",
     "court": "Sunderland",
     "logo": "https://crests.football-data.org/71.png",
-    "j": 9,
-    "g": 1,
+    "j": 10,
+    "g": 2,
     "n": 2,
     "p": 6,
-    "pts": 5,
-    "bp": 7,
+    "pts": 8,
+    "bp": 8,
     "bc": 17
+  },
+  {
+    "equipe": "Crystal Palace FC",
+    "court": "Crystal Palace",
+    "logo": "https://crests.football-data.org/354.png",
+    "j": 10,
+    "g": 2,
+    "n": 1,
+    "p": 7,
+    "pts": 7,
+    "bp": 10,
+    "bc": 24
   }
 ]

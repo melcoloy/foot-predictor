@@ -192,17 +192,17 @@
     "entraineur": null,
     "effectif": [
       {
-        "nom": "Kamory Doumbia",
-        "poste": "Midfield",
-        "nationalite": "Mali",
-        "naissance": "2003-02-18",
-        "buts": 4
-      },
-      {
         "nom": "Ludovic Ajorque",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1994-02-25",
+        "buts": 5
+      },
+      {
+        "nom": "Kamory Doumbia",
+        "poste": "Midfield",
+        "nationalite": "Mali",
+        "naissance": "2003-02-18",
         "buts": 4
       },
       {
@@ -213,25 +213,18 @@
         "buts": 2
       },
       {
+        "nom": "Noah Edjouma",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2005-10-04",
+        "buts": 2
+      },
+      {
         "nom": "Pathé Mboup",
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "2003-10-19",
         "buts": 2
-      },
-      {
-        "nom": "Kenny Lala",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "1991-10-03",
-        "buts": 1
-      },
-      {
-        "nom": "Lucas Tousart",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "1997-04-29",
-        "buts": 1
       },
       {
         "nom": "Egil Selvik",
@@ -269,6 +262,13 @@
         "buts": 0
       },
       {
+        "nom": "Kenny Lala",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "1991-10-03",
+        "buts": 0
+      },
+      {
         "nom": "Bradley Locko",
         "poste": "Defence",
         "nationalite": "France",
@@ -294,6 +294,13 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2005-09-14",
+        "buts": 0
+      },
+      {
+        "nom": "Lucas Tousart",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "1997-04-29",
         "buts": 0
       },
       {
@@ -339,13 +346,6 @@
         "buts": 0
       },
       {
-        "nom": "Noah Edjouma",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2005-10-04",
-        "buts": 0
-      },
-      {
         "nom": "Enzo Monchatre",
         "poste": null,
         "nationalite": "France",
@@ -370,7 +370,7 @@
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "2000-02-16",
-        "buts": 6
+        "buts": 7
       },
       {
         "nom": "Himad Abdelli",
@@ -394,6 +394,13 @@
         "buts": 2
       },
       {
+        "nom": "Keyliane Abdallah",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2006-04-05",
+        "buts": 2
+      },
+      {
         "nom": "Angel Gomes",
         "poste": "Midfield",
         "nationalite": "England",
@@ -405,13 +412,6 @@
         "poste": "Midfield",
         "nationalite": "Denmark",
         "naissance": "1995-08-05",
-        "buts": 1
-      },
-      {
-        "nom": "Keyliane Abdallah",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2006-04-05",
         "buts": 1
       },
       {
@@ -1018,6 +1018,13 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "1992-09-25",
+        "buts": 3
+      },
+      {
+        "nom": "Sofiane Diop",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "2000-06-09",
         "buts": 2
       },
       {
@@ -1165,13 +1172,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1996-08-07",
-        "buts": 0
-      },
-      {
-        "nom": "Sofiane Diop",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "2000-06-09",
         "buts": 0
       },
       {
@@ -1638,7 +1638,7 @@
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1998-06-12",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Noah Mbamba",
@@ -1829,17 +1829,17 @@
         "buts": 7
       },
       {
-        "nom": "Sebastian Szymański",
-        "poste": "Midfield",
-        "nationalite": "Poland",
-        "naissance": "1999-05-10",
-        "buts": 4
-      },
-      {
         "nom": "Boulaye Dia",
         "poste": "Offence",
         "nationalite": "Senegal",
         "naissance": "1996-11-16",
+        "buts": 5
+      },
+      {
+        "nom": "Sebastian Szymański",
+        "poste": "Midfield",
+        "nationalite": "Poland",
+        "naissance": "1999-05-10",
         "buts": 4
       },
       {
@@ -2777,6 +2777,13 @@
         "buts": 0
       },
       {
+        "nom": "Adnane Kharroubi",
+        "poste": null,
+        "nationalite": "Morocco",
+        "naissance": "2006-08-03",
+        "buts": 0
+      },
+      {
         "nom": "Lenny Videira",
         "poste": null,
         "nationalite": "France",
@@ -2801,7 +2808,7 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1993-01-26",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Matthieu Udol",

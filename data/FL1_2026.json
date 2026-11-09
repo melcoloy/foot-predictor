@@ -1262,7 +1262,7 @@
   {
     "id": 559636,
     "date": "2026-11-08T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Stade Rennais FC 1901",
@@ -1271,13 +1271,13 @@
     "court_ext": "Lille",
     "logo_dom": "https://crests.football-data.org/529.png",
     "logo_ext": "https://crests.football-data.org/521.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 559631,
     "date": "2026-11-08T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Le Mans FC",
@@ -1286,13 +1286,13 @@
     "court_ext": "Monaco",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/548.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 559632,
     "date": "2026-11-08T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
@@ -1301,13 +1301,13 @@
     "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/523.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 559633,
     "date": "2026-11-08T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Le Havre AC",
@@ -1316,13 +1316,13 @@
     "court_ext": "Lorient",
     "logo_dom": "https://crests.football-data.org/533.png",
     "logo_ext": "https://crests.football-data.org/525.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 559634,
     "date": "2026-11-08T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Angers SCO",
@@ -1331,13 +1331,13 @@
     "court_ext": "Nice",
     "logo_dom": "https://crests.football-data.org/532.png",
     "logo_ext": "https://crests.football-data.org/522.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 559630,
     "date": "2026-11-08T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "Racing Club de Lens",
@@ -1346,8 +1346,8 @@
     "court_ext": "Marseille",
     "logo_dom": "https://crests.football-data.org/546.png",
     "logo_ext": "https://crests.football-data.org/516.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 2
   },
   {
     "id": 559622,
