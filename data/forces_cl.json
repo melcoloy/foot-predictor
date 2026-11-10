@@ -1,151 +1,151 @@
 {
-  "mu": 1.399422055719772,
-  "home": 1.336249220225183,
-  "rho": -0.03211114541611126,
+  "mu": 1.399516174429083,
+  "home": 1.336271116030864,
+  "rho": -0.0321314553342862,
   "equipes": {
-    "Sporting Clube de Portugal": {
-      "att": 1.1658,
-      "def": 0.7199
+    "PAE AEK": {
+      "att": 0.971,
+      "def": 1.1284
     },
-    "SK Slavia Praha": {
-      "att": 0.837,
-      "def": 1.1115
+    "FC Barcelona": {
+      "att": 2.1736,
+      "def": 0.7781
+    },
+    "Manchester United FC": {
+      "att": 1.3191,
+      "def": 0.9324
     },
     "Aston Villa FC": {
-      "att": 1.3371,
+      "att": 1.3369,
       "def": 0.8158
     },
-    "Sabah FK": {
-      "att": 0.8759,
-      "def": 1.1316
-    },
-    "Manchester City FC": {
-      "att": 1.5948,
-      "def": 0.7181
-    },
-    "Villarreal CF": {
-      "att": 1.2948,
-      "def": 1.0254
+    "Club Atlético de Madrid": {
+      "att": 1.3494,
+      "def": 0.7338
     },
     "Feyenoord Rotterdam": {
       "att": 0.9929,
       "def": 1.0192
     },
-    "Manchester United FC": {
-      "att": 1.3193,
-      "def": 0.9324
-    },
-    "Racing Club de Lens": {
-      "att": 1.2484,
-      "def": 1.0142
-    },
-    "LASK Linz": {
-      "att": 1.2171,
-      "def": 1.1094
-    },
-    "FC Porto": {
-      "att": 1.016,
-      "def": 0.9637
-    },
     "Lille OSC": {
       "att": 1.0872,
-      "def": 0.7579
+      "def": 0.758
     },
-    "Club Atlético de Madrid": {
-      "att": 1.3495,
-      "def": 0.7338
-    },
-    "PAE AEK": {
-      "att": 0.971,
-      "def": 1.1285
-    },
-    "VfB Stuttgart": {
-      "att": 1.2138,
-      "def": 0.9198
-    },
-    "Real Betis Balompié": {
-      "att": 1.2395,
-      "def": 0.9221
-    },
-    "Paris Saint-Germain FC": {
-      "att": 1.9197,
-      "def": 0.6474
-    },
-    "Liverpool FC": {
-      "att": 1.5117,
-      "def": 0.7602
-    },
-    "Club Brugge KV": {
-      "att": 1.299,
-      "def": 0.9359
-    },
-    "Galatasaray SK": {
-      "att": 1.1201,
-      "def": 0.9191
-    },
-    "Fenerbahçe SK": {
-      "att": 1.0049,
-      "def": 1.1914
-    },
-    "FK Bodø/Glimt": {
-      "att": 1.127,
-      "def": 0.9335
-    },
-    "FC Bayern München": {
-      "att": 2.0686,
-      "def": 0.6805
-    },
-    "Como 1907": {
-      "att": 1.3674,
-      "def": 0.7413
+    "Sabah FK": {
+      "att": 0.876,
+      "def": 1.1315
     },
     "Viking FK": {
-      "att": 1.2133,
-      "def": 1.0556
-    },
-    "RB Leipzig": {
-      "att": 1.2506,
-      "def": 0.9345
-    },
-    "AS Roma": {
-      "att": 1.4021,
-      "def": 0.7294
-    },
-    "FC Barcelona": {
-      "att": 2.1739,
-      "def": 0.7781
-    },
-    "ŠK Slovan Bratislava": {
-      "att": 0.7373,
-      "def": 1.3969
-    },
-    "Borussia Dortmund": {
-      "att": 1.2665,
-      "def": 0.7273
-    },
-    "Arsenal FC": {
-      "att": 1.4939,
-      "def": 0.4496
-    },
-    "FC Internazionale Milano": {
-      "att": 1.6018,
-      "def": 0.7285
-    },
-    "PSV": {
-      "att": 1.0783,
-      "def": 0.8916
+      "att": 1.213,
+      "def": 1.0555
     },
     "FK Shakhtar Donetsk": {
-      "att": 0.869,
-      "def": 0.8318
+      "att": 0.8691,
+      "def": 0.832
     },
     "SSC Napoli": {
-      "att": 1.1364,
+      "att": 1.1363,
       "def": 0.829
     },
     "Real Madrid CF": {
-      "att": 1.7142,
-      "def": 0.7069
+      "att": 1.7141,
+      "def": 0.707
+    },
+    "Sporting Clube de Portugal": {
+      "att": 1.1656,
+      "def": 0.72
+    },
+    "Galatasaray SK": {
+      "att": 1.1199,
+      "def": 0.9191
+    },
+    "Como 1907": {
+      "att": 1.3673,
+      "def": 0.7413
+    },
+    "FC Internazionale Milano": {
+      "att": 1.6016,
+      "def": 0.7285
+    },
+    "Paris Saint-Germain FC": {
+      "att": 1.9196,
+      "def": 0.6474
+    },
+    "RB Leipzig": {
+      "att": 1.2505,
+      "def": 0.9345
+    },
+    "AS Roma": {
+      "att": 1.402,
+      "def": 0.7293
+    },
+    "Villarreal CF": {
+      "att": 1.2947,
+      "def": 1.0254
+    },
+    "Liverpool FC": {
+      "att": 1.5115,
+      "def": 0.7602
+    },
+    "FC Bayern München": {
+      "att": 2.0685,
+      "def": 0.6805
+    },
+    "FK Bodø/Glimt": {
+      "att": 1.1268,
+      "def": 0.9336
+    },
+    "SK Slavia Praha": {
+      "att": 0.8371,
+      "def": 1.1115
+    },
+    "Borussia Dortmund": {
+      "att": 1.2664,
+      "def": 0.7273
+    },
+    "Fenerbahçe SK": {
+      "att": 1.0048,
+      "def": 1.1912
+    },
+    "PSV": {
+      "att": 1.0782,
+      "def": 0.8917
+    },
+    "VfB Stuttgart": {
+      "att": 1.2137,
+      "def": 0.9198
+    },
+    "Arsenal FC": {
+      "att": 1.4936,
+      "def": 0.4496
+    },
+    "FC Porto": {
+      "att": 1.0159,
+      "def": 0.9638
+    },
+    "Club Brugge KV": {
+      "att": 1.2987,
+      "def": 0.9359
+    },
+    "Racing Club de Lens": {
+      "att": 1.2483,
+      "def": 1.0143
+    },
+    "LASK Linz": {
+      "att": 1.2169,
+      "def": 1.1093
+    },
+    "ŠK Slovan Bratislava": {
+      "att": 0.7376,
+      "def": 1.3967
+    },
+    "Manchester City FC": {
+      "att": 1.5945,
+      "def": 0.7181
+    },
+    "Real Betis Balompié": {
+      "att": 1.2394,
+      "def": 0.9221
     }
   }
 }

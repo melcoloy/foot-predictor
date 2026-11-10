@@ -179,7 +179,7 @@
     "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/930.png",
     "logo_ext": "https://crests.football-data.org/94.png",
-    "lambda_dom": 1.6,
+    "lambda_dom": 1.61,
     "lambda_ext": 2.01,
     "p1": 0.308,
     "pN": 0.22,
@@ -504,7 +504,7 @@
     "logo_ext": "https://crests.football-data.org/86.png",
     "lambda_dom": 1.97,
     "lambda_ext": 1.08,
-    "p1": 0.579,
+    "p1": 0.578,
     "pN": 0.222,
     "p2": 0.199,
     "score_probable": "1-1"
@@ -710,7 +710,7 @@
     "lambda_ext": 1.45,
     "p1": 0.461,
     "pN": 0.234,
-    "p2": 0.304,
+    "p2": 0.305,
     "score_probable": "1-1"
   },
   {
@@ -759,7 +759,7 @@
     "logo_ext": "https://crests.football-data.org/7509.png",
     "lambda_dom": 2.84,
     "lambda_ext": 0.78,
-    "p1": 0.795,
+    "p1": 0.794,
     "pN": 0.132,
     "p2": 0.073,
     "score_probable": "2-0"
