@@ -12,7 +12,7 @@
     "lambda_dom": 1.71,
     "lambda_ext": 1.72,
     "p1": 0.382,
-    "pN": 0.232,
+    "pN": 0.231,
     "p2": 0.387,
     "score_probable": "1-1"
   },
@@ -45,7 +45,7 @@
     "logo_ext": "https://crests.football-data.org/674.png",
     "lambda_dom": 2.86,
     "lambda_ext": 1.07,
-    "p1": 0.74,
+    "p1": 0.741,
     "pN": 0.149,
     "p2": 0.111,
     "score_probable": "2-1"
@@ -145,7 +145,7 @@
     "court_ext": "PAE AEK",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/1899.png",
-    "lambda_dom": 2.89,
+    "lambda_dom": 2.88,
     "lambda_ext": 1.01,
     "p1": 0.756,
     "pN": 0.143,
@@ -196,7 +196,7 @@
     "court_ext": "Stuttgart",
     "logo_dom": "https://crests.football-data.org/108.png",
     "logo_ext": "https://crests.football-data.org/10.png",
-    "lambda_dom": 2.75,
+    "lambda_dom": 2.76,
     "lambda_ext": 1.24,
     "p1": 0.69,
     "pN": 0.164,
@@ -317,7 +317,7 @@
     "logo_ext": "https://crests.football-data.org/10233.png",
     "lambda_dom": 2.74,
     "lambda_ext": 1.26,
-    "p1": 0.684,
+    "p1": 0.683,
     "pN": 0.166,
     "p2": 0.15,
     "score_probable": "2-1"
@@ -810,7 +810,7 @@
     "logo_ext": "https://crests.football-data.org/65.png",
     "lambda_dom": 1.68,
     "lambda_ext": 2.26,
-    "p1": 0.284,
+    "p1": 0.285,
     "pN": 0.206,
     "p2": 0.51,
     "score_probable": "1-2"
@@ -878,9 +878,9 @@
     "logo_ext": "https://crests.football-data.org/5.png",
     "lambda_dom": 1.68,
     "lambda_ext": 2.7,
-    "p1": 0.227,
+    "p1": 0.226,
     "pN": 0.181,
-    "p2": 0.592,
+    "p2": 0.593,
     "score_probable": "1-2"
   },
   {
@@ -895,7 +895,7 @@
     "logo_ext": "https://crests.football-data.org/674.png",
     "lambda_dom": 2.02,
     "lambda_ext": 1.59,
-    "p1": 0.477,
+    "p1": 0.476,
     "pN": 0.22,
     "p2": 0.304,
     "score_probable": "1-1"
@@ -930,7 +930,7 @@
     "lambda_dom": 1.15,
     "lambda_ext": 2.0,
     "p1": 0.212,
-    "pN": 0.222,
+    "pN": 0.221,
     "p2": 0.567,
     "score_probable": "1-1"
   },
@@ -1118,7 +1118,7 @@
     "lambda_ext": 2.08,
     "p1": 0.228,
     "pN": 0.216,
-    "p2": 0.556,
+    "p2": 0.555,
     "score_probable": "1-2"
   },
   {
