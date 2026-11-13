@@ -298,9 +298,9 @@
     "logo_ext": "https://crests.football-data.org/322.png",
     "lambda_dom": 1.23,
     "lambda_ext": 1.22,
-    "p1": 0.354,
+    "p1": 0.355,
     "pN": 0.296,
-    "p2": 0.35,
+    "p2": 0.349,
     "score_probable": "1-1"
   },
   {
@@ -362,7 +362,7 @@
     "logo_ext": "https://crests.football-data.org/351.png",
     "lambda_dom": 1.19,
     "lambda_ext": 1.08,
-    "p1": 0.373,
+    "p1": 0.372,
     "pN": 0.309,
     "p2": 0.318,
     "score_probable": "1-1"
@@ -507,7 +507,7 @@
     "lambda_dom": 2.32,
     "lambda_ext": 1.09,
     "p1": 0.642,
-    "pN": 0.201,
+    "pN": 0.202,
     "p2": 0.156,
     "score_probable": "2-1"
   },
@@ -729,7 +729,7 @@
     "logo_dom": "https://crests.football-data.org/397.png",
     "logo_ext": "https://crests.football-data.org/62.png",
     "lambda_dom": 1.71,
-    "lambda_ext": 0.84,
+    "lambda_ext": 0.85,
     "p1": 0.569,
     "pN": 0.257,
     "p2": 0.173,
@@ -812,7 +812,7 @@
     "lambda_ext": 1.14,
     "p1": 0.529,
     "pN": 0.247,
-    "p2": 0.224,
+    "p2": 0.225,
     "score_probable": "1-1"
   },
   {
@@ -1068,7 +1068,7 @@
     "lambda_ext": 1.92,
     "p1": 0.225,
     "pN": 0.24,
-    "p2": 0.536,
+    "p2": 0.535,
     "score_probable": "1-1"
   },
   {
@@ -1579,7 +1579,7 @@
     "lambda_dom": 1.07,
     "lambda_ext": 1.56,
     "p1": 0.251,
-    "pN": 0.275,
+    "pN": 0.274,
     "p2": 0.475,
     "score_probable": "1-1"
   },
@@ -1691,7 +1691,7 @@
     "lambda_dom": 1.18,
     "lambda_ext": 1.1,
     "p1": 0.364,
-    "pN": 0.309,
+    "pN": 0.308,
     "p2": 0.328,
     "score_probable": "1-1"
   },
@@ -1706,7 +1706,7 @@
     "logo_ext": "https://crests.football-data.org/62.png",
     "lambda_dom": 1.15,
     "lambda_ext": 1.36,
-    "p1": 0.306,
+    "p1": 0.307,
     "pN": 0.291,
     "p2": 0.403,
     "score_probable": "1-1"
@@ -2072,7 +2072,7 @@
     "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/58.png",
     "logo_ext": "https://crests.football-data.org/349.png",
-    "lambda_dom": 2.16,
+    "lambda_dom": 2.15,
     "lambda_ext": 1.18,
     "p1": 0.587,
     "pN": 0.219,
@@ -2266,7 +2266,7 @@
     "logo_ext": "https://crests.football-data.org/64.png",
     "lambda_dom": 1.18,
     "lambda_ext": 1.76,
-    "p1": 0.244,
+    "p1": 0.245,
     "pN": 0.254,
     "p2": 0.501,
     "score_probable": "1-1"
@@ -2650,7 +2650,7 @@
     "logo_ext": "https://crests.football-data.org/341.png",
     "lambda_dom": 1.14,
     "lambda_ext": 1.02,
-    "p1": 0.372,
+    "p1": 0.373,
     "pN": 0.318,
     "p2": 0.31,
     "score_probable": "1-1"
@@ -3340,7 +3340,7 @@
     "lambda_ext": 1.34,
     "p1": 0.33,
     "pN": 0.288,
-    "p2": 0.382,
+    "p2": 0.381,
     "score_probable": "1-1"
   },
   {
@@ -3452,7 +3452,7 @@
     "lambda_ext": 0.72,
     "p1": 0.655,
     "pN": 0.225,
-    "p2": 0.12,
+    "p2": 0.121,
     "score_probable": "2-0"
   },
   {
@@ -3724,7 +3724,7 @@
     "lambda_ext": 1.86,
     "p1": 0.273,
     "pN": 0.244,
-    "p2": 0.483,
+    "p2": 0.482,
     "score_probable": "1-1"
   },
   {
@@ -3928,7 +3928,7 @@
     "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/67.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
-    "lambda_dom": 1.89,
+    "lambda_dom": 1.88,
     "lambda_ext": 1.13,
     "p1": 0.541,
     "pN": 0.243,
@@ -3976,7 +3976,7 @@
     "court_ext": "Hull City",
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/322.png",
-    "lambda_dom": 1.36,
+    "lambda_dom": 1.37,
     "lambda_ext": 0.91,
     "p1": 0.461,
     "pN": 0.299,
@@ -4300,7 +4300,7 @@
     "lambda_ext": 1.37,
     "p1": 0.187,
     "pN": 0.301,
-    "p2": 0.512,
+    "p2": 0.511,
     "score_probable": "0-1"
   },
   {
@@ -4412,7 +4412,7 @@
     "lambda_ext": 1.21,
     "p1": 0.402,
     "pN": 0.284,
-    "p2": 0.313,
+    "p2": 0.314,
     "score_probable": "1-1"
   },
   {
