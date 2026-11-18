@@ -106,7 +106,7 @@
     "logo_ext": "https://crests.football-data.org/92.png",
     "lambda_dom": 1.73,
     "lambda_ext": 2.06,
-    "p1": 0.322,
+    "p1": 0.323,
     "pN": 0.223,
     "p2": 0.455,
     "score_probable": "1-1"
@@ -442,7 +442,7 @@
     "logo_ext": "https://crests.football-data.org/285.png",
     "lambda_dom": 1.45,
     "lambda_ext": 1.22,
-    "p1": 0.413,
+    "p1": 0.414,
     "pN": 0.276,
     "p2": 0.31,
     "score_probable": "1-1"
@@ -1020,7 +1020,7 @@
     "lambda_ext": 0.76,
     "p1": 0.459,
     "pN": 0.319,
-    "p2": 0.221,
+    "p2": 0.222,
     "score_probable": "1-0"
   },
   {
@@ -1033,9 +1033,9 @@
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/88.png",
     "lambda_dom": 2.83,
-    "lambda_ext": 0.74,
+    "lambda_ext": 0.75,
     "p1": 0.798,
-    "pN": 0.135,
+    "pN": 0.136,
     "p2": 0.066,
     "score_probable": "2-0"
   },
@@ -1145,7 +1145,7 @@
     "logo_dom": "https://crests.football-data.org/95.png",
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 1.6,
-    "lambda_ext": 0.87,
+    "lambda_ext": 0.88,
     "p1": 0.536,
     "pN": 0.268,
     "p2": 0.196,
@@ -1162,7 +1162,7 @@
     "logo_ext": "https://crests.football-data.org/86.png",
     "lambda_dom": 0.76,
     "lambda_ext": 2.28,
-    "p1": 0.102,
+    "p1": 0.103,
     "pN": 0.187,
     "p2": 0.71,
     "score_probable": "0-2"
@@ -1420,7 +1420,7 @@
     "lambda_ext": 1.5,
     "p1": 0.308,
     "pN": 0.272,
-    "p2": 0.421,
+    "p2": 0.42,
     "score_probable": "1-1"
   },
   {
@@ -1786,9 +1786,9 @@
     "logo_ext": "https://crests.football-data.org/78.png",
     "lambda_dom": 1.04,
     "lambda_ext": 1.6,
-    "p1": 0.236,
+    "p1": 0.237,
     "pN": 0.268,
-    "p2": 0.496,
+    "p2": 0.495,
     "score_probable": "1-1"
   },
   {
@@ -1928,9 +1928,9 @@
     "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
-    "lambda_dom": 2.11,
+    "lambda_dom": 2.1,
     "lambda_ext": 1.12,
-    "p1": 0.594,
+    "p1": 0.593,
     "pN": 0.22,
     "p2": 0.187,
     "score_probable": "1-1"
@@ -1944,7 +1944,7 @@
     "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/90.png",
-    "lambda_dom": 1.04,
+    "lambda_dom": 1.05,
     "lambda_ext": 1.72,
     "p1": 0.222,
     "pN": 0.256,
@@ -2025,7 +2025,7 @@
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/86.png",
     "lambda_dom": 1.0,
-    "lambda_ext": 2.0,
+    "lambda_ext": 1.99,
     "p1": 0.175,
     "pN": 0.227,
     "p2": 0.597,
@@ -2123,7 +2123,7 @@
     "lambda_dom": 0.9,
     "lambda_ext": 1.8,
     "p1": 0.176,
-    "pN": 0.245,
+    "pN": 0.246,
     "p2": 0.578,
     "score_probable": "1-1"
   },
@@ -2620,7 +2620,7 @@
     "lambda_ext": 1.55,
     "p1": 0.215,
     "pN": 0.274,
-    "p2": 0.511,
+    "p2": 0.51,
     "score_probable": "1-1"
   },
   {
@@ -2778,7 +2778,7 @@
     "logo_ext": "https://crests.football-data.org/5335.png",
     "lambda_dom": 2.13,
     "lambda_ext": 1.05,
-    "p1": 0.614,
+    "p1": 0.613,
     "pN": 0.216,
     "p2": 0.17,
     "score_probable": "1-1"
@@ -2908,7 +2908,7 @@
     "lambda_ext": 0.81,
     "p1": 0.56,
     "pN": 0.263,
-    "p2": 0.176,
+    "p2": 0.177,
     "score_probable": "1-0"
   },
   {
@@ -3212,7 +3212,7 @@
     "lambda_ext": 1.1,
     "p1": 0.273,
     "pN": 0.329,
-    "p2": 0.399,
+    "p2": 0.398,
     "score_probable": "0-0"
   },
   {
@@ -3244,7 +3244,7 @@
     "lambda_ext": 2.1,
     "p1": 0.177,
     "pN": 0.219,
-    "p2": 0.605,
+    "p2": 0.604,
     "score_probable": "1-1"
   },
   {
@@ -3324,7 +3324,7 @@
     "lambda_ext": 1.31,
     "p1": 0.418,
     "pN": 0.266,
-    "p2": 0.316,
+    "p2": 0.315,
     "score_probable": "1-1"
   },
   {
@@ -3436,7 +3436,7 @@
     "lambda_ext": 1.39,
     "p1": 0.338,
     "pN": 0.278,
-    "p2": 0.385,
+    "p2": 0.384,
     "score_probable": "1-1"
   },
   {
@@ -3612,7 +3612,7 @@
     "lambda_ext": 0.94,
     "p1": 0.482,
     "pN": 0.284,
-    "p2": 0.234,
+    "p2": 0.233,
     "score_probable": "1-1"
   },
   {
