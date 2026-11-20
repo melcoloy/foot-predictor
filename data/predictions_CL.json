@@ -96,7 +96,7 @@
     "logo_ext": "https://crests.football-data.org/503.png",
     "lambda_dom": 1.79,
     "lambda_ext": 1.45,
-    "p1": 0.454,
+    "p1": 0.455,
     "pN": 0.236,
     "p2": 0.31,
     "score_probable": "1-1"
@@ -200,7 +200,7 @@
     "lambda_ext": 1.24,
     "p1": 0.69,
     "pN": 0.164,
-    "p2": 0.146,
+    "p2": 0.145,
     "score_probable": "2-1"
   },
   {
@@ -353,7 +353,7 @@
     "lambda_ext": 1.74,
     "p1": 0.62,
     "pN": 0.17,
-    "p2": 0.21,
+    "p2": 0.211,
     "score_probable": "2-1"
   },
   {
@@ -487,9 +487,9 @@
     "logo_ext": "https://crests.football-data.org/1887.png",
     "lambda_dom": 1.15,
     "lambda_ext": 1.7,
-    "p1": 0.255,
+    "p1": 0.256,
     "pN": 0.247,
-    "p2": 0.498,
+    "p2": 0.497,
     "score_probable": "1-1"
   },
   {
@@ -557,7 +557,7 @@
     "lambda_ext": 1.08,
     "p1": 0.717,
     "pN": 0.159,
-    "p2": 0.124,
+    "p2": 0.123,
     "score_probable": "2-1"
   },
   {
@@ -589,7 +589,7 @@
     "logo_ext": "https://crests.football-data.org/613.png",
     "lambda_dom": 2.7,
     "lambda_ext": 1.56,
-    "p1": 0.617,
+    "p1": 0.616,
     "pN": 0.178,
     "p2": 0.205,
     "score_probable": "2-1"
@@ -675,7 +675,7 @@
     "lambda_dom": 2.28,
     "lambda_ext": 1.54,
     "p1": 0.541,
-    "pN": 0.205,
+    "pN": 0.204,
     "p2": 0.255,
     "score_probable": "2-1"
   },
@@ -776,7 +776,7 @@
     "logo_ext": "https://crests.football-data.org/94.png",
     "lambda_dom": 1.93,
     "lambda_ext": 2.15,
-    "p1": 0.352,
+    "p1": 0.353,
     "pN": 0.208,
     "p2": 0.439,
     "score_probable": "1-2"
@@ -825,7 +825,7 @@
     "court_ext": "Barça",
     "logo_dom": "https://crests.football-data.org/498.png",
     "logo_ext": "https://crests.football-data.org/81.png",
-    "lambda_dom": 1.69,
+    "lambda_dom": 1.7,
     "lambda_ext": 2.19,
     "p1": 0.299,
     "pN": 0.209,
@@ -1000,7 +1000,7 @@
     "p1": 0.767,
     "pN": 0.137,
     "p2": 0.096,
-    "score_probable": "3-1"
+    "score_probable": "2-1"
   },
   {
     "date": "2027-01-27T20:00:00Z",
@@ -1046,7 +1046,7 @@
     "court_ext": "Sabah FK",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/10233.png",
-    "lambda_dom": 3.16,
+    "lambda_dom": 3.15,
     "lambda_ext": 0.55,
     "p1": 0.871,
     "pN": 0.093,
@@ -1080,7 +1080,7 @@
     "court_ext": "Bodø/Glimt",
     "logo_dom": "https://crests.football-data.org/851.png",
     "logo_ext": "https://crests.football-data.org/5721.png",
-    "lambda_dom": 2.27,
+    "lambda_dom": 2.26,
     "lambda_ext": 1.48,
     "p1": 0.551,
     "pN": 0.205,
@@ -1149,7 +1149,7 @@
     "logo_dom": "https://crests.football-data.org/2016.png",
     "logo_ext": "https://crests.football-data.org/503.png",
     "lambda_dom": 2.19,
-    "lambda_ext": 1.58,
+    "lambda_ext": 1.57,
     "p1": 0.516,
     "pN": 0.21,
     "p2": 0.274,
@@ -1217,10 +1217,10 @@
     "logo_dom": "https://crests.football-data.org/113.png",
     "logo_ext": "https://crests.football-data.org/5720.png",
     "lambda_dom": 2.24,
-    "lambda_ext": 1.41,
+    "lambda_ext": 1.4,
     "p1": 0.562,
     "pN": 0.206,
-    "p2": 0.233,
+    "p2": 0.232,
     "score_probable": "2-1"
   }
 ]
