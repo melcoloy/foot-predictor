@@ -3,13 +3,13 @@
     "equipe": "FC Bayern München",
     "court": "Bayern",
     "logo": "https://crests.football-data.org/5.png",
-    "j": 9,
+    "j": 10,
     "g": 6,
-    "n": 3,
+    "n": 4,
     "p": 0,
-    "pts": 21,
-    "bp": 29,
-    "bc": 9
+    "pts": 22,
+    "bp": 30,
+    "bc": 10
   },
   {
     "equipe": "Borussia Dortmund",
@@ -156,6 +156,18 @@
     "bc": 11
   },
   {
+    "equipe": "1. FC Köln",
+    "court": "1. FC Köln",
+    "logo": "https://crests.football-data.org/1.png",
+    "j": 10,
+    "g": 2,
+    "n": 4,
+    "p": 4,
+    "pts": 10,
+    "bp": 11,
+    "bc": 15
+  },
+  {
     "equipe": "FC Augsburg",
     "court": "Augsburg",
     "logo": "https://crests.football-data.org/16.png",
@@ -166,18 +178,6 @@
     "pts": 9,
     "bp": 20,
     "bc": 20
-  },
-  {
-    "equipe": "1. FC Köln",
-    "court": "1. FC Köln",
-    "logo": "https://crests.football-data.org/1.png",
-    "j": 9,
-    "g": 2,
-    "n": 3,
-    "p": 4,
-    "pts": 9,
-    "bp": 10,
-    "bc": 14
   },
   {
     "equipe": "1. FC Union Berlin",

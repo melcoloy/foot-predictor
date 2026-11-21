@@ -1836,6 +1836,13 @@
     "entraineur": "Gennaro Gattuso",
     "effectif": [
       {
+        "nom": "Tijjani Noslin",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "1999-07-07",
+        "buts": 5
+      },
+      {
         "nom": "Davide Frattesi",
         "poste": "Midfield",
         "nationalite": "Italy",
@@ -1847,13 +1854,6 @@
         "poste": "Offence",
         "nationalite": "Denmark",
         "naissance": "2001-04-19",
-        "buts": 4
-      },
-      {
-        "nom": "Tijjani Noslin",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "1999-07-07",
         "buts": 4
       },
       {
@@ -4199,6 +4199,13 @@
         "buts": 5
       },
       {
+        "nom": "Jacobo Ramón",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2005-06-06",
+        "buts": 3
+      },
+      {
         "nom": "Martin Baturina",
         "poste": "Midfield",
         "nationalite": "Croatia",
@@ -4211,13 +4218,6 @@
         "nationalite": "Argentina",
         "naissance": "2004-09-08",
         "buts": 3
-      },
-      {
-        "nom": "Jacobo Ramón",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "2005-06-06",
-        "buts": 2
       },
       {
         "nom": "Assane Diao",

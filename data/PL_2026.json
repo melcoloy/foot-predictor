@@ -1502,7 +1502,7 @@
   {
     "id": 560643,
     "date": "2026-11-21T12:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Manchester City FC",
@@ -1511,8 +1511,8 @@
     "court_ext": "Fulham",
     "logo_dom": "https://crests.football-data.org/65.png",
     "logo_ext": "https://crests.football-data.org/63.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 560642,

@@ -75,13 +75,13 @@
     "equipe": "Athletic Club",
     "court": "Athletic",
     "logo": "https://crests.football-data.org/77.png",
-    "j": 11,
+    "j": 12,
     "g": 4,
     "n": 4,
-    "p": 3,
+    "p": 4,
     "pts": 16,
     "bp": 15,
-    "bc": 11
+    "bc": 12
   },
   {
     "equipe": "Villarreal CF",
@@ -105,6 +105,18 @@
     "p": 3,
     "pts": 15,
     "bp": 15,
+    "bc": 14
+  },
+  {
+    "equipe": "RCD Espanyol de Barcelona",
+    "court": "Espanyol",
+    "logo": "https://crests.football-data.org/80.png",
+    "j": 13,
+    "g": 4,
+    "n": 3,
+    "p": 6,
+    "pts": 15,
+    "bp": 14,
     "bc": 14
   },
   {
@@ -142,18 +154,6 @@
     "pts": 13,
     "bp": 15,
     "bc": 17
-  },
-  {
-    "equipe": "RCD Espanyol de Barcelona",
-    "court": "Espanyol",
-    "logo": "https://crests.football-data.org/80.png",
-    "j": 12,
-    "g": 3,
-    "n": 3,
-    "p": 6,
-    "pts": 12,
-    "bp": 13,
-    "bc": 14
   },
   {
     "equipe": "Rayo Vallecano de Madrid",

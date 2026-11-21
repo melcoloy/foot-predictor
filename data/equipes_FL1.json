@@ -2010,24 +2010,24 @@
     "entraineur": "Stéphane Dumont",
     "effectif": [
       {
-        "nom": "Lucas Maronnier",
-        "poste": "Defence",
-        "nationalite": "France",
-        "naissance": "2000-03-09",
-        "buts": 1
-      },
-      {
         "nom": "Antoine Mille",
         "poste": "Midfield",
         "nationalite": "France",
         "naissance": "1997-08-14",
-        "buts": 1
+        "buts": 3
       },
       {
         "nom": "Renaud Ripart",
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1993-03-14",
+        "buts": 2
+      },
+      {
+        "nom": "Lucas Maronnier",
+        "poste": "Defence",
+        "nationalite": "France",
+        "naissance": "2000-03-09",
         "buts": 1
       },
       {
@@ -2390,7 +2390,7 @@
         "poste": "Offence",
         "nationalite": "Nigeria",
         "naissance": "1998-12-27",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Mbwana Samatta",
@@ -2558,6 +2558,13 @@
         "poste": "Offence",
         "nationalite": "Japan",
         "naissance": "2002-10-15",
+        "buts": 0
+      },
+      {
+        "nom": "Bocar Wade",
+        "poste": null,
+        "nationalite": "France",
+        "naissance": "2008-05-22",
         "buts": 0
       },
       {

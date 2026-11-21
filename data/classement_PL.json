@@ -27,13 +27,13 @@
     "equipe": "Manchester City FC",
     "court": "Man City",
     "logo": "https://crests.football-data.org/65.png",
-    "j": 10,
+    "j": 11,
     "g": 7,
-    "n": 0,
+    "n": 1,
     "p": 3,
-    "pts": 21,
-    "bp": 21,
-    "bc": 13
+    "pts": 22,
+    "bp": 22,
+    "bc": 14
   },
   {
     "equipe": "Liverpool FC",
@@ -156,6 +156,18 @@
     "bc": 11
   },
   {
+    "equipe": "Fulham FC",
+    "court": "Fulham",
+    "logo": "https://crests.football-data.org/63.png",
+    "j": 11,
+    "g": 2,
+    "n": 5,
+    "p": 4,
+    "pts": 11,
+    "bp": 11,
+    "bc": 13
+  },
+  {
     "equipe": "Ipswich Town FC",
     "court": "Ipswich Town",
     "logo": "https://crests.football-data.org/349.png",
@@ -166,18 +178,6 @@
     "pts": 11,
     "bp": 15,
     "bc": 20
-  },
-  {
-    "equipe": "Fulham FC",
-    "court": "Fulham",
-    "logo": "https://crests.football-data.org/63.png",
-    "j": 10,
-    "g": 2,
-    "n": 4,
-    "p": 4,
-    "pts": 10,
-    "bp": 10,
-    "bc": 12
   },
   {
     "equipe": "Nottingham Forest FC",

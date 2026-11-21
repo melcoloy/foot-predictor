@@ -791,6 +791,13 @@
         "buts": 2
       },
       {
+        "nom": "Rodrigo Muniz",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2001-05-04",
+        "buts": 2
+      },
+      {
         "nom": "César Palacios",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -938,13 +945,6 @@
         "buts": 0
       },
       {
-        "nom": "Rodrigo Muniz",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2001-05-04",
-        "buts": 0
-      },
-      {
         "nom": "Kevin Santos",
         "poste": "Offence",
         "nationalite": "Brazil",
@@ -963,6 +963,13 @@
         "poste": "Offence",
         "nationalite": "Sweden",
         "naissance": "2007-07-04",
+        "buts": 0
+      },
+      {
+        "nom": "Dino Kaiser",
+        "poste": null,
+        "nationalite": "England",
+        "naissance": "2007-02-09",
         "buts": 0
       }
     ]
@@ -3285,13 +3292,6 @@
         "buts": 1
       },
       {
-        "nom": "Jaouen Hadjam",
-        "poste": "Defence",
-        "nationalite": "Algeria",
-        "naissance": "2003-03-26",
-        "buts": 1
-      },
-      {
         "nom": "Luka Vušković",
         "poste": "Defence",
         "nationalite": "Croatia",
@@ -3359,6 +3359,13 @@
         "poste": "Defence",
         "nationalite": "Netherlands",
         "naissance": "1999-11-16",
+        "buts": 0
+      },
+      {
+        "nom": "Jaouen Hadjam",
+        "poste": "Defence",
+        "nationalite": "Algeria",
+        "naissance": "2003-03-26",
         "buts": 0
       },
       {

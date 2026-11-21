@@ -694,13 +694,6 @@
         "buts": 2
       },
       {
-        "nom": "Daniel Svensson",
-        "poste": "Defence",
-        "nationalite": "Sweden",
-        "naissance": "2002-02-12",
-        "buts": 1
-      },
-      {
         "nom": "Gregor Kobel",
         "poste": "Goalkeeper",
         "nationalite": "Switzerland",
@@ -761,6 +754,13 @@
         "poste": "Defence",
         "nationalite": "Germany",
         "naissance": "1999-12-01",
+        "buts": 0
+      },
+      {
+        "nom": "Daniel Svensson",
+        "poste": "Defence",
+        "nationalite": "Sweden",
+        "naissance": "2002-02-12",
         "buts": 0
       },
       {
@@ -910,6 +910,13 @@
         "buts": 3
       },
       {
+        "nom": "Nathaniel Brown",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "2003-06-16",
+        "buts": 2
+      },
+      {
         "nom": "Ismael Saibari",
         "poste": "Midfield",
         "nationalite": "Morocco",
@@ -1005,13 +1012,6 @@
         "poste": "Defence",
         "nationalite": "South Korea",
         "naissance": "1996-11-15",
-        "buts": 0
-      },
-      {
-        "nom": "Nathaniel Brown",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "2003-06-16",
         "buts": 0
       },
       {

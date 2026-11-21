@@ -144,6 +144,18 @@
     "bc": 14
   },
   {
+    "equipe": "ES Troyes AC",
+    "court": "Troyes",
+    "logo": "https://crests.football-data.org/531.png",
+    "j": 11,
+    "g": 3,
+    "n": 2,
+    "p": 6,
+    "pts": 11,
+    "bp": 10,
+    "bc": 18
+  },
+  {
     "equipe": "RC Strasbourg Alsace",
     "court": "Strasbourg",
     "logo": "https://crests.football-data.org/576.png",
@@ -192,27 +204,15 @@
     "bc": 19
   },
   {
-    "equipe": "ES Troyes AC",
-    "court": "Troyes",
-    "logo": "https://crests.football-data.org/531.png",
-    "j": 10,
-    "g": 2,
-    "n": 2,
-    "p": 6,
-    "pts": 8,
-    "bp": 7,
-    "bc": 17
-  },
-  {
     "equipe": "Le Havre AC",
     "court": "Le Havre",
     "logo": "https://crests.football-data.org/533.png",
-    "j": 10,
+    "j": 11,
     "g": 0,
     "n": 2,
-    "p": 8,
+    "p": 9,
     "pts": 2,
-    "bp": 9,
-    "bc": 22
+    "bp": 10,
+    "bc": 25
   }
 ]

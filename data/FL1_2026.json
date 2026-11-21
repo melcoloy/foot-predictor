@@ -1352,7 +1352,7 @@
   {
     "id": 559622,
     "date": "2026-11-20T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "ES Troyes AC",
@@ -1361,8 +1361,8 @@
     "court_ext": "Le Havre",
     "logo_dom": "https://crests.football-data.org/531.png",
     "logo_ext": "https://crests.football-data.org/533.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 559628,

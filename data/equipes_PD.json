@@ -579,7 +579,7 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2002-07-03",
-        "buts": 6
+        "buts": 7
       },
       {
         "nom": "Álex Calatrava",
@@ -719,6 +719,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2001-06-17",
+        "buts": 0
+      },
+      {
+        "nom": "Makar Kotovshchikov",
+        "poste": null,
+        "nationalite": "Russia",
+        "naissance": "2008-06-10",
         "buts": 0
       },
       {
@@ -2752,7 +2759,7 @@
         "poste": "Offence",
         "nationalite": "Argentina",
         "naissance": "1996-02-28",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Mariano Díaz",

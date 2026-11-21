@@ -1652,7 +1652,7 @@
   {
     "id": 558525,
     "date": "2026-11-21T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Como 1907",
@@ -1661,13 +1661,13 @@
     "court_ext": "Cagliari",
     "logo_dom": "https://crests.football-data.org/7397.png",
     "logo_ext": "https://crests.football-data.org/104.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 558528,
     "date": "2026-11-21T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "SS Lazio",
@@ -1676,8 +1676,8 @@
     "court_ext": "Lecce",
     "logo_dom": "https://crests.football-data.org/110.png",
     "logo_ext": "https://crests.football-data.org/5890.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 558526,

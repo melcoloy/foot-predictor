@@ -1787,7 +1787,7 @@
   {
     "id": 564748,
     "date": "2026-11-20T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Athletic Club",
@@ -1796,8 +1796,8 @@
     "court_ext": "Espanyol",
     "logo_dom": "https://crests.football-data.org/77.png",
     "logo_ext": "https://crests.football-data.org/80.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 564755,

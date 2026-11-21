@@ -1217,7 +1217,7 @@
   {
     "id": 565859,
     "date": "2026-11-20T19:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "FC Bayern München",
@@ -1226,8 +1226,8 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/5.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 565857,
