@@ -3,13 +3,25 @@
     "equipe": "SS Lazio",
     "court": "Lazio",
     "logo": "https://crests.football-data.org/110.png",
-    "j": 11,
-    "g": 9,
+    "j": 12,
+    "g": 10,
     "n": 2,
     "p": 0,
-    "pts": 29,
-    "bp": 25,
+    "pts": 32,
+    "bp": 28,
     "bc": 9
+  },
+  {
+    "equipe": "AS Roma",
+    "court": "Roma",
+    "logo": "https://crests.football-data.org/100.png",
+    "j": 12,
+    "g": 9,
+    "n": 3,
+    "p": 0,
+    "pts": 30,
+    "bp": 36,
+    "bc": 11
   },
   {
     "equipe": "FC Internazionale Milano",
@@ -24,15 +36,15 @@
     "bc": 13
   },
   {
-    "equipe": "AS Roma",
-    "court": "Roma",
-    "logo": "https://crests.football-data.org/100.png",
-    "j": 11,
+    "equipe": "Como 1907",
+    "court": "Como 1907",
+    "logo": "https://crests.football-data.org/7397.png",
+    "j": 12,
     "g": 8,
-    "n": 3,
-    "p": 0,
-    "pts": 27,
-    "bp": 31,
+    "n": 2,
+    "p": 2,
+    "pts": 26,
+    "bp": 20,
     "bc": 10
   },
   {
@@ -48,16 +60,16 @@
     "bc": 13
   },
   {
-    "equipe": "Como 1907",
-    "court": "Como 1907",
-    "logo": "https://crests.football-data.org/7397.png",
-    "j": 11,
-    "g": 7,
-    "n": 2,
-    "p": 2,
-    "pts": 23,
-    "bp": 18,
-    "bc": 10
+    "equipe": "Juventus FC",
+    "court": "Juventus",
+    "logo": "https://crests.football-data.org/109.png",
+    "j": 12,
+    "g": 6,
+    "n": 3,
+    "p": 3,
+    "pts": 21,
+    "bp": 19,
+    "bc": 12
   },
   {
     "equipe": "Frosinone Calcio",
@@ -72,16 +84,16 @@
     "bc": 15
   },
   {
-    "equipe": "Juventus FC",
-    "court": "Juventus",
-    "logo": "https://crests.football-data.org/109.png",
-    "j": 11,
+    "equipe": "SSC Napoli",
+    "court": "Napoli",
+    "logo": "https://crests.football-data.org/113.png",
+    "j": 12,
     "g": 5,
     "n": 3,
-    "p": 3,
+    "p": 4,
     "pts": 18,
-    "bp": 15,
-    "bc": 12
+    "bp": 19,
+    "bc": 14
   },
   {
     "equipe": "Bologna FC 1909",
@@ -99,36 +111,12 @@
     "equipe": "Cagliari Calcio",
     "court": "Cagliari",
     "logo": "https://crests.football-data.org/104.png",
-    "j": 11,
+    "j": 12,
     "g": 5,
     "n": 1,
-    "p": 5,
+    "p": 6,
     "pts": 16,
     "bp": 10,
-    "bc": 15
-  },
-  {
-    "equipe": "SSC Napoli",
-    "court": "Napoli",
-    "logo": "https://crests.football-data.org/113.png",
-    "j": 11,
-    "g": 4,
-    "n": 3,
-    "p": 4,
-    "pts": 15,
-    "bp": 18,
-    "bc": 14
-  },
-  {
-    "equipe": "Torino FC",
-    "court": "Torino",
-    "logo": "https://crests.football-data.org/586.png",
-    "j": 11,
-    "g": 4,
-    "n": 2,
-    "p": 5,
-    "pts": 14,
-    "bp": 15,
     "bc": 17
   },
   {
@@ -142,6 +130,18 @@
     "pts": 14,
     "bp": 17,
     "bc": 20
+  },
+  {
+    "equipe": "Torino FC",
+    "court": "Torino",
+    "logo": "https://crests.football-data.org/586.png",
+    "j": 12,
+    "g": 4,
+    "n": 2,
+    "p": 6,
+    "pts": 14,
+    "bp": 15,
+    "bc": 18
   },
   {
     "equipe": "Genoa CFC",
@@ -159,13 +159,13 @@
     "equipe": "US Lecce",
     "court": "Lecce",
     "logo": "https://crests.football-data.org/5890.png",
-    "j": 11,
+    "j": 12,
     "g": 3,
     "n": 1,
-    "p": 7,
+    "p": 8,
     "pts": 10,
     "bp": 12,
-    "bc": 22
+    "bc": 25
   },
   {
     "equipe": "ACF Fiorentina",
@@ -183,13 +183,13 @@
     "equipe": "Parma Calcio 1913",
     "court": "Parma",
     "logo": "https://crests.football-data.org/112.png",
-    "j": 11,
+    "j": 12,
     "g": 2,
     "n": 2,
-    "p": 7,
+    "p": 8,
     "pts": 8,
-    "bp": 9,
-    "bc": 17
+    "bp": 10,
+    "bc": 22
   },
   {
     "equipe": "US Sassuolo Calcio",
@@ -219,13 +219,13 @@
     "equipe": "Venezia FC",
     "court": "Venezia FC",
     "logo": "https://crests.football-data.org/454.png",
-    "j": 11,
+    "j": 12,
     "g": 2,
     "n": 0,
-    "p": 9,
+    "p": 10,
     "pts": 6,
     "bp": 8,
-    "bc": 21
+    "bc": 25
   },
   {
     "equipe": "Udinese Calcio",

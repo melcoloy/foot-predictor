@@ -15,13 +15,13 @@
     "equipe": "Real Madrid CF",
     "court": "Real Madrid",
     "logo": "https://crests.football-data.org/86.png",
-    "j": 12,
-    "g": 10,
+    "j": 13,
+    "g": 11,
     "n": 0,
     "p": 2,
-    "pts": 30,
-    "bp": 31,
-    "bc": 10
+    "pts": 33,
+    "bp": 33,
+    "bc": 11
   },
   {
     "equipe": "Club Atlético de Madrid",
@@ -39,13 +39,13 @@
     "equipe": "Real Betis Balompié",
     "court": "Real Betis",
     "logo": "https://crests.football-data.org/90.png",
-    "j": 12,
+    "j": 13,
     "g": 8,
-    "n": 2,
+    "n": 3,
     "p": 2,
-    "pts": 26,
-    "bp": 20,
-    "bc": 15
+    "pts": 27,
+    "bp": 21,
+    "bc": 16
   },
   {
     "equipe": "Real Sociedad de Fútbol",
@@ -63,13 +63,13 @@
     "equipe": "Sevilla FC",
     "court": "Sevilla FC",
     "logo": "https://crests.football-data.org/559.png",
-    "j": 12,
+    "j": 13,
     "g": 5,
-    "n": 3,
+    "n": 4,
     "p": 4,
-    "pts": 18,
-    "bp": 17,
-    "bc": 19
+    "pts": 19,
+    "bp": 18,
+    "bc": 20
   },
   {
     "equipe": "Athletic Club",
@@ -84,6 +84,18 @@
     "bc": 12
   },
   {
+    "equipe": "Deportivo Alavés",
+    "court": "Alavés",
+    "logo": "https://crests.football-data.org/263.png",
+    "j": 13,
+    "g": 4,
+    "n": 4,
+    "p": 5,
+    "pts": 16,
+    "bp": 18,
+    "bc": 18
+  },
+  {
     "equipe": "Villarreal CF",
     "court": "Villarreal",
     "logo": "https://crests.football-data.org/94.png",
@@ -96,18 +108,6 @@
     "bc": 15
   },
   {
-    "equipe": "RC Deportivo La Coruña",
-    "court": "Deportivo",
-    "logo": "https://crests.football-data.org/560.png",
-    "j": 12,
-    "g": 3,
-    "n": 6,
-    "p": 3,
-    "pts": 15,
-    "bp": 15,
-    "bc": 14
-  },
-  {
     "equipe": "RCD Espanyol de Barcelona",
     "court": "Espanyol",
     "logo": "https://crests.football-data.org/80.png",
@@ -118,6 +118,18 @@
     "pts": 15,
     "bp": 14,
     "bc": 14
+  },
+  {
+    "equipe": "RC Deportivo La Coruña",
+    "court": "Deportivo",
+    "logo": "https://crests.football-data.org/560.png",
+    "j": 13,
+    "g": 3,
+    "n": 6,
+    "p": 4,
+    "pts": 15,
+    "bp": 16,
+    "bc": 17
   },
   {
     "equipe": "Real Racing Club de Santander",
@@ -135,37 +147,25 @@
     "equipe": "RC Celta de Vigo",
     "court": "Celta",
     "logo": "https://crests.football-data.org/558.png",
-    "j": 12,
+    "j": 13,
     "g": 2,
     "n": 7,
-    "p": 3,
+    "p": 4,
     "pts": 13,
-    "bp": 10,
-    "bc": 10
-  },
-  {
-    "equipe": "Deportivo Alavés",
-    "court": "Alavés",
-    "logo": "https://crests.football-data.org/263.png",
-    "j": 12,
-    "g": 3,
-    "n": 4,
-    "p": 5,
-    "pts": 13,
-    "bp": 15,
-    "bc": 17
+    "bp": 11,
+    "bc": 12
   },
   {
     "equipe": "Rayo Vallecano de Madrid",
     "court": "Rayo Vallecano",
     "logo": "https://crests.football-data.org/87.png",
-    "j": 11,
+    "j": 12,
     "g": 3,
     "n": 3,
-    "p": 5,
+    "p": 6,
     "pts": 12,
     "bp": 15,
-    "bc": 21
+    "bc": 22
   },
   {
     "equipe": "Getafe CF",
@@ -192,6 +192,18 @@
     "bc": 23
   },
   {
+    "equipe": "Valencia CF",
+    "court": "Valencia",
+    "logo": "https://crests.football-data.org/95.png",
+    "j": 13,
+    "g": 3,
+    "n": 3,
+    "p": 7,
+    "pts": 12,
+    "bp": 9,
+    "bc": 20
+  },
+  {
     "equipe": "Levante UD",
     "court": "Levante",
     "logo": "https://crests.football-data.org/88.png",
@@ -213,18 +225,6 @@
     "p": 6,
     "pts": 10,
     "bp": 14,
-    "bc": 20
-  },
-  {
-    "equipe": "Valencia CF",
-    "court": "Valencia",
-    "logo": "https://crests.football-data.org/95.png",
-    "j": 12,
-    "g": 2,
-    "n": 3,
-    "p": 7,
-    "pts": 9,
-    "bp": 8,
     "bc": 20
   },
   {

@@ -440,14 +440,14 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "1999-01-19",
-        "buts": 8
+        "buts": 12
       },
       {
         "nom": "Rodrigo Mora",
         "poste": "Midfield",
         "nationalite": "Portugal",
         "naissance": "2007-05-05",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Niccolo Pisilli",
@@ -1265,13 +1265,6 @@
         "buts": 2
       },
       {
-        "nom": "Johan Vásquez",
-        "poste": "Defence",
-        "nationalite": "Mexico",
-        "naissance": "1998-10-22",
-        "buts": 1
-      },
-      {
         "nom": "Justin Bijlow",
         "poste": "Goalkeeper",
         "nationalite": "Netherlands",
@@ -1297,6 +1290,13 @@
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "1993-01-13",
+        "buts": 0
+      },
+      {
+        "nom": "Johan Vásquez",
+        "poste": "Defence",
+        "nationalite": "Mexico",
+        "naissance": "1998-10-22",
         "buts": 0
       },
       {
@@ -1634,6 +1634,20 @@
         "buts": 3
       },
       {
+        "nom": "Teun Koopmeiners",
+        "poste": "Midfield",
+        "nationalite": "Netherlands",
+        "naissance": "1998-02-28",
+        "buts": 2
+      },
+      {
+        "nom": "Randal Kolo Muani",
+        "poste": "Offence",
+        "nationalite": "France",
+        "naissance": "1998-12-05",
+        "buts": 2
+      },
+      {
         "nom": "Edon Zhegrova",
         "poste": "Offence",
         "nationalite": "Kosovo",
@@ -1641,17 +1655,17 @@
         "buts": 2
       },
       {
+        "nom": "Nick Woltemade",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2002-02-14",
+        "buts": 2
+      },
+      {
         "nom": "Federico Gatti",
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "1998-06-24",
-        "buts": 1
-      },
-      {
-        "nom": "Teun Koopmeiners",
-        "poste": "Midfield",
-        "nationalite": "Netherlands",
-        "naissance": "1998-02-28",
         "buts": 1
       },
       {
@@ -1781,20 +1795,6 @@
         "buts": 0
       },
       {
-        "nom": "Randal Kolo Muani",
-        "poste": "Offence",
-        "nationalite": "France",
-        "naissance": "1998-12-05",
-        "buts": 0
-      },
-      {
-        "nom": "Nick Woltemade",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2002-02-14",
-        "buts": 0
-      },
-      {
         "nom": "Francisco Conceição",
         "poste": "Offence",
         "nationalite": "Portugal",
@@ -1840,14 +1840,14 @@
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "1999-07-07",
-        "buts": 5
+        "buts": 6
       },
       {
         "nom": "Davide Frattesi",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "1999-09-22",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Gustav Isaksen",
@@ -1876,13 +1876,6 @@
         "nationalite": "Italy",
         "naissance": "1995-06-16",
         "buts": 2
-      },
-      {
-        "nom": "Albert Guðmundsson",
-        "poste": "Offence",
-        "nationalite": "Iceland",
-        "naissance": "1997-06-15",
-        "buts": 1
       },
       {
         "nom": "Christos Mandas",
@@ -2050,6 +2043,13 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2007-02-07",
+        "buts": 0
+      },
+      {
+        "nom": "Albert Guðmundsson",
+        "poste": "Offence",
+        "nationalite": "Iceland",
+        "naissance": "1997-06-15",
         "buts": 0
       },
       {
@@ -2289,18 +2289,18 @@
         "buts": 4
       },
       {
+        "nom": "Scott McTominay",
+        "poste": "Midfield",
+        "nationalite": "Scotland",
+        "naissance": "1996-12-08",
+        "buts": 3
+      },
+      {
         "nom": "Rasmus Højlund",
         "poste": "Offence",
         "nationalite": "Denmark",
         "naissance": "2003-02-04",
         "buts": 3
-      },
-      {
-        "nom": "Scott McTominay",
-        "poste": "Midfield",
-        "nationalite": "Scotland",
-        "naissance": "1996-12-08",
-        "buts": 2
       },
       {
         "nom": "Matteo Politano",
@@ -2526,13 +2526,6 @@
         "buts": 2
       },
       {
-        "nom": "Jesper Karlström",
-        "poste": "Midfield",
-        "nationalite": "Sweden",
-        "naissance": "1995-06-21",
-        "buts": 1
-      },
-      {
         "nom": "Jakub Piotrowski",
         "poste": "Midfield",
         "nationalite": "Poland",
@@ -2635,6 +2628,13 @@
         "poste": "Midfield",
         "nationalite": "Slovenia",
         "naissance": "1998-03-28",
+        "buts": 0
+      },
+      {
+        "nom": "Jesper Karlström",
+        "poste": "Midfield",
+        "nationalite": "Sweden",
+        "naissance": "1995-06-21",
         "buts": 0
       },
       {
@@ -4220,6 +4220,13 @@
         "buts": 3
       },
       {
+        "nom": "Lucas Da Cunha",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2001-06-09",
+        "buts": 2
+      },
+      {
         "nom": "Assane Diao",
         "poste": "Offence",
         "nationalite": "Senegal",
@@ -4339,13 +4346,6 @@
         "buts": 0
       },
       {
-        "nom": "Lucas Da Cunha",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2001-06-09",
-        "buts": 0
-      },
-      {
         "nom": "Maximo Perrone",
         "poste": "Midfield",
         "nationalite": "Argentina",
@@ -4392,6 +4392,13 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2005-11-21",
+        "buts": 0
+      },
+      {
+        "nom": "Kevin Fustini",
+        "poste": null,
+        "nationalite": "Italy",
+        "naissance": "2009-07-03",
         "buts": 0
       },
       {

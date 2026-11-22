@@ -454,7 +454,7 @@
         "poste": "Offence",
         "nationalite": "Czech Republic",
         "naissance": "1996-01-24",
-        "buts": 8
+        "buts": 9
       },
       {
         "nom": "Ibrahim Maza",
@@ -462,6 +462,13 @@
         "nationalite": "Algeria",
         "naissance": "2005-11-24",
         "buts": 3
+      },
+      {
+        "nom": "Afonso Moreira",
+        "poste": "Offence",
+        "nationalite": "Portugal",
+        "naissance": "2005-03-19",
+        "buts": 2
       },
       {
         "nom": "Christian Kofane",
@@ -625,13 +632,6 @@
         "buts": 0
       },
       {
-        "nom": "Afonso Moreira",
-        "poste": "Offence",
-        "nationalite": "Portugal",
-        "naissance": "2005-03-19",
-        "buts": 0
-      },
-      {
         "nom": "Montrell Culbreath",
         "poste": "Offence",
         "nationalite": "Germany",
@@ -670,7 +670,7 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2000-10-10",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Sehrou Guirassy",
@@ -2377,7 +2377,7 @@
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "2003-03-31",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Maximilian Eggestein",
@@ -2798,18 +2798,18 @@
     "entraineur": "Adi Hütter",
     "effectif": [
       {
+        "nom": "Jonathan Burkardt",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2000-07-11",
+        "buts": 6
+      },
+      {
         "nom": "Younes Ebnoutalib",
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "2003-09-13",
         "buts": 6
-      },
-      {
-        "nom": "Jonathan Burkardt",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2000-07-11",
-        "buts": 5
       },
       {
         "nom": "Can Uzun",
@@ -3230,13 +3230,6 @@
         "buts": 2
       },
       {
-        "nom": "Santiago Castaneda",
-        "poste": "Midfield",
-        "nationalite": "USA",
-        "naissance": "2004-11-13",
-        "buts": 1
-      },
-      {
         "nom": "Markus Schubert",
         "poste": "Goalkeeper",
         "nationalite": "Germany",
@@ -3360,6 +3353,13 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2005-01-31",
+        "buts": 0
+      },
+      {
+        "nom": "Santiago Castaneda",
+        "poste": "Midfield",
+        "nationalite": "USA",
+        "naissance": "2004-11-13",
         "buts": 0
       },
       {
@@ -3662,6 +3662,13 @@
     "entraineur": "Martín Demichelis",
     "effectif": [
       {
+        "nom": "Romulo Cruz",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "2002-02-08",
+        "buts": 6
+      },
+      {
         "nom": "Christopher Nkunku",
         "poste": "Offence",
         "nationalite": "France",
@@ -3669,18 +3676,18 @@
         "buts": 5
       },
       {
-        "nom": "Romulo Cruz",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "2002-02-08",
-        "buts": 5
-      },
-      {
         "nom": "Antonio Nusa",
         "poste": "Offence",
         "nationalite": "Norway",
         "naissance": "2005-04-17",
-        "buts": 4
+        "buts": 5
+      },
+      {
+        "nom": "Ridle Baku",
+        "poste": "Defence",
+        "nationalite": "Germany",
+        "naissance": "1998-04-08",
+        "buts": 3
       },
       {
         "nom": "Tidiam Gomis",
@@ -3690,17 +3697,17 @@
         "buts": 3
       },
       {
-        "nom": "Ridle Baku",
-        "poste": "Defence",
-        "nationalite": "Germany",
-        "naissance": "1998-04-08",
-        "buts": 2
-      },
-      {
         "nom": "Christoph Baumgartner",
         "poste": "Midfield",
         "nationalite": "Austria",
         "naissance": "1999-08-01",
+        "buts": 2
+      },
+      {
+        "nom": "Rocco Reitz",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2002-05-29",
         "buts": 2
       },
       {
@@ -3715,13 +3722,6 @@
         "poste": "Defence",
         "nationalite": "Hungary",
         "naissance": "1992-11-03",
-        "buts": 1
-      },
-      {
-        "nom": "Rocco Reitz",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2002-05-29",
         "buts": 1
       },
       {

@@ -1394,7 +1394,7 @@
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "2003-06-29",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Arda Guler",
@@ -1404,18 +1404,18 @@
         "buts": 3
       },
       {
+        "nom": "Carlos Espí",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2005-07-24",
+        "buts": 3
+      },
+      {
         "nom": "Yan Diomandé",
         "poste": "Offence",
         "nationalite": "Ivory Coast",
         "naissance": "2006-11-14",
         "buts": 3
-      },
-      {
-        "nom": "Carlos Espí",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2005-07-24",
-        "buts": 2
       },
       {
         "nom": "Vinicius Junior",
@@ -2393,6 +2393,13 @@
         "buts": 2
       },
       {
+        "nom": "Tajon Buchanan",
+        "poste": "Offence",
+        "nationalite": "Canada",
+        "naissance": "1999-02-08",
+        "buts": 2
+      },
+      {
         "nom": "Alberto Moleiro",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -2509,13 +2516,6 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1993-07-29",
-        "buts": 0
-      },
-      {
-        "nom": "Tajon Buchanan",
-        "poste": "Offence",
-        "nationalite": "Canada",
-        "naissance": "1999-02-08",
         "buts": 0
       },
       {
@@ -2776,13 +2776,6 @@
         "buts": 1
       },
       {
-        "nom": "Ville Koski",
-        "poste": "Defence",
-        "nationalite": "Finland",
-        "naissance": "2002-01-27",
-        "buts": 1
-      },
-      {
         "nom": "Pablo Ibáñez Tébar",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -2822,6 +2815,13 @@
         "poste": "Defence",
         "nationalite": "Malaysia",
         "naissance": "1999-09-05",
+        "buts": 0
+      },
+      {
+        "nom": "Ville Koski",
+        "poste": "Defence",
+        "nationalite": "Finland",
+        "naissance": "2002-01-27",
         "buts": 0
       },
       {
@@ -2971,13 +2971,6 @@
         "buts": 1
       },
       {
-        "nom": "Facundo Buonanotte",
-        "poste": "Midfield",
-        "nationalite": "Argentina",
-        "naissance": "2004-12-23",
-        "buts": 1
-      },
-      {
         "nom": "Matías Dituro",
         "poste": "Goalkeeper",
         "nationalite": "Argentina",
@@ -3052,6 +3045,13 @@
         "poste": "Midfield",
         "nationalite": "Argentina",
         "naissance": "2003-01-18",
+        "buts": 0
+      },
+      {
+        "nom": "Facundo Buonanotte",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2004-12-23",
         "buts": 0
       },
       {
@@ -3152,17 +3152,17 @@
     "entraineur": "Claudio",
     "effectif": [
       {
-        "nom": "Ferran Jutglà",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "1999-02-01",
-        "buts": 2
-      },
-      {
         "nom": "Pablo Duran",
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2001-05-25",
+        "buts": 3
+      },
+      {
+        "nom": "Ferran Jutglà",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "1999-02-01",
         "buts": 2
       },
       {
@@ -3347,6 +3347,13 @@
         "buts": 3
       },
       {
+        "nom": "Kike Salas",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2002-04-23",
+        "buts": 2
+      },
+      {
         "nom": "Félix Correia",
         "poste": "Offence",
         "nationalite": "Portugal",
@@ -3445,13 +3452,6 @@
         "buts": 0
       },
       {
-        "nom": "Kike Salas",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "2002-04-23",
-        "buts": 0
-      },
-      {
         "nom": "Castrin",
         "poste": "Defence",
         "nationalite": "Spain",
@@ -3519,6 +3519,20 @@
         "poste": "Offence",
         "nationalite": "Scotland",
         "naissance": "2004-02-26",
+        "buts": 0
+      },
+      {
+        "nom": "Marc Scuri",
+        "poste": null,
+        "nationalite": "Spain",
+        "naissance": "2005-08-21",
+        "buts": 0
+      },
+      {
+        "nom": "Tamiou Kpebane",
+        "poste": null,
+        "nationalite": "Germany",
+        "naissance": "2006-05-03",
         "buts": 0
       },
       {

@@ -1802,7 +1802,7 @@
   {
     "id": 564755,
     "date": "2026-11-21T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Deportivo Alavés",
@@ -1811,13 +1811,13 @@
     "court_ext": "Deportivo",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/560.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 564751,
     "date": "2026-11-21T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",
@@ -1826,13 +1826,13 @@
     "court_ext": "Valencia",
     "logo_dom": "https://crests.football-data.org/87.png",
     "logo_ext": "https://crests.football-data.org/95.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 564756,
     "date": "2026-11-21T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Sevilla FC",
@@ -1841,13 +1841,13 @@
     "court_ext": "Real Betis",
     "logo_dom": "https://crests.football-data.org/559.png",
     "logo_ext": "https://crests.football-data.org/90.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 564754,
     "date": "2026-11-21T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Real Madrid CF",
@@ -1856,13 +1856,13 @@
     "court_ext": "Celta",
     "logo_dom": "https://crests.football-data.org/86.png",
     "logo_ext": "https://crests.football-data.org/558.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 1
   },
   {
     "id": 564749,
     "date": "2026-11-22T13:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
@@ -1871,8 +1871,8 @@
     "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/94.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 2
   },
   {
     "id": 564750,

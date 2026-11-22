@@ -39,11 +39,11 @@
         "buts": 2
       },
       {
-        "nom": "Riccardo Calafiori",
-        "poste": "Defence",
-        "nationalite": "Italy",
-        "naissance": "2002-05-19",
-        "buts": 1
+        "nom": "Noni Madueke",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "2002-03-10",
+        "buts": 2
       },
       {
         "nom": "Kepa Arrizabalaga",
@@ -109,6 +109,13 @@
         "buts": 0
       },
       {
+        "nom": "Riccardo Calafiori",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "2002-05-19",
+        "buts": 0
+      },
+      {
         "nom": "Cristhian Mosquera",
         "poste": "Defence",
         "nationalite": "Spain",
@@ -162,13 +169,6 @@
         "poste": "Offence",
         "nationalite": "Greece",
         "naissance": "2002-01-30",
-        "buts": 0
-      },
-      {
-        "nom": "Noni Madueke",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "2002-03-10",
         "buts": 0
       },
       {
@@ -1244,13 +1244,6 @@
         "buts": 1
       },
       {
-        "nom": "Enzo Fernández",
-        "poste": "Midfield",
-        "nationalite": "Argentina",
-        "naissance": "2001-01-17",
-        "buts": 1
-      },
-      {
         "nom": "Géronimo Rulli",
         "poste": "Goalkeeper",
         "nationalite": "Argentina",
@@ -1335,6 +1328,13 @@
         "buts": 0
       },
       {
+        "nom": "Enzo Fernández",
+        "poste": "Midfield",
+        "nationalite": "Argentina",
+        "naissance": "2001-01-17",
+        "buts": 0
+      },
+      {
         "nom": "Elliot Anderson",
         "poste": "Midfield",
         "nationalite": "England",
@@ -1402,13 +1402,6 @@
         "nationalite": "Cameroon",
         "naissance": "1999-08-07",
         "buts": 4
-      },
-      {
-        "nom": "Matheus Cunha",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1999-05-27",
-        "buts": 1
       },
       {
         "nom": "Benjamin Šeško",
@@ -1565,6 +1558,13 @@
         "buts": 0
       },
       {
+        "nom": "Matheus Cunha",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-05-27",
+        "buts": 0
+      },
+      {
         "nom": "Joshua Zirkzee",
         "poste": "Offence",
         "nationalite": "Netherlands",
@@ -1613,17 +1613,17 @@
     "entraineur": "Matthias Jaissle",
     "effectif": [
       {
-        "nom": "Joe Willock",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "1999-08-20",
-        "buts": 2
-      },
-      {
         "nom": "Harvey Barnes",
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1997-12-09",
+        "buts": 3
+      },
+      {
+        "nom": "Joe Willock",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "1999-08-20",
         "buts": 2
       },
       {
@@ -2017,6 +2017,13 @@
         "buts": 2
       },
       {
+        "nom": "Dominic Solanke",
+        "poste": "Offence",
+        "nationalite": "England",
+        "naissance": "1997-09-14",
+        "buts": 2
+      },
+      {
         "nom": "Conor Gallagher",
         "poste": "Midfield",
         "nationalite": "England",
@@ -2147,13 +2154,6 @@
         "poste": "Midfield",
         "nationalite": "Sweden",
         "naissance": "2006-02-02",
-        "buts": 0
-      },
-      {
-        "nom": "Dominic Solanke",
-        "poste": "Offence",
-        "nationalite": "England",
-        "naissance": "1997-09-14",
         "buts": 0
       },
       {
@@ -2460,7 +2460,14 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1997-03-16",
-        "buts": 3
+        "buts": 4
+      },
+      {
+        "nom": "Noah Okafor",
+        "poste": "Offence",
+        "nationalite": "Switzerland",
+        "naissance": "2000-05-24",
+        "buts": 4
       },
       {
         "nom": "Jayden Bogle",
@@ -2468,20 +2475,6 @@
         "nationalite": "England",
         "naissance": "2000-07-27",
         "buts": 2
-      },
-      {
-        "nom": "Noah Okafor",
-        "poste": "Offence",
-        "nationalite": "Switzerland",
-        "naissance": "2000-05-24",
-        "buts": 2
-      },
-      {
-        "nom": "James Justin",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "1998-02-23",
-        "buts": 1
       },
       {
         "nom": "Anton Stach",
@@ -2516,6 +2509,13 @@
         "poste": "Defence",
         "nationalite": "Switzerland",
         "naissance": "1996-09-30",
+        "buts": 0
+      },
+      {
+        "nom": "James Justin",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "1998-02-23",
         "buts": 0
       },
       {
@@ -3027,6 +3027,20 @@
         "buts": 2
       },
       {
+        "nom": "Yeremi Pino",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2002-10-20",
+        "buts": 2
+      },
+      {
+        "nom": "Jørgen Strand Larsen",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2000-02-06",
+        "buts": 2
+      },
+      {
         "nom": "Ben Chilwell",
         "poste": "Defence",
         "nationalite": "England",
@@ -3038,13 +3052,6 @@
         "poste": "Defence",
         "nationalite": "Israel",
         "naissance": "2004-09-03",
-        "buts": 1
-      },
-      {
-        "nom": "Jørgen Strand Larsen",
-        "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "2000-02-06",
         "buts": 1
       },
       {
@@ -3199,13 +3206,6 @@
         "poste": "Offence",
         "nationalite": "Ivory Coast",
         "naissance": "2001-07-01",
-        "buts": 0
-      },
-      {
-        "nom": "Yeremi Pino",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2002-10-20",
         "buts": 0
       },
       {
@@ -3675,6 +3675,13 @@
     "entraineur": "Marco Rose",
     "effectif": [
       {
+        "nom": "Evanilson",
+        "poste": "Offence",
+        "nationalite": "Brazil",
+        "naissance": "1999-10-06",
+        "buts": 6
+      },
+      {
         "nom": "Marcus Tavernier",
         "poste": "Offence",
         "nationalite": "England",
@@ -3682,18 +3689,11 @@
         "buts": 5
       },
       {
-        "nom": "Evanilson",
-        "poste": "Offence",
-        "nationalite": "Brazil",
-        "naissance": "1999-10-06",
-        "buts": 5
-      },
-      {
         "nom": "Justin Kluivert",
         "poste": "Midfield",
         "nationalite": "Netherlands",
         "naissance": "1999-05-05",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Alex Scott",
@@ -3891,11 +3891,18 @@
         "buts": 3
       },
       {
-        "nom": "Jay Dasilva",
-        "poste": "Defence",
-        "nationalite": "Wales",
-        "naissance": "1998-04-22",
-        "buts": 1
+        "nom": "Taiwo Awoniyi",
+        "poste": "Offence",
+        "nationalite": "Nigeria",
+        "naissance": "1997-08-12",
+        "buts": 2
+      },
+      {
+        "nom": "Tatsuhiro Sakamoto",
+        "poste": "Offence",
+        "nationalite": "Japan",
+        "naissance": "1996-10-22",
+        "buts": 2
       },
       {
         "nom": "Daniel Bentley",
@@ -3937,6 +3944,13 @@
         "poste": "Defence",
         "nationalite": "Jamaica",
         "naissance": "1993-05-29",
+        "buts": 0
+      },
+      {
+        "nom": "Jay Dasilva",
+        "poste": "Defence",
+        "nationalite": "Wales",
+        "naissance": "1998-04-22",
         "buts": 0
       },
       {
@@ -4038,13 +4052,6 @@
         "buts": 0
       },
       {
-        "nom": "Taiwo Awoniyi",
-        "poste": "Offence",
-        "nationalite": "Nigeria",
-        "naissance": "1997-08-12",
-        "buts": 0
-      },
-      {
         "nom": "Haji Wright",
         "poste": "Offence",
         "nationalite": "USA",
@@ -4056,13 +4063,6 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "2001-01-14",
-        "buts": 0
-      },
-      {
-        "nom": "Tatsuhiro Sakamoto",
-        "poste": "Offence",
-        "nationalite": "Japan",
-        "naissance": "1996-10-22",
         "buts": 0
       },
       {
