@@ -1322,7 +1322,7 @@
   {
     "id": 565864,
     "date": "2026-11-22T14:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "FC Augsburg",
@@ -1331,13 +1331,13 @@
     "court_ext": "Mainz",
     "logo_dom": "https://crests.football-data.org/16.png",
     "logo_ext": "https://crests.football-data.org/15.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 1
   },
   {
     "id": 565863,
     "date": "2026-11-22T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 10,
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
@@ -1346,8 +1346,8 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 0
   },
   {
     "id": 565869,

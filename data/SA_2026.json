@@ -1727,7 +1727,7 @@
   {
     "id": 558522,
     "date": "2026-11-22T14:00:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Bologna FC 1909",
@@ -1736,13 +1736,13 @@
     "court_ext": "Udinese",
     "logo_dom": "https://crests.football-data.org/103.png",
     "logo_ext": "https://crests.football-data.org/115.png",
-    "buts_dom": 0,
-    "buts_ext": 0
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 558524,
     "date": "2026-11-22T14:00:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "US Sassuolo Calcio",
@@ -1752,12 +1752,12 @@
     "logo_dom": "https://crests.football-data.org/471.png",
     "logo_ext": "https://crests.football-data.org/107.png",
     "buts_dom": 0,
-    "buts_ext": 0
+    "buts_ext": 2
   },
   {
     "id": 558523,
     "date": "2026-11-22T17:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "AC Milan",
@@ -1766,13 +1766,13 @@
     "court_ext": "Frosinone",
     "logo_dom": "https://crests.football-data.org/98.png",
     "logo_ext": "https://crests.football-data.org/470.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 5,
+    "buts_ext": 1
   },
   {
     "id": 558520,
     "date": "2026-11-22T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Atalanta BC",
@@ -1781,8 +1781,8 @@
     "court_ext": "Inter",
     "logo_dom": "https://crests.football-data.org/102.png",
     "logo_ext": "https://crests.football-data.org/108.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 4
   },
   {
     "id": 558519,

@@ -1607,7 +1607,7 @@
   {
     "id": 560646,
     "date": "2026-11-22T14:00:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Hull City AFC",
@@ -1616,13 +1616,13 @@
     "court_ext": "Brighton Hove",
     "logo_dom": "https://crests.football-data.org/322.png",
     "logo_ext": "https://crests.football-data.org/397.png",
-    "buts_dom": 0,
+    "buts_dom": 2,
     "buts_ext": 0
   },
   {
     "id": 560645,
     "date": "2026-11-22T16:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Liverpool FC",
@@ -1631,8 +1631,8 @@
     "court_ext": "Man United",
     "logo_dom": "https://crests.football-data.org/64.png",
     "logo_ext": "https://crests.football-data.org/66.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 4,
+    "buts_ext": 0
   },
   {
     "id": 560649,

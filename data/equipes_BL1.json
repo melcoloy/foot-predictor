@@ -485,13 +485,6 @@
         "buts": 1
       },
       {
-        "nom": "Miguel Gutiérrez",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "2001-07-27",
-        "buts": 1
-      },
-      {
         "nom": "Niklas Lomb",
         "poste": "Goalkeeper",
         "nationalite": "Germany",
@@ -531,6 +524,13 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2000-04-11",
+        "buts": 0
+      },
+      {
+        "nom": "Miguel Gutiérrez",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "2001-07-27",
         "buts": 0
       },
       {
@@ -1715,7 +1715,7 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1993-02-09",
-        "buts": 9
+        "buts": 10
       },
       {
         "nom": "Ludovit Reis",
@@ -1729,6 +1729,13 @@
         "poste": "Offence",
         "nationalite": "Austria",
         "naissance": "1998-07-06",
+        "buts": 2
+      },
+      {
+        "nom": "Justin Njinmah",
+        "poste": "Offence",
+        "nationalite": "Germany",
+        "naissance": "2000-11-15",
         "buts": 2
       },
       {
@@ -1893,13 +1900,6 @@
         "buts": 0
       },
       {
-        "nom": "Justin Njinmah",
-        "poste": "Offence",
-        "nationalite": "Germany",
-        "naissance": "2000-11-15",
-        "buts": 0
-      },
-      {
         "nom": "Keke Topp",
         "poste": "Offence",
         "nationalite": "Germany",
@@ -1962,6 +1962,13 @@
         "buts": 2
       },
       {
+        "nom": "Ransford Königsdörffer",
+        "poste": "Offence",
+        "nationalite": "Ghana",
+        "naissance": "2001-09-13",
+        "buts": 2
+      },
+      {
         "nom": "Benedict Hollerbach",
         "poste": "Offence",
         "nationalite": "Germany",
@@ -1987,13 +1994,6 @@
         "poste": "Midfield",
         "nationalite": "Germany",
         "naissance": "2002-04-29",
-        "buts": 1
-      },
-      {
-        "nom": "Ransford Königsdörffer",
-        "poste": "Offence",
-        "nationalite": "Ghana",
-        "naissance": "2001-09-13",
         "buts": 1
       },
       {
@@ -2154,7 +2154,7 @@
         "poste": "Offence",
         "nationalite": "Austria",
         "naissance": "1994-04-18",
-        "buts": 5
+        "buts": 7
       },
       {
         "nom": "Robin Fellhauer",

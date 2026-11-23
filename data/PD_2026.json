@@ -1862,7 +1862,7 @@
   {
     "id": 564749,
     "date": "2026-11-22T13:00:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "FC Barcelona",
@@ -1871,13 +1871,13 @@
     "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/94.png",
-    "buts_dom": 0,
+    "buts_dom": 3,
     "buts_ext": 2
   },
   {
     "id": 564750,
     "date": "2026-11-22T15:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Real Racing Club de Santander",
@@ -1886,13 +1886,13 @@
     "court_ext": "Real Sociedad",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/92.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 2
   },
   {
     "id": 564752,
     "date": "2026-11-22T17:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "CA Osasuna",
@@ -1901,13 +1901,13 @@
     "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/79.png",
     "logo_ext": "https://crests.football-data.org/84.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 564753,
     "date": "2026-11-22T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Getafe CF",
@@ -1916,8 +1916,8 @@
     "court_ext": "Atleti",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/78.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 3
   },
   {
     "id": 564757,

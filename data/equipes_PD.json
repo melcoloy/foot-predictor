@@ -210,7 +210,7 @@
         "poste": "Defence",
         "nationalite": "Spain",
         "naissance": "1995-09-20",
-        "buts": 4
+        "buts": 5
       },
       {
         "nom": "Giuliano Simeone",
@@ -398,7 +398,7 @@
         "poste": "Offence",
         "nationalite": "Croatia",
         "naissance": "1991-07-22",
-        "buts": 8
+        "buts": 9
       },
       {
         "nom": "Kike Barja",
@@ -774,7 +774,7 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2003-05-11",
-        "buts": 7
+        "buts": 8
       },
       {
         "nom": "Gabriel Jesus",
@@ -2195,20 +2195,20 @@
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "1996-11-29",
-        "buts": 2
-      },
-      {
-        "nom": "Ander Barrenetxea",
-        "poste": "Offence",
-        "nationalite": "Spain",
-        "naissance": "2001-12-27",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Mikel Oyarzabal",
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "1997-04-21",
+        "buts": 3
+      },
+      {
+        "nom": "Ander Barrenetxea",
+        "poste": "Offence",
+        "nationalite": "Spain",
+        "naissance": "2001-12-27",
         "buts": 2
       },
       {
@@ -3769,7 +3769,7 @@
         "poste": "Offence",
         "nationalite": "Morocco",
         "naissance": "2005-02-23",
-        "buts": 9
+        "buts": 11
       },
       {
         "nom": "Pablo García",
@@ -3783,7 +3783,7 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "1991-02-16",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "Andrés Martín",

@@ -12,6 +12,18 @@
     "bc": 12
   },
   {
+    "equipe": "Paris FC",
+    "court": "Paris FC",
+    "logo": "https://crests.football-data.org/1045.png",
+    "j": 11,
+    "g": 7,
+    "n": 2,
+    "p": 2,
+    "pts": 23,
+    "bp": 21,
+    "bc": 10
+  },
+  {
     "equipe": "Lille OSC",
     "court": "Lille",
     "logo": "https://crests.football-data.org/521.png",
@@ -22,18 +34,6 @@
     "pts": 21,
     "bp": 14,
     "bc": 8
-  },
-  {
-    "equipe": "Paris FC",
-    "court": "Paris FC",
-    "logo": "https://crests.football-data.org/1045.png",
-    "j": 10,
-    "g": 6,
-    "n": 2,
-    "p": 2,
-    "pts": 20,
-    "bp": 17,
-    "bc": 10
   },
   {
     "equipe": "Olympique Lyonnais",
@@ -51,13 +51,13 @@
     "equipe": "Olympique de Marseille",
     "court": "Marseille",
     "logo": "https://crests.football-data.org/516.png",
-    "j": 10,
+    "j": 11,
     "g": 6,
     "n": 0,
-    "p": 4,
+    "p": 5,
     "pts": 18,
-    "bp": 22,
-    "bc": 14
+    "bp": 24,
+    "bc": 17
   },
   {
     "equipe": "Stade Brestois 29",
@@ -99,25 +99,25 @@
     "equipe": "Stade Rennais FC 1901",
     "court": "Stade Rennais",
     "logo": "https://crests.football-data.org/529.png",
-    "j": 10,
+    "j": 11,
     "g": 5,
-    "n": 1,
+    "n": 2,
     "p": 4,
-    "pts": 16,
-    "bp": 21,
-    "bc": 21
+    "pts": 17,
+    "bp": 22,
+    "bc": 22
   },
   {
     "equipe": "FC Lorient",
     "court": "Lorient",
     "logo": "https://crests.football-data.org/525.png",
-    "j": 10,
+    "j": 11,
     "g": 4,
-    "n": 3,
+    "n": 4,
     "p": 3,
-    "pts": 15,
-    "bp": 9,
-    "bc": 8
+    "pts": 16,
+    "bp": 10,
+    "bc": 9
   },
   {
     "equipe": "Racing Club de Lens",
@@ -142,6 +142,18 @@
     "pts": 14,
     "bp": 16,
     "bc": 15
+  },
+  {
+    "equipe": "Le Mans FC",
+    "court": "Le Mans",
+    "logo": "https://crests.football-data.org/535.png",
+    "j": 11,
+    "g": 2,
+    "n": 5,
+    "p": 4,
+    "pts": 11,
+    "bp": 15,
+    "bc": 21
   },
   {
     "equipe": "ES Troyes AC",
@@ -180,28 +192,16 @@
     "bc": 23
   },
   {
-    "equipe": "Le Mans FC",
-    "court": "Le Mans",
-    "logo": "https://crests.football-data.org/535.png",
-    "j": 10,
-    "g": 1,
-    "n": 5,
-    "p": 4,
-    "pts": 8,
-    "bp": 12,
-    "bc": 19
-  },
-  {
     "equipe": "Angers SCO",
     "court": "Angers SCO",
     "logo": "https://crests.football-data.org/532.png",
-    "j": 10,
+    "j": 11,
     "g": 2,
     "n": 2,
-    "p": 6,
+    "p": 7,
     "pts": 8,
     "bp": 9,
-    "bc": 19
+    "bc": 23
   },
   {
     "equipe": "Le Havre AC",

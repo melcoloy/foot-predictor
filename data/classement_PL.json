@@ -15,13 +15,13 @@
     "equipe": "Brighton & Hove Albion FC",
     "court": "Brighton Hove",
     "logo": "https://crests.football-data.org/397.png",
-    "j": 10,
+    "j": 11,
     "g": 7,
     "n": 1,
-    "p": 2,
+    "p": 3,
     "pts": 22,
     "bp": 26,
-    "bc": 7
+    "bc": 9
   },
   {
     "equipe": "Manchester City FC",
@@ -36,6 +36,18 @@
     "bc": 14
   },
   {
+    "equipe": "Liverpool FC",
+    "court": "Liverpool",
+    "logo": "https://crests.football-data.org/64.png",
+    "j": 11,
+    "g": 6,
+    "n": 3,
+    "p": 2,
+    "pts": 21,
+    "bp": 18,
+    "bc": 10
+  },
+  {
     "equipe": "AFC Bournemouth",
     "court": "Bournemouth",
     "logo": "https://crests.football-data.org/bournemouth.png",
@@ -46,18 +58,6 @@
     "pts": 18,
     "bp": 18,
     "bc": 14
-  },
-  {
-    "equipe": "Liverpool FC",
-    "court": "Liverpool",
-    "logo": "https://crests.football-data.org/64.png",
-    "j": 10,
-    "g": 5,
-    "n": 3,
-    "p": 2,
-    "pts": 18,
-    "bp": 14,
-    "bc": 10
   },
   {
     "equipe": "Leeds United FC",
@@ -120,6 +120,18 @@
     "bc": 11
   },
   {
+    "equipe": "Hull City AFC",
+    "court": "Hull City",
+    "logo": "https://crests.football-data.org/322.png",
+    "j": 11,
+    "g": 3,
+    "n": 5,
+    "p": 3,
+    "pts": 14,
+    "bp": 13,
+    "bc": 11
+  },
+  {
     "equipe": "Aston Villa FC",
     "court": "Aston Villa",
     "logo": "https://crests.football-data.org/58.png",
@@ -154,18 +166,6 @@
     "pts": 12,
     "bp": 13,
     "bc": 21
-  },
-  {
-    "equipe": "Hull City AFC",
-    "court": "Hull City",
-    "logo": "https://crests.football-data.org/322.png",
-    "j": 10,
-    "g": 2,
-    "n": 5,
-    "p": 3,
-    "pts": 11,
-    "bp": 11,
-    "bc": 11
   },
   {
     "equipe": "Fulham FC",
@@ -219,13 +219,13 @@
     "equipe": "Manchester United FC",
     "court": "Man United",
     "logo": "https://crests.football-data.org/66.png",
-    "j": 10,
+    "j": 11,
     "g": 1,
     "n": 5,
-    "p": 4,
+    "p": 5,
     "pts": 8,
     "bp": 14,
-    "bc": 19
+    "bc": 23
   },
   {
     "equipe": "Crystal Palace FC",

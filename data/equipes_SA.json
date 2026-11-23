@@ -11,6 +11,13 @@
     "entraineur": "Ruben Amorim",
     "effectif": [
       {
+        "nom": "Alphadjo Cisse",
+        "poste": "Midfield",
+        "nationalite": "Italy",
+        "naissance": "2006-10-22",
+        "buts": 6
+      },
+      {
         "nom": "Adrien Rabiot",
         "poste": "Midfield",
         "nationalite": "France",
@@ -18,10 +25,10 @@
         "buts": 5
       },
       {
-        "nom": "Alphadjo Cisse",
-        "poste": "Midfield",
-        "nationalite": "Italy",
-        "naissance": "2006-10-22",
+        "nom": "Christian Pulisic",
+        "poste": "Offence",
+        "nationalite": "USA",
+        "naissance": "1998-09-18",
         "buts": 5
       },
       {
@@ -32,18 +39,11 @@
         "buts": 4
       },
       {
-        "nom": "Christian Pulisic",
-        "poste": "Offence",
-        "nationalite": "USA",
-        "naissance": "1998-09-18",
-        "buts": 4
-      },
-      {
         "nom": "Gonçalo Ramos",
         "poste": "Offence",
         "nationalite": "Portugal",
         "naissance": "2001-06-20",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Pietro Terracciano",
@@ -638,10 +638,31 @@
         "buts": 7
       },
       {
+        "nom": "Charles De Ketelaere",
+        "poste": "Midfield",
+        "nationalite": "Belgium",
+        "naissance": "2001-03-10",
+        "buts": 3
+      },
+      {
         "nom": "Éderson",
         "poste": "Midfield",
         "nationalite": "Brazil",
         "naissance": "1989-03-13",
+        "buts": 2
+      },
+      {
+        "nom": "Franck Kessié",
+        "poste": "Midfield",
+        "nationalite": "Ivory Coast",
+        "naissance": "1996-12-19",
+        "buts": 2
+      },
+      {
+        "nom": "Eljif Elmas",
+        "poste": "Midfield",
+        "nationalite": "North Macedonia",
+        "naissance": "1999-09-24",
         "buts": 2
       },
       {
@@ -722,13 +743,6 @@
         "buts": 0
       },
       {
-        "nom": "Franck Kessié",
-        "poste": "Midfield",
-        "nationalite": "Ivory Coast",
-        "naissance": "1996-12-19",
-        "buts": 0
-      },
-      {
         "nom": "Raoul Bellanova",
         "poste": "Midfield",
         "nationalite": "Italy",
@@ -750,24 +764,10 @@
         "buts": 0
       },
       {
-        "nom": "Eljif Elmas",
-        "poste": "Midfield",
-        "nationalite": "North Macedonia",
-        "naissance": "1999-09-24",
-        "buts": 0
-      },
-      {
         "nom": "Gianluca Gaetano",
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2000-05-05",
-        "buts": 0
-      },
-      {
-        "nom": "Charles De Ketelaere",
-        "poste": "Midfield",
-        "nationalite": "Belgium",
-        "naissance": "2001-03-10",
         "buts": 0
       },
       {
@@ -845,20 +845,6 @@
         "nationalite": "Italy",
         "naissance": "1997-01-24",
         "buts": 2
-      },
-      {
-        "nom": "Artem Dovbyk",
-        "poste": "Offence",
-        "nationalite": "Ukraine",
-        "naissance": "1997-06-21",
-        "buts": 1
-      },
-      {
-        "nom": "Roberto Piccoli",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "2001-01-27",
-        "buts": 1
       },
       {
         "nom": "Łukasz Skorupski",
@@ -987,6 +973,13 @@
         "buts": 0
       },
       {
+        "nom": "Artem Dovbyk",
+        "poste": "Offence",
+        "nationalite": "Ukraine",
+        "naissance": "1997-06-21",
+        "buts": 0
+      },
+      {
         "nom": "Jesper Karlsson",
         "poste": "Offence",
         "nationalite": "Sweden",
@@ -994,10 +987,24 @@
         "buts": 0
       },
       {
+        "nom": "Roberto Piccoli",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "2001-01-27",
+        "buts": 0
+      },
+      {
         "nom": "Jay Enem",
         "poste": "Offence",
         "nationalite": "Netherlands",
         "naissance": "2003-03-11",
+        "buts": 0
+      },
+      {
+        "nom": "Kwesi Badori",
+        "poste": null,
+        "nationalite": "Ghana",
+        "naissance": "2008-01-01",
         "buts": 0
       }
     ]
@@ -1248,7 +1255,7 @@
         "poste": "Offence",
         "nationalite": "Montenegro",
         "naissance": "1999-07-25",
-        "buts": 4
+        "buts": 6
       },
       {
         "nom": "Mikael Egill Ellertsson",
@@ -1453,6 +1460,13 @@
         "buts": 6
       },
       {
+        "nom": "Francesco Esposito",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "2005-06-28",
+        "buts": 6
+      },
+      {
         "nom": "Lautaro Martínez",
         "poste": "Offence",
         "nationalite": "Argentina",
@@ -1467,17 +1481,17 @@
         "buts": 3
       },
       {
-        "nom": "Francesco Esposito",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "2005-06-28",
-        "buts": 3
-      },
-      {
         "nom": "Piotr Zieliński",
         "poste": "Midfield",
         "nationalite": "Poland",
         "naissance": "1994-05-20",
+        "buts": 2
+      },
+      {
+        "nom": "Petar Sucic",
+        "poste": "Midfield",
+        "nationalite": "Croatia",
+        "naissance": "2003-10-25",
         "buts": 2
       },
       {
@@ -1593,13 +1607,6 @@
         "buts": 0
       },
       {
-        "nom": "Petar Sucic",
-        "poste": "Midfield",
-        "nationalite": "Croatia",
-        "naissance": "2003-10-25",
-        "buts": 0
-      },
-      {
         "nom": "Andy Diouf",
         "poste": "Midfield",
         "nationalite": "France",
@@ -1660,13 +1667,6 @@
         "nationalite": "Germany",
         "naissance": "2002-02-14",
         "buts": 2
-      },
-      {
-        "nom": "Federico Gatti",
-        "poste": "Defence",
-        "nationalite": "Italy",
-        "naissance": "1998-06-24",
-        "buts": 1
       },
       {
         "nom": "Nicolás González",
@@ -1743,6 +1743,13 @@
         "poste": "Defence",
         "nationalite": "France",
         "naissance": "2000-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Federico Gatti",
+        "poste": "Defence",
+        "nationalite": "Italy",
+        "naissance": "1998-06-24",
         "buts": 0
       },
       {
@@ -2526,6 +2533,13 @@
         "buts": 2
       },
       {
+        "nom": "Nicolò Zaniolo",
+        "poste": "Offence",
+        "nationalite": "Italy",
+        "naissance": "1999-07-02",
+        "buts": 2
+      },
+      {
         "nom": "Jakub Piotrowski",
         "poste": "Midfield",
         "nationalite": "Poland",
@@ -2673,13 +2687,6 @@
         "buts": 0
       },
       {
-        "nom": "Nicolò Zaniolo",
-        "poste": "Offence",
-        "nationalite": "Italy",
-        "naissance": "1999-07-02",
-        "buts": 0
-      },
-      {
         "nom": "Keinan Davis",
         "poste": "Offence",
         "nationalite": "England",
@@ -2740,13 +2747,6 @@
         "nationalite": "Nigeria",
         "naissance": "2000-01-29",
         "buts": 2
-      },
-      {
-        "nom": "Richie Sagrado",
-        "poste": "Defence",
-        "nationalite": "Belgium",
-        "naissance": "2004-01-30",
-        "buts": 1
       },
       {
         "nom": "John Yeboah",
@@ -2837,6 +2837,13 @@
         "poste": "Defence",
         "nationalite": "Morocco",
         "naissance": "2003-03-05",
+        "buts": 0
+      },
+      {
+        "nom": "Richie Sagrado",
+        "poste": "Defence",
+        "nationalite": "Belgium",
+        "naissance": "2004-01-30",
         "buts": 0
       },
       {
@@ -3286,13 +3293,6 @@
         "buts": 2
       },
       {
-        "nom": "Josh Doig",
-        "poste": "Defence",
-        "nationalite": "Scotland",
-        "naissance": "2002-01-01",
-        "buts": 1
-      },
-      {
         "nom": "Giacomo Satalino",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -3346,6 +3346,13 @@
         "poste": "Defence",
         "nationalite": "Guinea-Bissau",
         "naissance": "1998-01-24",
+        "buts": 0
+      },
+      {
+        "nom": "Josh Doig",
+        "poste": "Defence",
+        "nationalite": "Scotland",
+        "naissance": "2002-01-01",
         "buts": 0
       },
       {

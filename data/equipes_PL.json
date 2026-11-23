@@ -997,14 +997,21 @@
         "poste": "Offence",
         "nationalite": "Spain",
         "naissance": "2003-07-13",
-        "buts": 2
+        "buts": 3
       },
       {
         "nom": "Dominik Szoboszlai",
         "poste": "Midfield",
         "nationalite": "Hungary",
         "naissance": "2000-10-25",
-        "buts": 1
+        "buts": 2
+      },
+      {
+        "nom": "Florian Wirtz",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2003-05-03",
+        "buts": 2
       },
       {
         "nom": "Cody Gakpo",
@@ -1116,13 +1123,6 @@
         "poste": "Midfield",
         "nationalite": "Japan",
         "naissance": "1993-02-09",
-        "buts": 0
-      },
-      {
-        "nom": "Florian Wirtz",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2003-05-03",
         "buts": 0
       },
       {
@@ -2219,18 +2219,18 @@
     "entraineur": "Sergej Jakirović",
     "effectif": [
       {
+        "nom": "Oliver McBurnie",
+        "poste": "Offence",
+        "nationalite": "Scotland",
+        "naissance": "1996-06-04",
+        "buts": 4
+      },
+      {
         "nom": "Mohamed Belloumi",
         "poste": "Offence",
         "nationalite": "Algeria",
         "naissance": "2002-06-01",
         "buts": 3
-      },
-      {
-        "nom": "Oliver McBurnie",
-        "poste": "Offence",
-        "nationalite": "Scotland",
-        "naissance": "1996-06-04",
-        "buts": 2
       },
       {
         "nom": "Semi Ajayi",

@@ -1442,7 +1442,7 @@
   {
     "id": 559625,
     "date": "2026-11-22T14:00:00Z",
-    "statut": "IN_PLAY",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Paris FC",
@@ -1451,13 +1451,13 @@
     "court_ext": "Angers SCO",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/532.png",
-    "buts_dom": 0,
+    "buts_dom": 4,
     "buts_ext": 0
   },
   {
     "id": 559626,
     "date": "2026-11-22T16:15:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "FC Lorient",
@@ -1466,13 +1466,13 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/525.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 1
   },
   {
     "id": 559629,
     "date": "2026-11-22T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Olympique de Marseille",
@@ -1481,8 +1481,8 @@
     "court_ext": "Le Mans",
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/535.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 3
   },
   {
     "id": 559616,
