@@ -3459,6 +3459,20 @@
     "entraineur": "Keith Andrews",
     "effectif": [
       {
+        "nom": "Keane Lewis-Potter",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2001-02-22",
+        "buts": 4
+      },
+      {
+        "nom": "Vitaly Janelt",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "1998-05-10",
+        "buts": 3
+      },
+      {
         "nom": "Kevin Schade",
         "poste": "Offence",
         "nationalite": "Germany",
@@ -3466,17 +3480,10 @@
         "buts": 3
       },
       {
-        "nom": "Keane Lewis-Potter",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2001-02-22",
-        "buts": 2
-      },
-      {
-        "nom": "Vitaly Janelt",
+        "nom": "Fabio Carvalho",
         "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "1998-05-10",
+        "nationalite": "Portugal",
+        "naissance": "2002-08-30",
         "buts": 2
       },
       {
@@ -3491,13 +3498,6 @@
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "2004-07-10",
-        "buts": 1
-      },
-      {
-        "nom": "Fabio Carvalho",
-        "poste": "Midfield",
-        "nationalite": "Portugal",
-        "naissance": "2002-08-30",
         "buts": 1
       },
       {

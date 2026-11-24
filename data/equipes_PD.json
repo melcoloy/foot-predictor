@@ -1808,6 +1808,13 @@
         "buts": 2
       },
       {
+        "nom": "Dani Requena",
+        "poste": "Midfield",
+        "nationalite": "Spain",
+        "naissance": "2004-02-12",
+        "buts": 2
+      },
+      {
         "nom": "Jon Olasagasti",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -1924,13 +1931,6 @@
         "poste": "Midfield",
         "nationalite": "Spain",
         "naissance": "2003-12-19",
-        "buts": 0
-      },
-      {
-        "nom": "Dani Requena",
-        "poste": "Midfield",
-        "nationalite": "Spain",
-        "naissance": "2004-02-12",
         "buts": 0
       },
       {
@@ -3368,13 +3368,6 @@
         "buts": 2
       },
       {
-        "nom": "Juan Iglesias",
-        "poste": "Defence",
-        "nationalite": "Spain",
-        "naissance": "1998-07-03",
-        "buts": 1
-      },
-      {
         "nom": "Jon Guridi",
         "poste": "Midfield",
         "nationalite": "Spain",
@@ -3435,6 +3428,13 @@
         "poste": "Defence",
         "nationalite": "Brazil",
         "naissance": "1996-06-05",
+        "buts": 0
+      },
+      {
+        "nom": "Juan Iglesias",
+        "poste": "Defence",
+        "nationalite": "Spain",
+        "naissance": "1998-07-03",
         "buts": 0
       },
       {

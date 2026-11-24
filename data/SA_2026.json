@@ -1787,7 +1787,7 @@
   {
     "id": 558519,
     "date": "2026-11-23T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "AC Monza",
@@ -1796,8 +1796,8 @@
     "court_ext": "Fiorentina",
     "logo_dom": "https://crests.football-data.org/5911.png",
     "logo_ext": "https://crests.football-data.org/99.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 558515,

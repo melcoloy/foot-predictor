@@ -60,6 +60,18 @@
     "bc": 14
   },
   {
+    "equipe": "Brentford FC",
+    "court": "Brentford",
+    "logo": "https://crests.football-data.org/402.png",
+    "j": 11,
+    "g": 4,
+    "n": 5,
+    "p": 2,
+    "pts": 17,
+    "bp": 20,
+    "bc": 11
+  },
+  {
     "equipe": "Leeds United FC",
     "court": "Leeds United",
     "logo": "https://crests.football-data.org/341.png",
@@ -70,18 +82,6 @@
     "pts": 17,
     "bp": 14,
     "bc": 9
-  },
-  {
-    "equipe": "Everton FC",
-    "court": "Everton",
-    "logo": "https://crests.football-data.org/62.png",
-    "j": 10,
-    "g": 4,
-    "n": 4,
-    "p": 2,
-    "pts": 16,
-    "bp": 12,
-    "bc": 10
   },
   {
     "equipe": "Chelsea FC",
@@ -96,6 +96,18 @@
     "bc": 20
   },
   {
+    "equipe": "Everton FC",
+    "court": "Everton",
+    "logo": "https://crests.football-data.org/62.png",
+    "j": 11,
+    "g": 4,
+    "n": 4,
+    "p": 3,
+    "pts": 16,
+    "bp": 12,
+    "bc": 14
+  },
+  {
     "equipe": "Tottenham Hotspur FC",
     "court": "Tottenham",
     "logo": "https://crests.football-data.org/73.png",
@@ -105,18 +117,6 @@
     "p": 4,
     "pts": 15,
     "bp": 12,
-    "bc": 11
-  },
-  {
-    "equipe": "Brentford FC",
-    "court": "Brentford",
-    "logo": "https://crests.football-data.org/402.png",
-    "j": 10,
-    "g": 3,
-    "n": 5,
-    "p": 2,
-    "pts": 14,
-    "bp": 16,
     "bc": 11
   },
   {

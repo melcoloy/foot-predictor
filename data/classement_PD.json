@@ -168,6 +168,18 @@
     "bc": 12
   },
   {
+    "equipe": "Levante UD",
+    "court": "Levante",
+    "logo": "https://crests.football-data.org/88.png",
+    "j": 13,
+    "g": 2,
+    "n": 6,
+    "p": 5,
+    "pts": 12,
+    "bp": 17,
+    "bc": 22
+  },
+  {
     "equipe": "Rayo Vallecano de Madrid",
     "court": "Rayo Vallecano",
     "logo": "https://crests.football-data.org/87.png",
@@ -204,28 +216,16 @@
     "bc": 21
   },
   {
-    "equipe": "Levante UD",
-    "court": "Levante",
-    "logo": "https://crests.football-data.org/88.png",
-    "j": 12,
-    "g": 2,
-    "n": 5,
-    "p": 5,
-    "pts": 11,
-    "bp": 16,
-    "bc": 21
-  },
-  {
     "equipe": "Elche CF",
     "court": "Elche",
     "logo": "https://crests.football-data.org/285.png",
-    "j": 12,
+    "j": 13,
     "g": 2,
-    "n": 4,
+    "n": 5,
     "p": 6,
-    "pts": 10,
-    "bp": 14,
-    "bc": 20
+    "pts": 11,
+    "bp": 15,
+    "bc": 21
   },
   {
     "equipe": "Málaga CF",
