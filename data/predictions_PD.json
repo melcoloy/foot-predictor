@@ -120,7 +120,7 @@
     "court_ext": "Villarreal",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/94.png",
-    "lambda_dom": 1.28,
+    "lambda_dom": 1.29,
     "lambda_ext": 1.26,
     "p1": 0.364,
     "pN": 0.283,
@@ -427,7 +427,7 @@
     "lambda_dom": 2.69,
     "lambda_ext": 1.0,
     "p1": 0.728,
-    "pN": 0.161,
+    "pN": 0.162,
     "p2": 0.111,
     "score_probable": "2-0"
   },
@@ -586,7 +586,7 @@
     "logo_ext": "https://crests.football-data.org/94.png",
     "lambda_dom": 1.2,
     "lambda_ext": 1.62,
-    "p1": 0.274,
+    "p1": 0.275,
     "pN": 0.26,
     "p2": 0.465,
     "score_probable": "1-1"
@@ -666,7 +666,7 @@
     "logo_ext": "https://crests.football-data.org/5335.png",
     "lambda_dom": 2.2,
     "lambda_ext": 1.22,
-    "p1": 0.591,
+    "p1": 0.59,
     "pN": 0.212,
     "p2": 0.198,
     "score_probable": "2-1"
@@ -746,7 +746,7 @@
     "logo_ext": "https://crests.football-data.org/285.png",
     "lambda_dom": 1.2,
     "lambda_ext": 1.35,
-    "p1": 0.322,
+    "p1": 0.323,
     "pN": 0.282,
     "p2": 0.396,
     "score_probable": "1-1"
@@ -1048,7 +1048,7 @@
     "court_ext": "Osasuna",
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/79.png",
-    "lambda_dom": 1.66,
+    "lambda_dom": 1.65,
     "lambda_ext": 1.41,
     "p1": 0.427,
     "pN": 0.252,
@@ -1340,7 +1340,7 @@
     "lambda_ext": 1.75,
     "p1": 0.184,
     "pN": 0.248,
-    "p2": 0.569,
+    "p2": 0.568,
     "score_probable": "1-1"
   },
   {
@@ -1384,7 +1384,7 @@
     "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
-    "lambda_dom": 2.94,
+    "lambda_dom": 2.93,
     "lambda_ext": 1.02,
     "p1": 0.759,
     "pN": 0.144,
@@ -1563,7 +1563,7 @@
     "lambda_dom": 0.86,
     "lambda_ext": 1.25,
     "p1": 0.246,
-    "pN": 0.308,
+    "pN": 0.307,
     "p2": 0.447,
     "score_probable": "0-1"
   },
@@ -1580,7 +1580,7 @@
     "lambda_ext": 0.89,
     "p1": 0.546,
     "pN": 0.259,
-    "p2": 0.194,
+    "p2": 0.195,
     "score_probable": "1-1"
   },
   {
@@ -1692,7 +1692,7 @@
     "lambda_ext": 1.06,
     "p1": 0.494,
     "pN": 0.264,
-    "p2": 0.243,
+    "p2": 0.242,
     "score_probable": "1-1"
   },
   {
@@ -2314,7 +2314,7 @@
     "logo_ext": "https://crests.football-data.org/88.png",
     "lambda_dom": 2.09,
     "lambda_ext": 1.01,
-    "p1": 0.617,
+    "p1": 0.616,
     "pN": 0.216,
     "p2": 0.168,
     "score_probable": "1-1"
@@ -2331,7 +2331,7 @@
     "lambda_dom": 1.15,
     "lambda_ext": 2.17,
     "p1": 0.189,
-    "pN": 0.212,
+    "pN": 0.213,
     "p2": 0.599,
     "score_probable": "1-2"
   },
@@ -2456,7 +2456,7 @@
     "court_ext": "Real Madrid",
     "logo_dom": "https://crests.football-data.org/558.png",
     "logo_ext": "https://crests.football-data.org/86.png",
-    "lambda_dom": 0.93,
+    "lambda_dom": 0.94,
     "lambda_ext": 1.56,
     "p1": 0.219,
     "pN": 0.27,
@@ -2505,7 +2505,7 @@
     "logo_dom": "https://crests.football-data.org/80.png",
     "logo_ext": "https://crests.football-data.org/77.png",
     "lambda_dom": 1.27,
-    "lambda_ext": 0.96,
+    "lambda_ext": 0.97,
     "p1": 0.426,
     "pN": 0.301,
     "p2": 0.274,
@@ -2521,7 +2521,7 @@
     "logo_dom": "https://crests.football-data.org/5335.png",
     "logo_ext": "https://crests.football-data.org/90.png",
     "lambda_dom": 1.35,
-    "lambda_ext": 1.99,
+    "lambda_ext": 1.98,
     "p1": 0.255,
     "pN": 0.23,
     "p2": 0.515,
@@ -3146,8 +3146,8 @@
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 1.86,
     "lambda_ext": 1.2,
-    "p1": 0.522,
-    "pN": 0.239,
+    "p1": 0.521,
+    "pN": 0.24,
     "p2": 0.239,
     "score_probable": "1-1"
   },
@@ -3288,7 +3288,7 @@
     "court_ext": "Getafe",
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/82.png",
-    "lambda_dom": 0.94,
+    "lambda_dom": 0.95,
     "lambda_ext": 0.85,
     "p1": 0.353,
     "pN": 0.345,
@@ -3500,7 +3500,7 @@
     "lambda_ext": 0.93,
     "p1": 0.355,
     "pN": 0.332,
-    "p2": 0.314,
+    "p2": 0.313,
     "score_probable": "0-0"
   },
   {
@@ -3928,7 +3928,7 @@
     "court_ext": "Santander",
     "logo_dom": "https://crests.football-data.org/285.png",
     "logo_ext": "https://crests.football-data.org/5335.png",
-    "lambda_dom": 2.18,
+    "lambda_dom": 2.17,
     "lambda_ext": 1.19,
     "p1": 0.591,
     "pN": 0.213,

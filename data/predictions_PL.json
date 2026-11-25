@@ -57,7 +57,7 @@
     "logo_dom": "https://crests.football-data.org/349.png",
     "logo_ext": "https://crests.football-data.org/58.png",
     "lambda_dom": 1.42,
-    "lambda_ext": 1.67,
+    "lambda_ext": 1.66,
     "p1": 0.317,
     "pN": 0.259,
     "p2": 0.423,
@@ -344,7 +344,7 @@
     "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
-    "lambda_dom": 2.34,
+    "lambda_dom": 2.33,
     "lambda_ext": 1.17,
     "p1": 0.624,
     "pN": 0.205,
@@ -474,9 +474,9 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.73,
     "lambda_ext": 1.47,
-    "p1": 0.172,
+    "p1": 0.173,
     "pN": 0.29,
-    "p2": 0.538,
+    "p2": 0.537,
     "score_probable": "0-1"
   },
   {
@@ -588,7 +588,7 @@
     "lambda_ext": 0.76,
     "p1": 0.623,
     "pN": 0.241,
-    "p2": 0.136,
+    "p2": 0.137,
     "score_probable": "2-0"
   },
   {
@@ -780,7 +780,7 @@
     "lambda_ext": 0.8,
     "p1": 0.67,
     "pN": 0.211,
-    "p2": 0.119,
+    "p2": 0.12,
     "score_probable": "2-0"
   },
   {
@@ -1195,7 +1195,7 @@
     "lambda_dom": 1.13,
     "lambda_ext": 0.99,
     "p1": 0.373,
-    "pN": 0.325,
+    "pN": 0.324,
     "p2": 0.303,
     "score_probable": "1-1"
   },
@@ -1688,7 +1688,7 @@
     "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/71.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
-    "lambda_dom": 1.5,
+    "lambda_dom": 1.49,
     "lambda_ext": 1.02,
     "p1": 0.47,
     "pN": 0.285,
@@ -1722,7 +1722,7 @@
     "logo_ext": "https://crests.football-data.org/73.png",
     "lambda_dom": 1.25,
     "lambda_ext": 1.29,
-    "p1": 0.344,
+    "p1": 0.345,
     "pN": 0.294,
     "p2": 0.362,
     "score_probable": "1-1"
@@ -1928,7 +1928,7 @@
     "court_ext": "Liverpool",
     "logo_dom": "https://crests.football-data.org/57.png",
     "logo_ext": "https://crests.football-data.org/64.png",
-    "lambda_dom": 1.72,
+    "lambda_dom": 1.71,
     "lambda_ext": 0.8,
     "p1": 0.579,
     "pN": 0.259,
@@ -2009,7 +2009,7 @@
     "logo_dom": "https://crests.football-data.org/62.png",
     "logo_ext": "https://crests.football-data.org/67.png",
     "lambda_dom": 1.5,
-    "lambda_ext": 1.18,
+    "lambda_ext": 1.17,
     "p1": 0.434,
     "pN": 0.281,
     "p2": 0.285,
@@ -2108,7 +2108,7 @@
     "lambda_ext": 1.85,
     "p1": 0.238,
     "pN": 0.249,
-    "p2": 0.513,
+    "p2": 0.512,
     "score_probable": "1-1"
   },
   {
@@ -2315,7 +2315,7 @@
     "lambda_dom": 1.78,
     "lambda_ext": 0.92,
     "p1": 0.563,
-    "pN": 0.255,
+    "pN": 0.254,
     "p2": 0.182,
     "score_probable": "1-1"
   },
@@ -2696,7 +2696,7 @@
     "court_ext": "Ipswich Town",
     "logo_dom": "https://crests.football-data.org/402.png",
     "logo_ext": "https://crests.football-data.org/349.png",
-    "lambda_dom": 2.26,
+    "lambda_dom": 2.25,
     "lambda_ext": 1.02,
     "p1": 0.644,
     "pN": 0.207,
@@ -3002,7 +3002,7 @@
     "logo_ext": "https://crests.football-data.org/58.png",
     "lambda_dom": 1.34,
     "lambda_ext": 1.23,
-    "p1": 0.381,
+    "p1": 0.382,
     "pN": 0.291,
     "p2": 0.328,
     "score_probable": "1-1"
@@ -3580,7 +3580,7 @@
     "lambda_ext": 1.31,
     "p1": 0.345,
     "pN": 0.291,
-    "p2": 0.364,
+    "p2": 0.365,
     "score_probable": "1-1"
   },
   {
@@ -3627,7 +3627,7 @@
     "lambda_dom": 2.09,
     "lambda_ext": 1.26,
     "p1": 0.554,
-    "pN": 0.228,
+    "pN": 0.229,
     "p2": 0.217,
     "score_probable": "1-1"
   },
@@ -3706,7 +3706,7 @@
     "logo_ext": "https://crests.football-data.org/57.png",
     "lambda_dom": 0.81,
     "lambda_ext": 1.34,
-    "p1": 0.214,
+    "p1": 0.215,
     "pN": 0.308,
     "p2": 0.478,
     "score_probable": "0-1"
@@ -3736,7 +3736,7 @@
     "court_ext": "Crystal Palace",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/354.png",
-    "lambda_dom": 1.66,
+    "lambda_dom": 1.65,
     "lambda_ext": 0.95,
     "p1": 0.528,
     "pN": 0.268,
@@ -3864,7 +3864,7 @@
     "court_ext": "Leeds United",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/341.png",
-    "lambda_dom": 1.65,
+    "lambda_dom": 1.64,
     "lambda_ext": 1.29,
     "p1": 0.447,
     "pN": 0.265,
@@ -4220,7 +4220,7 @@
     "lambda_ext": 1.32,
     "p1": 0.344,
     "pN": 0.29,
-    "p2": 0.367,
+    "p2": 0.366,
     "score_probable": "1-1"
   },
   {

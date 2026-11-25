@@ -1950,21 +1950,6 @@
     "buts_ext": null
   },
   {
-    "id": 559591,
-    "date": "2027-01-02T20:00:00Z",
-    "statut": "TIMED",
-    "journee": 15,
-    "phase": "REGULAR_SEASON",
-    "dom": "Paris FC",
-    "ext": "Le Havre AC",
-    "court_dom": "Paris FC",
-    "court_ext": "Le Havre",
-    "logo_dom": "https://crests.football-data.org/1045.png",
-    "logo_ext": "https://crests.football-data.org/533.png",
-    "buts_dom": null,
-    "buts_ext": null
-  },
-  {
     "id": 559592,
     "date": "2027-01-02T20:00:00Z",
     "statut": "TIMED",
@@ -1991,6 +1976,21 @@
     "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/535.png",
     "logo_ext": "https://crests.football-data.org/523.png",
+    "buts_dom": null,
+    "buts_ext": null
+  },
+  {
+    "id": 559591,
+    "date": "2027-01-03T16:15:00Z",
+    "statut": "TIMED",
+    "journee": 15,
+    "phase": "REGULAR_SEASON",
+    "dom": "Paris FC",
+    "ext": "Le Havre AC",
+    "court_dom": "Paris FC",
+    "court_ext": "Le Havre",
+    "logo_dom": "https://crests.football-data.org/1045.png",
+    "logo_ext": "https://crests.football-data.org/533.png",
     "buts_dom": null,
     "buts_ext": null
   },

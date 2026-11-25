@@ -1,5 +1,17 @@
 [
   {
+    "equipe": "Real Madrid CF",
+    "court": "Real Madrid",
+    "logo": "https://crests.football-data.org/86.png",
+    "j": 5,
+    "g": 5,
+    "n": 0,
+    "p": 0,
+    "pts": 15,
+    "bp": 18,
+    "bc": 8
+  },
+  {
     "equipe": "Paris Saint-Germain FC",
     "court": "PSG",
     "logo": "https://crests.football-data.org/524.png",
@@ -12,39 +24,63 @@
     "bc": 5
   },
   {
-    "equipe": "Real Madrid CF",
-    "court": "Real Madrid",
-    "logo": "https://crests.football-data.org/86.png",
-    "j": 4,
+    "equipe": "Como 1907",
+    "court": "Como 1907",
+    "logo": "https://crests.football-data.org/7397.png",
+    "j": 5,
     "g": 4,
     "n": 0,
-    "p": 0,
+    "p": 1,
     "pts": 12,
-    "bp": 13,
-    "bc": 7
+    "bp": 20,
+    "bc": 6
+  },
+  {
+    "equipe": "Real Betis Balompié",
+    "court": "Real Betis",
+    "logo": "https://crests.football-data.org/90.png",
+    "j": 5,
+    "g": 4,
+    "n": 0,
+    "p": 1,
+    "pts": 12,
+    "bp": 10,
+    "bc": 6
   },
   {
     "equipe": "Arsenal FC",
     "court": "Arsenal",
     "logo": "https://crests.football-data.org/57.png",
-    "j": 4,
+    "j": 5,
     "g": 3,
-    "n": 1,
+    "n": 2,
     "p": 0,
-    "pts": 10,
-    "bp": 8,
-    "bc": 3
+    "pts": 11,
+    "bp": 9,
+    "bc": 4
   },
   {
-    "equipe": "Como 1907",
-    "court": "Como 1907",
-    "logo": "https://crests.football-data.org/7397.png",
-    "j": 4,
+    "equipe": "Manchester City FC",
+    "court": "Man City",
+    "logo": "https://crests.football-data.org/65.png",
+    "j": 5,
     "g": 3,
-    "n": 0,
+    "n": 1,
     "p": 1,
-    "pts": 9,
-    "bp": 19,
+    "pts": 10,
+    "bp": 14,
+    "bc": 9
+  },
+  {
+    "equipe": "Borussia Dortmund",
+    "court": "Dortmund",
+    "logo": "https://crests.football-data.org/4.png",
+    "j": 5,
+    "g": 3,
+    "n": 1,
+    "p": 1,
+    "pts": 10,
+    "bp": 8,
     "bc": 6
   },
   {
@@ -63,22 +99,10 @@
     "equipe": "Aston Villa FC",
     "court": "Aston Villa",
     "logo": "https://crests.football-data.org/58.png",
-    "j": 4,
+    "j": 5,
     "g": 3,
     "n": 0,
-    "p": 1,
-    "pts": 9,
-    "bp": 12,
-    "bc": 6
-  },
-  {
-    "equipe": "Manchester City FC",
-    "court": "Man City",
-    "logo": "https://crests.football-data.org/65.png",
-    "j": 4,
-    "g": 3,
-    "n": 0,
-    "p": 1,
+    "p": 2,
     "pts": 9,
     "bp": 12,
     "bc": 7
@@ -120,28 +144,16 @@
     "bc": 4
   },
   {
-    "equipe": "Real Betis Balompié",
-    "court": "Real Betis",
-    "logo": "https://crests.football-data.org/90.png",
-    "j": 4,
+    "equipe": "Galatasaray SK",
+    "court": "Galatasaray",
+    "logo": "https://crests.football-data.org/610.png",
+    "j": 5,
     "g": 3,
     "n": 0,
-    "p": 1,
+    "p": 2,
     "pts": 9,
-    "bp": 8,
-    "bc": 6
-  },
-  {
-    "equipe": "Borussia Dortmund",
-    "court": "Dortmund",
-    "logo": "https://crests.football-data.org/4.png",
-    "j": 4,
-    "g": 3,
-    "n": 0,
-    "p": 1,
-    "pts": 9,
-    "bp": 7,
-    "bc": 5
+    "bp": 9,
+    "bc": 9
   },
   {
     "equipe": "FC Bayern München",
@@ -168,6 +180,18 @@
     "bc": 4
   },
   {
+    "equipe": "FK Bodø/Glimt",
+    "court": "Bodø/Glimt",
+    "logo": "https://crests.football-data.org/5721.png",
+    "j": 5,
+    "g": 2,
+    "n": 1,
+    "p": 2,
+    "pts": 7,
+    "bp": 5,
+    "bc": 9
+  },
+  {
     "equipe": "FC Internazionale Milano",
     "court": "Inter",
     "logo": "https://crests.football-data.org/108.png",
@@ -183,13 +207,13 @@
     "equipe": "LASK Linz",
     "court": "LASK",
     "logo": "https://crests.football-data.org/2016.png",
-    "j": 4,
+    "j": 5,
     "g": 2,
     "n": 0,
-    "p": 2,
+    "p": 3,
     "pts": 6,
     "bp": 10,
-    "bc": 9
+    "bc": 10
   },
   {
     "equipe": "Manchester United FC",
@@ -204,16 +228,28 @@
     "bc": 8
   },
   {
-    "equipe": "Galatasaray SK",
-    "court": "Galatasaray",
-    "logo": "https://crests.football-data.org/610.png",
-    "j": 4,
+    "equipe": "FC Porto",
+    "court": "Porto",
+    "logo": "https://crests.football-data.org/503.png",
+    "j": 5,
     "g": 2,
     "n": 0,
-    "p": 2,
+    "p": 3,
+    "pts": 6,
+    "bp": 7,
+    "bc": 7
+  },
+  {
+    "equipe": "RB Leipzig",
+    "court": "RB Leipzig",
+    "logo": "https://crests.football-data.org/721.png",
+    "j": 5,
+    "g": 2,
+    "n": 0,
+    "p": 3,
     "pts": 6,
     "bp": 8,
-    "bc": 9
+    "bc": 12
   },
   {
     "equipe": "Fenerbahçe SK",
@@ -276,52 +312,28 @@
     "bc": 5
   },
   {
-    "equipe": "PSV",
-    "court": "PSV",
-    "logo": "https://crests.football-data.org/674.png",
-    "j": 4,
-    "g": 1,
-    "n": 1,
-    "p": 2,
-    "pts": 4,
-    "bp": 3,
-    "bc": 4
-  },
-  {
-    "equipe": "FK Bodø/Glimt",
-    "court": "Bodø/Glimt",
-    "logo": "https://crests.football-data.org/5721.png",
-    "j": 4,
-    "g": 1,
-    "n": 1,
-    "p": 2,
-    "pts": 4,
-    "bp": 4,
-    "bc": 9
-  },
-  {
-    "equipe": "FC Porto",
-    "court": "Porto",
-    "logo": "https://crests.football-data.org/503.png",
-    "j": 4,
-    "g": 1,
-    "n": 0,
-    "p": 3,
-    "pts": 3,
-    "bp": 6,
-    "bc": 7
-  },
-  {
     "equipe": "SSC Napoli",
     "court": "Napoli",
     "logo": "https://crests.football-data.org/113.png",
-    "j": 4,
+    "j": 5,
     "g": 1,
-    "n": 0,
+    "n": 1,
     "p": 3,
-    "pts": 3,
-    "bp": 6,
-    "bc": 11
+    "pts": 4,
+    "bp": 8,
+    "bc": 13
+  },
+  {
+    "equipe": "PSV",
+    "court": "PSV",
+    "logo": "https://crests.football-data.org/674.png",
+    "j": 5,
+    "g": 1,
+    "n": 1,
+    "p": 3,
+    "pts": 4,
+    "bp": 4,
+    "bc": 9
   },
   {
     "equipe": "Villarreal CF",
@@ -336,30 +348,6 @@
     "bc": 14
   },
   {
-    "equipe": "PAE AEK",
-    "court": "PAE AEK",
-    "logo": "https://crests.football-data.org/1899.png",
-    "j": 4,
-    "g": 1,
-    "n": 0,
-    "p": 3,
-    "pts": 3,
-    "bp": 5,
-    "bc": 11
-  },
-  {
-    "equipe": "RB Leipzig",
-    "court": "RB Leipzig",
-    "logo": "https://crests.football-data.org/721.png",
-    "j": 4,
-    "g": 1,
-    "n": 0,
-    "p": 3,
-    "pts": 3,
-    "bp": 5,
-    "bc": 11
-  },
-  {
     "equipe": "Sabah FK",
     "court": "Sabah FK",
     "logo": "https://crests.football-data.org/10233.png",
@@ -372,28 +360,40 @@
     "bc": 10
   },
   {
+    "equipe": "PAE AEK",
+    "court": "PAE AEK",
+    "logo": "https://crests.football-data.org/1899.png",
+    "j": 5,
+    "g": 1,
+    "n": 0,
+    "p": 4,
+    "pts": 3,
+    "bp": 5,
+    "bc": 12
+  },
+  {
     "equipe": "Feyenoord Rotterdam",
     "court": "Feyenoord",
     "logo": "https://crests.football-data.org/675.png",
-    "j": 4,
+    "j": 5,
     "g": 1,
     "n": 0,
-    "p": 3,
+    "p": 4,
     "pts": 3,
     "bp": 4,
-    "bc": 11
+    "bc": 12
   },
   {
     "equipe": "Racing Club de Lens",
     "court": "RC Lens",
     "logo": "https://crests.football-data.org/546.png",
-    "j": 4,
+    "j": 5,
     "g": 1,
     "n": 0,
-    "p": 3,
+    "p": 4,
     "pts": 3,
-    "bp": 4,
-    "bc": 16
+    "bp": 5,
+    "bc": 19
   },
   {
     "equipe": "SK Slavia Praha",
@@ -423,12 +423,12 @@
     "equipe": "ŠK Slovan Bratislava",
     "court": "Sl. Bratislava",
     "logo": "https://crests.football-data.org/7509.png",
-    "j": 4,
+    "j": 5,
     "g": 0,
     "n": 0,
-    "p": 4,
+    "p": 5,
     "pts": 0,
     "bp": 1,
-    "bc": 17
+    "bc": 19
   }
 ]

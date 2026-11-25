@@ -255,13 +255,6 @@
         "buts": 1
       },
       {
-        "nom": "Luis Díaz",
-        "poste": "Offence",
-        "nationalite": "Colombia",
-        "naissance": "1997-01-13",
-        "buts": 1
-      },
-      {
         "nom": "Manuel Neuer",
         "poste": "Goalkeeper",
         "nationalite": "Germany",
@@ -385,6 +378,13 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1995-07-14",
+        "buts": 0
+      },
+      {
+        "nom": "Luis Díaz",
+        "poste": "Offence",
+        "nationalite": "Colombia",
+        "naissance": "1997-01-13",
         "buts": 0
       }
     ]
@@ -624,6 +624,13 @@
         "buts": 2
       },
       {
+        "nom": "Viktor Gyökeres",
+        "poste": "Offence",
+        "nationalite": "Sweden",
+        "naissance": "1998-06-04",
+        "buts": 2
+      },
+      {
         "nom": "Jurrien Timber",
         "poste": "Defence",
         "nationalite": "Netherlands",
@@ -754,13 +761,6 @@
         "poste": "Offence",
         "nationalite": "Germany",
         "naissance": "1999-06-11",
-        "buts": 0
-      },
-      {
-        "nom": "Viktor Gyökeres",
-        "poste": "Offence",
-        "nationalite": "Sweden",
-        "naissance": "1998-06-04",
         "buts": 0
       },
       {
@@ -1028,24 +1028,10 @@
         "buts": 2
       },
       {
-        "nom": "Jeremie Frimpong",
-        "poste": "Defence",
-        "nationalite": "Netherlands",
-        "naissance": "2000-12-10",
-        "buts": 1
-      },
-      {
         "nom": "Dominik Szoboszlai",
         "poste": "Midfield",
         "nationalite": "Hungary",
         "naissance": "2000-10-25",
-        "buts": 1
-      },
-      {
-        "nom": "Lewis Koumas",
-        "poste": "Offence",
-        "nationalite": "Wales",
-        "naissance": "2005-09-19",
         "buts": 1
       },
       {
@@ -1102,6 +1088,13 @@
         "poste": "Defence",
         "nationalite": "Netherlands",
         "naissance": "1991-07-08",
+        "buts": 0
+      },
+      {
+        "nom": "Jeremie Frimpong",
+        "poste": "Defence",
+        "nationalite": "Netherlands",
+        "naissance": "2000-12-10",
         "buts": 0
       },
       {
@@ -1196,6 +1189,13 @@
         "buts": 0
       },
       {
+        "nom": "Lewis Koumas",
+        "poste": "Offence",
+        "nationalite": "Wales",
+        "naissance": "2005-09-19",
+        "buts": 0
+      },
+      {
         "nom": "Víctor Muñoz",
         "poste": "Offence",
         "nationalite": "Spain",
@@ -1235,6 +1235,13 @@
         "nationalite": "England",
         "naissance": "2000-05-28",
         "buts": 3
+      },
+      {
+        "nom": "Rayan Cherki",
+        "poste": "Midfield",
+        "nationalite": "France",
+        "naissance": "2003-08-17",
+        "buts": 2
       },
       {
         "nom": "Géronimo Rulli",
@@ -1339,13 +1346,6 @@
         "poste": "Midfield",
         "nationalite": "England",
         "naissance": "2002-11-06",
-        "buts": 0
-      },
-      {
-        "nom": "Rayan Cherki",
-        "poste": "Midfield",
-        "nationalite": "France",
-        "naissance": "2003-08-17",
         "buts": 0
       },
       {
@@ -2007,13 +2007,20 @@
         "poste": "Offence",
         "nationalite": "France",
         "naissance": "1998-12-20",
-        "buts": 4
+        "buts": 6
       },
       {
         "nom": "Federico Valverde",
         "poste": "Midfield",
         "nationalite": "Uruguay",
         "naissance": "1998-07-22",
+        "buts": 3
+      },
+      {
+        "nom": "Jude Bellingham",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2003-06-29",
         "buts": 2
       },
       {
@@ -2122,13 +2129,6 @@
         "buts": 0
       },
       {
-        "nom": "Jude Bellingham",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2003-06-29",
-        "buts": 0
-      },
-      {
         "nom": "Arda Guler",
         "poste": "Midfield",
         "nationalite": "Turkey",
@@ -2204,6 +2204,13 @@
     "site": "http://www.realbetisbalompie.es",
     "entraineur": "Manuel Pellegrini",
     "effectif": [
+      {
+        "nom": "Cucho Hernández",
+        "poste": "Offence",
+        "nationalite": "Colombia",
+        "naissance": "1999-04-20",
+        "buts": 3
+      },
       {
         "nom": "Bartra",
         "poste": "Defence",
@@ -2342,13 +2349,6 @@
         "poste": "Midfield",
         "nationalite": "Uruguay",
         "naissance": "2003-08-21",
-        "buts": 0
-      },
-      {
-        "nom": "Cucho Hernández",
-        "poste": "Offence",
-        "nationalite": "Colombia",
-        "naissance": "1999-04-20",
         "buts": 0
       },
       {
@@ -2957,13 +2957,6 @@
         "buts": 3
       },
       {
-        "nom": "Amir Rrahmani",
-        "poste": "Defence",
-        "nationalite": "Kosovo",
-        "naissance": "1994-02-24",
-        "buts": 1
-      },
-      {
         "nom": "Vanja Milinković-Savić",
         "poste": "Goalkeeper",
         "nationalite": "Serbia",
@@ -3010,6 +3003,13 @@
         "poste": "Defence",
         "nationalite": "Italy",
         "naissance": "1993-08-04",
+        "buts": 0
+      },
+      {
+        "nom": "Amir Rrahmani",
+        "poste": "Defence",
+        "nationalite": "Kosovo",
+        "naissance": "1994-02-24",
         "buts": 0
       },
       {
@@ -5075,11 +5075,11 @@
     "entraineur": "Martín Demichelis",
     "effectif": [
       {
-        "nom": "Brajan Gruda",
-        "poste": "Midfield",
-        "nationalite": "Germany",
-        "naissance": "2004-05-31",
-        "buts": 1
+        "nom": "Antonio Nusa",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "2005-04-17",
+        "buts": 3
       },
       {
         "nom": "Andrija Maksimović",
@@ -5208,6 +5208,13 @@
         "buts": 0
       },
       {
+        "nom": "Brajan Gruda",
+        "poste": "Midfield",
+        "nationalite": "Germany",
+        "naissance": "2004-05-31",
+        "buts": 0
+      },
+      {
         "nom": "Assan Ouédraogo",
         "poste": "Midfield",
         "nationalite": "Germany",
@@ -5240,13 +5247,6 @@
         "poste": "Offence",
         "nationalite": "Belgium",
         "naissance": "2003-04-20",
-        "buts": 0
-      },
-      {
-        "nom": "Antonio Nusa",
-        "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "2005-04-17",
         "buts": 0
       },
       {
@@ -6392,13 +6392,6 @@
         "buts": 1
       },
       {
-        "nom": "Herman Haugen",
-        "poste": "Defence",
-        "nationalite": "Norway",
-        "naissance": "2000-04-25",
-        "buts": 1
-      },
-      {
         "nom": "Erlend Jacobsen",
         "poste": "Goalkeeper",
         "nationalite": "Norway",
@@ -6452,6 +6445,13 @@
         "poste": "Defence",
         "nationalite": "Norway",
         "naissance": "2003-05-08",
+        "buts": 0
+      },
+      {
+        "nom": "Herman Haugen",
+        "poste": "Defence",
+        "nationalite": "Norway",
+        "naissance": "2000-04-25",
         "buts": 0
       },
       {
@@ -6650,6 +6650,13 @@
     "entraineur": "Kjetil Knutsen",
     "effectif": [
       {
+        "nom": "Andreas Helmersen",
+        "poste": "Offence",
+        "nationalite": "Norway",
+        "naissance": "1998-03-15",
+        "buts": 2
+      },
+      {
         "nom": "Julian Lund",
         "poste": "Goalkeeper",
         "nationalite": "Norway",
@@ -6829,13 +6836,6 @@
         "poste": "Midfield",
         "nationalite": "Gambia",
         "naissance": "2008-08-03",
-        "buts": 0
-      },
-      {
-        "nom": "Andreas Helmersen",
-        "poste": "Offence",
-        "nationalite": "Norway",
-        "naissance": "1998-03-15",
         "buts": 0
       },
       {
@@ -7108,7 +7108,15 @@
     "couleurs": "Light Blue / White",
     "site": "http://www.skslovan.com",
     "entraineur": null,
-    "effectif": []
+    "effectif": [
+      {
+        "nom": "Daniel Gramblička",
+        "poste": null,
+        "nationalite": "Slovakia",
+        "naissance": "2008-12-22",
+        "buts": 0
+      }
+    ]
   },
   {
     "nom": "Sabah FK",
