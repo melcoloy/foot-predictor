@@ -188,7 +188,7 @@
     "lambda_ext": 1.01,
     "p1": 0.718,
     "pN": 0.161,
-    "p2": 0.121,
+    "p2": 0.122,
     "score_probable": "2-1"
   },
   {
@@ -1500,7 +1500,7 @@
     "lambda_ext": 0.93,
     "p1": 0.491,
     "pN": 0.269,
-    "p2": 0.24,
+    "p2": 0.241,
     "score_probable": "1-0"
   },
   {
@@ -2474,9 +2474,9 @@
     "logo_ext": "https://crests.football-data.org/1.png",
     "lambda_dom": 1.72,
     "lambda_ext": 1.23,
-    "p1": 0.489,
+    "p1": 0.488,
     "pN": 0.24,
-    "p2": 0.271,
+    "p2": 0.272,
     "score_probable": "1-1"
   },
   {
@@ -2539,7 +2539,7 @@
     "lambda_dom": 1.7,
     "lambda_ext": 1.93,
     "p1": 0.345,
-    "pN": 0.219,
+    "pN": 0.22,
     "p2": 0.435,
     "score_probable": "1-1"
   },
@@ -2808,7 +2808,7 @@
     "court_ext": "HSV",
     "logo_dom": "https://crests.football-data.org/6.png",
     "logo_ext": "https://crests.football-data.org/7.png",
-    "lambda_dom": 1.26,
+    "lambda_dom": 1.27,
     "lambda_ext": 0.89,
     "p1": 0.448,
     "pN": 0.291,
@@ -2872,7 +2872,7 @@
     "court_ext": "1. FC Köln",
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/1.png",
-    "lambda_dom": 2.68,
+    "lambda_dom": 2.67,
     "lambda_ext": 1.0,
     "p1": 0.728,
     "pN": 0.156,
@@ -3321,8 +3321,8 @@
     "logo_dom": "https://crests.football-data.org/721.png",
     "logo_ext": "https://crests.football-data.org/2.png",
     "lambda_dom": 2.64,
-    "lambda_ext": 1.33,
-    "p1": 0.653,
+    "lambda_ext": 1.34,
+    "p1": 0.652,
     "pN": 0.174,
     "p2": 0.174,
     "score_probable": "2-1"
@@ -3371,7 +3371,7 @@
     "lambda_dom": 1.07,
     "lambda_ext": 1.55,
     "p1": 0.261,
-    "pN": 0.258,
+    "pN": 0.257,
     "p2": 0.482,
     "score_probable": "1-1"
   },
@@ -3388,7 +3388,7 @@
     "lambda_ext": 1.32,
     "p1": 0.454,
     "pN": 0.243,
-    "p2": 0.302,
+    "p2": 0.303,
     "score_probable": "1-1"
   },
   {

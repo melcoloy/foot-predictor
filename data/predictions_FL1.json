@@ -10,7 +10,7 @@
     "logo_ext": "https://crests.football-data.org/1045.png",
     "lambda_dom": 1.39,
     "lambda_ext": 1.39,
-    "p1": 0.37,
+    "p1": 0.371,
     "pN": 0.262,
     "p2": 0.367,
     "score_probable": "1-1"
@@ -120,7 +120,7 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/511.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "lambda_dom": 1.86,
+    "lambda_dom": 1.85,
     "lambda_ext": 1.57,
     "p1": 0.445,
     "pN": 0.23,
@@ -282,7 +282,7 @@
     "logo_ext": "https://crests.football-data.org/522.png",
     "lambda_dom": 2.3,
     "lambda_ext": 1.13,
-    "p1": 0.634,
+    "p1": 0.633,
     "pN": 0.196,
     "p2": 0.171,
     "score_probable": "2-1"
@@ -730,7 +730,7 @@
     "logo_ext": "https://crests.football-data.org/548.png",
     "lambda_dom": 1.2,
     "lambda_ext": 1.6,
-    "p1": 0.28,
+    "p1": 0.281,
     "pN": 0.255,
     "p2": 0.464,
     "score_probable": "1-1"
@@ -892,7 +892,7 @@
     "lambda_ext": 1.85,
     "p1": 0.248,
     "pN": 0.235,
-    "p2": 0.518,
+    "p2": 0.517,
     "score_probable": "1-1"
   },
   {
@@ -1036,7 +1036,7 @@
     "lambda_ext": 0.68,
     "p1": 0.742,
     "pN": 0.169,
-    "p2": 0.088,
+    "p2": 0.089,
     "score_probable": "2-0"
   },
   {
@@ -1160,7 +1160,7 @@
     "court_ext": "Stade Rennais",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/529.png",
-    "lambda_dom": 1.84,
+    "lambda_dom": 1.83,
     "lambda_ext": 1.65,
     "p1": 0.424,
     "pN": 0.229,
@@ -1212,7 +1212,7 @@
     "lambda_ext": 0.79,
     "p1": 0.551,
     "pN": 0.263,
-    "p2": 0.185,
+    "p2": 0.186,
     "score_probable": "1-0"
   },
   {
@@ -1228,7 +1228,7 @@
     "lambda_ext": 1.64,
     "p1": 0.33,
     "pN": 0.246,
-    "p2": 0.424,
+    "p2": 0.423,
     "score_probable": "1-1"
   },
   {
@@ -1257,7 +1257,7 @@
     "logo_dom": "https://crests.football-data.org/516.png",
     "logo_ext": "https://crests.football-data.org/532.png",
     "lambda_dom": 2.4,
-    "lambda_ext": 0.79,
+    "lambda_ext": 0.8,
     "p1": 0.727,
     "pN": 0.171,
     "p2": 0.102,
@@ -1388,7 +1388,7 @@
     "lambda_ext": 1.52,
     "p1": 0.21,
     "pN": 0.268,
-    "p2": 0.523,
+    "p2": 0.522,
     "score_probable": "0-1"
   },
   {
@@ -1721,7 +1721,7 @@
     "logo_dom": "https://crests.football-data.org/521.png",
     "logo_ext": "https://crests.football-data.org/516.png",
     "lambda_dom": 1.53,
-    "lambda_ext": 1.12,
+    "lambda_ext": 1.13,
     "p1": 0.462,
     "pN": 0.263,
     "p2": 0.275,
@@ -2136,7 +2136,7 @@
     "court_ext": "PSG",
     "logo_dom": "https://crests.football-data.org/1045.png",
     "logo_ext": "https://crests.football-data.org/524.png",
-    "lambda_dom": 1.18,
+    "lambda_dom": 1.19,
     "lambda_ext": 1.67,
     "p1": 0.267,
     "pN": 0.25,
@@ -2506,7 +2506,7 @@
     "logo_ext": "https://crests.football-data.org/524.png",
     "lambda_dom": 0.94,
     "lambda_ext": 1.67,
-    "p1": 0.208,
+    "p1": 0.209,
     "pN": 0.251,
     "p2": 0.54,
     "score_probable": "1-1"
@@ -2696,7 +2696,7 @@
     "court_ext": "Olympique Lyon",
     "logo_dom": "https://crests.football-data.org/519.png",
     "logo_ext": "https://crests.football-data.org/523.png",
-    "lambda_dom": 0.98,
+    "lambda_dom": 0.99,
     "lambda_ext": 1.47,
     "p1": 0.248,
     "pN": 0.272,
@@ -2921,7 +2921,7 @@
     "logo_dom": "https://crests.football-data.org/524.png",
     "logo_ext": "https://crests.football-data.org/522.png",
     "lambda_dom": 2.64,
-    "lambda_ext": 0.77,
+    "lambda_ext": 0.78,
     "p1": 0.768,
     "pN": 0.148,
     "p2": 0.083,
@@ -3082,7 +3082,7 @@
     "logo_ext": "https://crests.football-data.org/524.png",
     "lambda_dom": 0.84,
     "lambda_ext": 2.13,
-    "p1": 0.132,
+    "p1": 0.133,
     "pN": 0.2,
     "p2": 0.668,
     "score_probable": "0-2"
@@ -3177,7 +3177,7 @@
     "logo_dom": "https://crests.football-data.org/548.png",
     "logo_ext": "https://crests.football-data.org/531.png",
     "lambda_dom": 2.01,
-    "lambda_ext": 0.95,
+    "lambda_ext": 0.96,
     "p1": 0.615,
     "pN": 0.217,
     "p2": 0.169,

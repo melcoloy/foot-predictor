@@ -2267,7 +2267,7 @@
   {
     "id": 564698,
     "date": "2026-12-09T19:00:00Z",
-    "statut": "CANCELLED",
+    "statut": "TIMED",
     "journee": 8,
     "phase": "REGULAR_SEASON",
     "dom": "Rayo Vallecano de Madrid",

@@ -298,7 +298,7 @@
     "logo_ext": "https://crests.football-data.org/86.png",
     "lambda_dom": 0.93,
     "lambda_ext": 1.79,
-    "p1": 0.186,
+    "p1": 0.187,
     "pN": 0.244,
     "p2": 0.569,
     "score_probable": "1-1"
@@ -352,6 +352,22 @@
     "score_probable": "1-1"
   },
   {
+    "date": "2026-12-09T19:00:00Z",
+    "journee": 8,
+    "dom": "Rayo Vallecano de Madrid",
+    "ext": "Athletic Club",
+    "court_dom": "Rayo Vallecano",
+    "court_ext": "Athletic",
+    "logo_dom": "https://crests.football-data.org/87.png",
+    "logo_ext": "https://crests.football-data.org/77.png",
+    "lambda_dom": 1.33,
+    "lambda_ext": 0.99,
+    "p1": 0.436,
+    "pN": 0.293,
+    "p2": 0.271,
+    "score_probable": "1-1"
+  },
+  {
     "date": "2026-12-11T20:00:00Z",
     "journee": 16,
     "dom": "Elche CF",
@@ -394,7 +410,7 @@
     "logo_ext": "https://crests.football-data.org/87.png",
     "lambda_dom": 1.93,
     "lambda_ext": 0.91,
-    "p1": 0.606,
+    "p1": 0.605,
     "pN": 0.229,
     "p2": 0.166,
     "score_probable": "1-1"
@@ -409,7 +425,7 @@
     "logo_dom": "https://crests.football-data.org/84.png",
     "logo_ext": "https://crests.football-data.org/81.png",
     "lambda_dom": 0.87,
-    "lambda_ext": 3.06,
+    "lambda_ext": 3.05,
     "p1": 0.071,
     "pN": 0.126,
     "p2": 0.803,
@@ -426,7 +442,7 @@
     "logo_ext": "https://crests.football-data.org/5335.png",
     "lambda_dom": 2.69,
     "lambda_ext": 1.0,
-    "p1": 0.728,
+    "p1": 0.727,
     "pN": 0.162,
     "p2": 0.111,
     "score_probable": "2-0"
@@ -540,7 +556,7 @@
     "lambda_ext": 0.95,
     "p1": 0.368,
     "pN": 0.324,
-    "p2": 0.309,
+    "p2": 0.308,
     "score_probable": "1-1"
   },
   {
@@ -748,7 +764,7 @@
     "lambda_ext": 1.35,
     "p1": 0.323,
     "pN": 0.282,
-    "p2": 0.396,
+    "p2": 0.395,
     "score_probable": "1-1"
   },
   {
@@ -922,7 +938,7 @@
     "logo_ext": "https://crests.football-data.org/5335.png",
     "lambda_dom": 2.94,
     "lambda_ext": 0.85,
-    "p1": 0.793,
+    "p1": 0.792,
     "pN": 0.133,
     "p2": 0.075,
     "score_probable": "2-0"
@@ -1244,7 +1260,7 @@
     "lambda_ext": 1.0,
     "p1": 0.675,
     "pN": 0.188,
-    "p2": 0.136,
+    "p2": 0.137,
     "score_probable": "2-0"
   },
   {
@@ -1801,7 +1817,7 @@
     "logo_dom": "https://crests.football-data.org/94.png",
     "logo_ext": "https://crests.football-data.org/95.png",
     "lambda_dom": 2.02,
-    "lambda_ext": 0.85,
+    "lambda_ext": 0.86,
     "p1": 0.638,
     "pN": 0.217,
     "p2": 0.144,
@@ -2106,7 +2122,7 @@
     "logo_ext": "https://crests.football-data.org/84.png",
     "lambda_dom": 1.83,
     "lambda_ext": 0.88,
-    "p1": 0.592,
+    "p1": 0.591,
     "pN": 0.238,
     "p2": 0.17,
     "score_probable": "1-0"
@@ -2120,7 +2136,7 @@
     "court_ext": "Athletic",
     "logo_dom": "https://crests.football-data.org/263.png",
     "logo_ext": "https://crests.football-data.org/77.png",
-    "lambda_dom": 1.45,
+    "lambda_dom": 1.46,
     "lambda_ext": 1.08,
     "p1": 0.449,
     "pN": 0.278,
@@ -2443,7 +2459,7 @@
     "lambda_dom": 1.67,
     "lambda_ext": 1.09,
     "p1": 0.501,
-    "pN": 0.257,
+    "pN": 0.258,
     "p2": 0.242,
     "score_probable": "1-1"
   },
@@ -3211,7 +3227,7 @@
     "lambda_dom": 1.96,
     "lambda_ext": 1.2,
     "p1": 0.543,
-    "pN": 0.231,
+    "pN": 0.232,
     "p2": 0.226,
     "score_probable": "1-1"
   },
@@ -3496,7 +3512,7 @@
     "court_ext": "Elche",
     "logo_dom": "https://crests.football-data.org/82.png",
     "logo_ext": "https://crests.football-data.org/285.png",
-    "lambda_dom": 1.0,
+    "lambda_dom": 1.01,
     "lambda_ext": 0.93,
     "p1": 0.355,
     "pN": 0.332,
@@ -3800,7 +3816,7 @@
     "court_ext": "Málaga",
     "logo_dom": "https://crests.football-data.org/81.png",
     "logo_ext": "https://crests.football-data.org/84.png",
-    "lambda_dom": 4.15,
+    "lambda_dom": 4.14,
     "lambda_ext": 0.64,
     "p1": 0.927,
     "pN": 0.053,
@@ -3900,7 +3916,7 @@
     "lambda_ext": 1.79,
     "p1": 0.378,
     "pN": 0.232,
-    "p2": 0.39,
+    "p2": 0.389,
     "score_probable": "1-1"
   },
   {
