@@ -1352,7 +1352,7 @@
   {
     "id": 565869,
     "date": "2026-11-27T19:30:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "SV Werder Bremen",
@@ -1361,13 +1361,13 @@
     "court_ext": "M'gladbach",
     "logo_dom": "https://crests.football-data.org/12.png",
     "logo_ext": "https://crests.football-data.org/18.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 3
   },
   {
     "id": 565866,
     "date": "2026-11-28T14:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "1. FC Köln",
@@ -1376,13 +1376,13 @@
     "court_ext": "Elversberg",
     "logo_dom": "https://crests.football-data.org/1.png",
     "logo_ext": "https://crests.football-data.org/719.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 0
   },
   {
     "id": 565867,
     "date": "2026-11-28T14:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "1. FSV Mainz 05",
@@ -1391,13 +1391,13 @@
     "court_ext": "Union Berlin",
     "logo_dom": "https://crests.football-data.org/15.png",
     "logo_ext": "https://crests.football-data.org/28.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 1
   },
   {
     "id": 565868,
     "date": "2026-11-28T14:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "SC Paderborn 07",
@@ -1406,13 +1406,13 @@
     "court_ext": "Schalke",
     "logo_dom": "https://crests.football-data.org/29.png",
     "logo_ext": "https://crests.football-data.org/6.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 2,
+    "buts_ext": 0
   },
   {
     "id": 565874,
     "date": "2026-11-28T14:30:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 11,
     "phase": "REGULAR_SEASON",
     "dom": "Hamburger SV",
@@ -1421,8 +1421,8 @@
     "court_ext": "Bayern",
     "logo_dom": "https://crests.football-data.org/7.png",
     "logo_ext": "https://crests.football-data.org/5.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 565870,

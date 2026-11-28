@@ -1652,7 +1652,7 @@
   {
     "id": 560658,
     "date": "2026-11-27T20:00:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Nottingham Forest FC",
@@ -1661,13 +1661,13 @@
     "court_ext": "Chelsea",
     "logo_dom": "https://crests.football-data.org/351.png",
     "logo_ext": "https://crests.football-data.org/61.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 3,
+    "buts_ext": 2
   },
   {
     "id": 560652,
     "date": "2026-11-28T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Leeds United FC",
@@ -1676,13 +1676,13 @@
     "court_ext": "Coventry City",
     "logo_dom": "https://crests.football-data.org/341.png",
     "logo_ext": "https://crests.football-data.org/1076.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 560655,
     "date": "2026-11-28T15:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Manchester United FC",
@@ -1691,8 +1691,8 @@
     "court_ext": "Brentford",
     "logo_dom": "https://crests.football-data.org/66.png",
     "logo_ext": "https://crests.football-data.org/402.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 560653,

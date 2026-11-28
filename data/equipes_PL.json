@@ -436,6 +436,13 @@
         "buts": 3
       },
       {
+        "nom": "Emanuel Emegha",
+        "poste": "Offence",
+        "nationalite": "Netherlands",
+        "naissance": "2003-02-03",
+        "buts": 3
+      },
+      {
         "nom": "Jordan Henderson",
         "poste": "Midfield",
         "nationalite": "England",
@@ -573,13 +580,6 @@
         "poste": "Offence",
         "nationalite": "England",
         "naissance": "1990-11-26",
-        "buts": 0
-      },
-      {
-        "nom": "Emanuel Emegha",
-        "poste": "Offence",
-        "nationalite": "Netherlands",
-        "naissance": "2003-02-03",
         "buts": 0
       },
       {
@@ -1634,13 +1634,6 @@
         "buts": 2
       },
       {
-        "nom": "Lewis Hall",
-        "poste": "Defence",
-        "nationalite": "England",
-        "naissance": "2004-09-08",
-        "buts": 1
-      },
-      {
         "nom": "Jacob Ramsey",
         "poste": "Midfield",
         "nationalite": "England",
@@ -1729,6 +1722,13 @@
         "poste": "Defence",
         "nationalite": "England",
         "naissance": "2002-11-12",
+        "buts": 0
+      },
+      {
+        "nom": "Lewis Hall",
+        "poste": "Defence",
+        "nationalite": "England",
+        "naissance": "2004-09-08",
         "buts": 0
       },
       {
@@ -2860,6 +2860,13 @@
     "entraineur": "Oliver Glasner",
     "effectif": [
       {
+        "nom": "Morgan Gibbs-White",
+        "poste": "Midfield",
+        "nationalite": "England",
+        "naissance": "2000-01-27",
+        "buts": 3
+      },
+      {
         "nom": "Liam Delap",
         "poste": "Offence",
         "nationalite": "England",
@@ -2874,18 +2881,11 @@
         "buts": 2
       },
       {
-        "nom": "Morgan Gibbs-White",
-        "poste": "Midfield",
-        "nationalite": "England",
-        "naissance": "2000-01-27",
-        "buts": 1
-      },
-      {
         "nom": "Igor Jesus",
         "poste": "Offence",
         "nationalite": "Brazil",
         "naissance": "2001-02-25",
-        "buts": 1
+        "buts": 2
       },
       {
         "nom": "John",

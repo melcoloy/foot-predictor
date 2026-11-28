@@ -84,6 +84,18 @@
     "bc": 20
   },
   {
+    "equipe": "Bologna FC 1909",
+    "court": "Bologna",
+    "logo": "https://crests.football-data.org/103.png",
+    "j": 13,
+    "g": 5,
+    "n": 4,
+    "p": 4,
+    "pts": 19,
+    "bp": 17,
+    "bc": 15
+  },
+  {
     "equipe": "SSC Napoli",
     "court": "Napoli",
     "logo": "https://crests.football-data.org/113.png",
@@ -94,18 +106,6 @@
     "pts": 18,
     "bp": 19,
     "bc": 14
-  },
-  {
-    "equipe": "Bologna FC 1909",
-    "court": "Bologna",
-    "logo": "https://crests.football-data.org/103.png",
-    "j": 12,
-    "g": 5,
-    "n": 3,
-    "p": 4,
-    "pts": 18,
-    "bp": 17,
-    "bc": 15
   },
   {
     "equipe": "Genoa CFC",
@@ -216,6 +216,18 @@
     "bc": 31
   },
   {
+    "equipe": "Venezia FC",
+    "court": "Venezia FC",
+    "logo": "https://crests.football-data.org/454.png",
+    "j": 13,
+    "g": 2,
+    "n": 1,
+    "p": 10,
+    "pts": 7,
+    "bp": 8,
+    "bc": 25
+  },
+  {
     "equipe": "Udinese Calcio",
     "court": "Udinese",
     "logo": "https://crests.football-data.org/115.png",
@@ -226,17 +238,5 @@
     "pts": 6,
     "bp": 13,
     "bc": 26
-  },
-  {
-    "equipe": "Venezia FC",
-    "court": "Venezia FC",
-    "logo": "https://crests.football-data.org/454.png",
-    "j": 12,
-    "g": 2,
-    "n": 0,
-    "p": 10,
-    "pts": 6,
-    "bp": 8,
-    "bc": 25
   }
 ]

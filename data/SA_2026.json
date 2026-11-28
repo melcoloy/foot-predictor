@@ -1802,7 +1802,7 @@
   {
     "id": 558515,
     "date": "2026-11-27T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Venezia FC",
@@ -1811,13 +1811,13 @@
     "court_ext": "Bologna",
     "logo_dom": "https://crests.football-data.org/454.png",
     "logo_ext": "https://crests.football-data.org/103.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 558513,
     "date": "2026-11-28T14:00:00Z",
-    "statut": "TIMED",
+    "statut": "IN_PLAY",
     "journee": 13,
     "phase": "REGULAR_SEASON",
     "dom": "Frosinone Calcio",
@@ -1826,8 +1826,8 @@
     "court_ext": "Parma",
     "logo_dom": "https://crests.football-data.org/470.png",
     "logo_ext": "https://crests.football-data.org/112.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 0,
+    "buts_ext": 0
   },
   {
     "id": 558514,

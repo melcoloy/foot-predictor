@@ -2749,13 +2749,6 @@
         "buts": 2
       },
       {
-        "nom": "John Yeboah",
-        "poste": "Offence",
-        "nationalite": "Ecuador",
-        "naissance": "2000-06-23",
-        "buts": 1
-      },
-      {
         "nom": "Alessio Pozzi",
         "poste": "Goalkeeper",
         "nationalite": "Italy",
@@ -2973,6 +2966,13 @@
         "buts": 0
       },
       {
+        "nom": "John Yeboah",
+        "poste": "Offence",
+        "nationalite": "Ecuador",
+        "naissance": "2000-06-23",
+        "buts": 0
+      },
+      {
         "nom": "Andrea Adorante",
         "poste": "Offence",
         "nationalite": "Italy",
@@ -3039,6 +3039,13 @@
         "poste": "Midfield",
         "nationalite": "Austria",
         "naissance": "2000-01-27",
+        "buts": 2
+      },
+      {
+        "nom": "Tomáš Bobček",
+        "poste": "Offence",
+        "nationalite": "Slovakia",
+        "naissance": "2001-09-08",
         "buts": 2
       },
       {
@@ -3207,13 +3214,6 @@
         "poste": "Midfield",
         "nationalite": "Italy",
         "naissance": "2005-10-04",
-        "buts": 0
-      },
-      {
-        "nom": "Tomáš Bobček",
-        "poste": "Offence",
-        "nationalite": "Slovakia",
-        "naissance": "2001-09-08",
         "buts": 0
       },
       {

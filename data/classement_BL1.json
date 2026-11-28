@@ -63,13 +63,13 @@
     "equipe": "SV Werder Bremen",
     "court": "Bremen",
     "logo": "https://crests.football-data.org/12.png",
-    "j": 10,
+    "j": 11,
     "g": 5,
-    "n": 3,
+    "n": 4,
     "p": 2,
-    "pts": 18,
-    "bp": 21,
-    "bc": 15
+    "pts": 19,
+    "bp": 24,
+    "bc": 18
   },
   {
     "equipe": "Eintracht Frankfurt",
@@ -207,12 +207,12 @@
     "equipe": "Borussia Mönchengladbach",
     "court": "M'gladbach",
     "logo": "https://crests.football-data.org/18.png",
-    "j": 10,
+    "j": 11,
     "g": 1,
-    "n": 1,
+    "n": 2,
     "p": 8,
-    "pts": 4,
-    "bp": 12,
-    "bc": 26
+    "pts": 5,
+    "bp": 15,
+    "bc": 29
   }
 ]

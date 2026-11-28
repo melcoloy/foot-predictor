@@ -15,13 +15,25 @@
     "equipe": "Paris FC",
     "court": "Paris FC",
     "logo": "https://crests.football-data.org/1045.png",
-    "j": 11,
+    "j": 12,
     "g": 7,
     "n": 2,
-    "p": 2,
+    "p": 3,
     "pts": 23,
     "bp": 21,
-    "bc": 10
+    "bc": 11
+  },
+  {
+    "equipe": "Stade Brestois 29",
+    "court": "Brest",
+    "logo": "https://crests.football-data.org/512.png",
+    "j": 12,
+    "g": 6,
+    "n": 3,
+    "p": 3,
+    "pts": 21,
+    "bp": 20,
+    "bc": 12
   },
   {
     "equipe": "Lille OSC",
@@ -58,18 +70,6 @@
     "pts": 18,
     "bp": 24,
     "bc": 17
-  },
-  {
-    "equipe": "Stade Brestois 29",
-    "court": "Brest",
-    "logo": "https://crests.football-data.org/512.png",
-    "j": 11,
-    "g": 5,
-    "n": 3,
-    "p": 3,
-    "pts": 18,
-    "bp": 19,
-    "bc": 12
   },
   {
     "equipe": "OGC Nice",

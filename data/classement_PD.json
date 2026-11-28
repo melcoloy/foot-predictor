@@ -39,13 +39,13 @@
     "equipe": "Real Betis Balompié",
     "court": "Real Betis",
     "logo": "https://crests.football-data.org/90.png",
-    "j": 13,
+    "j": 14,
     "g": 8,
     "n": 3,
-    "p": 2,
+    "p": 3,
     "pts": 27,
     "bp": 21,
-    "bc": 16
+    "bc": 17
   },
   {
     "equipe": "Real Sociedad de Fútbol",
@@ -60,6 +60,18 @@
     "bc": 23
   },
   {
+    "equipe": "Real Racing Club de Santander",
+    "court": "Santander",
+    "logo": "https://crests.football-data.org/5335.png",
+    "j": 14,
+    "g": 6,
+    "n": 2,
+    "p": 6,
+    "pts": 20,
+    "bp": 23,
+    "bc": 33
+  },
+  {
     "equipe": "Sevilla FC",
     "court": "Sevilla FC",
     "logo": "https://crests.football-data.org/559.png",
@@ -70,18 +82,6 @@
     "pts": 19,
     "bp": 18,
     "bc": 20
-  },
-  {
-    "equipe": "Real Racing Club de Santander",
-    "court": "Santander",
-    "logo": "https://crests.football-data.org/5335.png",
-    "j": 13,
-    "g": 5,
-    "n": 2,
-    "p": 6,
-    "pts": 17,
-    "bp": 20,
-    "bc": 32
   },
   {
     "equipe": "Athletic Club",
@@ -144,6 +144,18 @@
     "bc": 17
   },
   {
+    "equipe": "Rayo Vallecano de Madrid",
+    "court": "Rayo Vallecano",
+    "logo": "https://crests.football-data.org/87.png",
+    "j": 13,
+    "g": 4,
+    "n": 3,
+    "p": 6,
+    "pts": 15,
+    "bp": 16,
+    "bc": 22
+  },
+  {
     "equipe": "CA Osasuna",
     "court": "Osasuna",
     "logo": "https://crests.football-data.org/79.png",
@@ -171,25 +183,13 @@
     "equipe": "Levante UD",
     "court": "Levante",
     "logo": "https://crests.football-data.org/88.png",
-    "j": 13,
+    "j": 14,
     "g": 2,
     "n": 6,
-    "p": 5,
-    "pts": 12,
-    "bp": 17,
-    "bc": 22
-  },
-  {
-    "equipe": "Rayo Vallecano de Madrid",
-    "court": "Rayo Vallecano",
-    "logo": "https://crests.football-data.org/87.png",
-    "j": 12,
-    "g": 3,
-    "n": 3,
     "p": 6,
     "pts": 12,
-    "bp": 15,
-    "bc": 22
+    "bp": 18,
+    "bc": 25
   },
   {
     "equipe": "Valencia CF",

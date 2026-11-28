@@ -1487,7 +1487,7 @@
   {
     "id": 559616,
     "date": "2026-11-27T19:45:00Z",
-    "statut": "TIMED",
+    "statut": "FINISHED",
     "journee": 12,
     "phase": "REGULAR_SEASON",
     "dom": "Stade Brestois 29",
@@ -1496,8 +1496,8 @@
     "court_ext": "Paris FC",
     "logo_dom": "https://crests.football-data.org/512.png",
     "logo_ext": "https://crests.football-data.org/1045.png",
-    "buts_dom": null,
-    "buts_ext": null
+    "buts_dom": 1,
+    "buts_ext": 0
   },
   {
     "id": 559612,
